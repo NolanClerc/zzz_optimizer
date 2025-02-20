@@ -4,9 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // Only add these if deploying to GitHub Pages
-  basePath: process.env.NODE_ENV === 'production' ? '/zzz_optimizer' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/zzz_optimizer' : '',
+  basePath: process.env.NEXT_PUBLIC_BASE_PATH || '', // Use NEXT_PUBLIC_BASE_PATH
+  assetPrefix: process.env.NEXT_PUBLIC_BASE_PATH || '', // Use NEXT_PUBLIC_BASE_PATH
 }
 
 module.exports = nextConfig
