@@ -2,34 +2,19 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+    branches:
+      - main # Or your main branch name
 
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
-    
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '18'
-
-      - name: Install and Build
-        run: |
-          cd frontend
-          npm install
-          npm run build
-
+      - uses: actions/checkout@v3
+      - name: Build
+        run: npm run build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./frontend/out
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Use GITHUB_TOKEN for checkout
+          publish_dir: ./frontend/out # Or your export directory
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }} # Add this line!
