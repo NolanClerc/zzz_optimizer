@@ -3,11 +3,10 @@ import { useEffect, useState, useRef } from "react";
 import Link from 'next/link';
 import SkillsContainer from "../src/components/SkillsContainer";
 
+
+
 // Base interfaces
-interface BaseStats {
-  name: string;
-  value: number;
-}
+
 
 interface Props {
   name: string;
@@ -26,6 +25,9 @@ interface Stats {
   AttackGrowth: number;
   PenDelta: number;
   PenRate: number;
+  BreakStun?: number;
+  DefenceGrowth: number;
+  HpGrowth: number;
 }
 
 interface Character {
@@ -47,7 +49,7 @@ interface Character {
 interface Weapon {
   name: string;
   icon: string;
-  rarity: string;
+  rarity: 'S' | 'A' | 'B';
   type: { name: string };
   levels?: { [key: string]: { rate: number } };
   stars?: { [key: string]: { star_rate: number; rand_rate: number } };
@@ -153,33 +155,33 @@ const CharacterSelectModal = ({ isOpen, onClose, onSelect, characters }: Charact
   const [selectedRarities, setSelectedRarities] = useState<string[]>([]);
   const modalRef = useRef<HTMLDivElement>(null);
 
-  const handleSearch = (event) => {
-    setSearchTerm(event.target.value);
-  };
+const handleSearch = (event: React.ChangeEvent<HTMLInputElement>) => {
+  setSearchTerm(event.target.value);
+};
 
-  const handleElementClick = (element) => {
-    setSelectedElements((prev) =>
-      prev.includes(element) ? prev.filter((e) => e !== element) : [...prev, element]
-    );
-  };
+const handleElementClick = (element: string) => {
+  setSelectedElements((prev) =>
+    prev.includes(element) ? prev.filter((e) => e !== element) : [...prev, element]
+  );
+};
 
-  const handleSpecialtyClick = (specialty) => {
-    setSelectedSpecialties((prev) =>
-      prev.includes(specialty) ? prev.filter((s) => s !== specialty) : [...prev, specialty]
-    );
-  };
+const handleSpecialtyClick = (specialty: string) => {
+  setSelectedSpecialties((prev) =>
+    prev.includes(specialty) ? prev.filter((s) => s !== specialty) : [...prev, specialty]
+  );
+};
 
-  const handleFactionClick = (faction) => {
-    setSelectedFactions((prev) =>
-      prev.includes(faction) ? prev.filter((f) => f !== faction) : [...prev, faction]
-    );
-  };
+const handleFactionClick = (faction: string) => {
+  setSelectedFactions((prev) =>
+    prev.includes(faction) ? prev.filter((f) => f !== faction) : [...prev, faction]
+  );
+};
 
-  const handleRarityClick = (rarity) => {
-    setSelectedRarities((prev) =>
-      prev.includes(rarity) ? prev.filter((r) => r !== rarity) : [...prev, rarity]
-    );
-  };
+const handleRarityClick = (rarity: string) => {
+  setSelectedRarities((prev) =>
+    prev.includes(rarity) ? prev.filter((f) => f !== rarity) : [...prev, rarity]
+  );
+};
 
   const handleResetFilters = () => {
     setSelectedElements([]);
@@ -580,7 +582,7 @@ const CoreSelectModal = ({ isOpen, onClose, onSelect, currentLevel, characterLev
         gap: '10px',
       }}>
         {levels.map(({ label, value }) => {
-          const isAvailable = characterLevel >= CORE_LEVEL_REQUIREMENTS[value];
+          const isAvailable = characterLevel >= CORE_LEVEL_REQUIREMENTS[value as keyof typeof CORE_LEVEL_REQUIREMENTS];
           return (
             <div
               key={value}
@@ -611,7 +613,7 @@ const CoreSelectModal = ({ isOpen, onClose, onSelect, currentLevel, characterLev
                   whiteSpace: 'nowrap',
                   color: '#ff4444',
                 }}>
-                  Requires Lv.{CORE_LEVEL_REQUIREMENTS[value]}
+                  Requires Lv.{CORE_LEVEL_REQUIREMENTS[value as keyof typeof CORE_LEVEL_REQUIREMENTS]}
                 </div>
               )}
             </div>
@@ -622,67 +624,7 @@ const CoreSelectModal = ({ isOpen, onClose, onSelect, currentLevel, characterLev
   );
 };
 
-// Add this component definition before the main Home component
-const WeaponStatsDisplay = ({ weapon, level }: { weapon: Weapon | null, level: number }) => {
-  if (!weapon?.base_property?.value || !weapon?.levels || !weapon?.stars || !weapon?.rand_property) {
-    return null;
-  }
 
-  const baseAttack = weapon.base_property.value;
-  const star = Math.floor((level - 1) / 10);
-  const multiplicator = weapon.levels[level.toString()]?.rate / 10000;
-  const multiplitor = weapon.stars[star.toString()];
-
-  if (!multiplicator || !multiplitor) {
-    return null;
-  }
-
-  // Calculate attack
-  const attack = Math.round((baseAttack * multiplitor.star_rate / 10000) + baseAttack * multiplicator + baseAttack);
-
-  // Calculate substats
-  const substatsName = weapon.rand_property.name;
-  const substatsValue = weapon.rand_property.value / 100;
-  const substats = Math.round((substatsValue * multiplitor.rand_rate / 10000 + substatsValue) * 100) / 100;
-
-  return (
-    <div style={{ 
-      backgroundColor: '#161616',
-      padding: '15px',
-      borderRadius: '8px',
-      marginTop: '10px',
-      width: '100%',
-    }}>
-      <div style={{
-        display: 'flex',
-        flexDirection: 'column',
-        gap: '8px'
-      }}>
-        <div style={{ 
-          display: 'flex', 
-          justifyContent: 'space-between',
-          borderBottom: '1px solid #333',
-          paddingBottom: '5px'
-        }}>
-          <span>Attack:</span>
-          <span>{attack}</span>
-        </div>
-        <div style={{ 
-          display: 'flex', 
-          justifyContent: 'space-between',
-          borderBottom: '1px solid #333',
-          paddingBottom: '5px'
-        }}>
-          <span>{substatsName}:</span>
-          <span>{substatsName === "Anomaly Proficiency" 
-            ? Math.round(substats * 100)
-            : `${substats}%`
-          }</span>
-        </div>
-      </div>
-    </div>
-  );
-};
 
 export default function Home() {
   const [characters, setCharacters] = useState<Character[]>([]);
@@ -969,7 +911,7 @@ export default function Home() {
         const imageData = ctx?.getImageData(0, 0, canvas.width, canvas.height);
         if (!imageData) return;
 
-        let r = 0, g = 0, b = 0, count = 0;
+        let r = 0, g = 0, b = 0;
         let colorCount = 0;
 
         // Only consider non-black/dark pixels for color calculation
@@ -985,7 +927,6 @@ export default function Home() {
             b += imageData.data[i + 2];
             colorCount++;
           }
-          count++;
         }
 
         if (colorCount > 0) {
@@ -1188,8 +1129,8 @@ export default function Home() {
   };
 
   const renderStats = (characterName: string) => {
-    const character = characters.find(c => c.name === characterName) as CharacterData;
-    if (!character?.stats) return null;
+    const character = characters.find(c => c.name === characterName);
+    if (!character || !character.stats) return null;
 
     // Get weapon stats if a weapon is selected
     let weaponStats = null;
@@ -1224,9 +1165,9 @@ export default function Home() {
     }
 
     // Add core base stats
-    let corePercentageModifiers = {};
+    let corePercentageModifiers: { [key: string]: number } = {};
     if (character.extra_ascension && coreLevel > 1) {
-      const maxLevelMap = {
+      const maxLevelMap: { [key: number]: number } = {
         2: 15, // A
         3: 25, // B
         4: 35, // C
@@ -1235,9 +1176,9 @@ export default function Home() {
         7: 60, // F
       };
 
-      const targetLevel = maxLevelMap[coreLevel];
+      const targetLevel = maxLevelMap[coreLevel as keyof typeof maxLevelMap];
       if (targetLevel) {
-        const extraAscension = character.extra_ascension.find(ea => ea.max_level === targetLevel);
+        const extraAscension = character.extra_ascension.find((ea: ExtraAscension) => ea.max_level === targetLevel);
         if (extraAscension) {
           for (const prop of extraAscension.props) {
             if (prop.name === "Base ATK") {
@@ -1275,17 +1216,17 @@ export default function Home() {
     // Apply core percentage modifiers
     Object.entries(corePercentageModifiers).forEach(([name, value]) => {
       if (name === "CRIT Rate") {
-        finalStats["Crit Rate"] += value / 100;
+        finalStats["Crit Rate"] += (value as number) / 100;
       } else if (name === "CRIT DMG") {
-        finalStats["Crit DMG"] += value / 100;
+        finalStats["Crit DMG"] += (value as number) / 100;
       } else if (name === "PEN Ratio") {
-        finalStats["Pen Ratio"] += value / 100;
+        finalStats["Pen Ratio"] += (value as number) / 100;
       } else if (name === "ATK") {
-        finalStats.Attack += Math.floor(baseStats.Attack * (value / 100));
+        finalStats.Attack += Math.floor(baseStats.Attack * ((value as number) / 100));
       } else if (name === "HP") {
-        finalStats.HP += Math.floor(baseStats.HP * (value / 100));
+        finalStats.HP += Math.floor(baseStats.HP * ((value as number) / 100));
       } else if (name === "Defence") {
-        finalStats.Defense += Math.floor(baseStats.Defense * (value / 100));
+        finalStats.Defense += Math.floor(baseStats.Defense * ((value as number) / 100));
       } else if (name === "Anomaly Proficiency") {
         // Anomaly Proficiency is a flat value, not a percentage
         finalStats["Anomaly Proficiency"] += value;
@@ -1313,11 +1254,19 @@ export default function Home() {
         // Apply Energy Regen as percentage to base value like other stats
         finalStats["Energy Regen"] += (baseStats["Energy Regen"] * substatsValue / 100);
       } else {
-        const statName = substatsName === "CRIT Rate" ? "Crit Rate" : 
-                        substatsName === "CRIT DMG" ? "Crit DMG" :
-                        substatsName === "PEN Ratio" ? "Pen Ratio" :
-                        substatsName === "Anomaly Proficiency" ? "Anomaly Proficiency" :
-                        substatsName;
+        type StatName = keyof typeof finalStats;
+        
+        const getStatName = (name: string): StatName => {
+          switch (name) {
+            case "CRIT Rate": return "Crit Rate";
+            case "CRIT DMG": return "Crit DMG";
+            case "PEN Ratio": return "Pen Ratio";
+            case "Anomaly Proficiency": return "Anomaly Proficiency";
+            default: return name as StatName;
+          }
+        };
+
+        const statName = getStatName(substatsName);
 
         if (substatsName === "Anomaly Proficiency") {
           finalStats[statName] = (finalStats[statName] || 0) + (substatsValue * 100);
@@ -1330,7 +1279,7 @@ export default function Home() {
 
     // Add core bonus additively if it exists (e.g., +0.12 = 1.32)
     if (character.extra_ascension && coreLevel > 1) {
-      const maxLevelMap = {
+      const maxLevelMap: Record<number, number> = {
         2: 15, // A
         3: 25, // B
         4: 35, // C
@@ -1352,19 +1301,20 @@ export default function Home() {
 
     // Round all values appropriately
     Object.keys(finalStats).forEach(key => {
-      if (typeof finalStats[key] === 'number') {
-        if (key === "Energy Regen") {
-          finalStats[key] = Math.round(finalStats[key] * 100) / 100;
-        } else if (key.includes('Rate') || key.includes('DMG') || key.includes('Ratio')) {
-          finalStats[key] = Math.round(finalStats[key] * 10) / 10;
+      const statKey = key as keyof typeof finalStats;
+      if (typeof finalStats[statKey] === 'number') {
+        if (statKey === "Energy Regen") {
+          finalStats[statKey] = Math.round(finalStats[statKey] * 100) / 100;
+        } else if (statKey.includes('Rate') || statKey.includes('DMG') || statKey.includes('Ratio')) {
+          finalStats[statKey] = Math.round(finalStats[statKey] * 10) / 10;
         } else {
-          finalStats[key] = Math.floor(finalStats[key]);
+          finalStats[statKey] = Math.floor(finalStats[statKey]);
         }
       }
     });
 
     // Add core level indicator
-    const coreLevelMap = {
+    const coreLevelMap: Record<number, string> = {
       1: 'No Core',
       2: 'Core A',
       3: 'Core B',
@@ -1735,7 +1685,6 @@ export default function Home() {
                     {selectedCharacterName1 && (
                       <div
                         style={{
-                          position: 'absolute',
                           bottom: '-50px',
                           right: '-80px',
                           width: '150px',
@@ -1837,8 +1786,7 @@ export default function Home() {
                             { level: 6, label: 'E' },
                             { level: 7, label: 'F' },
                           ].map(({ level, label }) => {
-                            const isAvailable = selectedLevel >= CORE_LEVEL_REQUIREMENTS[level];
-                            return (
+                            const isAvailable = selectedLevel >= CORE_LEVEL_REQUIREMENTS[level as keyof typeof CORE_LEVEL_REQUIREMENTS];                            return (
                               <div
                                 key={level}
                                 style={{
@@ -1879,7 +1827,7 @@ export default function Home() {
                                     whiteSpace: 'nowrap',
                                     color: '#ff4444',
                                   }}>
-                                    {CORE_LEVEL_REQUIREMENTS[level]}
+                                    {CORE_LEVEL_REQUIREMENTS[level as keyof typeof CORE_LEVEL_REQUIREMENTS]}
                                   </div>
                                 )}
                               </div>
@@ -1896,7 +1844,6 @@ export default function Home() {
               <div style={{
                 position: 'absolute',
                 left: '620px',
-                top: 0,
                 bottom: 0,
                 width: '1px',
                 top: '46%',
@@ -2551,7 +2498,14 @@ export default function Home() {
               }}>
                 <span>Attack:</span>
                 <span>{(() => {
-                  if (!selectedWeapon1?.base_property?.value) return '-';
+                  if (
+                    !selectedWeapon1 ||
+                    !selectedWeapon1.base_property?.value ||
+                    !selectedWeapon1.levels ||
+                    !selectedWeapon1.stars
+                  ) {
+                    return '-';
+                  }
                   
                   const baseAttack = selectedWeapon1.base_property.value;
                   const star = Math.floor((selectedWeaponLevel - 1) / 10);
@@ -2570,7 +2524,13 @@ export default function Home() {
               }}>
                 <span>{selectedWeapon1.rand_property?.name || '-'}:</span>
                 <span>{(() => {
-                  if (!selectedWeapon1?.rand_property?.value) return '-';
+                  if (
+                    !selectedWeapon1 ||
+                    !selectedWeapon1.rand_property?.value ||
+                    !selectedWeapon1.stars
+                  ) {
+                    return '-';
+                  }
                   const baseValue = selectedWeapon1.rand_property.value / 100;
                   const star = Math.floor((selectedWeaponLevel - 1) / 10);
                   const multiplitor = selectedWeapon1?.stars?.[star.toString()]?.rand_rate / 10000 || 0;
@@ -2597,17 +2557,17 @@ const WeaponSelectModal = ({ isOpen, onClose, onSelect, weapons, selectedLevel }
   const [selectedTypes, setSelectedTypes] = useState<string[]>([]);
   const modalRef = useRef<HTMLDivElement>(null);
 
-  const handleSearch = (event) => {
+  const handleSearch = (event : React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(event.target.value);
   };
 
-  const handleRarityClick = (rarity) => {
+  const handleRarityClick = (rarity : string) => {
     setSelectedRarities((prev) =>
       prev.includes(rarity) ? prev.filter((r) => r !== rarity) : [...prev, rarity]
     );
   };
 
-  const handleTypeClick = (type) => {
+  const handleTypeClick = (type : string) => {
     setSelectedTypes((prev) =>
       prev.includes(type) ? prev.filter((t) => t !== type) : [...prev, type]
     );
@@ -2620,6 +2580,7 @@ const WeaponSelectModal = ({ isOpen, onClose, onSelect, weapons, selectedLevel }
   };
 
   // Filter and sort weapons
+  
   const filteredWeapons = weapons
     .filter(weapon => {
       const nameMatch = weapon.name.toLowerCase().includes(searchTerm.toLowerCase());
@@ -2629,7 +2590,7 @@ const WeaponSelectModal = ({ isOpen, onClose, onSelect, weapons, selectedLevel }
     })
     .sort((a, b) => {
       const rarityOrder = { 'S': 0, 'A': 1, 'B': 2 };
-      return rarityOrder[a.rarity] - rarityOrder[b.rarity];
+      return (rarityOrder[a.rarity] ?? 999) - (rarityOrder[b.rarity] ?? 999);
     });
 
   useEffect(() => {
