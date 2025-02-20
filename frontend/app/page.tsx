@@ -650,13 +650,28 @@ export default function Home() {
   const [selectedNumber, setSelectedNumber] = useState(0);
   const [isCinemaModalOpen, setIsCinemaModalOpen] = useState(false);
   const [backgroundImage, setBackgroundImage] = useState<string>('/images/background.jpg');
-  const [bgImageDimensions, setBgImageDimensions] = useState({ width: 0, height: 0 });
   const [backgroundColor, setBackgroundColor] = useState('#161616');
   const [progressBarColor, setProgressBarColor] = useState('#4A90E2');
   const [sidebarColor, setSidebarColor] = useState('rgba(22, 22, 22, 0.3)');
   const [isCoreModalOpen, setIsCoreModalOpen] = useState(false);
   const [coreLevel, setCoreLevel] = useState(7); // Default to 7 (F) instead of 1
   const [selectedWeaponLevel, setSelectedWeaponLevel] = useState<number>(60);
+
+
+  const [savedPhase1Colors, setSavedPhase1Colors] = useState<{
+    bg: string,
+    progress: string,
+    sidebar: string
+  } | null>(null);
+
+  
+    // Update useEffect to watch for level changes
+  useEffect(() => {
+    const availableCore = getHighestAvailableCore(selectedLevel);
+    if (coreLevel > availableCore) {
+      setCoreLevel(availableCore);
+    }
+  }, [selectedLevel]);
 
   const openWeaponModal = (selection: number) => {
     setActiveWeaponSelection(selection);
@@ -799,16 +814,7 @@ export default function Home() {
     fetchWeaponIds();
   }, []);
 
-  useEffect(() => {
-    const img = new Image();
-    img.src = backgroundImage;
-    img.onload = () => {
-      setBgImageDimensions({
-        width: img.naturalWidth,
-        height: img.naturalHeight
-      });
-    };
-  }, [backgroundImage]);
+
 
   if (error) {
     return <div>Error: {error}</div>;
@@ -1030,11 +1036,7 @@ export default function Home() {
   };
 
   // Save the extracted colors from phase 1
-  const [savedPhase1Colors, setSavedPhase1Colors] = useState<{
-    bg: string,
-    progress: string,
-    sidebar: string
-  } | null>(null);
+
 
   // Modify updateBackground to handle colors properly
   const updateBackground = async (character: Character | null, cinemaNumber: number) => {
@@ -1165,7 +1167,7 @@ export default function Home() {
     }
 
     // Add core base stats
-    let corePercentageModifiers: { [key: string]: number } = {};
+    const corePercentageModifiers: { [key: string]: number } = {};
     if (character.extra_ascension && coreLevel > 1) {
       const maxLevelMap: { [key: number]: number } = {
         2: 15, // A
@@ -1277,22 +1279,7 @@ export default function Home() {
     }
 
 
-    // Add core bonus additively if it exists (e.g., +0.12 = 1.32)
-    if (character.extra_ascension && coreLevel > 1) {
-      const maxLevelMap: Record<number, number> = {
-        2: 15, // A
-        3: 25, // B
-        4: 35, // C
-        5: 45, // D
-        6: 55, // E
-        7: 60, // F
-      };
 
-      const targetLevel = maxLevelMap[coreLevel];
-      if (targetLevel) {
-        const extraAscension = character.extra_ascension.find(ea => ea.max_level === targetLevel);
-      }
-    }
 
     // Then multiply by weapon substat if it exists (e.g., 1.32 * (1 + 0.3) = 1.716)
 
@@ -1382,39 +1369,9 @@ export default function Home() {
     }
   };
 
-  // Update useEffect to watch for level changes
-  useEffect(() => {
-    const availableCore = getHighestAvailableCore(selectedLevel);
-    if (coreLevel > availableCore) {
-      setCoreLevel(availableCore);
-    }
-  }, [selectedLevel]);
 
-  const renderWeaponStats = (weapon: Weapon) => {
-    if (!weapon?.base_property?.value || !weapon?.levels || !weapon?.stars || !weapon?.rand_property) {
-      return null;
-    }
+
   
-    const stats = calculateWeaponStats(weapon, selectedWeaponLevel);
-    if (!stats) return null;
-  
-    return (
-      <div style={{ padding: '20px' }}>
-        <h3>Weapon Stats</h3>
-        <div style={{ 
-          display: 'flex',
-          flexDirection: 'column',
-          gap: '10px'
-        }}>
-          <div>Attack: {stats.attack}</div>
-          <div>{stats.substatsName}: {stats.substatsName === "Anomaly Proficiency" 
-            ? Math.round(stats.substatsValue * 100)
-            : `${stats.substatsValue}%`
-          }</div>
-        </div>
-      </div>
-    );
-  };
 
   return (
     <div style={{ 
