@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState, useRef } from "react";
 import Link from 'next/link';
-import SkillsContainer from "../components/SkillsContainer";
+import SkillsContainer from "../src/components/SkillsContainer";
 
 // Base interfaces
 interface BaseStats {

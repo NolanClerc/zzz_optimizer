@@ -1,0 +1,7 @@
+@import '@next/font/google/target.css?{"path":"app/layout.tsx","import":"Inter","arguments":[{"subsets":["latin"]}],"variableName":"inter"}';
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* ... rest of your global styles ... */
