@@ -1,0 +1,367 @@
+{
+    "id": 53002,
+    "code_name": "Luckyboo",
+    "name": "Luckyboo",
+    "description": "Takes up quite a bit of space when placed on the counter.",
+    "rarity": "A",
+    "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole11.webp",
+    "stats": {
+        "Stamina": 100.0,
+        "StaminaUpragde": 10.0,
+        "Endurance": 180.0,
+        "HpMax": 360.0,
+        "Hpupgrade": 428397.0,
+        "Attack": 50.0,
+        "AttackUpgrade": 252034.0,
+        "BreakStun": 94.0,
+        "ElementAbnormalPower": 112.0,
+        "Defence": 32.0,
+        "DefUpgrade": 92587.0,
+        "Crit": 500.0,
+        "PenRatio": 0.0,
+        "CritDmg": 5000.0
+    },
+    "ascensions": {
+        "1": {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 15000
+                },
+                {
+                    "id": 102010,
+                    "amount": 4
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "2": {
+            "max_hp": 188,
+            "attack": 47,
+            "defense": 41,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 35000
+                },
+                {
+                    "id": 102020,
+                    "amount": 12
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 450,
+                    "formatted_value": "450%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "3": {
+            "max_hp": 376,
+            "attack": 233,
+            "defense": 81,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 75000
+                },
+                {
+                    "id": 102020,
+                    "amount": 20
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 2250,
+                    "formatted_value": "2250%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "4": {
+            "max_hp": 564,
+            "attack": 699,
+            "defense": 122,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 125000
+                },
+                {
+                    "id": 102030,
+                    "amount": 10
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 2250,
+                    "formatted_value": "2250%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2500,
+                    "formatted_value": "2500%%"
+                }
+            ]
+        },
+        "5": {
+            "max_hp": 752,
+            "attack": 1864,
+            "defense": 163,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 250000
+                },
+                {
+                    "id": 102030,
+                    "amount": 20
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 4500,
+                    "formatted_value": "4500%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2500,
+                    "formatted_value": "2500%%"
+                }
+            ]
+        },
+        "6": {
+            "max_hp": 940,
+            "attack": 4661,
+            "defense": 203,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": [],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 4500,
+                    "formatted_value": "4500%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 5000,
+                    "formatted_value": "5000%%"
+                }
+            ]
+        }
+    },
+    "skills": {
+        "A": {
+            "1": {
+                "name": "Lavish Spending",
+                "description": "Active Skill\nStrikes the target with a barrage of golden coins, dealing Physical DMG and accumulating Physical Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5300201, Prop:1001}/100}*140|{{Skill:5300201, Prop:1002}/100}*140|22s"
+            },
+            "2": {
+                "name": "Lavish Spending",
+                "description": "Active Skill\nStrikes the target with a barrage of golden coins, dealing Physical DMG and accumulating Physical Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5300201, Prop:1001}/100}*140|{{Skill:5300201, Prop:1002}/100}*140|22s"
+            },
+            "3": {
+                "name": "Lavish Spending",
+                "description": "Active Skill\nStrikes the target with a barrage of golden coins, dealing Physical DMG and accumulating Physical Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5300201, Prop:1001}/100}*140|{{Skill:5300201, Prop:1002}/100}*140|22s"
+            },
+            "4": {
+                "name": "Lavish Spending",
+                "description": "Active Skill\nStrikes the target with a barrage of golden coins, dealing Physical DMG and accumulating Physical Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5300201, Prop:1001}/100}*140|{{Skill:5300201, Prop:1002}/100}*140|22s"
+            },
+            "5": {
+                "name": "Lavish Spending",
+                "description": "Active Skill\nStrikes the target with a barrage of golden coins, dealing Physical DMG and accumulating Physical Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5300201, Prop:1001}/100}*140|{{Skill:5300201, Prop:1002}/100}*140|22s"
+            },
+            "6": {
+                "name": "Lavish Spending",
+                "description": "Active Skill\nStrikes the target with a barrage of golden coins, dealing Physical DMG and accumulating Physical Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5300201, Prop:1001}/100}*140|{{Skill:5300201, Prop:1002}/100}*140|22s"
+            },
+            "7": {
+                "name": "Lavish Spending",
+                "description": "Active Skill\nStrikes the target with a barrage of golden coins, dealing Physical DMG and accumulating Physical Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5300201, Prop:1001}/100}*140|{{Skill:5300201, Prop:1002}/100}*140|22s"
+            },
+            "8": {
+                "name": "Lavish Spending",
+                "description": "Active Skill\nStrikes the target with a barrage of golden coins, dealing Physical DMG and accumulating Physical Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5300201, Prop:1001}/100}*140|{{Skill:5300201, Prop:1002}/100}*140|22s"
+            },
+            "9": {
+                "name": "Lavish Spending",
+                "description": "Active Skill\nStrikes the target with a barrage of golden coins, dealing Physical DMG and accumulating Physical Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5300201, Prop:1001}/100}*140|{{Skill:5300201, Prop:1002}/100}*140|22s"
+            },
+            "10": {
+                "name": "Lavish Spending",
+                "description": "Active Skill\nStrikes the target with a barrage of golden coins, dealing Physical DMG and accumulating Physical Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5300201, Prop:1001}/100}*140|{{Skill:5300201, Prop:1002}/100}*140|22s"
+            }
+        },
+        "B": {
+            "1": {
+                "name": "Luck is a Component of Power",
+                "description": "Additional Ability\nWhen there are 2 or more Physical Attribute characters in your squad: Active Skill inflicts 20% more Anomaly Buildup.\nActive Skill's continuous strikes duration is increased by 0.8s.",
+                "properties": [
+                    "Anomaly Buildup Increase",
+                    "Continuous Strikes Duration Extension"
+                ],
+                "parameter": "20%|0.8s"
+            },
+            "2": {
+                "name": "Luck is a Component of Power",
+                "description": "Additional Ability\nWhen there are 2 or more Physical Attribute characters in your squad: Active Skill inflicts 25% more Anomaly Buildup.\nActive Skill's continuous strikes duration is increased by 1s.",
+                "properties": [
+                    "Anomaly Buildup Increase",
+                    "Continuous Strikes Duration Extension"
+                ],
+                "parameter": "25%|1s"
+            },
+            "3": {
+                "name": "Luck is a Component of Power",
+                "description": "Additional Ability\nWhen there are 2 or more Physical Attribute characters in your squad: Active Skill inflicts 30% more Anomaly Buildup.\nActive Skill's continuous strikes duration is increased by 1.2s.",
+                "properties": [
+                    "Anomaly Buildup Increase",
+                    "Continuous Strikes Duration Extension"
+                ],
+                "parameter": "30%|1.2s"
+            },
+            "4": {
+                "name": "Luck is a Component of Power",
+                "description": "Additional Ability\nWhen there are 2 or more Physical Attribute characters in your squad: Active Skill inflicts 35% more Anomaly Buildup.\nActive Skill's continuous strikes duration is increased by 1.4s.",
+                "properties": [
+                    "Anomaly Buildup Increase",
+                    "Continuous Strikes Duration Extension"
+                ],
+                "parameter": "35%|1.4s"
+            },
+            "5": {
+                "name": "Luck is a Component of Power",
+                "description": "Additional Ability\nWhen there are 2 or more Physical Attribute characters in your squad: Active Skill inflicts 40% more Anomaly Buildup.\nActive Skill's continuous strikes duration is increased by 1.6s.",
+                "properties": [
+                    "Anomaly Buildup Increase",
+                    "Continuous Strikes Duration Extension"
+                ],
+                "parameter": "40%|1.6s"
+            }
+        },
+        "C": {}
+    }
+}

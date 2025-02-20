@@ -1,0 +1,1713 @@
+{
+    "id": 1201,
+    "image": "https://api.hakush.in/zzz/UI/IconRole35.webp",
+    "name": "Harumasa",
+    "code_name": "Harumasa",
+    "rarity": "S",
+    "specialty": {
+        "id": 1,
+        "name": "Attack"
+    },
+    "element": {
+        "id": 203,
+        "name": "Electric"
+    },
+    "attack_type": {
+        "id": 103,
+        "name": "Pierce"
+    },
+    "faction": {
+        "id": 6,
+        "name": "Hollow Special Operations Section 6"
+    },
+    "gender": "M",
+    "info": {
+        "birthday": "JUL 19",
+        "full_name": "Asaba Harumasa",
+        "gender": "Male",
+        "female_impression": "Harumasa sure is good at slacking off... Hey Wise, maybe we should learn from him.",
+        "male_impression": "Harumasa can only slack off because he manages to complete his work with efficiency. Let's try mastering that skill first...",
+        "outlook_desc": "The information shows:\nExecutive officer Asaba Harumasa, possessing exceptional Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nFor more information, I suggest obtaining access to Asaba Harumasa's medical history.",
+        "profile_desc": "Asaba Harumasa, a member of Hollow Special Operations Section 6.\nPossessing exceptional Ether aptitude since he was young and being dubbed a prodigy, he entered HSO after graduating with outstanding merit.\nWas originally a member of a certain ace division within HSO, but later left due to various reasons, joining Miyabi's team instead.\n\nHe possesses a carefree and laidback attitude, and his only wish is to achieve acceptable results with minimum effort.\nAfter efficiently taking care of his work to the lowest acceptable standard, he will hurry to use all the remainder of his available time to rest (slack off).\nHe claims he uses a bow to better slack off, as it effectively lowers the amount of running he has to do.\n\nAsaba Harumasa has poor health, and over-exercise sometimes triggers his illness.\nHe often uses this reason to apply for sick leave, though no one knows what he does with this time off. Either way, it's probably not resting.",
+        "faction": "Hollow Special Operations Section 6",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Story \"Leisurely Lull: Goldfinch's Escape\" (available after completing Main Story Chapter 5)"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 132.0,
+        "AttackGrowth": 80270.0,
+        "AvatarPieceId": 5201.0,
+        "BreakStun": 90.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 48.0,
+        "DefenceGrowth": 65524.0,
+        "ElementAbnormalPower": 80.0,
+        "ElementMystery": 95.0,
+        "Endurance": 0.0,
+        "HpGrowth": 808084.0,
+        "HpMax": 595.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "\"High Spirit\"",
+            "description": "The maximum stack limit of Electro Prison from Basic Attack: Ha-Oto no Ya increases to 14 stacks. When an Electro Quiver is triggered, 2 consecutive Ha-Oto no Ya will be fired at the target.",
+            "description2": "\"I'm not like some stubborn idiots who insist on facing the enemy head-on.\"\n\"Be it a straightforward assault or an underhanded attack from the shadows, anything that gets me off work earlier is good in my eyes~\""
+        },
+        {
+            "level": 2,
+            "name": "Languish",
+            "description": "When using an Chain Attack or Ultimate, Harumasa gains 7 stacks of Electro Blitz, up to a max of 7 stacks. While possessing Electro Blitz, the DMG of Dash Attack: Hiten no Tsuru - Slash increases by 50%. Consume 1 stack of Electro Blitz once Dash Attack: Hiten no Tsuru - Slash ends.",
+            "description2": "\"Don't look at me like that, I'm actually real frail, y'know~\"\nHarumasa lazily sprawls across his office desk.\n\"So... how 'bout picking someone else for this mission?\""
+        },
+        {
+            "level": 3,
+            "name": "White Lies",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"...Don't worry, this isn't enough to kill me.\"\nHe wipes the blood from the corner of his mouth with a smile and readies his bow once more.\n\"After all, I'm going to live to make it everyone's problem.\""
+        },
+        {
+            "level": 4,
+            "name": "Occasionally Motivated",
+            "description": "Electro Prison now lasts for 20s. When Dash Attack: Hiten no Tsuru - Slash hits enemies, Harumasa gains 30 Decibels once per use of this skill. Upon activating Ultimate, apply the maximum stacks of Electro Prison to all on-field enemies.",
+            "description2": "Harumasa is occasionally full of energy and motivation...\nWhen there's only five minutes left until he can get off work."
+        },
+        {
+            "level": 5,
+            "name": "No One Knows",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"I want vacations, freedom, to be happy every day!\"\n\"Just kidding. I want to live.\""
+        },
+        {
+            "level": 6,
+            "name": "Tacit Understanding",
+            "description": "After Ha-Oto no Ya hits Stunned enemies or enemies under Attribute Anomalies, Harumasa will ignore 15% of the target's Electric RES for 12s. Every 12 times an enemy is hit by Ha-Oto no Ya, trigger an extra electromagnetic explosion, dealing 1,500% of Harumasa's ATK to the target as Electric DMG.",
+            "description2": "\"My master taught me a lot of things, like how to draw a bow, how to wield a blade, and how to survive in this world with this body of mine.\"\n\"...What happened after that?\"\n\"Well, after that... he left me.\""
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100211,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 409,
+            "attack": 47,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100221,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 817,
+            "attack": 94,
+            "defense": 66,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100221,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1226,
+            "attack": 141,
+            "defense": 99,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100231,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1635,
+            "attack": 188,
+            "defense": 133,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100231,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2043,
+            "attack": 235,
+            "defense": 166,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Cloud Piercer",
+                    "description": "Press  to activate:\nLaunch up to five piercing attacks ahead, dealing Physical DMG and Electric DMG.\nWhen the 5th hit of the Basic Attack hits an enemy, it generates 2 Electro Quivers.\nAfter activating a Chain Attack, the next time Harumasa activates the 5th hit of Basic Attack: Cloud Piercer and hits an enemy with it, it generates 6 Electro Quivers.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Cloud Piercer - Drift",
+                    "description": "During Basic Attack: Cloud Piercer, drag the stick/joystick and press  to activate:\nShoot a ranged piercing attack and reposition towards the corresponding drag direction, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Falling Feather",
+                    "description": "After the 5th hit of Basic Attack: Cloud Piercer, a Special Attack, an EX Special Attack, or a Chain Attack, hold  to activate:\nImmediately shoot Falling Feather at enemies ahead, dealing Electric DMG.\nHold  to aim at a target and release  to activate:\nAfter drawing the bowstring and aiming, shoot Falling Feather at the target, dealing Electric DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Ha-Oto no Ya",
+                    "description": "When the 5th hit of Basic Attack: Cloud Piercer/EX Special Attack/Chain Attack hits an enemy or the ground, it can generate 2/6/6 Electro Quivers. If there are no Electro Quivers on the field when any squad member applies an Attribute Anomaly to an enemy, generate 6 Electro Quivers. This effect can trigger once every 12s.\nThere can be up to 6 Electro Quivers present at a time. If there are any Electro Quivers present when Harumasa fires and hits enemies with Falling Feather, the Electro Quivers will activate and fire Ha-Oto no Ya at the enemies hit by Falling Feather, dealing Electric DMG.\nHa-Oto no Ya will apply Electro Prison to enemies hit, stacking up to 8 times and lasting 10s, repeated triggers reset the duration. While a target has at least 2 stacks of Electro Prison, they will be X-Marked.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Cloud Piercer",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1201001, Prop:1001}",
+                            "params": {
+                                "1201001": {
+                                    "main": 4240,
+                                    "growth": 390,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1201002, Prop:1001}",
+                            "params": {
+                                "1201002": {
+                                    "main": 3980,
+                                    "growth": 370,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1201003, Prop:1001}",
+                            "params": {
+                                "1201003": {
+                                    "main": 7090,
+                                    "growth": 650,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1201004, Prop:1001}",
+                            "params": {
+                                "1201004": {
+                                    "main": 9010,
+                                    "growth": 820,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1201005, Prop:1001}",
+                            "params": {
+                                "1201005": {
+                                    "main": 13290,
+                                    "growth": 1210,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1201001, Prop:1002}",
+                            "params": {
+                                "1201001": {
+                                    "main": 2650,
+                                    "growth": 130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1201002, Prop:1002}",
+                            "params": {
+                                "1201002": {
+                                    "main": 4430,
+                                    "growth": 210,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1201003, Prop:1002}",
+                            "params": {
+                                "1201003": {
+                                    "main": 6610,
+                                    "growth": 310,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1201004, Prop:1002}",
+                            "params": {
+                                "1201004": {
+                                    "main": 8960,
+                                    "growth": 410,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1201005, Prop:1002}",
+                            "params": {
+                                "1201005": {
+                                    "main": 11540,
+                                    "growth": 530,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Cloud Piercer - Drift",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1201006, Prop:1001}",
+                            "params": {
+                                "1201006": {
+                                    "main": 6950,
+                                    "growth": 640,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1201006, Prop:1002}",
+                            "params": {
+                                "1201006": {
+                                    "main": 4870,
+                                    "growth": 230,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Falling Feather",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1201007, Prop:1001}",
+                            "params": {
+                                "1201007": {
+                                    "main": 10540,
+                                    "growth": 960,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1201007, Prop:1002}",
+                            "params": {
+                                "1201007": {
+                                    "main": 5270,
+                                    "growth": 240,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Ha-Oto no Ya",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1201008, Prop:1001}",
+                            "params": {
+                                "1201008": {
+                                    "main": 1590,
+                                    "growth": 150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1201008, Prop:1002}",
+                            "params": {
+                                "1201008": {
+                                    "main": 0,
+                                    "growth": 0,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Quick Flash",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Hiten no Tsuru",
+                    "description": "Press  during a dodge to activate:\nLaunch multiple piercing attacks ahead, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Hidden Edge",
+                    "description": "Press  during a Perfect Dodge to activate:\nPierces enemies in front, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Hiten no Tsuru",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1201011, Prop:1001}",
+                            "params": {
+                                "1201011": {
+                                    "main": 8070,
+                                    "growth": 740,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1201011, Prop:1002}",
+                            "params": {
+                                "1201011": {
+                                    "main": 4040,
+                                    "growth": 190,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Hidden Edge",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1201012, Prop:1001}",
+                            "params": {
+                                "1201012": {
+                                    "main": 21960,
+                                    "growth": 2000,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1201012, Prop:1002}",
+                            "params": {
+                                "1201012": {
+                                    "main": 19430,
+                                    "growth": 890,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dash Attack: Hiten no Tsuru - Slash",
+                    "description": "While there are X-Marked enemies on the field, Harumasa will enter the Awakened state, switching Dash Attack: Hiten no Tsuru for Dash Attack: Hiten no Tsuru - Slash.\n\nWhile in the Awakened state, press  during a dodge to activate:\nRush forwards to the closest X-Marked enemy and execute a powerful slash, dealing Electric DMG.\nWhen the slash hits the target, it consumes 2 stacks of Electro Prison. With less than 2 stacks of Electro Prison, X-Marked will be removed from the enemy. Before X-Marked is removed, repeatedly press  to repeatedly use Dash Attack: Hiten no Tsuru - Slash. While no X-Marked enemies exist on the field, Harumasa leaves the Awakened state.\nWhile in the Awakened state, press  after Basic Attack: Falling Feather to quickly follow up with Dash Attack: Hiten no Tsuru - Slash.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Hiten no Tsuru - Slash",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1201020, Prop:1001}",
+                            "params": {
+                                "1201020": {
+                                    "main": 16230,
+                                    "growth": 1480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1201021, Prop:1001}",
+                            "params": {
+                                "1201021": {
+                                    "main": 16660,
+                                    "growth": 1520,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1201022, Prop:1001}",
+                            "params": {
+                                "1201022": {
+                                    "main": 18960,
+                                    "growth": 1730,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1201020, Prop:1002}",
+                            "params": {
+                                "1201020": {
+                                    "main": 6600,
+                                    "growth": 300,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1201021, Prop:1002}",
+                            "params": {
+                                "1201021": {
+                                    "main": 4590,
+                                    "growth": 210,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1201022, Prop:1002}",
+                            "params": {
+                                "1201022": {
+                                    "main": 4950,
+                                    "growth": 230,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Nowhere to Hide",
+                    "description": "Press  to activate:\nLaunch an arrow forward, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Nowhere to Run",
+                    "description": "With enough Energy, press  to activate:\nLaunch daggers and an enhanced arrow ahead, dealing massive Electric DMG.\nWhen the enhanced arrow hits an enemy or the ground, it generates 6 Electro Quivers.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Nowhere to Hide",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1201009, Prop:1001}",
+                            "params": {
+                                "1201009": {
+                                    "main": 5230,
+                                    "growth": 480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1201009, Prop:1002}",
+                            "params": {
+                                "1201009": {
+                                    "main": 5230,
+                                    "growth": 240,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Nowhere to Run",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1201010, Prop:1001}",
+                            "params": {
+                                "1201010": {
+                                    "main": 44930,
+                                    "growth": 4090,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1201010, Prop:1002}",
+                            "params": {
+                                "1201010": {
+                                    "main": 44900,
+                                    "growth": 2050,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "60",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Kai - Hanare",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleash a piercing attack on enemies in a large area ahead then fire an enhanced arrow, dealing massive Electric DMG.\nWhen the arrow hits the ground, it generates 6 Electro Quivers.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Zanshin",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleash a piercing attack on enemies in a large area ahead, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Kai - Hanare",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1201013, Prop:1001}",
+                            "params": {
+                                "1201013": {
+                                    "main": 51760,
+                                    "growth": 4710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1201013, Prop:1002}",
+                            "params": {
+                                "1201013": {
+                                    "main": 18340,
+                                    "growth": 840,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Zanshin",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1201014, Prop:1001}",
+                            "params": {
+                                "1201014": {
+                                    "main": 195390,
+                                    "growth": 17770,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1201014, Prop:1002}",
+                            "params": {
+                                "1201014": {
+                                    "main": 10690,
+                                    "growth": 490,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Braced Bow",
+                    "description": "When the active character is launched, press  to activate:\nUnleash a piercing attack at enemies ahead, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Yugamae",
+                    "description": "When the on-field character is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Yugamae - Slash",
+                    "description": "Press  after a Defensive Assist to activate:\nUnleash a series of slashes at enemies ahead, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Braced Bow",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1201015, Prop:1001}",
+                            "params": {
+                                "1201015": {
+                                    "main": 8430,
+                                    "growth": 770,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1201015, Prop:1002}",
+                            "params": {
+                                "1201015": {
+                                    "main": 8430,
+                                    "growth": 390,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Yugamae",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1201016, Prop:1002}",
+                            "params": {
+                                "1201016": {
+                                    "main": 24760,
+                                    "growth": 1130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1201017, Prop:1002}",
+                            "params": {
+                                "1201017": {
+                                    "main": 29520,
+                                    "growth": 1350,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1201018, Prop:1002}",
+                            "params": {
+                                "1201018": {
+                                    "main": 11920,
+                                    "growth": 550,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Yugamae - Slash",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1201019, Prop:1001}",
+                            "params": {
+                                "1201019": {
+                                    "main": 30710,
+                                    "growth": 2800,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1201019, Prop:1002}",
+                            "params": {
+                                "1201019": {
+                                    "main": 26330,
+                                    "growth": 1200,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1201501,
+                "names": [
+                    "Core Passive: Day Break",
+                    "Additional Ability: Overclock"
+                ],
+                "descriptions": [
+                    "The CRIT Rate of Dash Attack: Hiten no Tsuru - Slash increases by 10.6%, and when Harumasa's Dash Attack: Hiten no Tsuru - Slash triggers a critical hit against an enemy, he gains 1 stack of Gleaming Edge, for up to a maximum of 3 stacks per use of the skill and stacking up to 6 times, lasting 5s, repeated triggers reset the duration. Each stack of Gleaming Edge increases the CRIT DMG of Dash Attack: Hiten no Tsuru - Slash by 6%.",
+                    "When another character in your squad is a Stun or Anomaly character:\nWhen Harumasa's attacks hit Stunned enemies or enemies under Attribute Anomaly, his DMG increases by 40%. When Harumasa's Falling Feather hits Stunned enemies or enemies under Attribute Anomaly, it will apply 2 stacks of Electro Prison to the target."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1201502,
+                "names": [
+                    "Core Passive: Day Break",
+                    "Additional Ability: Overclock"
+                ],
+                "descriptions": [
+                    "The CRIT Rate of Dash Attack: Hiten no Tsuru - Slash increases by 13%, and when Harumasa's Dash Attack: Hiten no Tsuru - Slash triggers a critical hit against an enemy, he gains 1 stack of Gleaming Edge, for up to a maximum of 3 stacks per use of the skill and stacking up to 6 times, lasting 5s, repeated triggers reset the duration. Each stack of Gleaming Edge increases the CRIT DMG of Dash Attack: Hiten no Tsuru - Slash by 7%.",
+                    "When another character in your squad is a Stun or Anomaly character:\nWhen Harumasa's attacks hit Stunned enemies or enemies under Attribute Anomaly, his DMG increases by 40%. When Harumasa's Falling Feather hits Stunned enemies or enemies under Attribute Anomaly, it will apply 2 stacks of Electro Prison to the target."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1201503,
+                "names": [
+                    "Core Passive: Day Break",
+                    "Additional Ability: Overclock"
+                ],
+                "descriptions": [
+                    "The CRIT Rate of Dash Attack: Hiten no Tsuru - Slash increases by 15.4%, and when Harumasa's Dash Attack: Hiten no Tsuru - Slash triggers a critical hit against an enemy, he gains 1 stack of Gleaming Edge, for up to a maximum of 3 stacks per use of the skill and stacking up to 6 times, lasting 5s, repeated triggers reset the duration. Each stack of Gleaming Edge increases the CRIT DMG of Dash Attack: Hiten no Tsuru - Slash by 8%.",
+                    "When another character in your squad is a Stun or Anomaly character:\nWhen Harumasa's attacks hit Stunned enemies or enemies under Attribute Anomaly, his DMG increases by 40%. When Harumasa's Falling Feather hits Stunned enemies or enemies under Attribute Anomaly, it will apply 2 stacks of Electro Prison to the target."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1201504,
+                "names": [
+                    "Core Passive: Day Break",
+                    "Additional Ability: Overclock"
+                ],
+                "descriptions": [
+                    "The CRIT Rate of Dash Attack: Hiten no Tsuru - Slash increases by 17.8%, and when Harumasa's Dash Attack: Hiten no Tsuru - Slash triggers a critical hit against an enemy, he gains 1 stack of Gleaming Edge, for up to a maximum of 3 stacks per use of the skill and stacking up to 6 times, lasting 5s, repeated triggers reset the duration. Each stack of Gleaming Edge increases the CRIT DMG of Dash Attack: Hiten no Tsuru - Slash by 9%.",
+                    "When another character in your squad is a Stun or Anomaly character:\nWhen Harumasa's attacks hit Stunned enemies or enemies under Attribute Anomaly, his DMG increases by 40%. When Harumasa's Falling Feather hits Stunned enemies or enemies under Attribute Anomaly, it will apply 2 stacks of Electro Prison to the target."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1201505,
+                "names": [
+                    "Core Passive: Day Break",
+                    "Additional Ability: Overclock"
+                ],
+                "descriptions": [
+                    "The CRIT Rate of Dash Attack: Hiten no Tsuru - Slash increases by 20.2%, and when Harumasa's Dash Attack: Hiten no Tsuru - Slash triggers a critical hit against an enemy, he gains 1 stack of Gleaming Edge, for up to a maximum of 3 stacks per use of the skill and stacking up to 6 times, lasting 5s, repeated triggers reset the duration. Each stack of Gleaming Edge increases the CRIT DMG of Dash Attack: Hiten no Tsuru - Slash by 10%.",
+                    "When another character in your squad is a Stun or Anomaly character:\nWhen Harumasa's attacks hit Stunned enemies or enemies under Attribute Anomaly, his DMG increases by 40%. When Harumasa's Falling Feather hits Stunned enemies or enemies under Attribute Anomaly, it will apply 2 stacks of Electro Prison to the target."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1201506,
+                "names": [
+                    "Core Passive: Day Break",
+                    "Additional Ability: Overclock"
+                ],
+                "descriptions": [
+                    "The CRIT Rate of Dash Attack: Hiten no Tsuru - Slash increases by 22.6%, and when Harumasa's Dash Attack: Hiten no Tsuru - Slash triggers a critical hit against an enemy, he gains 1 stack of Gleaming Edge, for up to a maximum of 3 stacks per use of the skill and stacking up to 6 times, lasting 5s, repeated triggers reset the duration. Each stack of Gleaming Edge increases the CRIT DMG of Dash Attack: Hiten no Tsuru - Slash by 11%.",
+                    "When another character in your squad is a Stun or Anomaly character:\nWhen Harumasa's attacks hit Stunned enemies or enemies under Attribute Anomaly, his DMG increases by 40%. When Harumasa's Falling Feather hits Stunned enemies or enemies under Attribute Anomaly, it will apply 2 stacks of Electro Prison to the target."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1201507,
+                "names": [
+                    "Core Passive: Day Break",
+                    "Additional Ability: Overclock"
+                ],
+                "descriptions": [
+                    "The CRIT Rate of Dash Attack: Hiten no Tsuru - Slash increases by 25%, and when Harumasa's Dash Attack: Hiten no Tsuru - Slash triggers a critical hit against an enemy, he gains 1 stack of Gleaming Edge, for up to a maximum of 3 stacks per use of the skill and stacking up to 6 times, lasting 5s, repeated triggers reset the duration. Each stack of Gleaming Edge increases the CRIT DMG of Dash Attack: Hiten no Tsuru - Slash by 12%.",
+                    "When another character in your squad is a Stun or Anomaly character:\nWhen Harumasa's attacks hit Stunned enemies or enemies under Attribute Anomaly, his DMG increases by 40%. When Harumasa's Falling Feather hits Stunned enemies or enemies under Attribute Anomaly, it will apply 2 stacks of Electro Prison to the target."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110508,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110508,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110508,
+                    "amount": 9
+                },
+                {
+                    "id": 110005,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110508,
+                    "amount": 15
+                },
+                {
+                    "id": 110005,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110508,
+                    "amount": 30
+                },
+                {
+                    "id": 110005,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1201_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1201_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1201_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect35.webp"
+}

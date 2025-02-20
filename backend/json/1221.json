@@ -1,0 +1,1686 @@
+{
+    "id": 1221,
+    "image": "https://api.hakush.in/zzz/UI/IconRole31.webp",
+    "name": "Yanagi",
+    "code_name": "Yanagi",
+    "rarity": "S",
+    "specialty": {
+        "id": 3,
+        "name": "Anomaly"
+    },
+    "element": {
+        "id": 203,
+        "name": "Electric"
+    },
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "faction": {
+        "id": 6,
+        "name": "Hollow Special Operations Section 6"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "SEP 21",
+        "full_name": "Tsukishiro Yanagi",
+        "gender": "Female",
+        "female_impression": "Where did Fairy even get this info? So even a perfect person like Yanagi has her clumsy moments? Got any specifics to share?",
+        "male_impression": "How should I put this...? From this data, it feels like Section 6 would fall apart without Yanagi.",
+        "outlook_desc": "Hollow Investigative Association Licensing Archive:\nExecutive Officer Tsukishiro Yanagi, Ether aptitude confidential, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: Tsukishiro Yanagi has good Ether aptitude and the specific details can be obtained via the Hollow Special Operations system... including a report containing a blood analysis with peculiar results.",
+        "profile_desc": "Tsukishiro Yanagi, Hollow Special Operations Section 6 Deputy Chief and intelligence officer.\nPrimarily responsible for personnel management, mission management and feedback, collecting intel, on-site support, etc.\nAt the same time, Yanagi is also Section 6 member Soukaku's Protector. Apart from taking care of Soukaku's day-to-day affairs, she is also responsible for and takes responsibility for all of Soukaku's behavior at work.\n\nSection 6 Chief Hoshimi Miyabi possesses a rather eccentric personality; Asaba Harumasa, a member of Section 6, is overly relaxed and carefree; and Soukaku, another member of Section, 6 is still an innocent and excitable child, so most of the team's work falls upon Yanagi's shoulders.\nSerious, diligent, and meticulous, Tsukishiro Yanagi is the only \"normal\" person on the team, so to speak. It is only due to her guidance and leadership that the strength of the three who make up Section 6's primary on-field force can be transformed into true combat power.\nOverall, Tsukishiro Yanagi is a talented and highly efficient executive officer, whose abilities are both exceptional and comprehensive.\nHowever, from certain data, Tsukishiro Yanagi appears to have a somewhat clumsy side to her when it comes to day-to-day affairs.",
+        "faction": "Hollow Special Operations Section 6",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock",
+            "Complete Special Episode \"Virtual Revenge\""
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 126.0,
+        "AttackGrowth": 75860.0,
+        "AvatarPieceId": 5221.0,
+        "BreakStun": 86.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66882.0,
+        "ElementAbnormalPower": 112.0,
+        "ElementMystery": 114.0,
+        "Endurance": 0.0,
+        "HpGrowth": 849779.0,
+        "HpMax": 626.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Know Thy Self, Know Thy Enemy",
+            "description": "When any squad member inflicts an Anomaly on an enemy, Yanagi gains 1 stack of Clarity, lasting 15s, stacking up to 3 times. Repeated triggers reset the duration. Upon being hit by an enemy attack, Yanagi consumes 1 stack of Clarity to gain invulnerability for 1s. When Yanagi has 1 or more stacks of Clarity, her Anomaly Proficiency increases by 80.",
+            "description2": "\"Having the clarity to see your enemy's weakness is like an extra safety net... and it increases your chances at victory.\"\nYanagi adjusts her glasses, remaining as composed as ever, even when victory is already assured."
+        },
+        {
+            "level": 2,
+            "name": "Outstanding Adaptability",
+            "description": "During her EX Special Attack, the rapid thrust's Electric Anomaly Buildup increases by 20%. Holding down the Special Attack button after a rapid thrust hits an enemy will consume 10 additional Energy to launch another thrust. If Energy is insufficient or the button is released, the attack automatically follows up with the downward attack. When the downward attack hits an enemy suffering an Anomaly and triggers Polarity Disorder, the DMG multiplier increases to 20% of the original Disorder effect. Each additional thrust increases this multiplier by 15%, up to a maximum of 2 extra thrusts.",
+            "description2": "\"Yanagi can handle any unfamiliar environment thrown her way.\"\n\"I believe in her more than I believe in myself.\"\n— From a martial artist practicing \"the cutting of fallen leaves.\""
+        },
+        {
+            "level": 3,
+            "name": "Tsukishiro Style Management",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Everyone says Section 6 is gathering oddballs and geniuses, with Tsukishiro Yanagi being the only \"normal\" one. But it's precisely her presence that holds the oddballs and geniuses together."
+        },
+        {
+            "level": 4,
+            "name": "Chessmaster",
+            "description": "When Yanagi inflicts Attribute Anomaly DMG on an enemy, they suffer the Exposed effect, lasting 15s. Attacks on enemies under the Expose effect will have 16% increased PEN Ratio.",
+            "description2": "No matter the situation, Tsukishiro Yanagi can rapidly grasp all the information at hand and make the most appropriate decision."
+        },
+        {
+            "level": 5,
+            "name": "\"Other Mother\"",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "At present, Tsukishiro Yanagi is the sole designated guardian of Soukaku.\n\"Soukaku, this is the Chief's riceball, you mustn't eat it... forget it, come here, I'll heat it up for you.\"\n\"We'll just buy a similar one for the Chief later.\""
+        },
+        {
+            "level": 6,
+            "name": "Inhuman Blood",
+            "description": "After a thrust attack during her EX Special Attack, the duration of the Shinrabanshou state increases to 30s. While the state is active, EX Special Attack DMG increases by 20%. The maximum number of times the additional DMG multiplier increase effect for Polarity Disorder in Outstanding Adaptability can be triggered increases to 4, and the Energy cost for the first 4 additional thrust attacks is halved.",
+            "description2": "Flowing through Tsukishiro Yanagi's veins is blood that isn't entirely her own. This blood once granted her new life in the face of despair, and with it, she gained certain special powers.\n\"But as you know, something that isn't mine... comes with a price.\""
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100213,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 430,
+            "attack": 45,
+            "defense": 34,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100223,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 859,
+            "attack": 90,
+            "defense": 68,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100223,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1289,
+            "attack": 134,
+            "defense": 101,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100233,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1719,
+            "attack": 179,
+            "defense": 135,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100233,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2149,
+            "attack": 224,
+            "defense": 169,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Tsukuyomi Kagura",
+                    "description": "Yanagi has two stances: Jougen and Kagen.\nPress  to activate:\nExecute up to five forward slashes based on the current stance, causing Physical DMG and Electric DMG.\nDuring combat, Yanagi gains the corresponding stance buff based on her current stance:\nJougen stance buff: Electric DMG increases by 10%. Anti-Interrupt Level increases during Basic Attacks.\nKagen stance buff: PEN Ratio increases by 10%. Interrupt Level increases for Basic Attacks.\nFor 8s after switching stances, Yanagi retains the bonus from the previous stance.",
+                    "params": null
+                },
+                {
+                    "name": "Stance: Jougen",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1221001, Prop:1001}",
+                            "params": {
+                                "1221001": {
+                                    "main": 5660,
+                                    "growth": 520,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1221002, Prop:1001}",
+                            "params": {
+                                "1221002": {
+                                    "main": 9970,
+                                    "growth": 910,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1221003, Prop:1001}",
+                            "params": {
+                                "1221003": {
+                                    "main": 11310,
+                                    "growth": 1030,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1221004, Prop:1001}",
+                            "params": {
+                                "1221004": {
+                                    "main": 12660,
+                                    "growth": 1160,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1221005, Prop:1001}",
+                            "params": {
+                                "1221005": {
+                                    "main": 23690,
+                                    "growth": 2160,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1221001, Prop:1002}",
+                            "params": {
+                                "1221001": {
+                                    "main": 2780,
+                                    "growth": 130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1221002, Prop:1002}",
+                            "params": {
+                                "1221002": {
+                                    "main": 6810,
+                                    "growth": 310,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1221003, Prop:1002}",
+                            "params": {
+                                "1221003": {
+                                    "main": 6940,
+                                    "growth": 320,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1221004, Prop:1002}",
+                            "params": {
+                                "1221004": {
+                                    "main": 7760,
+                                    "growth": 360,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1221005, Prop:1002}",
+                            "params": {
+                                "1221005": {
+                                    "main": 14520,
+                                    "growth": 660,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Stance: Kagen",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1221006, Prop:1001}",
+                            "params": {
+                                "1221006": {
+                                    "main": 11310,
+                                    "growth": 1030,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1221007, Prop:1001}",
+                            "params": {
+                                "1221007": {
+                                    "main": 12920,
+                                    "growth": 1180,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1221008, Prop:1001}",
+                            "params": {
+                                "1221008": {
+                                    "main": 7280,
+                                    "growth": 670,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1221009, Prop:1001}",
+                            "params": {
+                                "1221009": {
+                                    "main": 10770,
+                                    "growth": 980,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1221010, Prop:1001}",
+                            "params": {
+                                "1221010": {
+                                    "main": 27180,
+                                    "growth": 2480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1221006, Prop:1002}",
+                            "params": {
+                                "1221006": {
+                                    "main": 5550,
+                                    "growth": 260,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1221007, Prop:1002}",
+                            "params": {
+                                "1221007": {
+                                    "main": 9310,
+                                    "growth": 430,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1221008, Prop:1002}",
+                            "params": {
+                                "1221008": {
+                                    "main": 4460,
+                                    "growth": 210,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1221009, Prop:1002}",
+                            "params": {
+                                "1221009": {
+                                    "main": 6610,
+                                    "growth": 310,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1221010, Prop:1002}",
+                            "params": {
+                                "1221010": {
+                                    "main": 16670,
+                                    "growth": 760,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Wandering Breeze",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Fleeting Flight",
+                    "description": "Press  during a dodge to activate:\nSlashes enemies in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Rapid Retaliation",
+                    "description": "Press  during a Perfect Dodge to activate:\nSlashes enemies in front, dealing Electric DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, you can immediately follow up with the 3rd hit of the current stance's Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Fleeting Flight",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1221013, Prop:1001}",
+                            "params": {
+                                "1221013": {
+                                    "main": 5040,
+                                    "growth": 460,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1221013, Prop:1002}",
+                            "params": {
+                                "1221013": {
+                                    "main": 4540,
+                                    "growth": 210,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Rapid Retaliation",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1221014, Prop:1001}",
+                            "params": {
+                                "1221014": {
+                                    "main": 23160,
+                                    "growth": 2110,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1221014, Prop:1002}",
+                            "params": {
+                                "1221014": {
+                                    "main": 18320,
+                                    "growth": 840,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Ruten",
+                    "description": "Press  to activate:\nPerform a forward slash, dealing Electric DMG, and switch the current stance.\nAnti-Interrupt level is increased while using this skill.\nIf activated after the 3rd, 4th, or 5th hit of a Basic Attack, it activates Swift Ruten, speeding up the slashes while switching her current stance.\nBlock enemy attacks while Swift Ruten is active.\nUpon activating Swift Ruten, Yanagi can immediately follow up with the 3rd hit of the current stance's Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Gekka Ruten",
+                    "description": "With enough Energy, hold  to activate:\nCharge up power for a quick forward thrust, followed by a downward attack, dealing massive Electric DMG.\nUpon executing the thrust, Yanagi switches stances and enters the Shinrabanshou state, lasting 15s. For the duration of this state, when following up with a subsequent Basic Attack from the 5th hit of a Basic Attack or other skills, the combo will begin directly from the 3rd hit of the Basic Attack.\nIf the downward attack hits an enemy suffering an Anomaly, it triggers a special Disorder effect, Polarity Disorder, dealing 15% of the original Disorder effect's DMG to the target, plus an additional {CAL:5+AvatarSkillLevel(1)*2.25,100,2}% of Yanagi's Anomaly Proficiency. Polarity Disorder will not remove the target's Anomaly.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Ruten",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1221011, Prop:1001}",
+                            "params": {
+                                "1221011": {
+                                    "main": 11740,
+                                    "growth": 1070,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1221011, Prop:1002}",
+                            "params": {
+                                "1221011": {
+                                    "main": 10570,
+                                    "growth": 490,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Gekka Ruten",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Energy Cost",
+                            "description": "40",
+                            "params": null
+                        },
+                        {
+                            "name": "Thrust Attack DMG Multiplier",
+                            "description": "{Skill:1221022, Prop:1001}",
+                            "params": {
+                                "1221022": {
+                                    "main": 16380,
+                                    "growth": 1490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Thrust Attack Daze Multiplier",
+                            "description": "{Skill:1221022, Prop:1002}",
+                            "params": {
+                                "1221022": {
+                                    "main": 12710,
+                                    "growth": 580,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Downward Attack DMG Multiplier",
+                            "description": "{Skill:1221023, Prop:1001}",
+                            "params": {
+                                "1221023": {
+                                    "main": 37780,
+                                    "growth": 3440,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Downward Attack Daze Multiplier",
+                            "description": "{Skill:1221023, Prop:1002}",
+                            "params": {
+                                "1221023": {
+                                    "main": 10960,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Additional DMG Multiplier",
+                            "description": "{CAL:5+AvatarSkillLevel(1)*2.25,100,2}%",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Celestial Harmony",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nSwitch stances and unleash a powerful slash on enemies in front, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, you can immediately follow up with the 3rd hit of the current stance's Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Raiei Tenge",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nYanagi unleashes her potential and delivers a powerful slash to a large area of enemies in front in a very short time, followed by an additional lightning strike, dealing massive Electric DMG.\nWhen the lightning strike hits an enemy affected by an Attribute Anomaly, it triggers a special Disorder effect called Polarity Disorder. This deals DMG equal to 15% of the original Disorder effect plus an additional {CAL:5+AvatarSkillLevel(3)*2.25,100,2}% of Yanagi's Anomaly Proficiency. Polarity Disorder will not remove the target's Anomaly.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Yanagi can immediately follow up with the 3rd hit of the current stance's Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Celestial Harmony",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1221015, Prop:1001}",
+                            "params": {
+                                "1221015": {
+                                    "main": 59310,
+                                    "growth": 5400,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1221015, Prop:1002}",
+                            "params": {
+                                "1221015": {
+                                    "main": 17830,
+                                    "growth": 820,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Raiei Tenge",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1221016, Prop:1001}",
+                            "params": {
+                                "1221016": {
+                                    "main": 151180,
+                                    "growth": 13750,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1221016, Prop:1002}",
+                            "params": {
+                                "1221016": {
+                                    "main": 9750,
+                                    "growth": 450,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Additional DMG Multiplier",
+                            "description": "{CAL:5+AvatarSkillLevel(3)*2.25,100,2}%",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Blade of Elegance",
+                    "description": "When the active character is launched, press  to activate:\nSlashes enemies in front, dealing Electric DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, you can immediately follow up with the 3rd hit of the current stance's Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Radiant Reversal",
+                    "description": "When the on-field character is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Weeping Willow Stab",
+                    "description": "Press  after a Defensive Assist to activate:\nSwitch stances, and quickly deliver multiple slashes to enemies in front, dealing Electric DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, you can immediately follow up with the 3rd hit of the current stance's Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Blade of Elegance",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1221017, Prop:1001}",
+                            "params": {
+                                "1221017": {
+                                    "main": 9360,
+                                    "growth": 860,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1221017, Prop:1002}",
+                            "params": {
+                                "1221017": {
+                                    "main": 8420,
+                                    "growth": 390,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Radiant Reversal",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1221018, Prop:1002}",
+                            "params": {
+                                "1221018": {
+                                    "main": 24420,
+                                    "growth": 1110,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1221019, Prop:1002}",
+                            "params": {
+                                "1221019": {
+                                    "main": 30860,
+                                    "growth": 1410,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1221020, Prop:1002}",
+                            "params": {
+                                "1221020": {
+                                    "main": 15020,
+                                    "growth": 690,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Weeping Willow Stab",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1221021, Prop:1001}",
+                            "params": {
+                                "1221021": {
+                                    "main": 40710,
+                                    "growth": 3710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1221021, Prop:1002}",
+                            "params": {
+                                "1221021": {
+                                    "main": 32060,
+                                    "growth": 1460,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1221501,
+                "names": [
+                    "Core Passive: Lunar Eclipse",
+                    "Additional Ability: Gessou"
+                ],
+                "descriptions": [
+                    "After Yanagi activates her EX Special Attack, the DMG multiplier of Disorder is increased by 125% when any squad member applies the Disorder effect to an enemy, lasting 15s.\nWhen her EX Special Attack hits an enemy, Yanagi's Electric DMG against the target is increased by 10% for 15s.",
+                    "When another character in your squad is an Anomaly character or shares the same attribute:\nAfter switching stances, when Yanagi hits an enemy with Basic Attack: Tsukuyomi Kagura, Electric Anomaly Buildup increases by 45% for 8s."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1221502,
+                "names": [
+                    "Core Passive: Lunar Eclipse",
+                    "Additional Ability: Gessou"
+                ],
+                "descriptions": [
+                    "After Yanagi activates her EX Special Attack, the DMG multiplier of Disorder is increased by 145% when any squad member applies the Disorder effect to an enemy, lasting 15s.\nWhen her EX Special Attack hits an enemy, Yanagi's Electric DMG against the target is increased by 11.6% for 15s.",
+                    "When another character in your squad is an Anomaly character or shares the same attribute:\nAfter switching stances, when Yanagi hits an enemy with Basic Attack: Tsukuyomi Kagura, Electric Anomaly Buildup increases by 45% for 8s."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1221503,
+                "names": [
+                    "Core Passive: Lunar Eclipse",
+                    "Additional Ability: Gessou"
+                ],
+                "descriptions": [
+                    "After Yanagi activates her EX Special Attack, the DMG multiplier of Disorder is increased by 166% when any squad member applies the Disorder effect to an enemy, lasting 15s.\nWhen her EX Special Attack hits an enemy, Yanagi's Electric DMG against the target is increased by 13.3% for 15s.",
+                    "When another character in your squad is an Anomaly character or shares the same attribute:\nAfter switching stances, when Yanagi hits an enemy with Basic Attack: Tsukuyomi Kagura, Electric Anomaly Buildup increases by 45% for 8s."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1221504,
+                "names": [
+                    "Core Passive: Lunar Eclipse",
+                    "Additional Ability: Gessou"
+                ],
+                "descriptions": [
+                    "After Yanagi activates her EX Special Attack, the DMG multiplier of Disorder is increased by 188% when any squad member applies the Disorder effect to an enemy, lasting 15s.\nWhen her EX Special Attack hits an enemy, Yanagi's Electric DMG against the target is increased by 15% for 15s.",
+                    "When another character in your squad is an Anomaly character or shares the same attribute:\nAfter switching stances, when Yanagi hits an enemy with Basic Attack: Tsukuyomi Kagura, Electric Anomaly Buildup increases by 45% for 8s."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1221505,
+                "names": [
+                    "Core Passive: Lunar Eclipse",
+                    "Additional Ability: Gessou"
+                ],
+                "descriptions": [
+                    "After Yanagi activates her EX Special Attack, the DMG multiplier of Disorder is increased by 208% when any squad member applies the Disorder effect to an enemy, lasting 15s.\nWhen her EX Special Attack hits an enemy, Yanagi's Electric DMG against the target is increased by 16.6% for 15s.",
+                    "When another character in your squad is an Anomaly character or shares the same attribute:\nAfter switching stances, when Yanagi hits an enemy with Basic Attack: Tsukuyomi Kagura, Electric Anomaly Buildup increases by 45% for 8s."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1221506,
+                "names": [
+                    "Core Passive: Lunar Eclipse",
+                    "Additional Ability: Gessou"
+                ],
+                "descriptions": [
+                    "After Yanagi activates her EX Special Attack, the DMG multiplier of Disorder is increased by 230% when any squad member applies the Disorder effect to an enemy, lasting 15s.\nWhen her EX Special Attack hits an enemy, Yanagi's Electric DMG against the target is increased by 18.3% for 15s.",
+                    "When another character in your squad is an Anomaly character or shares the same attribute:\nAfter switching stances, when Yanagi hits an enemy with Basic Attack: Tsukuyomi Kagura, Electric Anomaly Buildup increases by 45% for 8s."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1221507,
+                "names": [
+                    "Core Passive: Lunar Eclipse",
+                    "Additional Ability: Gessou"
+                ],
+                "descriptions": [
+                    "After Yanagi activates her EX Special Attack, the DMG multiplier of Disorder is increased by 250% when any squad member applies the Disorder effect to an enemy, lasting 15s.\nWhen her EX Special Attack hits an enemy, Yanagi's Electric DMG against the target is increased by 20% for 15s.",
+                    "When another character in your squad is an Anomaly character or shares the same attribute:\nAfter switching stances, when Yanagi hits an enemy with Basic Attack: Tsukuyomi Kagura, Electric Anomaly Buildup increases by 45% for 8s."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110505,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110505,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110505,
+                    "amount": 9
+                },
+                {
+                    "id": 110002,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110505,
+                    "amount": 15
+                },
+                {
+                    "id": 110002,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110505,
+                    "amount": 30
+                },
+                {
+                    "id": 110002,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1221_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1221_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1221_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect31.webp"
+}

@@ -1,0 +1,8 @@
+{
+    "id": 32500,
+    "name": "Polar Metal",
+    "two_piece_effect": "<color=#98EFF0>Ice DMG</color> +10%",
+    "four_piece_effect": "Increase the DMG of <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> by 20%. When any squad member inflicts <color=#98EFF0>Freeze</color> or <color=#98EFF0>Shatter</color>, this effect increases by an additional 20% for 12s.",
+    "story": "A Drive Disc burned with specialized Ether technology offering personalized attribute amplification to the user.",
+    "icon": "https://api.hakush.in/zzz/UI/SuitPolarMetal.webp"
+}

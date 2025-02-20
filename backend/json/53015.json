@@ -1,0 +1,453 @@
+{
+    "id": 53015,
+    "code_name": "Brawlerboo",
+    "name": "Brawlerboo",
+    "description": "Ten thousand en-nah forward punches as practice per day!",
+    "rarity": "A",
+    "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole29.webp",
+    "stats": {
+        "Stamina": 100.0,
+        "StaminaUpragde": 10.0,
+        "Endurance": 180.0,
+        "HpMax": 360.0,
+        "Hpupgrade": 428397.0,
+        "Attack": 53.0,
+        "AttackUpgrade": 267156.0,
+        "BreakStun": 94.0,
+        "ElementAbnormalPower": 100.0,
+        "Defence": 32.0,
+        "DefUpgrade": 92587.0,
+        "Crit": 500.0,
+        "PenRatio": 0.0,
+        "CritDmg": 5000.0
+    },
+    "ascensions": {
+        "1": {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 15000
+                },
+                {
+                    "id": 102010,
+                    "amount": 4
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "2": {
+            "max_hp": 188,
+            "attack": 49,
+            "defense": 41,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 35000
+                },
+                {
+                    "id": 102020,
+                    "amount": 12
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 450,
+                    "formatted_value": "450%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "3": {
+            "max_hp": 376,
+            "attack": 247,
+            "defense": 81,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 75000
+                },
+                {
+                    "id": 102020,
+                    "amount": 20
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 2250,
+                    "formatted_value": "2250%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "4": {
+            "max_hp": 564,
+            "attack": 741,
+            "defense": 122,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 125000
+                },
+                {
+                    "id": 102030,
+                    "amount": 10
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 2250,
+                    "formatted_value": "2250%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2500,
+                    "formatted_value": "2500%%"
+                }
+            ]
+        },
+        "5": {
+            "max_hp": 752,
+            "attack": 1976,
+            "defense": 163,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 250000
+                },
+                {
+                    "id": 102030,
+                    "amount": 20
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 4500,
+                    "formatted_value": "4500%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2500,
+                    "formatted_value": "2500%%"
+                }
+            ]
+        },
+        "6": {
+            "max_hp": 940,
+            "attack": 4941,
+            "defense": 203,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": [],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 4500,
+                    "formatted_value": "4500%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 5000,
+                    "formatted_value": "5000%%"
+                }
+            ]
+        }
+    },
+    "skills": {
+        "A": {
+            "1": {
+                "name": "Falling Bangboo Asteroid Strike!",
+                "description": "Active Skill\nCharges up and rises into the air, entering the Airborne state. While in the Airborne state, Brawlerboo will dive attack enemies when they're hit by a heavy attack from an Agent, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5301501, Prop:1001}|{Skill:5301501, Prop:1002}|28s"
+            },
+            "2": {
+                "name": "Falling Bangboo Asteroid Strike!",
+                "description": "Active Skill\nCharges up and rises into the air, entering the Airborne state. While in the Airborne state, Brawlerboo will dive attack enemies when they're hit by a heavy attack from an Agent, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5301501, Prop:1001}|{Skill:5301501, Prop:1002}|28s"
+            },
+            "3": {
+                "name": "Falling Bangboo Asteroid Strike!",
+                "description": "Active Skill\nCharges up and rises into the air, entering the Airborne state. While in the Airborne state, Brawlerboo will dive attack enemies when they're hit by a heavy attack from an Agent, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5301501, Prop:1001}|{Skill:5301501, Prop:1002}|28s"
+            },
+            "4": {
+                "name": "Falling Bangboo Asteroid Strike!",
+                "description": "Active Skill\nCharges up and rises into the air, entering the Airborne state. While in the Airborne state, Brawlerboo will dive attack enemies when they're hit by a heavy attack from an Agent, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5301501, Prop:1001}|{Skill:5301501, Prop:1002}|28s"
+            },
+            "5": {
+                "name": "Falling Bangboo Asteroid Strike!",
+                "description": "Active Skill\nCharges up and rises into the air, entering the Airborne state. While in the Airborne state, Brawlerboo will dive attack enemies when they're hit by a heavy attack from an Agent, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5301501, Prop:1001}|{Skill:5301501, Prop:1002}|28s"
+            },
+            "6": {
+                "name": "Falling Bangboo Asteroid Strike!",
+                "description": "Active Skill\nCharges up and rises into the air, entering the Airborne state. While in the Airborne state, Brawlerboo will dive attack enemies when they're hit by a heavy attack from an Agent, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5301501, Prop:1001}|{Skill:5301501, Prop:1002}|28s"
+            },
+            "7": {
+                "name": "Falling Bangboo Asteroid Strike!",
+                "description": "Active Skill\nCharges up and rises into the air, entering the Airborne state. While in the Airborne state, Brawlerboo will dive attack enemies when they're hit by a heavy attack from an Agent, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5301501, Prop:1001}|{Skill:5301501, Prop:1002}|28s"
+            },
+            "8": {
+                "name": "Falling Bangboo Asteroid Strike!",
+                "description": "Active Skill\nCharges up and rises into the air, entering the Airborne state. While in the Airborne state, Brawlerboo will dive attack enemies when they're hit by a heavy attack from an Agent, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5301501, Prop:1001}|{Skill:5301501, Prop:1002}|28s"
+            },
+            "9": {
+                "name": "Falling Bangboo Asteroid Strike!",
+                "description": "Active Skill\nCharges up and rises into the air, entering the Airborne state. While in the Airborne state, Brawlerboo will dive attack enemies when they're hit by a heavy attack from an Agent, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5301501, Prop:1001}|{Skill:5301501, Prop:1002}|28s"
+            },
+            "10": {
+                "name": "Falling Bangboo Asteroid Strike!",
+                "description": "Active Skill\nCharges up and rises into the air, entering the Airborne state. While in the Airborne state, Brawlerboo will dive attack enemies when they're hit by a heavy attack from an Agent, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5301501, Prop:1001}|{Skill:5301501, Prop:1002}|28s"
+            }
+        },
+        "B": {
+            "1": {
+                "name": "Opening Jab",
+                "description": "Additional Ability\nWhen another character in your squad is an Attack or Anomaly character: Brawlerboo enters the Airborne state ahead of time when the battle starts. The first dive attack's DMG is increased by 120%.",
+                "properties": [
+                    "DMG Increase"
+                ],
+                "parameter": "120%"
+            },
+            "2": {
+                "name": "Opening Jab",
+                "description": "Additional Ability\nWhen another character in your squad is an Attack or Anomaly character: Brawlerboo enters the Airborne state ahead of time when the battle starts. The first dive attack's DMG is increased by 150%.",
+                "properties": [
+                    "DMG Increase"
+                ],
+                "parameter": "150%"
+            },
+            "3": {
+                "name": "Opening Jab",
+                "description": "Additional Ability\nWhen another character in your squad is an Attack or Anomaly character: Brawlerboo enters the Airborne state ahead of time when the battle starts. The first dive attack's DMG is increased by 180%.",
+                "properties": [
+                    "DMG Increase"
+                ],
+                "parameter": "180%"
+            },
+            "4": {
+                "name": "Opening Jab",
+                "description": "Additional Ability\nWhen another character in your squad is an Attack or Anomaly character: Brawlerboo enters the Airborne state ahead of time when the battle starts. The first dive attack's DMG is increased by 210%.",
+                "properties": [
+                    "DMG Increase"
+                ],
+                "parameter": "210%"
+            },
+            "5": {
+                "name": "Opening Jab",
+                "description": "Additional Ability\nWhen another character in your squad is an Attack or Anomaly character: Brawlerboo enters the Airborne state ahead of time when the battle starts. The first dive attack's DMG is increased by 240%.",
+                "properties": [
+                    "DMG Increase"
+                ],
+                "parameter": "240%"
+            }
+        },
+        "C": {
+            "1": {
+                "name": "Scorching Wind Strike",
+                "description": "Bangboo Chain Attack\nJump up and strike continuously at enemies in a large area ahead, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5301502, Prop:1001}|{Skill:5301502, Prop:1002}"
+            },
+            "2": {
+                "name": "Scorching Wind Strike",
+                "description": "Bangboo Chain Attack\nJump up and strike continuously at enemies in a large area ahead, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5301502, Prop:1001}|{Skill:5301502, Prop:1002}"
+            },
+            "3": {
+                "name": "Scorching Wind Strike",
+                "description": "Bangboo Chain Attack\nJump up and strike continuously at enemies in a large area ahead, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5301502, Prop:1001}|{Skill:5301502, Prop:1002}"
+            },
+            "4": {
+                "name": "Scorching Wind Strike",
+                "description": "Bangboo Chain Attack\nJump up and strike continuously at enemies in a large area ahead, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5301502, Prop:1001}|{Skill:5301502, Prop:1002}"
+            },
+            "5": {
+                "name": "Scorching Wind Strike",
+                "description": "Bangboo Chain Attack\nJump up and strike continuously at enemies in a large area ahead, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5301502, Prop:1001}|{Skill:5301502, Prop:1002}"
+            },
+            "6": {
+                "name": "Scorching Wind Strike",
+                "description": "Bangboo Chain Attack\nJump up and strike continuously at enemies in a large area ahead, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5301502, Prop:1001}|{Skill:5301502, Prop:1002}"
+            },
+            "7": {
+                "name": "Scorching Wind Strike",
+                "description": "Bangboo Chain Attack\nJump up and strike continuously at enemies in a large area ahead, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5301502, Prop:1001}|{Skill:5301502, Prop:1002}"
+            },
+            "8": {
+                "name": "Scorching Wind Strike",
+                "description": "Bangboo Chain Attack\nJump up and strike continuously at enemies in a large area ahead, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5301502, Prop:1001}|{Skill:5301502, Prop:1002}"
+            },
+            "9": {
+                "name": "Scorching Wind Strike",
+                "description": "Bangboo Chain Attack\nJump up and strike continuously at enemies in a large area ahead, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5301502, Prop:1001}|{Skill:5301502, Prop:1002}"
+            },
+            "10": {
+                "name": "Scorching Wind Strike",
+                "description": "Bangboo Chain Attack\nJump up and strike continuously at enemies in a large area ahead, dealing Fire DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5301502, Prop:1001}|{Skill:5301502, Prop:1002}"
+            }
+        }
+    }
+}

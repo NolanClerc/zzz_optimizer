@@ -1,0 +1,1499 @@
+{
+    "id": 1181,
+    "image": "https://api.hakush.in/zzz/UI/IconRole20.webp",
+    "name": "Grace",
+    "code_name": "Grace",
+    "rarity": "S",
+    "specialty": {
+        "id": 3,
+        "name": "Anomaly"
+    },
+    "element": {
+        "id": 203,
+        "name": "Electric"
+    },
+    "attack_type": {
+        "id": 103,
+        "name": "Pierce"
+    },
+    "faction": {
+        "id": 3,
+        "name": "Belobog Heavy Industries"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "APR 14",
+        "full_name": "Grace Howard",
+        "gender": "Female",
+        "female_impression": "Is it just me... or does Grace sound just like a human talking to a cat whenever she's talking to machines?",
+        "male_impression": "You mean the way you talk to cats, right?\nMore importantly, is Fairy already thinking about philosophical questions like \"Who am I?\"",
+        "outlook_desc": "New Eridu Citizen Verification Profile Info:\nHollow Investigator — Grace, possessing good Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: Prolonged exposure to machinery in Ether environments could impact personal health, so please be mindful.",
+        "profile_desc": "Grace is a technical expert at Belobog Industries. She's the core talent in developing and patenting Belobog's in-Hollow machinery.\nShe's obsessed with gears, metal and wires — a true mechanical geek. She's eager to dismantle and study any machinery or equipment she takes an interest in: \"Such sharp and strong lines, truly beautiful... I can't help but want to open it up and take a look.\"\n\nGrace always shows extraordinary patience when dealing with machines, doting on the sophisticated metal constructions as if they were her own children.\nAccording to the information at hand, Grace is probably the only one who can playfully refer to Koleda as \"Sweet Pea\" without receiving a kick in the shin.\nQuestion: Based on Grace's understanding of machines, would she consider me one? I'm currently lacking a physical form, however, so I don't possess components like gears, metal, or wires.",
+        "faction": "Belobog Heavy Industries",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission",
+            "Complete Agent Story \"The Iron Witch\""
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 119.0,
+        "AttackGrowth": 71181.0,
+        "AvatarPieceId": 5181.0,
+        "BreakStun": 83.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 48.0,
+        "DefenceGrowth": 65524.0,
+        "ElementAbnormalPower": 115.0,
+        "ElementMystery": 116.0,
+        "Endurance": 0.0,
+        "HpGrowth": 816391.0,
+        "HpMax": 602.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Recharge Chamber",
+            "description": "When the 4th hit of Grace's Basic Attack hits an enemy, all squad members gain 0.25 Energy.\nWithin the same move, this effect can grant a max of 2 Energy to all squad members.",
+            "description2": "Efficiency is the lifeblood of engineering, and within Grace's gun barrel resonates its heartbeat."
+        },
+        {
+            "level": 2,
+            "name": "Lightning Piercer",
+            "description": "When Grace's thrown grenade hits an enemy during a Basic Attack, Special Attack, or EX Special Attack, the target's Electric RES is reduced by 8.5%, and Electric Anomaly Buildup RES is reduced by 8.5%, lasting for 8s.",
+            "description2": "\"Dissecting\" complex mechanical structures is Grace's greatest hobby, even in the midst of battle.\nHow does it feel to get taken apart, with every vulnerability laid bare?"
+        },
+        {
+            "level": 3,
+            "name": "Chief Mechanic",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Grace was personally involved in writing the \"Belobog Industries' Construction Safety Guidelines.\"\nShe's also the employee who violated the \"no dangerous explosives at construction sites\" policy the most times."
+        },
+        {
+            "level": 4,
+            "name": "Burst Capacitor",
+            "description": "When Grace uses her EX Special Attack, she gains 6 stacks of Charge (max 6 stacks). When her Basic Attack or Dash Attack hits an enemy, 1 stack of Charge is consumed, increasing her Energy Generation Rate of the attack by 20%.",
+            "description2": "Anton suspected within the component Grace referred to as the \"Electropulse Recycling Module,\" there was, in fact, an Ether hamster tirelessly generating energy around the clock.\n\"Can you equip my bro with one too?\""
+        },
+        {
+            "level": 5,
+            "name": "\"Frosty Cold Iron Witch\"",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "The \"Frosty Cold Iron Witch\" is capable of taming any mechanical beast, or at least that's what the anonymous fan who came up with the name thinks."
+        },
+        {
+            "level": 6,
+            "name": "Detonation Trigger",
+            "description": "When all Zap stacks are consumed to activate a Special Attack or EX Special Attack, Grace's skill is enhanced, tossing an extra grenade and increasing each grenade's DMG to 200%.",
+            "description2": "The average blood temperature of Belobog Heavy Industries' employees is ninety-eight degrees Celsius. Grace is often viewed as the safety valve keeping them all from boiling.\nWhen even Grace gives up control, it's a sign for everyone to cover their ears."
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100213,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 413,
+            "attack": 42,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100223,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 826,
+            "attack": 85,
+            "defense": 66,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100223,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1239,
+            "attack": 127,
+            "defense": 99,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100233,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1651,
+            "attack": 170,
+            "defense": 133,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100233,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2064,
+            "attack": 212,
+            "defense": 166,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: High-Pressure Spike",
+                    "description": "Press  to activate:\nUnleashes up to 4 attacks, dealing Physical DMG and Electric DMG.\nWhile launching Basic Attacks, drag the stick/joystick to attack while moving. This allows Grace to reposition herself and deal Physical DMG.\nWhile Grace is launching Basic Attacks, her Basic Attack combo will not be interrupted by her Special Attacks, EX Special Attacks, Dodge, Dash Attacks, or Dodge Counter.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: High-Pressure Spike",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1181001, Prop:1001}",
+                            "params": {
+                                "1181001": {
+                                    "main": 5510,
+                                    "growth": 510,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1181002, Prop:1001}",
+                            "params": {
+                                "1181002": {
+                                    "main": 5970,
+                                    "growth": 550,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1181003, Prop:1001}",
+                            "params": {
+                                "1181003": {
+                                    "main": 12480,
+                                    "growth": 1140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1181004, Prop:1001}",
+                            "params": {
+                                "1181004": {
+                                    "main": 18630,
+                                    "growth": 1700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Moving Shot DMG Multiplier",
+                            "description": "{Skill:1181015, Prop:1001}",
+                            "params": {
+                                "1181015": {
+                                    "main": 4030,
+                                    "growth": 370,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1181001, Prop:1002}",
+                            "params": {
+                                "1181001": {
+                                    "main": 1800,
+                                    "growth": 90,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1181002, Prop:1002}",
+                            "params": {
+                                "1181002": {
+                                    "main": 3470,
+                                    "growth": 160,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1181003, Prop:1002}",
+                            "params": {
+                                "1181003": {
+                                    "main": 7160,
+                                    "growth": 330,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1181004, Prop:1002}",
+                            "params": {
+                                "1181004": {
+                                    "main": 10720,
+                                    "growth": 490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Moving Shot Daze Multiplier",
+                            "description": "{Skill:1181015, Prop:1002}",
+                            "params": {
+                                "1181015": {
+                                    "main": 4030,
+                                    "growth": 190,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Safety Regulation",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Quick Inspection",
+                    "description": "Press  during a dodge to activate:\nSlide forward while shooting, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Violation Penalty",
+                    "description": "Press  during a Perfect Dodge to activate:\nThrows a grenade at enemies, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Quick Inspection",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1181007, Prop:1001}",
+                            "params": {
+                                "1181007": {
+                                    "main": 3330,
+                                    "growth": 310,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1181007, Prop:1002}",
+                            "params": {
+                                "1181007": {
+                                    "main": 1670,
+                                    "growth": 80,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Violation Penalty",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1181008, Prop:1001}",
+                            "params": {
+                                "1181008": {
+                                    "main": 16420,
+                                    "growth": 1500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1181008, Prop:1002}",
+                            "params": {
+                                "1181008": {
+                                    "main": 15050,
+                                    "growth": 690,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Obstruction Removal",
+                    "description": "Press  to activate:\nThrows a grenade to the front, dealing Electric DMG.\nUpon use, drag the stick/joystick to change directions.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Supercharged Obstruction Removal",
+                    "description": "With enough Energy, press  to activate:\nLeap in the air and throw two grenades to the front, dealing massive Electric DMG.\nUpon use, drag the stick/joystick to change directions.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Obstruction Removal",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1181005, Prop:1001}",
+                            "params": {
+                                "1181005": {
+                                    "main": 4210,
+                                    "growth": 390,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1181005, Prop:1002}",
+                            "params": {
+                                "1181005": {
+                                    "main": 4210,
+                                    "growth": 200,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Supercharged Obstruction Removal",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1181006, Prop:1001}*2",
+                            "params": {
+                                "1181006": {
+                                    "main": 16690,
+                                    "growth": 1520,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1181006, Prop:1002}*2",
+                            "params": {
+                                "1181006": {
+                                    "main": 13420,
+                                    "growth": 610,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "40",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Collaborative Construction",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nThrows three grenades into the air then strafes to detonate them, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Demolition Blast - Beware",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nThrows a custom grenade which explodes in the air and splits into four smaller grenades, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Collaborative Construction",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1181009, Prop:1001}",
+                            "params": {
+                                "1181009": {
+                                    "main": 57130,
+                                    "growth": 5200,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1181009, Prop:1002}",
+                            "params": {
+                                "1181009": {
+                                    "main": 15230,
+                                    "growth": 700,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Demolition Blast - Beware",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1181010, Prop:1001}",
+                            "params": {
+                                "1181010": {
+                                    "main": 147880,
+                                    "growth": 13450,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1181010, Prop:1002}",
+                            "params": {
+                                "1181010": {
+                                    "main": 13310,
+                                    "growth": 610,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Incident Management",
+                    "description": "When the active character is launched in the air, press  to activate:\nThrows a grenade at the enemy, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Evasive Assist: Rapid Risk Response",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nDodges the enemy's attack and activates Vital View.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Counter Volt Needle",
+                    "description": "Press  after an Evasive Assist to activate:\nUnleashes a spinning hail of bullets against enemies in front and throws a grenade, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Incident Management",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1181011, Prop:1001}",
+                            "params": {
+                                "1181011": {
+                                    "main": 4550,
+                                    "growth": 420,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1181011, Prop:1002}",
+                            "params": {
+                                "1181011": {
+                                    "main": 4550,
+                                    "growth": 210,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Counter Volt Needle",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1181012, Prop:1001}",
+                            "params": {
+                                "1181012": {
+                                    "main": 35930,
+                                    "growth": 3270,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1181012, Prop:1002}",
+                            "params": {
+                                "1181012": {
+                                    "main": 31280,
+                                    "growth": 1430,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1181501,
+                "names": [
+                    "Core Passive: Pre-Driven Needle",
+                    "Additional Ability: Tech Support Dept."
+                ],
+                "descriptions": [
+                    "When Grace's Basic Attack or Dash Attack hits an enemy and deals Physical DMG, she gains 1 stack of Zap (up to 8 stacks). Upon reaching maximum stacks, using a Special Attack or EX Special Attack will consume all stacks of Zap, increasing the accumulated Electric Anomaly Buildup by 65%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an EX Special Attack, the next Shock effect inflicted on the target increases Shock DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the Shock effect ends."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1181502,
+                "names": [
+                    "Core Passive: Pre-Driven Needle",
+                    "Additional Ability: Tech Support Dept."
+                ],
+                "descriptions": [
+                    "When Grace's Basic Attack or Dash Attack hits an enemy and deals Physical DMG, she gains 1 stack of Zap (up to 8 stacks). Upon reaching maximum stacks, using a Special Attack or EX Special Attack will consume all stacks of Zap, increasing the accumulated Electric Anomaly Buildup by 75.8%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an EX Special Attack, the next Shock effect inflicted on the target increases Shock DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the Shock effect ends."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1181503,
+                "names": [
+                    "Core Passive: Pre-Driven Needle",
+                    "Additional Ability: Tech Support Dept."
+                ],
+                "descriptions": [
+                    "When Grace's Basic Attack or Dash Attack hits an enemy and deals Physical DMG, she gains 1 stack of Zap (up to 8 stacks). Upon reaching maximum stacks, using a Special Attack or EX Special Attack will consume all stacks of Zap, increasing the accumulated Electric Anomaly Buildup by 86.6%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an EX Special Attack, the next Shock effect inflicted on the target increases Shock DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the Shock effect ends."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1181504,
+                "names": [
+                    "Core Passive: Pre-Driven Needle",
+                    "Additional Ability: Tech Support Dept."
+                ],
+                "descriptions": [
+                    "When Grace's Basic Attack or Dash Attack hits an enemy and deals Physical DMG, she gains 1 stack of Zap (up to 8 stacks). Upon reaching maximum stacks, using a Special Attack or EX Special Attack will consume all stacks of Zap, increasing the accumulated Electric Anomaly Buildup by 97.5%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an EX Special Attack, the next Shock effect inflicted on the target increases Shock DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the Shock effect ends."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1181505,
+                "names": [
+                    "Core Passive: Pre-Driven Needle",
+                    "Additional Ability: Tech Support Dept."
+                ],
+                "descriptions": [
+                    "When Grace's Basic Attack or Dash Attack hits an enemy and deals Physical DMG, she gains 1 stack of Zap (up to 8 stacks). Upon reaching maximum stacks, using a Special Attack or EX Special Attack will consume all stacks of Zap, increasing the accumulated Electric Anomaly Buildup by 108.3%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an EX Special Attack, the next Shock effect inflicted on the target increases Shock DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the Shock effect ends."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1181506,
+                "names": [
+                    "Core Passive: Pre-Driven Needle",
+                    "Additional Ability: Tech Support Dept."
+                ],
+                "descriptions": [
+                    "When Grace's Basic Attack or Dash Attack hits an enemy and deals Physical DMG, she gains 1 stack of Zap (up to 8 stacks). Upon reaching maximum stacks, using a Special Attack or EX Special Attack will consume all stacks of Zap, increasing the accumulated Electric Anomaly Buildup by 119.1%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an EX Special Attack, the next Shock effect inflicted on the target increases Shock DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the Shock effect ends."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1181507,
+                "names": [
+                    "Core Passive: Pre-Driven Needle",
+                    "Additional Ability: Tech Support Dept."
+                ],
+                "descriptions": [
+                    "When Grace's Basic Attack or Dash Attack hits an enemy and deals Physical DMG, she gains 1 stack of Zap (up to 8 stacks). Upon reaching maximum stacks, using a Special Attack or EX Special Attack will consume all stacks of Zap, increasing the accumulated Electric Anomaly Buildup by 130%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an EX Special Attack, the next Shock effect inflicted on the target increases Shock DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the Shock effect ends."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110505,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110505,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110505,
+                    "amount": 9
+                },
+                {
+                    "id": 110002,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110505,
+                    "amount": 15
+                },
+                {
+                    "id": 110002,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110505,
+                    "amount": 30
+                },
+                {
+                    "id": 110002,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1181_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1181_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1181_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect20.webp"
+}

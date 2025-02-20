@@ -1,0 +1,302 @@
+{
+    "id": 53003,
+    "code_name": "Exploreboo",
+    "name": "Exploreboo",
+    "description": "Beep-beep-beep-beep. Does that mean there treasure or that it's running outta battery?",
+    "rarity": "A",
+    "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole06.webp",
+    "stats": {
+        "Stamina": 100.0,
+        "StaminaUpragde": 10.0,
+        "Endurance": 180.0,
+        "HpMax": 436.0,
+        "Hpupgrade": 518360.0,
+        "Attack": 49.0,
+        "AttackUpgrade": 246993.0,
+        "BreakStun": 100.0,
+        "ElementAbnormalPower": 100.0,
+        "Defence": 28.0,
+        "DefUpgrade": 78871.0,
+        "Crit": 500.0,
+        "PenRatio": 0.0,
+        "CritDmg": 5000.0
+    },
+    "ascensions": {
+        "1": {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 15000
+                },
+                {
+                    "id": 102010,
+                    "amount": 4
+                }
+            ],
+            "extra_props": []
+        },
+        "2": {
+            "max_hp": 228,
+            "attack": 46,
+            "defense": 35,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 35000
+                },
+                {
+                    "id": 102020,
+                    "amount": 12
+                }
+            ],
+            "extra_props": []
+        },
+        "3": {
+            "max_hp": 455,
+            "attack": 228,
+            "defense": 69,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 75000
+                },
+                {
+                    "id": 102020,
+                    "amount": 20
+                }
+            ],
+            "extra_props": []
+        },
+        "4": {
+            "max_hp": 683,
+            "attack": 685,
+            "defense": 104,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 125000
+                },
+                {
+                    "id": 102030,
+                    "amount": 10
+                }
+            ],
+            "extra_props": []
+        },
+        "5": {
+            "max_hp": 910,
+            "attack": 1827,
+            "defense": 139,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 250000
+                },
+                {
+                    "id": 102030,
+                    "amount": 20
+                }
+            ],
+            "extra_props": []
+        },
+        "6": {
+            "max_hp": 1138,
+            "attack": 4568,
+            "defense": 173,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": [],
+            "extra_props": []
+        }
+    },
+    "skills": {
+        "A": {
+            "1": {
+                "name": "Modded Ether Detector",
+                "description": "Active Skill\nScans and excavates the nearby ground, then gives the character a random buff based on the Bangboo's stats:\nBuff 1: Recovers HP.\nBuff 2: Generates a Shield.\nBuff 3: Increases Energy Regen.",
+                "properties": [
+                    "Buff 1: HP Recovery",
+                    "Buff 2: Shield Generated",
+                    "Buff 3: Energy Regen",
+                    "Buff Duration",
+                    "Cooldown"
+                ],
+                "parameter": "8% HP|9% HP|0.2/s|12s|16s"
+            },
+            "2": {
+                "name": "Modded Ether Detector",
+                "description": "Active Skill\nScans and excavates the nearby ground, then gives the character a random buff based on the Bangboo's stats:\nBuff 1: Recovers HP.\nBuff 2: Generates a Shield.\nBuff 3: Increases Energy Regen.",
+                "properties": [
+                    "Buff 1: HP Recovery",
+                    "Buff 2: Shield Generated",
+                    "Buff 3: Energy Regen",
+                    "Buff Duration",
+                    "Cooldown"
+                ],
+                "parameter": "8.2% HP|9.3% HP|0.22/s|12s|16s"
+            },
+            "3": {
+                "name": "Modded Ether Detector",
+                "description": "Active Skill\nScans and excavates the nearby ground, then gives the character a random buff based on the Bangboo's stats:\nBuff 1: Recovers HP.\nBuff 2: Generates a Shield.\nBuff 3: Increases Energy Regen.",
+                "properties": [
+                    "Buff 1: HP Recovery",
+                    "Buff 2: Shield Generated",
+                    "Buff 3: Energy Regen",
+                    "Buff Duration",
+                    "Cooldown"
+                ],
+                "parameter": "8.4% HP|9.6% HP|0.24/s|12s|16s"
+            },
+            "4": {
+                "name": "Modded Ether Detector",
+                "description": "Active Skill\nScans and excavates the nearby ground, then gives the character a random buff based on the Bangboo's stats:\nBuff 1: Recovers HP.\nBuff 2: Generates a Shield.\nBuff 3: Increases Energy Regen.",
+                "properties": [
+                    "Buff 1: HP Recovery",
+                    "Buff 2: Shield Generated",
+                    "Buff 3: Energy Regen",
+                    "Buff Duration",
+                    "Cooldown"
+                ],
+                "parameter": "8.6% HP|9.9% HP|0.26/s|12s|16s"
+            },
+            "5": {
+                "name": "Modded Ether Detector",
+                "description": "Active Skill\nScans and excavates the nearby ground, then gives the character a random buff based on the Bangboo's stats:\nBuff 1: Recovers HP.\nBuff 2: Generates a Shield.\nBuff 3: Increases Energy Regen.",
+                "properties": [
+                    "Buff 1: HP Recovery",
+                    "Buff 2: Shield Generated",
+                    "Buff 3: Energy Regen",
+                    "Buff Duration",
+                    "Cooldown"
+                ],
+                "parameter": "8.8% HP|10.2% HP|0.28/s|12s|16s"
+            },
+            "6": {
+                "name": "Modded Ether Detector",
+                "description": "Active Skill\nScans and excavates the nearby ground, then gives the character a random buff based on the Bangboo's stats:\nBuff 1: Recovers HP.\nBuff 2: Generates a Shield.\nBuff 3: Increases Energy Regen.",
+                "properties": [
+                    "Buff 1: HP Recovery",
+                    "Buff 2: Shield Generated",
+                    "Buff 3: Energy Regen",
+                    "Buff Duration",
+                    "Cooldown"
+                ],
+                "parameter": "9% HP|10.5% HP|0.3/s|12s|16s"
+            },
+            "7": {
+                "name": "Modded Ether Detector",
+                "description": "Active Skill\nScans and excavates the nearby ground, then gives the character a random buff based on the Bangboo's stats:\nBuff 1: Recovers HP.\nBuff 2: Generates a Shield.\nBuff 3: Increases Energy Regen.",
+                "properties": [
+                    "Buff 1: HP Recovery",
+                    "Buff 2: Shield Generated",
+                    "Buff 3: Energy Regen",
+                    "Buff Duration",
+                    "Cooldown"
+                ],
+                "parameter": "9.2% HP|10.8% HP|0.32/s|12s|16s"
+            },
+            "8": {
+                "name": "Modded Ether Detector",
+                "description": "Active Skill\nScans and excavates the nearby ground, then gives the character a random buff based on the Bangboo's stats:\nBuff 1: Recovers HP.\nBuff 2: Generates a Shield.\nBuff 3: Increases Energy Regen.",
+                "properties": [
+                    "Buff 1: HP Recovery",
+                    "Buff 2: Shield Generated",
+                    "Buff 3: Energy Regen",
+                    "Buff Duration",
+                    "Cooldown"
+                ],
+                "parameter": "9.4% HP|11.1% HP|0.34/s|12s|16s"
+            },
+            "9": {
+                "name": "Modded Ether Detector",
+                "description": "Active Skill\nScans and excavates the nearby ground, then gives the character a random buff based on the Bangboo's stats:\nBuff 1: Recovers HP.\nBuff 2: Generates a Shield.\nBuff 3: Increases Energy Regen.",
+                "properties": [
+                    "Buff 1: HP Recovery",
+                    "Buff 2: Shield Generated",
+                    "Buff 3: Energy Regen",
+                    "Buff Duration",
+                    "Cooldown"
+                ],
+                "parameter": "9.6% HP|11.3% HP|0.36/s|12s|16s"
+            },
+            "10": {
+                "name": "Modded Ether Detector",
+                "description": "Active Skill\nScans and excavates the nearby ground, then gives the character a random buff based on the Bangboo's stats:\nBuff 1: Recovers HP.\nBuff 2: Generates a Shield.\nBuff 3: Increases Energy Regen.",
+                "properties": [
+                    "Buff 1: HP Recovery",
+                    "Buff 2: Shield Generated",
+                    "Buff 3: Energy Regen",
+                    "Buff Duration",
+                    "Cooldown"
+                ],
+                "parameter": "10% HP|11.5% HP|0.4/s|12s|16s"
+            }
+        },
+        "B": {
+            "1": {
+                "name": "Ether Detection Specialist",
+                "description": "Additional Ability\nTriggered when there is at least 1 Support character in your squad: Active Skill's character buff effect is increased:\nBuff 1: HP Recovery increases by 20%.\nBuff 2: Shield Generation increases by 20%.\nBuff 3: Energy Regen increases by 0.04/s.",
+                "properties": [
+                    "Buff 1: HP Recovery Increase",
+                    "Buff 2: Shield Generated Increase",
+                    "Buff 3: Energy Regen Increase"
+                ],
+                "parameter": "20%|20%|0.04/s"
+            },
+            "2": {
+                "name": "Ether Detection Specialist",
+                "description": "Additional Ability\nTriggered when there is at least 1 Support character in your squad: Active Skill's character buff effect is increased:\nBuff 1: HP Recovery increases by 22.5%.\nBuff 2: Shield Generation increases by 22.5%.\nBuff 3: Energy Regen increases by 0.05/s.",
+                "properties": [
+                    "Buff 1: HP Recovery Increase",
+                    "Buff 2: Shield Generated Increase",
+                    "Buff 3: Energy Regen Increase"
+                ],
+                "parameter": "22.5%|22.5%|0.05/s"
+            },
+            "3": {
+                "name": "Ether Detection Specialist",
+                "description": "Additional Ability\nTriggered when there is at least 1 Support character in your squad: Active Skill's character buff effect is increased:\nBuff 1: HP Recovery increases by 25%.\nBuff 2: Shield Generation increases by 25%.\nBuff 3: Energy Regen increases by 0.06/s.",
+                "properties": [
+                    "Buff 1: HP Recovery Increase",
+                    "Buff 2: Shield Generated Increase",
+                    "Buff 3: Energy Regen Increase"
+                ],
+                "parameter": "25%|25%|0.06/s"
+            },
+            "4": {
+                "name": "Ether Detection Specialist",
+                "description": "Additional Ability\nTriggered when there is at least 1 Support character in your squad: Active Skill's character buff effect is increased:\nBuff 1: HP Recovery increases by 27.5%.\nBuff 2: Shield Generation increases by 27.5%.\nBuff 3: Energy Regen increases by 0.07/s.",
+                "properties": [
+                    "Buff 1: HP Recovery Increase",
+                    "Buff 2: Shield Generated Increase",
+                    "Buff 3: Energy Regen Increase"
+                ],
+                "parameter": "27.5%|27.5%|0.07/s"
+            },
+            "5": {
+                "name": "Ether Detection Specialist",
+                "description": "Additional Ability\nTriggered when there is at least 1 Support character in your squad: Active Skill's character buff effect is increased:\nBuff 1: HP Recovery increases by 30%.\nBuff 2: Shield Generation increases by 30%.\nBuff 3: Energy Regen increases by 0.08/s.",
+                "properties": [
+                    "Buff 1: HP Recovery Increase",
+                    "Buff 2: Shield Generated Increase",
+                    "Buff 3: Energy Regen Increase"
+                ],
+                "parameter": "30%|30%|0.08/s"
+            }
+        },
+        "C": {}
+    }
+}

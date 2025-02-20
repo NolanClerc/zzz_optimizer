@@ -1,0 +1,8 @@
+{
+    "id": 32400,
+    "name": "Thunder Metal",
+    "two_piece_effect": "<color=#2EB6FF>Electric DMG</color> +10%",
+    "four_piece_effect": "As long as an enemy in combat is <color=#2EB6FF>Shocked</color>, the equipper's ATK is increased by 28%.",
+    "story": "A Drive Disc burned with specialized Ether technology offering personalized attribute amplification to the user.",
+    "icon": "https://api.hakush.in/zzz/UI/SuitThunderMetal.webp"
+}

@@ -1,0 +1,8 @@
+{
+    "id": 31100,
+    "name": "Puffer Electro",
+    "two_piece_effect": "PEN Ratio +8%",
+    "four_piece_effect": "<color=#FFFFFF>Ultimate</color> DMG increases by 20%. Launching an <color=#FFFFFF>Ultimate</color> increases the equipper's ATK by 15% for 12s.",
+    "story": "This reliable Drive Disc series is favored by Hollow explorers due to its consistent performance. Don't underestimate its effectiveness, pufferfish are poisonous, after all.",
+    "icon": "https://api.hakush.in/zzz/UI/SuitPufferElectro.webp"
+}

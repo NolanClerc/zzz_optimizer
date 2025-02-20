@@ -1,0 +1,8 @@
+{
+    "id": 32300,
+    "name": "Chaotic Metal",
+    "two_piece_effect": "<color=#FE437E>Ether DMG</color> +10%",
+    "four_piece_effect": "The equipper's CRIT DMG increases by 20%. When any character in the squad triggers <color=#FE437E>Corruption's</color> additional DMG, this effect further increases by 5.5% for 8s, stacking up to 6 times. Repeated triggers reset the duration.",
+    "story": "A Drive Disc burned with specialized Ether technology offering personalized attribute amplification to the user.",
+    "icon": "https://api.hakush.in/zzz/UI/SuitChaosMetal.webp"
+}

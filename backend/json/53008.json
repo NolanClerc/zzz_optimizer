@@ -1,0 +1,267 @@
+{
+    "id": 53008,
+    "code_name": "Avocaboo",
+    "name": "Avocaboo",
+    "description": "A massive success among people who love veggie salads.",
+    "rarity": "A",
+    "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole03.webp",
+    "stats": {
+        "Stamina": 100.0,
+        "StaminaUpragde": 10.0,
+        "Endurance": 180.0,
+        "HpMax": 436.0,
+        "Hpupgrade": 518360.0,
+        "Attack": 47.0,
+        "AttackUpgrade": 236912.0,
+        "BreakStun": 100.0,
+        "ElementAbnormalPower": 100.0,
+        "Defence": 32.0,
+        "DefUpgrade": 92587.0,
+        "Crit": 500.0,
+        "PenRatio": 0.0,
+        "CritDmg": 5000.0
+    },
+    "ascensions": {
+        "1": {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 15000
+                },
+                {
+                    "id": 102010,
+                    "amount": 4
+                }
+            ],
+            "extra_props": []
+        },
+        "2": {
+            "max_hp": 228,
+            "attack": 44,
+            "defense": 41,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 35000
+                },
+                {
+                    "id": 102020,
+                    "amount": 12
+                }
+            ],
+            "extra_props": []
+        },
+        "3": {
+            "max_hp": 455,
+            "attack": 219,
+            "defense": 81,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 75000
+                },
+                {
+                    "id": 102020,
+                    "amount": 20
+                }
+            ],
+            "extra_props": []
+        },
+        "4": {
+            "max_hp": 683,
+            "attack": 657,
+            "defense": 122,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 125000
+                },
+                {
+                    "id": 102030,
+                    "amount": 10
+                }
+            ],
+            "extra_props": []
+        },
+        "5": {
+            "max_hp": 910,
+            "attack": 1753,
+            "defense": 163,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 250000
+                },
+                {
+                    "id": 102030,
+                    "amount": 20
+                }
+            ],
+            "extra_props": []
+        },
+        "6": {
+            "max_hp": 1138,
+            "attack": 4381,
+            "defense": 203,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": [],
+            "extra_props": []
+        }
+    },
+    "skills": {
+        "A": {
+            "1": {
+                "name": "Sweet and Juicy",
+                "description": "Active Skill\nShoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.",
+                "properties": [
+                    "HP Recovery",
+                    "Cooldown"
+                ],
+                "parameter": "10% HP|20s"
+            },
+            "2": {
+                "name": "Sweet and Juicy",
+                "description": "Active Skill\nShoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.",
+                "properties": [
+                    "HP Recovery",
+                    "Cooldown"
+                ],
+                "parameter": "10.5% HP|20s"
+            },
+            "3": {
+                "name": "Sweet and Juicy",
+                "description": "Active Skill\nShoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.",
+                "properties": [
+                    "HP Recovery",
+                    "Cooldown"
+                ],
+                "parameter": "11% HP|20s"
+            },
+            "4": {
+                "name": "Sweet and Juicy",
+                "description": "Active Skill\nShoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.",
+                "properties": [
+                    "HP Recovery",
+                    "Cooldown"
+                ],
+                "parameter": "11.5% HP|20s"
+            },
+            "5": {
+                "name": "Sweet and Juicy",
+                "description": "Active Skill\nShoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.",
+                "properties": [
+                    "HP Recovery",
+                    "Cooldown"
+                ],
+                "parameter": "12% HP|20s"
+            },
+            "6": {
+                "name": "Sweet and Juicy",
+                "description": "Active Skill\nShoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.",
+                "properties": [
+                    "HP Recovery",
+                    "Cooldown"
+                ],
+                "parameter": "12.5% HP|20s"
+            },
+            "7": {
+                "name": "Sweet and Juicy",
+                "description": "Active Skill\nShoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.",
+                "properties": [
+                    "HP Recovery",
+                    "Cooldown"
+                ],
+                "parameter": "13% HP|20s"
+            },
+            "8": {
+                "name": "Sweet and Juicy",
+                "description": "Active Skill\nShoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.",
+                "properties": [
+                    "HP Recovery",
+                    "Cooldown"
+                ],
+                "parameter": "13.5% HP|20s"
+            },
+            "9": {
+                "name": "Sweet and Juicy",
+                "description": "Active Skill\nShoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.",
+                "properties": [
+                    "HP Recovery",
+                    "Cooldown"
+                ],
+                "parameter": "14% HP|20s"
+            },
+            "10": {
+                "name": "Sweet and Juicy",
+                "description": "Active Skill\nShoots juice bullets at the character currently on the battlefield. If the bullet misses, the juice will remain on the ground for a while. Characters coming into contact with the juice will recover HP. The recovery effect can only trigger up to 15 times per combat.",
+                "properties": [
+                    "HP Recovery",
+                    "Cooldown"
+                ],
+                "parameter": "15% HP|20s"
+            }
+        },
+        "B": {
+            "1": {
+                "name": "Replenishing Sugar Levels",
+                "description": "Additional Ability\nWhen there is at least 1 Support character in your squad:\nActive Skill recovers 20% more HP.\nActive Skill has 3 more charges.",
+                "properties": [
+                    "HP Recovery Increase",
+                    "Additional Activations"
+                ],
+                "parameter": "20%|3 times"
+            },
+            "2": {
+                "name": "Replenishing Sugar Levels",
+                "description": "Additional Ability\nWhen there is at least 1 Support character in your squad:\nActive Skill recovers 25% more HP.\nActive Skill has 3 more charges.",
+                "properties": [
+                    "HP Recovery Increase",
+                    "Additional Activations"
+                ],
+                "parameter": "25%|3 times"
+            },
+            "3": {
+                "name": "Replenishing Sugar Levels",
+                "description": "Additional Ability\nWhen there is at least 1 Support character in your squad:\nActive Skill recovers 30% more HP.\nActive Skill has 3 more charges.",
+                "properties": [
+                    "HP Recovery Increase",
+                    "Additional Activations"
+                ],
+                "parameter": "30%|3 times"
+            },
+            "4": {
+                "name": "Replenishing Sugar Levels",
+                "description": "Additional Ability\nWhen there is at least 1 Support character in your squad:\nActive Skill recovers 35% more HP.\nActive Skill has 3 more charges.",
+                "properties": [
+                    "HP Recovery Increase",
+                    "Additional Activations"
+                ],
+                "parameter": "35%|3 times"
+            },
+            "5": {
+                "name": "Replenishing Sugar Levels",
+                "description": "Additional Ability\nWhen there is at least 1 Support character in your squad:\nActive Skill recovers 40% more HP.\nActive Skill has 3 more charges.",
+                "properties": [
+                    "HP Recovery Increase",
+                    "Additional Activations"
+                ],
+                "parameter": "40%|3 times"
+            }
+        },
+        "C": {}
+    }
+}

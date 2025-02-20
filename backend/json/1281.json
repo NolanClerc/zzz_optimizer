@@ -1,0 +1,1630 @@
+{
+    "id": 1281,
+    "image": "https://api.hakush.in/zzz/UI/IconRole28.webp",
+    "name": "Piper",
+    "code_name": "Piper",
+    "rarity": "A",
+    "specialty": {
+        "id": 3,
+        "name": "Anomaly"
+    },
+    "element": {
+        "id": 200,
+        "name": "Physical"
+    },
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "faction": {
+        "id": 4,
+        "name": "Sons of Calydon"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "OCT 21",
+        "full_name": "Piper",
+        "gender": "Female",
+        "female_impression": "Sometimes Piper says \"lil ol' me\" instead of \"I\"... Is she trying to be funny...? Or maybe she's shy!",
+        "male_impression": "I think it's probably just a catchphrase.\nBy the way, that last part... Is Fairy trying to complain about us...?",
+        "outlook_desc": "TLDR: Piper has a good Aptitude for Ether.\nNote: I believe, considering Piper's personality, she prefers a simple introduction such as this.",
+        "profile_desc": "Piper is a truck driver for the Sons of Calydon. Apart from driving, she's also responsible for vehicle maintenance and other related jobs.\nHer tiny stature, cute voice (though she always seems half-asleep when not driving), and adorably harmless appearance (though she's a shut-in who can't be bothered to take care of her own appearance) make it hard to imagine that she would have such a crazy driving style.\nUsually, by the time she drawls out, \"Hold~ on~ tight~,\" the truck is already barreling down the road.\nRumor has it, Piper is a driver who doesn't need brakes. Though riding with her is a terrifying experience, she will always get you where you need to go safely, and in the shortest time possible. Of course, \"safely\" doesn't include any trauma that may be induced.\n\nPiper has many hobbies that don't seem to match her age, such as reading newspapers, buying lottery tickets, and collecting car magazines.\nPiper's biggest wish is to live each day slowly and leisurely.\nNote: Please keep in mind, Master, that this is also my wish.",
+        "faction": "Sons of Calydon",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 109.0,
+        "AttackGrowth": 64308.0,
+        "AvatarPieceId": 5281.0,
+        "BreakStun": 86.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66882.0,
+        "ElementAbnormalPower": 116.0,
+        "ElementMystery": 118.0,
+        "Endurance": 0.0,
+        "HpGrowth": 761177.0,
+        "HpMax": 561.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Leisure Moment",
+            "description": "When Piper's Special Attack: Tire Spin, EX Special Attack: Engine Spin, or Ultimate hits an enemy with a spinning slash, there is a 50% chance to gain an additional stack of Power. The maximum stack limit of Power is increased to 30.",
+            "description2": "One ordinary morning at Sons of Calydon, Piper lets out a lazy yawn.\n\"Good morning—\"\n\"Can we have another relaxing day today? It's important to take it easy, or else lil ol' me might end up working meself to death—\""
+        },
+        {
+            "level": 2,
+            "name": "Motivation",
+            "description": "During Special Attack: Tire Spin and EX Special Attack: Engine Spin, Piper's movement speed increases. When using Special Attack: One Trillion Tons, EX Special Attack: Really Heavy, or Ultimate to launch a downward smash that hits an enemy, the Physical DMG dealt by the move is increased by 10%. For each stack of Power, this buff is further increased by 1%.",
+            "description2": "A bit of effort now means more rest later.\nThough, it'd be even better if I didn't have to put in any effort at all — Piper stretches, pats the soft bed in her truck, and lies down."
+        },
+        {
+            "level": 3,
+            "name": "Truck Expert",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Piper is always all about trucks.\nEven when she's fast asleep, the rumble of an engine snaps her awake in an instant:\n\"100 horsepower, 5-ton capacity... must be the new light truck from Three Gates Industries!\""
+        },
+        {
+            "level": 4,
+            "name": "Refined Techniques",
+            "description": "Whenever a squad member inflicts an Attribute Anomaly on an enemy, Piper recovers 20 Energy. This effect can trigger once every 30s.",
+            "description2": "Riding with Piper is a heart-pounding experience.\nBy the time she drawls out, \"Hold~ on~ tight~,\" the truck is already barreling down the road.\nShe always gets you to your destination fast—though your nerves might take a hit."
+        },
+        {
+            "level": 5,
+            "name": "Personal Hobbies",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Piper seems to have some hobbies that are not what you'd expect from her.\n\"This horse looks like a real runner... Hmm, but not many people are betting on it. Guess the one with the higher win rate is the safer bet...\"\n\"Burp— Nitro-Fuel... I can drink more... Gimme another one!\""
+        },
+        {
+            "level": 6,
+            "name": "Mild Excitement",
+            "description": "Increases the duration limit of EX Special Attack: Engine Spin by 2s and extends the duration of Power by 4s.",
+            "description2": "As you may already know, Piper's biggest dream is to live a life of perpetual relaxation.\nBut right now, her usually half-closed eyes are surprisingly bright and alert.\n\"If it's for you... I suppose lil ol' me can try a little harder~\""
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100213,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 385,
+            "attack": 39,
+            "defense": 34,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100223,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 770,
+            "attack": 78,
+            "defense": 68,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100223,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1155,
+            "attack": 117,
+            "defense": 101,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100233,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1540,
+            "attack": 156,
+            "defense": 135,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100233,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1925,
+            "attack": 195,
+            "defense": 169,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Load Up and Roll Out",
+                    "description": "Press  to activate:\nUnleashes up to 4 slashes, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Load Up and Roll Out",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1281001, Prop:1001}",
+                            "params": {
+                                "1281001": {
+                                    "main": 5900,
+                                    "growth": 540,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1281002, Prop:1001}",
+                            "params": {
+                                "1281002": {
+                                    "main": 7880,
+                                    "growth": 720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1281003, Prop:1001}",
+                            "params": {
+                                "1281003": {
+                                    "main": 15010,
+                                    "growth": 1370,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1281004, Prop:1001}",
+                            "params": {
+                                "1281004": {
+                                    "main": 32060,
+                                    "growth": 2920,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1281001, Prop:1002}",
+                            "params": {
+                                "1281001": {
+                                    "main": 2950,
+                                    "growth": 140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1281002, Prop:1002}",
+                            "params": {
+                                "1281002": {
+                                    "main": 6450,
+                                    "growth": 300,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1281003, Prop:1002}",
+                            "params": {
+                                "1281003": {
+                                    "main": 12190,
+                                    "growth": 560,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1281004, Prop:1002}",
+                            "params": {
+                                "1281004": {
+                                    "main": 25220,
+                                    "growth": 1150,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Handbrake Drift",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Pedal to the Metal",
+                    "description": "Press  during a dodge to activate:\nSlashes enemies in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Power Drift",
+                    "description": "Press  during a Perfect Dodge to activate:\nUnleash a downward smash attack in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Pedal to the Metal",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1281011, Prop:1001}",
+                            "params": {
+                                "1281011": {
+                                    "main": 9010,
+                                    "growth": 820,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1281011, Prop:1002}",
+                            "params": {
+                                "1281011": {
+                                    "main": 4510,
+                                    "growth": 210,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Power Drift",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1281012, Prop:1001}",
+                            "params": {
+                                "1281012": {
+                                    "main": 26900,
+                                    "growth": 2450,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1281012, Prop:1002}",
+                            "params": {
+                                "1281012": {
+                                    "main": 23000,
+                                    "growth": 1050,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Tire Spin",
+                    "description": "Press  to activate:\nPiper spins and launches a sweeping slash around her, dealing Physical DMG.\nHold  to extend the skill duration, unleashing increasingly powerful spinning slashes and increasing the charge level of the skill up to 2 times.\nIf the skill is used after the first 3 hits of a Basic Attack, Dash Attack, or Dodge Counter, you can quickly activate Special Attack: Tire Spin of an increased charge level.\nDuring the skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: One Trillion Tons",
+                    "description": "While Special Attack: Tire Spin is active, release  to trigger a downward smash attack based on the charge level of Special Attack: Tire Spin, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Engine Spin",
+                    "description": "With enough Energy, continue holding  after Special Attack: Tire Spin reaches maximum charge level to activate:\nRapidly spins, unleashing powerful spinning slashes around her and dealing massive Physical DMG.\nThis skill consumes Energy continuously for up to 3s.\nDuring the skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Really Heavy",
+                    "description": "During EX Special Attack: Engine Spin, release  to activate:\nPiper unleashes a downward smash attack, dealing massive Physical DMG.\nIf the duration of EX Special Attack: Engine Spin reaches its limit or Energy drops to 20, EX Special Attack: Really Heavy will automatically activate.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Tire Spin",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1281005, Prop:1001}",
+                            "params": {
+                                "1281005": {
+                                    "main": 27170,
+                                    "growth": 2470,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1281005, Prop:1002}",
+                            "params": {
+                                "1281005": {
+                                    "main": 27170,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Special Attack: One Trillion Tons",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Level-1 Charged Attack DMG Multiplier",
+                            "description": "{Skill:1281006, Prop:1001}",
+                            "params": {
+                                "1281006": {
+                                    "main": 9340,
+                                    "growth": 850,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Level-2 Charged Attack DMG Multiplier",
+                            "description": "{Skill:1281007, Prop:1001}",
+                            "params": {
+                                "1281007": {
+                                    "main": 10340,
+                                    "growth": 940,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Level-3 Charged Attack DMG Multiplier",
+                            "description": "{Skill:1281008, Prop:1001}",
+                            "params": {
+                                "1281008": {
+                                    "main": 23500,
+                                    "growth": 2140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Level-1 Charged Daze Multiplier",
+                            "description": "{Skill:1281006, Prop:1002}",
+                            "params": {
+                                "1281006": {
+                                    "main": 9340,
+                                    "growth": 430,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Level-2 Charged Daze Multiplier",
+                            "description": "{Skill:1281007, Prop:1002}",
+                            "params": {
+                                "1281007": {
+                                    "main": 10340,
+                                    "growth": 470,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Level-3 Charged Attack Daze Multiplier",
+                            "description": "{Skill:1281008, Prop:1002}",
+                            "params": {
+                                "1281008": {
+                                    "main": 23500,
+                                    "growth": 1070,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Engine Spin",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier Every Spin",
+                            "description": "{{Skill:1281010, Prop:1001}/2}",
+                            "params": {
+                                "1281010": {
+                                    "main": 18710,
+                                    "growth": 1710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier Every Spin",
+                            "description": "{{Skill:1281010, Prop:1002}/2}",
+                            "params": {
+                                "1281010": {
+                                    "main": 10960,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "20 Energy/s",
+                            "params": null
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Really Heavy",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1281009, Prop:1001}",
+                            "params": {
+                                "1281009": {
+                                    "main": 61290,
+                                    "growth": 5580,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1281009, Prop:1002}",
+                            "params": {
+                                "1281009": {
+                                    "main": 39680,
+                                    "growth": 1810,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "20",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Buckle Up",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful downward smash at enemies ahead in a large area, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Hold~ On~ Tight~",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nRapidly spins, unleashing powerful spinning slashes at enemies in a large area ahead, followed by a downward smash, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Buckle Up",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1281013, Prop:1001}",
+                            "params": {
+                                "1281013": {
+                                    "main": 65230,
+                                    "growth": 5930,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1281013, Prop:1002}",
+                            "params": {
+                                "1281013": {
+                                    "main": 25330,
+                                    "growth": 1160,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Hold~ On~ Tight~",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1281014, Prop:1001}",
+                            "params": {
+                                "1281014": {
+                                    "main": 166040,
+                                    "growth": 15100,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1281014, Prop:1002}",
+                            "params": {
+                                "1281014": {
+                                    "main": 32830,
+                                    "growth": 1500,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Brake Tap",
+                    "description": "When the active character is launched, press  to activate:\nLaunches a downward smash attack at enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Emergency Brake",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Overtaking Maneuver",
+                    "description": "Press  after a Defensive Assist to activate:\nCharge and slash enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Brake Tap",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1281015, Prop:1001}",
+                            "params": {
+                                "1281015": {
+                                    "main": 13000,
+                                    "growth": 1190,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1281015, Prop:1002}",
+                            "params": {
+                                "1281015": {
+                                    "main": 13000,
+                                    "growth": 600,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Emergency Brake",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1281016, Prop:1002}",
+                            "params": {
+                                "1281016": {
+                                    "main": 24670,
+                                    "growth": 1130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1281017, Prop:1002}",
+                            "params": {
+                                "1281017": {
+                                    "main": 31170,
+                                    "growth": 1420,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1281018, Prop:1002}",
+                            "params": {
+                                "1281018": {
+                                    "main": 15170,
+                                    "growth": 690,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Overtaking Maneuver",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1281019, Prop:1001}",
+                            "params": {
+                                "1281019": {
+                                    "main": 40050,
+                                    "growth": 3650,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1281019, Prop:1002}",
+                            "params": {
+                                "1281019": {
+                                    "main": 35200,
+                                    "growth": 1600,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1281501,
+                "names": [
+                    "Core Passive: Power Charge",
+                    "Additional Ability: Synced Acceleration"
+                ],
+                "descriptions": [
+                    "When Piper's EX Special Attack: Engine Spin or Ultimate hits an enemy, she gains 1 stack of Power, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of Power, Piper's Physical Anomaly Buildup Rate increases by 2%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of Power, all squad members' DMG is increased by 18%."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1281502,
+                "names": [
+                    "Core Passive: Power Charge",
+                    "Additional Ability: Synced Acceleration"
+                ],
+                "descriptions": [
+                    "When Piper's EX Special Attack: Engine Spin or Ultimate hits an enemy, she gains 1 stack of Power, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of Power, Piper's Physical Anomaly Buildup Rate increases by 2.3%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of Power, all squad members' DMG is increased by 18%."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1281503,
+                "names": [
+                    "Core Passive: Power Charge",
+                    "Additional Ability: Synced Acceleration"
+                ],
+                "descriptions": [
+                    "When Piper's EX Special Attack: Engine Spin or Ultimate hits an enemy, she gains 1 stack of Power, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of Power, Piper's Physical Anomaly Buildup Rate increases by 2.6%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of Power, all squad members' DMG is increased by 18%."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1281504,
+                "names": [
+                    "Core Passive: Power Charge",
+                    "Additional Ability: Synced Acceleration"
+                ],
+                "descriptions": [
+                    "When Piper's EX Special Attack: Engine Spin or Ultimate hits an enemy, she gains 1 stack of Power, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of Power, Piper's Physical Anomaly Buildup Rate increases by 3%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of Power, all squad members' DMG is increased by 18%."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1281505,
+                "names": [
+                    "Core Passive: Power Charge",
+                    "Additional Ability: Synced Acceleration"
+                ],
+                "descriptions": [
+                    "When Piper's EX Special Attack: Engine Spin or Ultimate hits an enemy, she gains 1 stack of Power, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of Power, Piper's Physical Anomaly Buildup Rate increases by 3.3%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of Power, all squad members' DMG is increased by 18%."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1281506,
+                "names": [
+                    "Core Passive: Power Charge",
+                    "Additional Ability: Synced Acceleration"
+                ],
+                "descriptions": [
+                    "When Piper's EX Special Attack: Engine Spin or Ultimate hits an enemy, she gains 1 stack of Power, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of Power, Piper's Physical Anomaly Buildup Rate increases by 3.6%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of Power, all squad members' DMG is increased by 18%."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1281507,
+                "names": [
+                    "Core Passive: Power Charge",
+                    "Additional Ability: Synced Acceleration"
+                ],
+                "descriptions": [
+                    "When Piper's EX Special Attack: Engine Spin or Ultimate hits an enemy, she gains 1 stack of Power, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of Power, Piper's Physical Anomaly Buildup Rate increases by 4%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of Power, all squad members' DMG is increased by 18%."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110502,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110502,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110502,
+                    "amount": 9
+                },
+                {
+                    "id": 110003,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110502,
+                    "amount": 15
+                },
+                {
+                    "id": 110003,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110502,
+                    "amount": 30
+                },
+                {
+                    "id": 110003,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1281_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1281_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1281_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect28.webp"
+}

@@ -1,0 +1,1692 @@
+{
+    "ascension": [
+        {
+            "attack": 0,
+            "defense": 0,
+            "materials": [
+                {
+                    "amount": 24000,
+                    "id": 10
+                },
+                {
+                    "amount": 4,
+                    "id": 100211
+                }
+            ],
+            "max_hp": 0,
+            "max_level": 10,
+            "min_level": 0
+        },
+        {
+            "attack": 41,
+            "defense": 34,
+            "materials": [
+                {
+                    "amount": 56000,
+                    "id": 10
+                },
+                {
+                    "amount": 12,
+                    "id": 100221
+                }
+            ],
+            "max_hp": 398,
+            "max_level": 20,
+            "min_level": 10
+        },
+        {
+            "attack": 81,
+            "defense": 69,
+            "materials": [
+                {
+                    "amount": 120000,
+                    "id": 10
+                },
+                {
+                    "amount": 20,
+                    "id": 100221
+                }
+            ],
+            "max_hp": 797,
+            "max_level": 30,
+            "min_level": 20
+        },
+        {
+            "attack": 122,
+            "defense": 103,
+            "materials": [
+                {
+                    "amount": 200000,
+                    "id": 10
+                },
+                {
+                    "amount": 10,
+                    "id": 100231
+                }
+            ],
+            "max_hp": 1195,
+            "max_level": 40,
+            "min_level": 30
+        },
+        {
+            "attack": 163,
+            "defense": 137,
+            "materials": [
+                {
+                    "amount": 400000,
+                    "id": 10
+                },
+                {
+                    "amount": 20,
+                    "id": 100231
+                }
+            ],
+            "max_hp": 1593,
+            "max_level": 50,
+            "min_level": 40
+        },
+        {
+            "attack": 203,
+            "defense": 172,
+            "materials": [],
+            "max_hp": 1992,
+            "max_level": 60,
+            "min_level": 50
+        }
+    ],
+    "attack_type": {
+        "id": 103,
+        "name": "Pierce"
+    },
+    "code_name": "Anton",
+    "element": {
+        "id": 203,
+        "name": "Electric"
+    },
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "480%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 480
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "0",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "480%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 480
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "25",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "960%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 960
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "25",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "960%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 960
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "50",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "1440%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 1440
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "50",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "1440%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 1440
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "75",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 75
+                }
+            ]
+        }
+    ],
+    "faction": {
+        "id": 3,
+        "name": "Belobog Heavy Industries"
+    },
+    "gender": "M",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect15.webp",
+    "id": 1111,
+    "image": "https://api.hakush.in/zzz/UI/IconRole15.webp",
+    "info": {
+        "birthday": "MAY 2",
+        "faction": "Belobog Heavy Industries",
+        "female_impression": "Anton keeps saying he's the \"second-best driller in the company.\"\nSo... who's the first?",
+        "full_name": "Anton Ivanov",
+        "gender": "Male",
+        "male_impression": "I think it's the heavy drill machine from their company. I've heard him say something like \"I gotta win next time\" against it.",
+        "outlook_desc": "New Eridu Citizen Verification Profile Info:\nHollow Investigator � Anton, possessing good Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: Besides himself, Anton's bro also possesses relatively good Ether aptitude.",
+        "profile_desc": "Anton is a key member of construction staff at Belobog Industries and one of Koleda's trusted aides.\n\"Got a job you can't handle? Leave it to me!\"\n Anton is one of the top brass at Belobog, handpicked by its former president Khors, which makes him a \"senior employee.\"\nA genuine, straightforward man, always boosting the morale of his coworkers with his surplus of energy.\n\nApart from this, it seems Anton is always talking to his jackhammer, affectionately calling it, \"Bro.\"\nAn instance from Anton's everyday life goes like this:\nAnton, seemingly in dialogue with himself, asks, \"Whaddaya think, Bro?\" \nThe jackhammer replies, \"Vroom vroom vroom�\"\nAnton, apparently enlightened, responds, \"I see, I see! You still got it, Bro!\"\nUnfortunately, I have not collected enough information on such occurrences and am not able to deliver further analysis.",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission",
+            "Complete Main Commission Chapter 2"
+        ]
+    },
+    "mindscape_cinemas": [
+        {
+            "description": "When Drill Attack hits an enemy, Anton gains additional Energy, up to a maximum of 5 Energy per skill use.",
+            "description2": "\"Are you awake? Get spinning, bro!\"\n\"Try and keep up. It's time to do our stretches!\"",
+            "level": 1,
+            "name": "Warm-Up Exercises"
+        },
+        {
+            "description": "When Anton uses his EX Special Attack and enters Burst Mode, he gains a Shield that equals to 7.5% of his Max HP. While in Burst Mode, entering combat or switching in reapplies the Shield effect. This effect can trigger once every 15s. The Shield dissipates when Burst Mode ends.",
+            "description2": "After arduous training, a few lucky individuals will display exceptional vigor and perform above their usual level during high-intensity activities, entering a state of flow commonly known as \"being in the zone.\"\nAre you ready to get moving and enter the zone?\n� Nitro-Fuel's exclusive program \"Good Morning, Zealous Office Workers!\"",
+            "level": 2,
+            "name": "State of Flow"
+        },
+        {
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Knowing a bit of everything may seem underwhelming, but in a complex and ever-changing Hollow worksite, having a wide skillset can present an opportunity to overcome difficulties.",
+            "level": 3,
+            "name": "Rotational Training"
+        },
+        {
+            "description": "When Anton uses a Chain Attack or Ultimate, all squad members' CRIT Rate increases by 10% for 12s.",
+            "description2": "\"Find your rhythm, and let's get moving!\"\nWhen Anton starts to get serious, everyone becomes more nimble.\nThey have to keep up or else they will be training alone the next day.",
+            "level": 4,
+            "name": "Everyone Get Fired Up!"
+        },
+        {
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Knowing a bit of everything may seem underwhelming, but if you are resolute enough to change from \"knowing a bit\" to \"being excellent,\" then you become omnipotent!",
+            "level": 5,
+            "name": "Jack of All Trades"
+        },
+        {
+            "description": "When Anton's Piledriver Attack triggers a critical hit, his Basic Attack: Enthusiastic Drills (Burst Mode) and Dodge Counter: Overload Drill (Burst Mode) deal 4% more DMG for 30s, stacking up to 6 times. Repeated triggers reset the duration.",
+            "description2": "\"Yeah bro, can you feel the burn?\"\nWhenever Anton wants to exceed his limits,\nhis \"bro\" starts spinning at an astonishing pace, its buzzing echoing Anton's resolution.",
+            "level": 6,
+            "name": "Break the Limit"
+        }
+    ],
+    "name": "Anton",
+    "passive": {
+        "level_up_materials": {
+            "1": [
+                {
+                    "amount": 5000,
+                    "id": 10
+                }
+            ],
+            "2": [
+                {
+                    "amount": 12000,
+                    "id": 10
+                },
+                {
+                    "amount": 2,
+                    "id": 110505
+                }
+            ],
+            "3": [
+                {
+                    "amount": 28000,
+                    "id": 10
+                },
+                {
+                    "amount": 4,
+                    "id": 110505
+                }
+            ],
+            "4": [
+                {
+                    "amount": 60000,
+                    "id": 10
+                },
+                {
+                    "amount": 9,
+                    "id": 110505
+                },
+                {
+                    "amount": 2,
+                    "id": 110002
+                }
+            ],
+            "5": [
+                {
+                    "amount": 100000,
+                    "id": 10
+                },
+                {
+                    "amount": 15,
+                    "id": 110505
+                },
+                {
+                    "amount": 3,
+                    "id": 110002
+                }
+            ],
+            "6": [
+                {
+                    "amount": 200000,
+                    "id": 10
+                },
+                {
+                    "amount": 30,
+                    "id": 110505
+                },
+                {
+                    "amount": 4,
+                    "id": 110002
+                }
+            ]
+        },
+        "levels": {
+            "1": {
+                "descriptions": [
+                    "When Anton uses his Piledriver Attack, the skill's DMG is increased by 12% and when he uses his Drill Attack, the skill's DMG is increased by 20%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in Burst Mode, for every 4 critical hits, the next attack hitting Shocked enemies triggers an additional bout of Shock DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
+                ],
+                "id": 1111501,
+                "level": 1,
+                "names": [
+                    "Core Passive: Brothers in Arms!",
+                    "Additional Ability: Teamwork"
+                ]
+            },
+            "2": {
+                "descriptions": [
+                    "When Anton uses his Piledriver Attack, the skill's DMG is increased by 14% and when he uses his Drill Attack, the skill's DMG is increased by 23.3%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in Burst Mode, for every 4 critical hits, the next attack hitting Shocked enemies triggers an additional bout of Shock DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
+                ],
+                "id": 1111502,
+                "level": 2,
+                "names": [
+                    "Core Passive: Brothers in Arms!",
+                    "Additional Ability: Teamwork"
+                ]
+            },
+            "3": {
+                "descriptions": [
+                    "When Anton uses his Piledriver Attack, the skill's DMG is increased by 16% and when he uses his Drill Attack, the skill's DMG is increased by 26.6%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in Burst Mode, for every 4 critical hits, the next attack hitting Shocked enemies triggers an additional bout of Shock DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
+                ],
+                "id": 1111503,
+                "level": 3,
+                "names": [
+                    "Core Passive: Brothers in Arms!",
+                    "Additional Ability: Teamwork"
+                ]
+            },
+            "4": {
+                "descriptions": [
+                    "When Anton uses his Piledriver Attack, the skill's DMG is increased by 18% and when he uses his Drill Attack, the skill's DMG is increased by 30%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in Burst Mode, for every 4 critical hits, the next attack hitting Shocked enemies triggers an additional bout of Shock DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
+                ],
+                "id": 1111504,
+                "level": 4,
+                "names": [
+                    "Core Passive: Brothers in Arms!",
+                    "Additional Ability: Teamwork"
+                ]
+            },
+            "5": {
+                "descriptions": [
+                    "When Anton uses his Piledriver Attack, the skill's DMG is increased by 20% and when he uses his Drill Attack, the skill's DMG is increased by 33.3%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in Burst Mode, for every 4 critical hits, the next attack hitting Shocked enemies triggers an additional bout of Shock DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
+                ],
+                "id": 1111505,
+                "level": 5,
+                "names": [
+                    "Core Passive: Brothers in Arms!",
+                    "Additional Ability: Teamwork"
+                ]
+            },
+            "6": {
+                "descriptions": [
+                    "When Anton uses his Piledriver Attack, the skill's DMG is increased by 22% and when he uses his Drill Attack, the skill's DMG is increased by 36.6%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in Burst Mode, for every 4 critical hits, the next attack hitting Shocked enemies triggers an additional bout of Shock DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
+                ],
+                "id": 1111506,
+                "level": 6,
+                "names": [
+                    "Core Passive: Brothers in Arms!",
+                    "Additional Ability: Teamwork"
+                ]
+            },
+            "7": {
+                "descriptions": [
+                    "When Anton uses his Piledriver Attack, the skill's DMG is increased by 24% and when he uses his Drill Attack, the skill's DMG is increased by 40%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in Burst Mode, for every 4 critical hits, the next attack hitting Shocked enemies triggers an additional bout of Shock DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
+                ],
+                "id": 1111507,
+                "level": 7,
+                "names": [
+                    "Core Passive: Brothers in Arms!",
+                    "Additional Ability: Teamwork"
+                ]
+            }
+        }
+    },
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1111_1.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1111_2.webp",
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1111_3.webp",
+    "rarity": "A",
+    "skills": {
+        "Assist": {
+            "descriptions": [
+                {
+                    "description": "When the active character is launched, press  to activate:\nContinuously strikes enemies in front of him with heavy punches, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Quick Assist: Shoulder-To-Shoulder",
+                    "params": null
+                },
+                {
+                    "description": "When the active character is launched, press  to activate:\nAttacks enemies in front with a Drill Attack, dealing massive Electric DMG.\nCharacter is invulnerable during the attack.",
+                    "name": "Quick Assist: Protective Drill (Burst Mode)",
+                    "params": null
+                },
+                {
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+                    "name": "Defensive Assist: Iron Wrist",
+                    "params": null
+                },
+                {
+                    "description": "Press  after a Defensive Assist to activate:\nLaunches a Drill Attack that ends in a Piledriver Attack, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Assist Follow-Up: Limit Burst",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Quick Assist: Shoulder-To-Shoulder",
+                    "params": [
+                        {
+                            "description": "{Skill:1111018, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1111018": {
+                                    "format": "%",
+                                    "growth": 2400,
+                                    "main": 26340
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111018, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1111018": {
+                                    "format": "%",
+                                    "growth": 600,
+                                    "main": 13170
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Quick Assist: Protective Drill (Burst Mode)",
+                    "params": [
+                        {
+                            "description": "{Skill:1111019, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1111019": {
+                                    "format": "%",
+                                    "growth": 3330,
+                                    "main": 36540
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111019, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1111019": {
+                                    "format": "%",
+                                    "growth": 1150,
+                                    "main": 25180
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Defensive Assist: Iron Wrist",
+                    "params": [
+                        {
+                            "description": "{Skill:1111020, Prop:1002}",
+                            "name": "Light Defensive Daze Multiplier",
+                            "params": {
+                                "1111020": {
+                                    "format": "%",
+                                    "growth": 1130,
+                                    "main": 24670
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111021, Prop:1002}",
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "params": {
+                                "1111021": {
+                                    "format": "%",
+                                    "growth": 1420,
+                                    "main": 31170
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111022, Prop:1002}",
+                            "name": "Chain Defensive Daze Multiplier",
+                            "params": {
+                                "1111022": {
+                                    "format": "%",
+                                    "growth": 690,
+                                    "main": 15170
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Assist Follow-Up: Limit Burst",
+                    "params": [
+                        {
+                            "description": "{Skill:1111023, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1111023": {
+                                    "format": "%",
+                                    "growth": 2970,
+                                    "main": 32580
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111023, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1111023": {
+                                    "format": "%",
+                                    "growth": 1290,
+                                    "main": 28270
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100113
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100133
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100133
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100113
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100123
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100123
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100123
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100123
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100133
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100133
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100133
+                    }
+                ]
+            },
+            "type": "Assist"
+        },
+        "Basic": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nUnleashes up to 4 mixed attacks in front, dealing Physical DMG.\nThe 4th-hit is a Piledriver Attack.",
+                    "name": "Basic Attack: Enthusiastic Drills",
+                    "params": null
+                },
+                {
+                    "description": "Press  while Anton is in Burst Mode to activate:\nUnleashes up to 3 mixed attacks in front, dealing massive Electric DMG.\nDuring the 2nd Drill Attack and 3rd Piledriver Attack, press repeatedly or hold  to extend the skill duration.",
+                    "name": "Basic Attack: Enthusiastic Drills (Burst Mode)",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Basic Attack: Enthusiastic Drills",
+                    "params": [
+                        {
+                            "description": "{Skill:1111001, Prop:1001}",
+                            "name": "1st-Hit DMG Multiplier",
+                            "params": {
+                                "1111001": {
+                                    "format": "%",
+                                    "growth": 620,
+                                    "main": 6780
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111002, Prop:1001}",
+                            "name": "2nd-Hit DMG Multiplier",
+                            "params": {
+                                "1111002": {
+                                    "format": "%",
+                                    "growth": 840,
+                                    "main": 9230
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111003, Prop:1001}",
+                            "name": "3rd-Hit DMG Multiplier",
+                            "params": {
+                                "1111003": {
+                                    "format": "%",
+                                    "growth": 1000,
+                                    "main": 10980
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111004, Prop:1001}",
+                            "name": "4th-Hit DMG Multiplier",
+                            "params": {
+                                "1111004": {
+                                    "format": "%",
+                                    "growth": 2090,
+                                    "main": 22910
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111001, Prop:1002}",
+                            "name": "1st-Hit Daze Multiplier",
+                            "params": {
+                                "1111001": {
+                                    "format": "%",
+                                    "growth": 160,
+                                    "main": 3390
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111002, Prop:1002}",
+                            "name": "2nd-Hit Daze Multiplier",
+                            "params": {
+                                "1111002": {
+                                    "format": "%",
+                                    "growth": 350,
+                                    "main": 7530
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111003, Prop:1002}",
+                            "name": "3rd-Hit Daze Multiplier",
+                            "params": {
+                                "1111003": {
+                                    "format": "%",
+                                    "growth": 430,
+                                    "main": 9330
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111004, Prop:1002}",
+                            "name": "4th-Hit Daze Multiplier",
+                            "params": {
+                                "1111004": {
+                                    "format": "%",
+                                    "growth": 830,
+                                    "main": 18140
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Basic Attack: Enthusiastic Drills (Burst Mode)",
+                    "params": [
+                        {
+                            "description": "{Skill:1111006, Prop:1001}",
+                            "name": "1st-Hit DMG Multiplier",
+                            "params": {
+                                "1111006": {
+                                    "format": "%",
+                                    "growth": 2190,
+                                    "main": 24090
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111007, Prop:1001}",
+                            "name": "2nd-Hit DMG Multiplier",
+                            "params": {
+                                "1111007": {
+                                    "format": "%",
+                                    "growth": 4270,
+                                    "main": 46920
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111008, Prop:1001}",
+                            "name": "3rd-Hit DMG Multiplier",
+                            "params": {
+                                "1111008": {
+                                    "format": "%",
+                                    "growth": 4160,
+                                    "main": 45690
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111006, Prop:1002}",
+                            "name": "1st-Hit Daze Multiplier",
+                            "params": {
+                                "1111006": {
+                                    "format": "%",
+                                    "growth": 760,
+                                    "main": 16600
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111007, Prop:1002}",
+                            "name": "2nd-Hit Daze Multiplier",
+                            "params": {
+                                "1111007": {
+                                    "format": "%",
+                                    "growth": 1470,
+                                    "main": 32330
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111008, Prop:1002}",
+                            "name": "3rd-Hit Daze Multiplier",
+                            "params": {
+                                "1111008": {
+                                    "format": "%",
+                                    "growth": 1440,
+                                    "main": 31480
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100113
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100133
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100133
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100113
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100123
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100123
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100123
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100123
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100133
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100133
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100133
+                    }
+                ]
+            },
+            "type": "Basic"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a Piledriver Attack onto the ground in front of him over a large area, dealing massive Electric DMG to enemies within range.\nCharacter is invulnerable while using this skill.",
+                    "name": "Chain Attack: Go Go Go!",
+                    "params": null
+                },
+                {
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes a Piledriver Attack onto the ground in front of him over a large area, dealing massive Electric DMG to enemies within range.\nCharacter is invulnerable while using this skill.",
+                    "name": "Ultimate: Go Go Go Go Go!",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Chain Attack: Go Go Go!",
+                    "params": [
+                        {
+                            "description": "{Skill:1111016, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1111016": {
+                                    "format": "%",
+                                    "growth": 5830,
+                                    "main": 64070
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111016, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1111016": {
+                                    "format": "%",
+                                    "growth": 1100,
+                                    "main": 24170
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Ultimate: Go Go Go Go Go!",
+                    "params": [
+                        {
+                            "description": "{Skill:1111017, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1111017": {
+                                    "format": "%",
+                                    "growth": 16520,
+                                    "main": 181640
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111017, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1111017": {
+                                    "format": "%",
+                                    "growth": 1110,
+                                    "main": 24340
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100113
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100133
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100133
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100113
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100123
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100123
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100123
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100123
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100133
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100133
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100133
+                    }
+                ]
+            },
+            "type": "Chain"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "name": "Dodge: Let's Move",
+                    "params": null
+                },
+                {
+                    "description": "Press  during a Dodge to activate:\nRams into enemies in front of him, dealing Physical DMG.",
+                    "name": "Dash Attack: Fire With Fire",
+                    "params": null
+                },
+                {
+                    "description": "Press  during a Perfect Dodge to activate:\nContinuously strikes enemies in front with heavy punches, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Dodge Counter: Retaliation",
+                    "params": null
+                },
+                {
+                    "description": "While in Burst Mode, press  during a Perfect Dodge to activate:\nLaunches a Drill Attack at enemies in front of him, dealing massive Electric DMG.\nCharacter is invulnerable during the attack.",
+                    "name": "Dodge Counter: Overload Drill (Burst Mode)",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Dash Attack: Fire With Fire",
+                    "params": [
+                        {
+                            "description": "{Skill:1111012, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1111012": {
+                                    "format": "%",
+                                    "growth": 630,
+                                    "main": 6840
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111012, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1111012": {
+                                    "format": "%",
+                                    "growth": 160,
+                                    "main": 3420
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Dodge Counter: Retaliation",
+                    "params": [
+                        {
+                            "description": "{Skill:1111014, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1111014": {
+                                    "format": "%",
+                                    "growth": 2470,
+                                    "main": 27120
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111014, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1111014": {
+                                    "format": "%",
+                                    "growth": 1060,
+                                    "main": 23170
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Dodge Counter: Overload Drill (Burst Mode)",
+                    "params": [
+                        {
+                            "description": "{Skill:1111015, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1111015": {
+                                    "format": "%",
+                                    "growth": 4240,
+                                    "main": 46540
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111015, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1111015": {
+                                    "format": "%",
+                                    "growth": 1600,
+                                    "main": 35180
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100113
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100133
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100133
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100113
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100123
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100123
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100123
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100123
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100133
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100133
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100133
+                    }
+                ]
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nUnleashes a Piledriver Attack against enemies in a line in front, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "name": "Special Attack: Spin, Bro!",
+                    "params": null
+                },
+                {
+                    "description": "With enough Energy, press  to activate:\nLaunches several Piledriver Attacks at enemies in a line in front of him, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill.\nAnton enters Burst Mode after using this skill. When in Burst Mode, Anton's attacks become more powerful, dealing massive Electric DMG while continually consuming Energy upon hitting an enemy. Burst Mode remains active until his Energy is depleted.",
+                    "name": "EX Special Attack: Smash the Horizon, Bro!",
+                    "params": null
+                },
+                {
+                    "description": "Press  while in Burst Mode to activate:\nLaunches a Piledriver Attack at enemies in front, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "name": "Special Attack: Explosive Drill (Burst Mode)",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Special Attack: Spin, Bro!",
+                    "params": [
+                        {
+                            "description": "{Skill:1111009, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1111009": {
+                                    "format": "%",
+                                    "growth": 410,
+                                    "main": 4420
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111009, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1111009": {
+                                    "format": "%",
+                                    "growth": 210,
+                                    "main": 4420
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Special Attack: Explosive Drill (Burst Mode)",
+                    "params": [
+                        {
+                            "description": "{Skill:1111010, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1111010": {
+                                    "format": "%",
+                                    "growth": 2110,
+                                    "main": 23140
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111010, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1111010": {
+                                    "format": "%",
+                                    "growth": 540,
+                                    "main": 11840
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "EX Special Attack: Smash the Horizon, Bro!",
+                    "params": [
+                        {
+                            "description": "{Skill:1111011, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1111011": {
+                                    "format": "%",
+                                    "growth": 1780,
+                                    "main": 19510
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1111011, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1111011": {
+                                    "format": "%",
+                                    "growth": 890,
+                                    "main": 19510
+                                }
+                            }
+                        },
+                        {
+                            "description": "40",
+                            "name": "Energy Cost to Use",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100113
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100133
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100133
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100113
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100123
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100123
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100123
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100123
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100133
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100133
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100133
+                    }
+                ]
+            },
+            "type": "Special"
+        }
+    },
+    "specialty": {
+        "id": 1,
+        "name": "Attack"
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 114.0,
+        "AttackGrowth": 67737.0,
+        "AvatarPieceId": 5111.0,
+        "BreakStun": 95.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 50.0,
+        "DefenceGrowth": 67901.0,
+        "ElementAbnormalPower": 86.0,
+        "ElementMystery": 90.0,
+        "Endurance": 0.0,
+        "HpGrowth": 787644.0,
+        "HpMax": 580.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    }
+}

@@ -1,0 +1,1843 @@
+{
+    "ascension": [
+        {
+            "attack": 0,
+            "defense": 0,
+            "materials": [
+                {
+                    "amount": 24000,
+                    "id": 10
+                },
+                {
+                    "amount": 4,
+                    "id": 100214
+                }
+            ],
+            "max_hp": 0,
+            "max_level": 10,
+            "min_level": 0
+        },
+        {
+            "attack": 33,
+            "defense": 34,
+            "materials": [
+                {
+                    "amount": 56000,
+                    "id": 10
+                },
+                {
+                    "amount": 12,
+                    "id": 100224
+                }
+            ],
+            "max_hp": 449,
+            "max_level": 20,
+            "min_level": 10
+        },
+        {
+            "attack": 67,
+            "defense": 69,
+            "materials": [
+                {
+                    "amount": 120000,
+                    "id": 10
+                },
+                {
+                    "amount": 20,
+                    "id": 100224
+                }
+            ],
+            "max_hp": 899,
+            "max_level": 30,
+            "min_level": 20
+        },
+        {
+            "attack": 100,
+            "defense": 103,
+            "materials": [
+                {
+                    "amount": 200000,
+                    "id": 10
+                },
+                {
+                    "amount": 10,
+                    "id": 100234
+                }
+            ],
+            "max_hp": 1348,
+            "max_level": 40,
+            "min_level": 30
+        },
+        {
+            "attack": 133,
+            "defense": 137,
+            "materials": [
+                {
+                    "amount": 400000,
+                    "id": 10
+                },
+                {
+                    "amount": 20,
+                    "id": 100234
+                }
+            ],
+            "max_hp": 1798,
+            "max_level": 50,
+            "min_level": 40
+        },
+        {
+            "attack": 167,
+            "defense": 172,
+            "materials": [],
+            "max_hp": 2247,
+            "max_level": 60,
+            "min_level": 50
+        }
+    ],
+    "attack_type": {
+        "id": 102,
+        "name": "Strike"
+    },
+    "code_name": "Nicole",
+    "element": {
+        "id": 205,
+        "name": "Ether"
+    },
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "format": "{0:0.##}",
+                    "formatted_value": "12",
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "value": 12
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "0",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "format": "{0:0.##}",
+                    "formatted_value": "12",
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "value": 12
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "25",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "format": "{0:0.##}",
+                    "formatted_value": "24",
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "value": 24
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "25",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "format": "{0:0.##}",
+                    "formatted_value": "24",
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "value": 24
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "50",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "format": "{0:0.##}",
+                    "formatted_value": "36",
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "value": 36
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "50",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "format": "{0:0.##}",
+                    "formatted_value": "36",
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "value": 36
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "75",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 75
+                }
+            ]
+        }
+    ],
+    "faction": {
+        "id": 1,
+        "name": "Cunning Hares"
+    },
+    "gender": "F",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect12.webp",
+    "id": 1031,
+    "image": "https://api.hakush.in/zzz/UI/IconRole12.webp",
+    "info": {
+        "birthday": "NOV 11",
+        "faction": "Cunning Hares",
+        "female_impression": "Turns out Nicole is more famous in the biz than I thought huh!",
+        "full_name": "Nicole Demara",
+        "gender": "Female",
+        "male_impression": "Instead of these astute comments, I'm more interested in seeing a comprehensive list of everything Nicole owes us.",
+        "outlook_desc": "HIA License Archive Information:\nHollow Investigator - Nicole. High aptitude for Ether. Permitted to conduct investigations, basic mining, etc. in known Hollows within the city (including companion Hollows).\nAlert: Data shows Nicole's Hollow investigator license has not been renewed for a long time and is about to expire.\nFailure to undergo the relevant tests at one's own expense after the expiry date may result in the license being revoked.",
+        "profile_desc": "Database search: Nicole. Returned results:\n\"Boss of the odd-job agency, the Cunning Hares,\" \"Streetwise,\" \"Orphan, parents unknown.\"\nNicole's agency was originally called Gentle House, but due to her reputation of being cunning, it gained the nickname the Cunning Hares.\n\"She's really into money! I don't know what she's doing with it all though, seems like she's doing nothing.\"\n� The above is a quote from a popular post on Inter-Knot: \"Her odd-job agency is outrageous. I've never encountered a boss who knows how to turn everything into profit!\"\nThe individual involved responded, \"This, this is a false accusation! I, Nicole, have never been skilled at making money � mainly because I don't have any money to begin with!\"\nAccording to reliable sources, the Cunning Hares are constantly in debt, and their \"careful budgeting\" seems to have no effect on the organization.",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission"
+        ]
+    },
+    "mindscape_cinemas": [
+        {
+            "description": "The DMG and the Anomaly Buildup inflicted by Nicole's EX Special Attack increases by 16%. For each additional 0.1s of charging when Nicole activates her EX Special Attack, the duration of the energy field created at the target location increases by 0.15s ",
+            "description2": "\"I've juiced you all up! Go get 'em!\"\n\"Huh? I-I wasn't slacking off, I swear � I just needed a break!\"",
+            "level": 1,
+            "name": "Supercharged Bomb"
+        },
+        {
+            "description": "Nicole recovers 5 Energy when Core Passive: Mechanical Case's debuff is triggered. This effect can trigger once every 15s.",
+            "description2": "\"Never underestimate the value of a single second!\"\n\"Do you have any idea how much extra I can squeeze out of just one second? It's unfathomable!\"\n\"So, can I get a productivity bonus? How about 10%, huh?\"",
+            "level": 2,
+            "name": "Charging Device"
+        },
+        {
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Without overpowering might or abundant resources, Nicole depended on her own sharp mind to bring the Cunning Hares to where they are today.",
+            "level": 3,
+            "name": "A Hare's Cunning"
+        },
+        {
+            "description": "When Nicole uses her EX Special Attack, Chain Attack, or Ultimate, the diameter of the energy field generated at the target location is increased by 3m.",
+            "description2": "\"This, and this too � all of this will soon become the Cunning Hares' territory. Do you hear me!\"\n\"W�What? How soon?\"\n\"Uh... in about ten thousand years, based on current revenue projections.\"",
+            "level": 4,
+            "name": "Field Expansion"
+        },
+        {
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Though they have plenty of enemies in the industry, Nicole has led her team out of many impossible situations, and so their reputation and experience steadily grew.",
+            "level": 5,
+            "name": "Industry Star"
+        },
+        {
+            "description": "When Nicole's energy fields deal DMG to an enemy, all squad member's CRIT Rate against that enemy increases by 1.5%, stacking up to 10 times, and lasting 12s. The duration of each stack is calculated separately.",
+            "description2": "A switch to higher quality ammo with better firepower and increased compressed Etheric Matter leads to higher damage, longer use duration... and higher costs.",
+            "level": 6,
+            "name": "Corrupting Energy Field"
+        }
+    ],
+    "name": "Nicole",
+    "passive": {
+        "level_up_materials": {
+            "1": [
+                {
+                    "amount": 5000,
+                    "id": 10
+                }
+            ],
+            "2": [
+                {
+                    "amount": 12000,
+                    "id": 10
+                },
+                {
+                    "amount": 2,
+                    "id": 110501
+                }
+            ],
+            "3": [
+                {
+                    "amount": 28000,
+                    "id": 10
+                },
+                {
+                    "amount": 4,
+                    "id": 110501
+                }
+            ],
+            "4": [
+                {
+                    "amount": 60000,
+                    "id": 10
+                },
+                {
+                    "amount": 9,
+                    "id": 110501
+                },
+                {
+                    "amount": 2,
+                    "id": 110001
+                }
+            ],
+            "5": [
+                {
+                    "amount": 100000,
+                    "id": 10
+                },
+                {
+                    "amount": 15,
+                    "id": 110501
+                },
+                {
+                    "amount": 3,
+                    "id": 110001
+                }
+            ],
+            "6": [
+                {
+                    "amount": 200000,
+                    "id": 10
+                },
+                {
+                    "amount": 30,
+                    "id": 110501
+                },
+                {
+                    "amount": 4,
+                    "id": 110001
+                }
+            ]
+        },
+        "levels": {
+            "1": {
+                "descriptions": [
+                    "After hitting an enemy with a Special Attack, EX Special Attack, Chain Attack, or Ultimate, Nicole can reload, enhancing her Basic Attack and Dash Attack. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by 20% for 3.5s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's Core Passive: Mechanical Case applies a debuff to an enemy, all squad members deal 25% more Ether DMG to the target for 3.5s."
+                ],
+                "id": 1031501,
+                "level": 1,
+                "names": [
+                    "Core Passive: Mechanical Case",
+                    "Additional Ability: Hare of Many Burrows"
+                ]
+            },
+            "2": {
+                "descriptions": [
+                    "After hitting an enemy with a Special Attack, EX Special Attack, Chain Attack, or Ultimate, Nicole can reload, enhancing her Basic Attack and Dash Attack. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by 25% for 3.5s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's Core Passive: Mechanical Case applies a debuff to an enemy, all squad members deal 25% more Ether DMG to the target for 3.5s."
+                ],
+                "id": 1031502,
+                "level": 2,
+                "names": [
+                    "Core Passive: Mechanical Case",
+                    "Additional Ability: Hare of Many Burrows"
+                ]
+            },
+            "3": {
+                "descriptions": [
+                    "After hitting an enemy with a Special Attack, EX Special Attack, Chain Attack, or Ultimate, Nicole can reload, enhancing her Basic Attack and Dash Attack. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by 30% for 3.5s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's Core Passive: Mechanical Case applies a debuff to an enemy, all squad members deal 25% more Ether DMG to the target for 3.5s."
+                ],
+                "id": 1031503,
+                "level": 3,
+                "names": [
+                    "Core Passive: Mechanical Case",
+                    "Additional Ability: Hare of Many Burrows"
+                ]
+            },
+            "4": {
+                "descriptions": [
+                    "After hitting an enemy with a Special Attack, EX Special Attack, Chain Attack, or Ultimate, Nicole can reload, enhancing her Basic Attack and Dash Attack. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by 34% for 3.5s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's Core Passive: Mechanical Case applies a debuff to an enemy, all squad members deal 25% more Ether DMG to the target for 3.5s."
+                ],
+                "id": 1031504,
+                "level": 4,
+                "names": [
+                    "Core Passive: Mechanical Case",
+                    "Additional Ability: Hare of Many Burrows"
+                ]
+            },
+            "5": {
+                "descriptions": [
+                    "After hitting an enemy with a Special Attack, EX Special Attack, Chain Attack, or Ultimate, Nicole can reload, enhancing her Basic Attack and Dash Attack. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by 36% for 3.5s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's Core Passive: Mechanical Case applies a debuff to an enemy, all squad members deal 25% more Ether DMG to the target for 3.5s."
+                ],
+                "id": 1031505,
+                "level": 5,
+                "names": [
+                    "Core Passive: Mechanical Case",
+                    "Additional Ability: Hare of Many Burrows"
+                ]
+            },
+            "6": {
+                "descriptions": [
+                    "After hitting an enemy with a Special Attack, EX Special Attack, Chain Attack, or Ultimate, Nicole can reload, enhancing her Basic Attack and Dash Attack. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by 38% for 3.5s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's Core Passive: Mechanical Case applies a debuff to an enemy, all squad members deal 25% more Ether DMG to the target for 3.5s."
+                ],
+                "id": 1031506,
+                "level": 6,
+                "names": [
+                    "Core Passive: Mechanical Case",
+                    "Additional Ability: Hare of Many Burrows"
+                ]
+            },
+            "7": {
+                "descriptions": [
+                    "After hitting an enemy with a Special Attack, EX Special Attack, Chain Attack, or Ultimate, Nicole can reload, enhancing her Basic Attack and Dash Attack. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by 40% for 3.5s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's Core Passive: Mechanical Case applies a debuff to an enemy, all squad members deal 25% more Ether DMG to the target for 3.5s."
+                ],
+                "id": 1031507,
+                "level": 7,
+                "names": [
+                    "Core Passive: Mechanical Case",
+                    "Additional Ability: Hare of Many Burrows"
+                ]
+            }
+        }
+    },
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1031_1.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1031_2.webp",
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1031_3.webp",
+    "rarity": "A",
+    "skills": {
+        "Assist": {
+            "descriptions": [
+                {
+                    "description": "When the active character is launched, press  to activate:\nDodge backwards and send a ranged strike at enemies in front, dealing Ether DMG.\nCharacter is invulnerable while using this skill.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times.",
+                    "name": "Quick Assist: Emergency Bombard",
+                    "params": null
+                },
+                {
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "name": "Defensive Assist: The Hare Strikes Back!",
+                    "params": null
+                },
+                {
+                    "description": "Press  after a Defensive Assist to activate:\nCharge forward and bombard enemies, dealing Ether DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Assist Follow-Up: Window of Opportunity",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Quick Assist: Emergency Bombard",
+                    "params": [
+                        {
+                            "description": "{{Skill:1031401, Prop:1001} + {Skill:1031402, Prop:1001}}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1031401": {
+                                    "format": "%",
+                                    "growth": 290,
+                                    "main": 3170
+                                },
+                                "1031402": {
+                                    "format": "%",
+                                    "growth": 290,
+                                    "main": 3170
+                                }
+                            }
+                        },
+                        {
+                            "description": "{{Skill:1031401, Prop:1002} + {Skill:1031402, Prop:1002}}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1031401": {
+                                    "format": "%",
+                                    "growth": 150,
+                                    "main": 3170
+                                },
+                                "1031402": {
+                                    "format": "%",
+                                    "growth": 150,
+                                    "main": 3170
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Defensive Assist: The Hare Strikes Back!",
+                    "params": [
+                        {
+                            "description": "{Skill:1031403, Prop:1002}",
+                            "name": "Light Defensive Daze Multiplier",
+                            "params": {
+                                "1031403": {
+                                    "format": "%",
+                                    "growth": 1130,
+                                    "main": 24670
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031404, Prop:1002}",
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "params": {
+                                "1031404": {
+                                    "format": "%",
+                                    "growth": 1420,
+                                    "main": 31170
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031405, Prop:1002}",
+                            "name": "Chain Defensive Daze Multiplier",
+                            "params": {
+                                "1031405": {
+                                    "format": "%",
+                                    "growth": 690,
+                                    "main": 15170
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Assist Follow-Up: Window of Opportunity",
+                    "params": [
+                        {
+                            "description": "{Skill:1031501, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1031501": {
+                                    "format": "%",
+                                    "growth": 3430,
+                                    "main": 37710
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031501, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1031501": {
+                                    "format": "%",
+                                    "growth": 1510,
+                                    "main": 33030
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100115
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100135
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100135
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100115
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100125
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100125
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100125
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100125
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100135
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100135
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100135
+                    }
+                ]
+            },
+            "type": "Assist"
+        },
+        "Basic": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nUnleashes up to 3 strikes, dealing Physical DMG.",
+                    "name": "Basic Attack: Cunning Combo",
+                    "params": null
+                },
+                {
+                    "description": "After using a Special Attack, EX Special Attack, Chain Attack, or Ultimate, Nicole can reload, and her Basic Attack and Dash Attack are enhanced, increasing the power of her bullets.",
+                    "name": "Basic Attack: Do As I Please",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Basic Attack: Cunning Combo",
+                    "params": [
+                        {
+                            "description": "{Skill:1031001, Prop:1001} + {{Skill:1031002, Prop:1001}/3}*3",
+                            "name": "1st-Hit DMG Multiplier",
+                            "params": {
+                                "1031001": {
+                                    "format": "%",
+                                    "growth": 360,
+                                    "main": 3890
+                                },
+                                "1031002": {
+                                    "format": "%",
+                                    "growth": 250,
+                                    "main": 2710
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031004, Prop:1001} + {{Skill:1031005, Prop:1001}/4}*4",
+                            "name": "2nd-Hit DMG Multiplier",
+                            "params": {
+                                "1031004": {
+                                    "format": "%",
+                                    "growth": 330,
+                                    "main": 3530
+                                },
+                                "1031005": {
+                                    "format": "%",
+                                    "growth": 330,
+                                    "main": 3610
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031007, Prop:1001} + {{Skill:1031008, Prop:1001}/20}*20",
+                            "name": "3rd-Hit DMG Multiplier",
+                            "params": {
+                                "1031007": {
+                                    "format": "%",
+                                    "growth": 1130,
+                                    "main": 12430
+                                },
+                                "1031008": {
+                                    "format": "%",
+                                    "growth": 1640,
+                                    "main": 18040
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031001, Prop:1002} + {{Skill:1031002, Prop:1002}/3}*3",
+                            "name": "1st-Hit Daze Multiplier",
+                            "params": {
+                                "1031001": {
+                                    "format": "%",
+                                    "growth": 90,
+                                    "main": 1950
+                                },
+                                "1031002": {
+                                    "format": "%",
+                                    "growth": 100,
+                                    "main": 2090
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031004, Prop:1002} + {{Skill:1031005, Prop:1002}/4}*4",
+                            "name": "2nd-Hit Daze Multiplier",
+                            "params": {
+                                "1031004": {
+                                    "format": "%",
+                                    "growth": 140,
+                                    "main": 2900
+                                },
+                                "1031005": {
+                                    "format": "%",
+                                    "growth": 130,
+                                    "main": 2780
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031007, Prop:1002} + {{Skill:1031008, Prop:1002}/20}*20",
+                            "name": "3rd-Hit Daze Multiplier",
+                            "params": {
+                                "1031007": {
+                                    "format": "%",
+                                    "growth": 480,
+                                    "main": 10430
+                                },
+                                "1031008": {
+                                    "format": "%",
+                                    "growth": 640,
+                                    "main": 13880
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Basic Attack: Do As I Please",
+                    "params": [
+                        {
+                            "description": "{Skill:1031001, Prop:1001} + {{Skill:1031003, Prop:1001}/3}*3",
+                            "name": "1st-Hit DMG Multiplier",
+                            "params": {
+                                "1031001": {
+                                    "format": "%",
+                                    "growth": 360,
+                                    "main": 3890
+                                },
+                                "1031003": {
+                                    "format": "%",
+                                    "growth": 450,
+                                    "main": 4940
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031004, Prop:1001} + {{Skill:1031006, Prop:1001}/4}*4",
+                            "name": "2nd-Hit DMG Multiplier",
+                            "params": {
+                                "1031004": {
+                                    "format": "%",
+                                    "growth": 330,
+                                    "main": 3530
+                                },
+                                "1031006": {
+                                    "format": "%",
+                                    "growth": 600,
+                                    "main": 6580
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031007, Prop:1001} + {{Skill:1031009, Prop:1001}/20}*20",
+                            "name": "3rd-Hit DMG Multiplier",
+                            "params": {
+                                "1031007": {
+                                    "format": "%",
+                                    "growth": 1130,
+                                    "main": 12430
+                                },
+                                "1031009": {
+                                    "format": "%",
+                                    "growth": 3000,
+                                    "main": 32900
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031001, Prop:1002} + {{Skill:1031003, Prop:1002}/3}*3",
+                            "name": "1st-Hit Daze Multiplier",
+                            "params": {
+                                "1031001": {
+                                    "format": "%",
+                                    "growth": 90,
+                                    "main": 1950
+                                },
+                                "1031003": {
+                                    "format": "%",
+                                    "growth": 100,
+                                    "main": 2090
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031004, Prop:1002} + {{Skill:1031006, Prop:1002}/4}*4",
+                            "name": "2nd-Hit Daze Multiplier",
+                            "params": {
+                                "1031004": {
+                                    "format": "%",
+                                    "growth": 140,
+                                    "main": 2900
+                                },
+                                "1031006": {
+                                    "format": "%",
+                                    "growth": 130,
+                                    "main": 2780
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031007, Prop:1002} + {{Skill:1031009, Prop:1002}/20}*20",
+                            "name": "3rd-Hit Daze Multiplier",
+                            "params": {
+                                "1031007": {
+                                    "format": "%",
+                                    "growth": 480,
+                                    "main": 10430
+                                },
+                                "1031009": {
+                                    "format": "%",
+                                    "growth": 640,
+                                    "main": 13880
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100115
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100135
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100135
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100115
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100125
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100125
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100125
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100125
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100135
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100135
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100135
+                    }
+                ]
+            },
+            "type": "Basic"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful ranged strike at enemies in a small area, generating an energy field that pulls enemies towards its center to deal Ether DMG.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times.",
+                    "name": "Chain Attack: Ether Shellacking",
+                    "params": null
+                },
+                {
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes a powerful ranged strike at enemies in a small area, generating an energy field that pulls enemies towards its center to deal Ether DMG.\nWhen using this skill, other squad members recover 10 Energy. The next character to switch in gains an additional 20 Energy.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times.",
+                    "name": "Ultimate: Ether Grenade",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Chain Attack: Ether Shellacking",
+                    "params": [
+                        {
+                            "description": "{{Skill:1031301, Prop:1001} + {Skill:1031302, Prop:1001}}",
+                            "name": "Bombard DMG Multiplier",
+                            "params": {
+                                "1031301": {
+                                    "format": "%",
+                                    "growth": 960,
+                                    "main": 10480
+                                },
+                                "1031302": {
+                                    "format": "%",
+                                    "growth": 960,
+                                    "main": 10480
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031303, Prop:1001}",
+                            "name": "Energy Field DMG Multiplier",
+                            "params": {
+                                "1031303": {
+                                    "format": "%",
+                                    "growth": 2580,
+                                    "main": 28300
+                                }
+                            }
+                        },
+                        {
+                            "description": "{{Skill:1031301, Prop:1002} + {Skill:1031302, Prop:1002}}",
+                            "name": "Bombard Daze Multiplier",
+                            "params": {
+                                "1031301": {
+                                    "format": "%",
+                                    "growth": 120,
+                                    "main": 2500
+                                },
+                                "1031302": {
+                                    "format": "%",
+                                    "growth": 120,
+                                    "main": 2500
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031303, Prop:1002}",
+                            "name": "Energy Field Daze Multiplier",
+                            "params": {
+                                "1031303": {
+                                    "format": "%",
+                                    "growth": 310,
+                                    "main": 6750
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Ultimate: Ether Grenade",
+                    "params": [
+                        {
+                            "description": "{Skill:1031304, Prop:1001}",
+                            "name": "Bombard DMG Multiplier",
+                            "params": {
+                                "1031304": {
+                                    "format": "%",
+                                    "growth": 5880,
+                                    "main": 64680
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031305, Prop:1001}",
+                            "name": "Energy Field DMG Multiplier",
+                            "params": {
+                                "1031305": {
+                                    "format": "%",
+                                    "growth": 7940,
+                                    "main": 87320
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031304, Prop:1002}",
+                            "name": "Bombard Daze Multiplier",
+                            "params": {
+                                "1031304": {
+                                    "format": "%",
+                                    "growth": 170,
+                                    "main": 3600
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031305, Prop:1002}",
+                            "name": "Energy Field Daze Multiplier",
+                            "params": {
+                                "1031305": {
+                                    "format": "%",
+                                    "growth": 230,
+                                    "main": 4860
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100115
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100135
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100135
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100115
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100125
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100125
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100125
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100125
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100135
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100135
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100135
+                    }
+                ]
+            },
+            "type": "Chain"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.\nDrag the stick/joystick to dodge, then hold  to reload while dodging, enhancing Basic Attacks and Dash Attacks up to 8 times.",
+                    "name": "Dodge: Speed Demon",
+                    "params": null
+                },
+                {
+                    "description": "When dragging the stick/joystick during a dodge, press :\nDashes in the target direction and strikes nearby enemies, dealing Physical DMG.\nWhen not dragging the stick/joystick during a dodge, press :\nVaults backward and launches a ranged strike against enemies in front, dealing Physical DMG.\nAutomatically reloads after the attack to enhance her Basic Attack and Dash Attack, up to 8 times.",
+                    "name": "Dash Attack: Jack in the Box",
+                    "params": null
+                },
+                {
+                    "description": "Press  during a Perfect Dodge to activate:\nDodge backwards and send a ranged strike at enemies in front, dealing Ether DMG.\nCharacter is invulnerable while using this skill.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times.",
+                    "name": "Dodge Counter: Diverted Bombard",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Dash Attack: Jack in the Box",
+                    "params": [
+                        {
+                            "description": "{Skill:1031201, Prop:1001} + {{Skill:1031202, Prop:1001}/13}*13",
+                            "name": "Forward Dash DMG Multiplier",
+                            "params": {
+                                "1031201": {
+                                    "format": "%",
+                                    "growth": 380,
+                                    "main": 4120
+                                },
+                                "1031202": {
+                                    "format": "%",
+                                    "growth": 1070,
+                                    "main": 11730
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031204, Prop:1001}",
+                            "name": "Backward Vault DMG Multiplier",
+                            "params": {
+                                "1031204": {
+                                    "format": "%",
+                                    "growth": 550,
+                                    "main": 6000
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031201, Prop:1002} + {{Skill:1031202, Prop:1002}/13}*13",
+                            "name": "Forward Dash Daze Multiplier",
+                            "params": {
+                                "1031201": {
+                                    "format": "%",
+                                    "growth": 140,
+                                    "main": 2900
+                                },
+                                "1031202": {
+                                    "format": "%",
+                                    "growth": 210,
+                                    "main": 4510
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031204, Prop:1002}",
+                            "name": "Backward Vault Daze Multiplier",
+                            "params": {
+                                "1031204": {
+                                    "format": "%",
+                                    "growth": 280,
+                                    "main": 6000
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Dash Attack: Do As I Please",
+                    "params": [
+                        {
+                            "description": "{Skill:1031201, Prop:1001} + {{Skill:1031203, Prop:1001}/13}*13",
+                            "name": "Forward Dash DMG Multiplier",
+                            "params": {
+                                "1031201": {
+                                    "format": "%",
+                                    "growth": 380,
+                                    "main": 4120
+                                },
+                                "1031203": {
+                                    "format": "%",
+                                    "growth": 1070,
+                                    "main": 11730
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031201, Prop:1002} + {{Skill:1031203, Prop:1002}/13}*13",
+                            "name": "Forward Dash Daze Multiplier",
+                            "params": {
+                                "1031201": {
+                                    "format": "%",
+                                    "growth": 140,
+                                    "main": 2900
+                                },
+                                "1031203": {
+                                    "format": "%",
+                                    "growth": 210,
+                                    "main": 4510
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Dodge Counter: Diverted Bombard",
+                    "params": [
+                        {
+                            "description": "{{Skill:1031205, Prop:1001} + {Skill:1031206, Prop:1001}}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1031205": {
+                                    "format": "%",
+                                    "growth": 830,
+                                    "main": 9120
+                                },
+                                "1031206": {
+                                    "format": "%",
+                                    "growth": 830,
+                                    "main": 9120
+                                }
+                            }
+                        },
+                        {
+                            "description": "{{Skill:1031205, Prop:1002} + {Skill:1031206, Prop:1002}}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1031205": {
+                                    "format": "%",
+                                    "growth": 380,
+                                    "main": 8170
+                                },
+                                "1031206": {
+                                    "format": "%",
+                                    "growth": 380,
+                                    "main": 8170
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100115
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100135
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100135
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100115
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100125
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100125
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100125
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100125
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100135
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100135
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100135
+                    }
+                ]
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nUnleashes a ranged strike against enemies in front, dealing Ether DMG.\nAnti-Interrupt level is increased while using this skill.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times.",
+                    "name": "Special Attack: Sugarcoated Bullet",
+                    "params": null
+                },
+                {
+                    "description": "With enough Energy, press  to activate:\nA powerful ranged strike, generating an energy field that pulls enemies towards its center to deal Ether DMG.\nHold  down to charge up this attack, during which a small energy field is generated at the muzzle as Energy is consumed, dealing bonus DMG to enemies nearby.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy.\nAutomatically reloads after the attack to enhance Basic Attack and Dash Attack up to 8 times.",
+                    "name": "EX Special Attack: Stuffed Sugarcoated Bullet",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Special Attack: Sugarcoated Bullet",
+                    "params": [
+                        {
+                            "description": "{{Skill:1031101, Prop:1001} + {Skill:1031102, Prop:1001}}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1031101": {
+                                    "format": "%",
+                                    "growth": 240,
+                                    "main": 2630
+                                },
+                                "1031102": {
+                                    "format": "%",
+                                    "growth": 240,
+                                    "main": 2630
+                                }
+                            }
+                        },
+                        {
+                            "description": "{{Skill:1031101, Prop:1002} + {Skill:1031102, Prop:1002}}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1031101": {
+                                    "format": "%",
+                                    "growth": 120,
+                                    "main": 2500
+                                },
+                                "1031102": {
+                                    "format": "%",
+                                    "growth": 120,
+                                    "main": 2500
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "EX Special Attack: Stuffed Sugarcoated Bullet",
+                    "params": [
+                        {
+                            "description": "{Skill:1031103, Prop:1001}",
+                            "name": "Charged Attack DMG Multiplier",
+                            "params": {
+                                "1031103": {
+                                    "format": "%",
+                                    "growth": 1960,
+                                    "main": 21500
+                                }
+                            }
+                        },
+                        {
+                            "description": "{{Skill:1031104, Prop:1001} + {Skill:1031105, Prop:1001}}",
+                            "name": "Bombard DMG Multiplier",
+                            "params": {
+                                "1031104": {
+                                    "format": "%",
+                                    "growth": 980,
+                                    "main": 10750
+                                },
+                                "1031105": {
+                                    "format": "%",
+                                    "growth": 980,
+                                    "main": 10750
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031106, Prop:1001}",
+                            "name": "Energy Field DMG Multiplier",
+                            "params": {
+                                "1031106": {
+                                    "format": "%",
+                                    "growth": 3520,
+                                    "main": 38700
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031103, Prop:1002}",
+                            "name": "Charged Daze Multiplier",
+                            "params": {
+                                "1031103": {
+                                    "format": "%",
+                                    "growth": 820,
+                                    "main": 17980
+                                }
+                            }
+                        },
+                        {
+                            "description": "{{Skill:1031104, Prop:1002} + {Skill:1031105, Prop:1002}}",
+                            "name": "Bombard Daze Multiplier",
+                            "params": {
+                                "1031104": {
+                                    "format": "%",
+                                    "growth": 410,
+                                    "main": 8990
+                                },
+                                "1031105": {
+                                    "format": "%",
+                                    "growth": 410,
+                                    "main": 8990
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1031106, Prop:1002}",
+                            "name": "Energy Field Daze Multiplier",
+                            "params": {
+                                "1031106": {
+                                    "format": "%",
+                                    "growth": 1480,
+                                    "main": 32360
+                                }
+                            }
+                        },
+                        {
+                            "description": "20 Energy/sec",
+                            "name": "Charged Attack Energy Cost",
+                            "params": null
+                        },
+                        {
+                            "description": "60",
+                            "name": "Bombard Energy Cost",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100115
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100135
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100135
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100115
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100125
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100125
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100125
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100125
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100135
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100135
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100135
+                    }
+                ]
+            },
+            "type": "Special"
+        }
+    },
+    "specialty": {
+        "id": 4,
+        "name": "Support"
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 93.0,
+        "AttackGrowth": 53249.0,
+        "AvatarPieceId": 5031.0,
+        "BreakStun": 88.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 50.0,
+        "DefenceGrowth": 67901.0,
+        "ElementAbnormalPower": 90.0,
+        "ElementMystery": 93.0,
+        "Endurance": 0.0,
+        "HpGrowth": 888787.0,
+        "HpMax": 655.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    }
+}

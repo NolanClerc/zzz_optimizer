@@ -1,0 +1,1716 @@
+{
+    "id": 1171,
+    "image": "https://api.hakush.in/zzz/UI/IconRole32.webp",
+    "name": "Burnice",
+    "code_name": "Burnice",
+    "rarity": "S",
+    "specialty": {
+        "id": 3,
+        "name": "Anomaly"
+    },
+    "element": {
+        "id": 201,
+        "name": "Fire"
+    },
+    "attack_type": {
+        "id": 103,
+        "name": "Pierce"
+    },
+    "faction": {
+        "id": 4,
+        "name": "Sons of Calydon"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "MAY 23",
+        "full_name": "Burnice White",
+        "gender": "Female",
+        "female_impression": "Burnice sure makes delicious drinks! No wonder she's famous in the Outer Ring.",
+        "male_impression": "Yeah, so long as we don't try her blends for Steeltusk.",
+        "outlook_desc": "There's no record of Burnice in the New Eridu Citizen Verification Profile.\nNote: Burnice has a good Aptitude for Ether",
+        "profile_desc": "Burnice, the Nitro-Fuel bartender for the Sons of Calydon.\nA hopeless fuel lover. She is responsible for all the fuel used by the machinery owned by the Sons of Calydon.\nShe seems to have a passion for fuel that overwhelms all else.\n\nBurnice is super outgoing, friendly, and carefree.\nShe is easily able to spread her emotions to the people around her, bringing them the same optimism she possesses.\n\"You like the drinks I mix? Thank you! Steeltusk does, too~ That big guy can drink two hundred liters in one go!\"\n\"Do you wanna try its special fuel blend? It's suuuuper hot!\"",
+        "faction": "Sons of Calydon",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 124.0,
+        "AttackGrowth": 74992.0,
+        "AvatarPieceId": 5171.0,
+        "BreakStun": 83.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 48.0,
+        "DefenceGrowth": 65524.0,
+        "ElementAbnormalPower": 118.0,
+        "ElementMystery": 120.0,
+        "Endurance": 0.0,
+        "HpGrowth": 803931.0,
+        "HpMax": 592.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Kindred Flames",
+            "description": "Increases the limit of Heat from 100 to 140. Upon entering the battlefield, Burnice accumulates an additional 40 Heat. Increases the DMG Multiplier of the Afterburn effect by 100% of Burnice's ATK. Additionally, the accumulated Fire Anomaly Buildup from the Afterburn effect is increased by 25%.",
+            "description2": "\"Everyone has rough times; it's perfectly normal!\"\n\"Cheer up, Caesar! How about a Nitro-Fuel special? I added a ton of sugar!\""
+        },
+        {
+            "level": 2,
+            "name": "Extra at No Additional Charge",
+            "description": "When triggering the Afterburn effect, Thermal Penetration is applied to the enemy, stacking up to 5 times and lasting 6s. Repeated triggers reset the duration. When any allied unit in the squad hits the enemy, the attack's PEN Ratio is increased by 4% for each stack of Thermal Penetration, up to a max of 20%.",
+            "description2": "As the mixologist for the Sons of Calydon, Burnice takes great pleasure in crafting the best Nitro-Fuel drinks in New Eridu for her friends.\nOf course, if you happen to be her enemy... you might have the opportunity to try a new and unique flavor too.\n\"It's a once-in-a-lifetime, absolutely exquisite taste!\""
+        },
+        {
+            "level": 3,
+            "name": "Optimistic by Nature",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"That Burnice, she's always so full of energy! Even right after waking up! I have no idea where she gets all that energy...\"\n\"What's even scarier is that she can get everyone around her to be just as enthusiastic! It's almost like she's some kind of monster!\"\n\"But... I don't really dislike it, to be honest...\"\n— From a boar manager who wishes to remain unnamed"
+        },
+        {
+            "level": 4,
+            "name": "Ultimate Fuel Supply",
+            "description": "When an EX Special Attack or Assist Attack hits an enemy, the move's CRIT Rate increases by 30%. The max flame spray duration of EX Special Attack: Intense Heat Stirring Method - Double Shot is increased by 1s.",
+            "description2": "\"You like the drink I mixed? Thanks! Steeltusk likes them too~ That guy can drink 200 liters in one go!\"\n\"Oh, Steeltusk is our big truck!\"\n\"Wanna try some of its special fuel? It's pretty fiery~\""
+        },
+        {
+            "level": 5,
+            "name": "Dance of Fire and Ice",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "When mixing drinks, ice is a crucial element.\nWithout an intense chill, the intense heat just doesn't stand out.\n\"That fusion of fire and ice~ It's truly captivating!\""
+        },
+        {
+            "level": 6,
+            "name": "Burning Invitation",
+            "description": "When Burnice hits an enemy with EX Special Attack: Intense Heat Stirring Method - Double Shot, it triggers an additional special Afterburn effect, dealing 60% of Burnice's ATK as Fire DMG to the target. This effect can trigger once every 0.5s and does not consume Heat. After hitting an enemy with EX Special Attack: Intense Heat Stirring Method - Double Shot, while the move is active, EX Special Attack: Intense Heat Stirring Method - Double Shot, special Afterburn effects, and Burn effects will ignore 25% of the target's Fire RES. When EX Special Attack: Intense Heat Stirring Method - Double Shot's fire blast hits an enemy, if that enemy is Burned, trigger an additional instance of Burn DMG equal to 1,800% of the original DMG. This effect can trigger once every 20s for each target.",
+            "description2": "It seems like no one has ever seen Burnice truly angry.\n\"Trust me, you don't want to see it.\"\n— From a driver getting ready to sleep atop Steeltusk"
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100213,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 407,
+            "attack": 44,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100223,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 813,
+            "attack": 89,
+            "defense": 66,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100223,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1220,
+            "attack": 133,
+            "defense": 99,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100233,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1626,
+            "attack": 177,
+            "defense": 133,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100233,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2033,
+            "attack": 222,
+            "defense": 166,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Direct Flame Blend",
+                    "description": "Press  to activate:\nUnleashes up to 5 attacks in front, dealing Physical DMG and Fire DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Mixed Flame Blend",
+                    "description": "In the Nitro-Fuel Cocktail state, hold  to activate:\nSpin continuously while spraying flames around, followed by a Finishing Move that inflicts Fire DMG. Continuing to hold extends the flame-spraying duration.\nWhen the move is activated, it consumes 20 Heat;\nAnti-Interrupt level is increased while using this skill.\nAfter executing the Finishing Move, press  to immediately follow up with EX Special Attack: Intense Heat Stirring Method - Double Shot.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Direct Flame Blend",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1171001, Prop:1001}",
+                            "params": {
+                                "1171001": {
+                                    "main": 4480,
+                                    "growth": 410,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1171002, Prop:1001}",
+                            "params": {
+                                "1171002": {
+                                    "main": 4350,
+                                    "growth": 400,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1171003, Prop:1001}",
+                            "params": {
+                                "1171003": {
+                                    "main": 7170,
+                                    "growth": 660,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1171004, Prop:1001}",
+                            "params": {
+                                "1171004": {
+                                    "main": 6660,
+                                    "growth": 610,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1171005, Prop:1001}",
+                            "params": {
+                                "1171005": {
+                                    "main": 9630,
+                                    "growth": 880,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1171001, Prop:1002}",
+                            "params": {
+                                "1171001": {
+                                    "main": 1870,
+                                    "growth": 90,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1171002, Prop:1002}",
+                            "params": {
+                                "1171002": {
+                                    "main": 3080,
+                                    "growth": 140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1171003, Prop:1002}",
+                            "params": {
+                                "1171003": {
+                                    "main": 4780,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1171004, Prop:1002}",
+                            "params": {
+                                "1171004": {
+                                    "main": 3040,
+                                    "growth": 140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1171005, Prop:1002}",
+                            "params": {
+                                "1171005": {
+                                    "main": 5200,
+                                    "growth": 240,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Mixed Flame Blend",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Continuous Spray DMG Multiplier",
+                            "description": "{Skill:1171006, Prop:1001}",
+                            "params": {
+                                "1171006": {
+                                    "main": 12540,
+                                    "growth": 1140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Finishing Move DMG Multiplier",
+                            "description": "{Skill:1171007, Prop:1001}",
+                            "params": {
+                                "1171007": {
+                                    "main": 23280,
+                                    "growth": 2120,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Continuous Spray Daze Multiplier",
+                            "description": "{Skill:1171006, Prop:1002}",
+                            "params": {
+                                "1171006": {
+                                    "main": 9650,
+                                    "growth": 440,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Finishing Move Daze Multiplier",
+                            "description": "{Skill:1171007, Prop:1002}",
+                            "params": {
+                                "1171007": {
+                                    "main": 17910,
+                                    "growth": 820,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Fiery Phantom Dash",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Dangerous Fermentation",
+                    "description": "Press  during a dodge to activate:\nPerform a forward rush attack with the flamethrower, dealing Fire DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Fluttering Steps",
+                    "description": "Press  during a Perfect Dodge to activate:\nLaunch a series of attacks on enemies in front while spraying flames, dealing Physical DMG and Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Dangerous Fermentation",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1171014, Prop:1001}",
+                            "params": {
+                                "1171014": {
+                                    "main": 6790,
+                                    "growth": 620,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1171014, Prop:1002}",
+                            "params": {
+                                "1171014": {
+                                    "main": 3400,
+                                    "growth": 160,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Fluttering Steps",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1171015, Prop:1001}",
+                            "params": {
+                                "1171015": {
+                                    "main": 21970,
+                                    "growth": 2000,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1171015, Prop:1002}",
+                            "params": {
+                                "1171015": {
+                                    "main": 19440,
+                                    "growth": 890,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Intense Heat Aging Method",
+                    "description": "Press  to activate:\nUnleash a fire blast forward, inflicting Fire DMG;\nPress and hold  to charge, boosting the move's power.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Intense Heat Stirring Method",
+                    "description": "With enough energy, press  to activate:\nContinuously spray flames with a one-handed flamethrower, then release a fire blast in a straight line ahead, dealing massive Fire DMG. Continue holding to steadily consume energy and extend the spray's duration.\nWhile continuously spraying, drag the stick/joystick to execute a sidestep dodge, adjusting your position in the corresponding direction.\nAnti-Interrupt Level is increased while continuously spraying, and DMG taken is reduced by 40%.\nCharacter is invulnerable during sidestep dodge and fire blast.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Intense Heat Stirring Method - Double Shot",
+                    "description": "While using EX Special Attack: Intense Heat Stirring Method, with enough Energy, press  to activate:\nUse both flamethrowers to continuously spray flames, followed by a fire blast in a front line, dealing massive Fire DMG. Keep holding to continue consuming Energy and extend the spray's duration.\nCharacter is invulnerable during the moment the spray is activated and during the activation of the fire blast.\nAnti-Interrupt Level is increased while spraying, and DMG received is reduced by 40%.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Intense Heat Aging Method",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1171008, Prop:1001}",
+                            "params": {
+                                "1171008": {
+                                    "main": 5780,
+                                    "growth": 530,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charged Attack DMG Multiplier",
+                            "description": "{Skill:1171009, Prop:1001}",
+                            "params": {
+                                "1171009": {
+                                    "main": 6240,
+                                    "growth": 570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1171008, Prop:1002}",
+                            "params": {
+                                "1171008": {
+                                    "main": 5780,
+                                    "growth": 270,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charged Daze Multiplier",
+                            "description": "{Skill:1171009, Prop:1002}",
+                            "params": {
+                                "1171009": {
+                                    "main": 6240,
+                                    "growth": 290,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Intense Heat Stirring Method",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Continuous Spray DMG Multiplier",
+                            "description": "{Skill:1171010, Prop:1001}",
+                            "params": {
+                                "1171010": {
+                                    "main": 54380,
+                                    "growth": 4950,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Continuous Spray Daze Multiplier",
+                            "description": "{Skill:1171010, Prop:1002}",
+                            "params": {
+                                "1171010": {
+                                    "main": 37860,
+                                    "growth": 1730,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Fire Blast DMG Multiplier",
+                            "description": "{Skill:1171011, Prop:1001}",
+                            "params": {
+                                "1171011": {
+                                    "main": 9670,
+                                    "growth": 880,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Fire Blast Daze Multiplier",
+                            "description": "{Skill:1171011, Prop:1002}",
+                            "params": {
+                                "1171011": {
+                                    "main": 6570,
+                                    "growth": 300,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost to Use",
+                            "description": "40",
+                            "params": null
+                        },
+                        {
+                            "name": "Continuous Spray Energy Cost",
+                            "description": "12.5/s",
+                            "params": null
+                        },
+                        {
+                            "name": "Fire Blast Energy Cost",
+                            "description": "5",
+                            "params": null
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Intense Heat Stirring Method - Double Shot",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Continuous Spray DMG Multiplier",
+                            "description": "{Skill:1171012, Prop:1001}",
+                            "params": {
+                                "1171012": {
+                                    "main": 95810,
+                                    "growth": 8710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Continuous Spray Daze Multiplier",
+                            "description": "{Skill:1171012, Prop:1002}",
+                            "params": {
+                                "1171012": {
+                                    "main": 58570,
+                                    "growth": 2670,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Fire Blast DMG Multiplier",
+                            "description": "{Skill:1171013, Prop:1001}",
+                            "params": {
+                                "1171013": {
+                                    "main": 28710,
+                                    "growth": 2610,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Fire Blast Daze Multiplier",
+                            "description": "{Skill:1171013, Prop:1002}",
+                            "params": {
+                                "1171013": {
+                                    "main": 20780,
+                                    "growth": 950,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost to Use",
+                            "description": "10",
+                            "params": null
+                        },
+                        {
+                            "name": "Continuous Spray Energy Cost",
+                            "description": "25/s",
+                            "params": null
+                        },
+                        {
+                            "name": "Fire Blast Energy Cost",
+                            "description": "10",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Fuel-Fed Flame",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nQuickly dash forward while spraying flames in all directions, then launch a fire blast in a fan-shaped area ahead, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using the skill, press  to immediately follow up with EX Special Attack: Intense Heat Stirring Method - Double Shot.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Glorious Inferno",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nDash forward quickly, then leap into the air and continuously spray flames over a wide area ahead, dealing massive Fire DMG.\nWhen leaping into the air, a Quick Assist will be triggered. If the Quick Assist is activated, Burnice will extend the duration of her flame spray.\nUpon activation, recover 50 Heat.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Fuel-Fed Flame",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1171016, Prop:1001}",
+                            "params": {
+                                "1171016": {
+                                    "main": 68090,
+                                    "growth": 6190,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1171016, Prop:1002}",
+                            "params": {
+                                "1171016": {
+                                    "main": 24200,
+                                    "growth": 1100,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Glorious Inferno",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Maximum DMG Multiplier",
+                            "description": "{Skill:1171017, Prop:1001}",
+                            "params": {
+                                "1171017": {
+                                    "main": 201220,
+                                    "growth": 18300,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Maximum Daze Multiplier",
+                            "description": "{Skill:1171017, Prop:1002}",
+                            "params": {
+                                "1171017": {
+                                    "main": 10640,
+                                    "growth": 490,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Energizing Specialty Drink",
+                    "description": "When the active character is launched, press  to activate:\nUnleash a flurry of attacks on enemies in front while spraying flames, dealing Physical DMG and Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Smoky Cauldron",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Scorching Dew",
+                    "description": "Press  after a Defensive Assist to activate:\nLeap into the air and quickly spin forward while spraying flames in all directions, dealing Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using the skill, press  to immediately follow up with EX Special Attack: Intense Heat Stirring Method - Double Shot.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Energizing Specialty Drink",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1171018, Prop:1001}",
+                            "params": {
+                                "1171018": {
+                                    "main": 8440,
+                                    "growth": 770,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1171018, Prop:1002}",
+                            "params": {
+                                "1171018": {
+                                    "main": 8440,
+                                    "growth": 390,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Smoky Cauldron",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1171019, Prop:1002}",
+                            "params": {
+                                "1171019": {
+                                    "main": 27130,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1171020, Prop:1002}",
+                            "params": {
+                                "1171020": {
+                                    "main": 34280,
+                                    "growth": 1560,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1171021, Prop:1002}",
+                            "params": {
+                                "1171021": {
+                                    "main": 16680,
+                                    "growth": 760,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Scorching Dew",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1171022, Prop:1001}",
+                            "params": {
+                                "1171022": {
+                                    "main": 32760,
+                                    "growth": 2980,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1171022, Prop:1002}",
+                            "params": {
+                                "1171022": {
+                                    "main": 28240,
+                                    "growth": 1290,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1171501,
+                "names": [
+                    "Core Passive: Nitro-Fuel Cocktail",
+                    "Additional Ability: Fire Kindling"
+                ],
+                "descriptions": [
+                    "When Burnice expends Energy, she accumulates Heat, up to a max of 100. She gains 1.4 Heat for each 1 point of Energy consumed. At 50 Heat, she enters the Nitro-Fuel Cocktail state until all Heat is expended. Upon entering the battlefield, Burnice instantly accumulates 100 Heat.\nWhile in the Nitro-Fuel Cocktail state, when Burnice hits an enemy with a Basic Attack: Mixed Flame Blend, EX Special Attack, Chain Attack, or Ultimate, she applies the Scorched effect to the target until she exits the Nitro-Fuel Cocktail state. When other squad members hit enemies under the Scorched status, it triggers the Afterburn effect, expending 8 Heat to deal Fire DMG equal to 175% of Burnice's ATK and accumulate Fire Anomaly Buildup. This effect can trigger once every 1.5s. For every 10 Anomaly Proficiency, Afterburn DMG increases by 1%, up to a max of 30%. DMG from the Afterburn effect is considered Assist Attack DMG.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nWhen Burnice's Basic Attack: Mixed Flame Blend, EX Special Attack: Intense Heat Stirring Method or EX Special Attack: Intense Heat Stirring Method - Double Shot hits an enemy, or when the Afterburn effect is triggered, the move's accumulated Fire Anomaly Buildup increases by 65%. When any squad member applies the Burn effect to an enemy, the duration of that effect is extended by 3s."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1171502,
+                "names": [
+                    "Core Passive: Nitro-Fuel Cocktail",
+                    "Additional Ability: Fire Kindling"
+                ],
+                "descriptions": [
+                    "When Burnice expends Energy, she accumulates Heat, up to a max of 100. She gains 1.4 Heat for each 1 point of Energy consumed. At 50 Heat, she enters the Nitro-Fuel Cocktail state until all Heat is expended. Upon entering the battlefield, Burnice instantly accumulates 100 Heat.\nWhile in the Nitro-Fuel Cocktail state, when Burnice hits an enemy with a Basic Attack: Mixed Flame Blend, EX Special Attack, Chain Attack, or Ultimate, she applies the Scorched effect to the target until she exits the Nitro-Fuel Cocktail state. When other squad members hit enemies under the Scorched status, it triggers the Afterburn effect, expending 8 Heat to deal Fire DMG equal to 205% of Burnice's ATK and accumulate Fire Anomaly Buildup. This effect can trigger once every 1.5s. For every 10 Anomaly Proficiency, Afterburn DMG increases by 1%, up to a max of 30%. DMG from the Afterburn effect is considered Assist Attack DMG.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nWhen Burnice's Basic Attack: Mixed Flame Blend, EX Special Attack: Intense Heat Stirring Method or EX Special Attack: Intense Heat Stirring Method - Double Shot hits an enemy, or when the Afterburn effect is triggered, the move's accumulated Fire Anomaly Buildup increases by 65%. When any squad member applies the Burn effect to an enemy, the duration of that effect is extended by 3s."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1171503,
+                "names": [
+                    "Core Passive: Nitro-Fuel Cocktail",
+                    "Additional Ability: Fire Kindling"
+                ],
+                "descriptions": [
+                    "When Burnice expends Energy, she accumulates Heat, up to a max of 100. She gains 1.4 Heat for each 1 point of Energy consumed. At 50 Heat, she enters the Nitro-Fuel Cocktail state until all Heat is expended. Upon entering the battlefield, Burnice instantly accumulates 100 Heat.\nWhile in the Nitro-Fuel Cocktail state, when Burnice hits an enemy with a Basic Attack: Mixed Flame Blend, EX Special Attack, Chain Attack, or Ultimate, she applies the Scorched effect to the target until she exits the Nitro-Fuel Cocktail state. When other squad members hit enemies under the Scorched status, it triggers the Afterburn effect, expending 8 Heat to deal Fire DMG equal to 235% of Burnice's ATK and accumulate Fire Anomaly Buildup. This effect can trigger once every 1.5s. For every 10 Anomaly Proficiency, Afterburn DMG increases by 1%, up to a max of 30%. DMG from the Afterburn effect is considered Assist Attack DMG.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nWhen Burnice's Basic Attack: Mixed Flame Blend, EX Special Attack: Intense Heat Stirring Method or EX Special Attack: Intense Heat Stirring Method - Double Shot hits an enemy, or when the Afterburn effect is triggered, the move's accumulated Fire Anomaly Buildup increases by 65%. When any squad member applies the Burn effect to an enemy, the duration of that effect is extended by 3s."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1171504,
+                "names": [
+                    "Core Passive: Nitro-Fuel Cocktail",
+                    "Additional Ability: Fire Kindling"
+                ],
+                "descriptions": [
+                    "When Burnice expends Energy, she accumulates Heat, up to a max of 100. She gains 1.4 Heat for each 1 point of Energy consumed. At 50 Heat, she enters the Nitro-Fuel Cocktail state until all Heat is expended. Upon entering the battlefield, Burnice instantly accumulates 100 Heat.\nWhile in the Nitro-Fuel Cocktail state, when Burnice hits an enemy with a Basic Attack: Mixed Flame Blend, EX Special Attack, Chain Attack, or Ultimate, she applies the Scorched effect to the target until she exits the Nitro-Fuel Cocktail state. When other squad members hit enemies under the Scorched status, it triggers the Afterburn effect, expending 8 Heat to deal Fire DMG equal to 262% of Burnice's ATK and accumulate Fire Anomaly Buildup. This effect can trigger once every 1.5s. For every 10 Anomaly Proficiency, Afterburn DMG increases by 1%, up to a max of 30%. DMG from the Afterburn effect is considered Assist Attack DMG.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nWhen Burnice's Basic Attack: Mixed Flame Blend, EX Special Attack: Intense Heat Stirring Method or EX Special Attack: Intense Heat Stirring Method - Double Shot hits an enemy, or when the Afterburn effect is triggered, the move's accumulated Fire Anomaly Buildup increases by 65%. When any squad member applies the Burn effect to an enemy, the duration of that effect is extended by 3s."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1171505,
+                "names": [
+                    "Core Passive: Nitro-Fuel Cocktail",
+                    "Additional Ability: Fire Kindling"
+                ],
+                "descriptions": [
+                    "When Burnice expends Energy, she accumulates Heat, up to a max of 100. She gains 1.4 Heat for each 1 point of Energy consumed. At 50 Heat, she enters the Nitro-Fuel Cocktail state until all Heat is expended. Upon entering the battlefield, Burnice instantly accumulates 100 Heat.\nWhile in the Nitro-Fuel Cocktail state, when Burnice hits an enemy with a Basic Attack: Mixed Flame Blend, EX Special Attack, Chain Attack, or Ultimate, she applies the Scorched effect to the target until she exits the Nitro-Fuel Cocktail state. When other squad members hit enemies under the Scorched status, it triggers the Afterburn effect, expending 8 Heat to deal Fire DMG equal to 290% of Burnice's ATK and accumulate Fire Anomaly Buildup. This effect can trigger once every 1.5s. For every 10 Anomaly Proficiency, Afterburn DMG increases by 1%, up to a max of 30%. DMG from the Afterburn effect is considered Assist Attack DMG.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nWhen Burnice's Basic Attack: Mixed Flame Blend, EX Special Attack: Intense Heat Stirring Method or EX Special Attack: Intense Heat Stirring Method - Double Shot hits an enemy, or when the Afterburn effect is triggered, the move's accumulated Fire Anomaly Buildup increases by 65%. When any squad member applies the Burn effect to an enemy, the duration of that effect is extended by 3s."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1171506,
+                "names": [
+                    "Core Passive: Nitro-Fuel Cocktail",
+                    "Additional Ability: Fire Kindling"
+                ],
+                "descriptions": [
+                    "When Burnice expends Energy, she accumulates Heat, up to a max of 100. She gains 1.4 Heat for each 1 point of Energy consumed. At 50 Heat, she enters the Nitro-Fuel Cocktail state until all Heat is expended. Upon entering the battlefield, Burnice instantly accumulates 100 Heat.\nWhile in the Nitro-Fuel Cocktail state, when Burnice hits an enemy with a Basic Attack: Mixed Flame Blend, EX Special Attack, Chain Attack, or Ultimate, she applies the Scorched effect to the target until she exits the Nitro-Fuel Cocktail state. When other squad members hit enemies under the Scorched status, it triggers the Afterburn effect, expending 8 Heat to deal Fire DMG equal to 320% of Burnice's ATK and accumulate Fire Anomaly Buildup. This effect can trigger once every 1.5s. For every 10 Anomaly Proficiency, Afterburn DMG increases by 1%, up to a max of 30%. DMG from the Afterburn effect is considered Assist Attack DMG.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nWhen Burnice's Basic Attack: Mixed Flame Blend, EX Special Attack: Intense Heat Stirring Method or EX Special Attack: Intense Heat Stirring Method - Double Shot hits an enemy, or when the Afterburn effect is triggered, the move's accumulated Fire Anomaly Buildup increases by 65%. When any squad member applies the Burn effect to an enemy, the duration of that effect is extended by 3s."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1171507,
+                "names": [
+                    "Core Passive: Nitro-Fuel Cocktail",
+                    "Additional Ability: Fire Kindling"
+                ],
+                "descriptions": [
+                    "When Burnice expends Energy, she accumulates Heat, up to a max of 100. She gains 1.4 Heat for each 1 point of Energy consumed. At 50 Heat, she enters the Nitro-Fuel Cocktail state until all Heat is expended. Upon entering the battlefield, Burnice instantly accumulates 100 Heat.\nWhile in the Nitro-Fuel Cocktail state, when Burnice hits an enemy with a Basic Attack: Mixed Flame Blend, EX Special Attack, Chain Attack, or Ultimate, she applies the Scorched effect to the target until she exits the Nitro-Fuel Cocktail state. When other squad members hit enemies under the Scorched status, it triggers the Afterburn effect, expending 8 Heat to deal Fire DMG equal to 350% of Burnice's ATK and accumulate Fire Anomaly Buildup. This effect can trigger once every 1.5s. For every 10 Anomaly Proficiency, Afterburn DMG increases by 1%, up to a max of 30%. DMG from the Afterburn effect is considered Assist Attack DMG.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nWhen Burnice's Basic Attack: Mixed Flame Blend, EX Special Attack: Intense Heat Stirring Method or EX Special Attack: Intense Heat Stirring Method - Double Shot hits an enemy, or when the Afterburn effect is triggered, the move's accumulated Fire Anomaly Buildup increases by 65%. When any squad member applies the Burn effect to an enemy, the duration of that effect is extended by 3s."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110507,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110507,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110507,
+                    "amount": 9
+                },
+                {
+                    "id": 110004,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110507,
+                    "amount": 15
+                },
+                {
+                    "id": 110004,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110507,
+                    "amount": 30
+                },
+                {
+                    "id": 110004,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1171_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1171_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1171_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect32.webp"
+}

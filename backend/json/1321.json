@@ -1,0 +1,1719 @@
+{
+    "id": 1321,
+    "image": "https://api.hakush.in/zzz/UI/IconRole37.webp",
+    "name": "Evelyn",
+    "code_name": "Evelyn",
+    "rarity": "S",
+    "specialty": {
+        "id": 1,
+        "name": "Attack"
+    },
+    "element": {
+        "id": 201,
+        "name": "Fire"
+    },
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "faction": {
+        "id": 8,
+        "name": "Stars of Lyra"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "OCT 7",
+        "full_name": "Evelyn Chevalier",
+        "gender": "Female",
+        "female_impression": "Evelyn is so cool! Can't she debut as a celebrity with Astra? I'd love to see them do a photo shoot together!",
+        "male_impression": "I really envy you. You can say that so easily, but if I said it, I'd probably get hit...",
+        "outlook_desc": "Hollow Investigative Association Licensing Archive:\nEvelyn Chevalier, possessing a good Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).",
+        "profile_desc": "Evelyn is the manager and personal bodyguard of Ridu's most iconic singer, Astra Yao. Known for her calm, decisive decision-making and professional, efficient style, she's an irreplaceable pillar behind Astra. \"In terms of commercial value, if Astra Yao represents the 1, then Evelyn is all the 0s that follow,\" a reporter from an entertainment magazine stated.\n\nEvelyn is skilled at planning comprehensive schedules and product endorsements, while also ensuring Astra Yao's safety during any unexpected situations. \"Want to get close to Astra Yao? You'll have to get past Evelyn Chevalier first...\" Though she's always busy with work, Evelyn never seems overwhelmed, and she has an almost obsessive attention to detail, ensuring that every performance and every product endorsement goes through her strict scrutiny. But strangely, such an exceptional manager is not trusted by her parent company, Odeum HAE.\n\nIntel: Evelyn's role seems to go beyond just being a manager and personal bodyguard; there seems to be an \"organization\" behind her.\n\nIt seems a lot of people in Astra Yao's central Astranauts group ship them together.",
+        "faction": "Stars of Lyra",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Story \"Leisurely Lull: Goldfinch's Escape\" (available after completing Main Story Chapter 5)",
+            "Complete Special Episode \"Astra-Nomical Moment\""
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 134.0,
+        "AttackGrowth": 81654.0,
+        "AvatarPieceId": 5321.0,
+        "BreakStun": 93.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66882.0,
+        "ElementAbnormalPower": 92.0,
+        "ElementMystery": 90.0,
+        "Endurance": 0.0,
+        "HpGrowth": 849779.0,
+        "HpMax": 626.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Dreamweave",
+            "description": "Upon entering the battlefield, Evelyn immediately gains 1,500 Decibels. Enemies affected by Binding Seal will be Bound. When Evelyn attacks Bound enemies, she ignores 12% of their DEF. When Evelyn uses Special Attack: Binding Sunder - First Form or EX Special Attack: Binding Sunder - Final Form, the Bound effect spreads to all enemies hit by the skill. This spread Bound effect lasts for 10s.",
+            "description2": "The distant, blurred light seemed to be a dream she had crafted, an unreachable future. It wasn't about atonement, but a yearning for freedom.\n\"You want it too, don't you? A real life.\" An anonymous former coworker once asked Evelyn."
+        },
+        {
+            "level": 2,
+            "name": "Dance of Fire",
+            "description": "Evelyn's ATK increases by 15%. When Evelyn uses Basic Attack: Garrote - First Form or Basic Attack: Garrote - Second Form, the Burning Embers consumed will be returned. This effect can trigger once every 25s. When Evelyn consumes Burning Tether Point to trigger Chain Attack: Lunalux - Snare, the skill's Interrupt Level increases.",
+            "description2": "\"To me, that light was unfamiliar, something I should have steered clear of, but it broke through every barrier, as though it was trying to remind me that beyond the darkness, there was something worth chasing.\"\nWhen Evelyn recalls the first time she met Astra Yao, there's a rare softness in her tone."
+        },
+        {
+            "level": 3,
+            "name": "Metamorphosis",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "At that moment, she frees herself from her restraints and becomes her truest self. The tightened ropes snap, and the chains turn into a broken cocoon. Evelyn stands at the boundary of rebirth, and in her cold, sharp gaze, there is the flicker of a faint, soft glow."
+        },
+        {
+            "level": 4,
+            "name": "Fate's Melody",
+            "description": "Upon activating a Chain Attack or Ultimate, Evelyn immediately gains a shield equal to 10% of her Max HP. While this shield exists, Evelyn's CRIT DMG increases by 40%.",
+            "description2": "\"You know, Eve? Every time I meet someone important to me, my heart goes 'thump-thump!'\"\nEvelyn sighs, signaling that it was getting late. Astra quickly fastens the back of her gown and rushed out the door.\n\"Thump thump,\" Evelyn mutters to herself, left alone in the dressing room."
+        },
+        {
+            "level": 5,
+            "name": "Crimson Threads Like the Dawn",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Her threads, dyed crimson like the clouds at dawn.\nAfter each attack, she spins elegantly, blazing flames scattering like the morning light. No words are needed — Evelyn's protection has turned into a radiant flame."
+        },
+        {
+            "level": 6,
+            "name": "Bond of Light and Shadow",
+            "description": "Upon launching a Chain Attack or Ultimate, Evelyn gains Shadowstring Edge for 20s. During Shadowstring Edge, when Evelyn hits her primary target with a Basic Attack, Dash Attack, Special Attack, or EX Special Attack, she additionally executes a Lunalux Garrote follow-up attack, dealing Fire DMG equal to 375% of her ATK to enemies in the area. This DMG is considered Chain Attack DMG and can trigger up to 16 times. Gaining another Shadowstring Edge will refresh the trigger count.",
+            "description2": "Where there is light, there will always be shadow.\nIt silently hides, tracing the light's path, guarding each bright burst. The shadow never tries to steal the light's brilliance, but at every turn, it quietly fills those corners the light cannot reach. The two have never been separated, nor can they be — light is whole because of shadow, and shadow exists because of light. It's an eternal pursuit, an unspeakable connection."
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100211,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 430,
+            "attack": 48,
+            "defense": 34,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100221,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 859,
+            "attack": 95,
+            "defense": 68,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100221,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1289,
+            "attack": 143,
+            "defense": 101,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100231,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1719,
+            "attack": 191,
+            "defense": 135,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100231,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2149,
+            "attack": 239,
+            "defense": 169,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Razor Wire",
+                    "description": "Press  to activate:\nLaunch up to five attacks ahead, dealing Physical DMG and Fire DMG.\nWhen the 5th hit lands against an enemy, Evelyn will use her Lunalux Garrote to bind the primary target and enter Binding Seal.",
+                    "params": null
+                },
+                {
+                    "name": "Passive: Bind",
+                    "description": "When Evelyn uses her skills to deal DMG to enemies, she will accumulate Burning Embers.\nWhen Evelyn consumes Burning Embers to activate Garrote or consumes Decibels to perform an Ultimate, she gains 1 Burning Tether Point.\nOnce Evelyn has 3 Burning Tether Points, her next use of Garrote will consume all Burning Tether Points to instead use a lower Interrupt Level version of Chain Attack: Lunalux - Snare.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Garrote - First Form",
+                    "description": "When Burning Embers is at 50% or higher, hold  or  to activate:\nConsume 50% Burning Embers to use Lunalux Garrote to perform a slashing attack, dealing Fire DMG.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.\nAfter using this skill, gain 1 Burning Tether Point.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Garrote - Second Form",
+                    "description": "When Burning Embers is 50% or higher, after using Basic Attack: Garrote - First Form, continue to hold  or  to activate:\nConsume 50% Burning Embers to use Lunalux Garrote to perform a follow-up attack, dealing Fire DMG.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.\nAfter using this skill, gain 1 Burning Tether Point.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Razor Wire",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1321001, Prop:1001}",
+                            "params": {
+                                "1321001": {
+                                    "main": 5120,
+                                    "growth": 470,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1321002, Prop:1001}",
+                            "params": {
+                                "1321002": {
+                                    "main": 6210,
+                                    "growth": 570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1321003, Prop:1001}",
+                            "params": {
+                                "1321003": {
+                                    "main": 7820,
+                                    "growth": 720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1321004, Prop:1001}",
+                            "params": {
+                                "1321004": {
+                                    "main": 18670,
+                                    "growth": 1700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1321005, Prop:1001}",
+                            "params": {
+                                "1321005": {
+                                    "main": 22340,
+                                    "growth": 2040,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1321001, Prop:1002}",
+                            "params": {
+                                "1321001": {
+                                    "main": 2560,
+                                    "growth": 120,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1321002, Prop:1002}",
+                            "params": {
+                                "1321002": {
+                                    "main": 5380,
+                                    "growth": 250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1321003, Prop:1002}",
+                            "params": {
+                                "1321003": {
+                                    "main": 6210,
+                                    "growth": 290,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1321004, Prop:1002}",
+                            "params": {
+                                "1321004": {
+                                    "main": 15300,
+                                    "growth": 700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1321005, Prop:1002}",
+                            "params": {
+                                "1321005": {
+                                    "main": 16830,
+                                    "growth": 770,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Garrote - First Form",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1321006, Prop:1001}",
+                            "params": {
+                                "1321006": {
+                                    "main": 22640,
+                                    "growth": 2060,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1321006, Prop:1002}",
+                            "params": {
+                                "1321006": {
+                                    "main": 12110,
+                                    "growth": 560,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Garrote - Second Form",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1321007, Prop:1001}",
+                            "params": {
+                                "1321007": {
+                                    "main": 24520,
+                                    "growth": 2230,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1321007, Prop:1002}",
+                            "params": {
+                                "1321007": {
+                                    "main": 12480,
+                                    "growth": 570,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Arc Step",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Piercing Ambush",
+                    "description": "Press  during a dodge to activate:\nDeliver a kick to the enemy in front, causing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Strangling Reversal",
+                    "description": "Press  during a Perfect Dodge to activate:\nUse Lunalux Garrote to slash surrounding enemies, dealing Fire DMG;\nWhen the attack hits an enemy, Evelyn will use Lunalux Garrote to bind the primary target and enter Binding Seal.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Piercing Ambush",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1321013, Prop:1001}",
+                            "params": {
+                                "1321013": {
+                                    "main": 6050,
+                                    "growth": 550,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1321013, Prop:1002}",
+                            "params": {
+                                "1321013": {
+                                    "main": 3030,
+                                    "growth": 140,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Strangling Reversal",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1321014, Prop:1001}",
+                            "params": {
+                                "1321014": {
+                                    "main": 21020,
+                                    "growth": 1920,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1321014, Prop:1002}",
+                            "params": {
+                                "1321014": {
+                                    "main": 18710,
+                                    "growth": 860,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Locked Position",
+                    "description": "Before entering Binding Seal, press  or  to activate:\nUse Lunalux Garrote to pull the enemy and charge forward with a kick, dealing Fire DMG.\nWhen the attack hits the enemy, Evelyn will use Lunalux Garrote to bind the primary target and enter Binding Seal.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Binding Sunder - First Form",
+                    "description": "After entering Binding Seal, press or hold  to activate:\nCentered on the target affected by Binding Seal, tether surrounding enemies and detonate an explosion, dealing Fire DMG. Binding Seal will end after detonation.\nDodge enemy attacks upon activating the skill, and if a Perfect Dodge is triggered, gain an additional 25% Burning Embers.\nAfter tethering surrounding enemies, press  to cancel detonation and immediately follow up with the Basic Attack's 3rd hit.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Binding Sunder - Final Form",
+                    "description": "After entering Binding Seal and with enough Energy, press or hold  to activate:\nCentered on the target affected by Binding Seal, tether surrounding enemies and detonate an explosion, dealing massive Fire DMG. Binding Seal will end after detonation.\nDodge enemy attacks upon activating the skill, and if a Perfect Dodge is triggered, gain an additional 25% Burning Embers.\nAfter pulling in surrounding enemies, press  to cancel detonation and immediately follow up with the Basic Attack's 3rd hit.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Locked Position",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1321008, Prop:1001}",
+                            "params": {
+                                "1321008": {
+                                    "main": 5230,
+                                    "growth": 480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1321008, Prop:1002}",
+                            "params": {
+                                "1321008": {
+                                    "main": 5230,
+                                    "growth": 240,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Special Attack: Binding Sunder - First Form",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Bind DMG Multiplier",
+                            "description": "{Skill:1321009, Prop:1001}",
+                            "params": {
+                                "1321009": {
+                                    "main": 4040,
+                                    "growth": 370,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion DMG Multiplier",
+                            "description": "{Skill:1321010, Prop:1001}",
+                            "params": {
+                                "1321010": {
+                                    "main": 3400,
+                                    "growth": 310,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Bind Daze Multiplier",
+                            "description": "{Skill:1321009, Prop:1002}",
+                            "params": {
+                                "1321009": {
+                                    "main": 4040,
+                                    "growth": 190,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion Daze Multiplier",
+                            "description": "{Skill:1321010, Prop:1002}",
+                            "params": {
+                                "1321010": {
+                                    "main": 3400,
+                                    "growth": 160,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Binding Sunder - Final Form",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Bind DMG Multiplier",
+                            "description": "{Skill:1321011, Prop:1001}",
+                            "params": {
+                                "1321011": {
+                                    "main": 54120,
+                                    "growth": 4920,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion DMG Multiplier",
+                            "description": "{Skill:1321012, Prop:1001}",
+                            "params": {
+                                "1321012": {
+                                    "main": 5960,
+                                    "growth": 550,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Bind Daze Multiplier",
+                            "description": "{Skill:1321011, Prop:1002}",
+                            "params": {
+                                "1321011": {
+                                    "main": 43710,
+                                    "growth": 1990,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion Daze Multiplier",
+                            "description": "{Skill:1321012, Prop:1002}",
+                            "params": {
+                                "1321012": {
+                                    "main": 5960,
+                                    "growth": 280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "60",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Lunalux - Snare",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nEvelyn slashes in front with multiple Lunalux Garrotes and detonates an explosion, dealing massive Fire DMG to enemies in the area.\nWhen the attack hits an enemy, Evelyn uses Lunalux Garrote to bind the primary target and enters Binding Seal.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Lunalux Garrote - Timbre",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nEvelyn slashes in front with multiple Lunalux Garrotes and detonates an explosion, dealing massive Fire DMG to enemies in the area.\nUpon activating this skill, Evelyn removes her jacket and enters the Dance of Awakened Fire state, which lasts for the entire battle. While in the Dance of Awakened Fire state, when Evelyn consumes Burning Tether Points to activate Chain Attack: Lunalux - Snare, she will retain 1 point of Burning Tether Point. When the attack hits an enemy, Evelyn uses Lunalux Garrote to bind the primary target, entering Binding Seal.\nCharacter is invulnerable while using this skill.\nAfter using this skill, gain 1 Burning Tether Point.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Lunalux Garrote - Shadow",
+                    "description": "While under the Dance of Awakened Fire state, and when Decibel Rating is at Maximum, press  to activate:\nEvelyn slashes in front with multiple Lunalux Garrotes and detonates an explosion, dealing massive Fire DMG to enemies in the area.\nWhen the attack hits an enemy, Evelyn uses Lunalux Garrote to bind the primary target and enters Binding Seal.\nCharacter is invulnerable while using this skill.\nAfter using this skill, gain 1 Burning Tether Point.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Lunalux - Snare",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1321015, Prop:1001}",
+                            "params": {
+                                "1321015": {
+                                    "main": 82930,
+                                    "growth": 7540,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1321015, Prop:1002}",
+                            "params": {
+                                "1321015": {
+                                    "main": 23660,
+                                    "growth": 1080,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Lunalux Garrote - Timbre",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1321016, Prop:1001}",
+                            "params": {
+                                "1321016": {
+                                    "main": 198850,
+                                    "growth": 18080,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1321016, Prop:1002}",
+                            "params": {
+                                "1321016": {
+                                    "main": 26040,
+                                    "growth": 1190,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Lunalux Garrote - Shadow",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1321016, Prop:1001}",
+                            "params": {
+                                "1321016": {
+                                    "main": 198850,
+                                    "growth": 18080,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1321016, Prop:1002}",
+                            "params": {
+                                "1321016": {
+                                    "main": 26040,
+                                    "growth": 1190,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Fierce Blade",
+                    "description": "When the active character is launched, press  to activate:\nUse Lunalux Garrote to slash surrounding enemies, dealing Fire DMG.\nWhen the attack hits an enemy, Evelyn will use Lunalux Garrote to bind the primary target and enter Binding Seal.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Silent Protection",
+                    "description": "When the on-field character is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Course Disruption",
+                    "description": "Press  after a Defensive Assist to activate:\nEvelyn slashes with Lunalux Garrote, then triggers an explosion ahead, dealing Fire DMG.\nWhen the attack hits an enemy, Evelyn will use Lunalux Garrote to bind the primary target and enter Binding Seal.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Fierce Blade",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1321017, Prop:1001}",
+                            "params": {
+                                "1321017": {
+                                    "main": 7710,
+                                    "growth": 710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1321017, Prop:1002}",
+                            "params": {
+                                "1321017": {
+                                    "main": 7710,
+                                    "growth": 360,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Silent Protection",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1321018, Prop:1002}",
+                            "params": {
+                                "1321018": {
+                                    "main": 27130,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1321019, Prop:1002}",
+                            "params": {
+                                "1321019": {
+                                    "main": 34280,
+                                    "growth": 1560,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1321020, Prop:1002}",
+                            "params": {
+                                "1321020": {
+                                    "main": 16680,
+                                    "growth": 760,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Course Disruption",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1321021, Prop:1001}",
+                            "params": {
+                                "1321021": {
+                                    "main": 29160,
+                                    "growth": 2660,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1321021, Prop:1002}",
+                            "params": {
+                                "1321021": {
+                                    "main": 24900,
+                                    "growth": 1140,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1321501,
+                "names": [
+                    "Core Passive: Entangle",
+                    "Additional Ability: Ambush Point"
+                ],
+                "descriptions": [
+                    "Upon entering Binding Seal, Evelyn's CRIT Rate increases by 12.5%. After leaving Binding Seal, she retains the buff for 10s. If Evelyn switches to another character while in Binding Seal, she will automatically follow up with Special Attack: Binding Sunder - First Form.",
+                    "When another character in your squad is a Stun or Support character:\nEvelyn's Chain Attack and Ultimate DMG increases by 30%. When Evelyn's CRIT Rate is at or over 80%, the DMG multiplier for her Chain Attack and Ultimate increases to 125% of the original value."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1321502,
+                "names": [
+                    "Core Passive: Entangle",
+                    "Additional Ability: Ambush Point"
+                ],
+                "descriptions": [
+                    "Upon entering Binding Seal, Evelyn's CRIT Rate increases by 14.6%. After leaving Binding Seal, she retains the buff for 10s. If Evelyn switches to another character while in Binding Seal, she will automatically follow up with Special Attack: Binding Sunder - First Form.",
+                    "When another character in your squad is a Stun or Support character:\nEvelyn's Chain Attack and Ultimate DMG increases by 30%. When Evelyn's CRIT Rate is at or over 80%, the DMG multiplier for her Chain Attack and Ultimate increases to 125% of the original value."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1321503,
+                "names": [
+                    "Core Passive: Entangle",
+                    "Additional Ability: Ambush Point"
+                ],
+                "descriptions": [
+                    "Upon entering Binding Seal, Evelyn's CRIT Rate increases by 16.7%. After leaving Binding Seal, she retains the buff for 10s. If Evelyn switches to another character while in Binding Seal, she will automatically follow up with Special Attack: Binding Sunder - First Form.",
+                    "When another character in your squad is a Stun or Support character:\nEvelyn's Chain Attack and Ultimate DMG increases by 30%. When Evelyn's CRIT Rate is at or over 80%, the DMG multiplier for her Chain Attack and Ultimate increases to 125% of the original value."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1321504,
+                "names": [
+                    "Core Passive: Entangle",
+                    "Additional Ability: Ambush Point"
+                ],
+                "descriptions": [
+                    "Upon entering Binding Seal, Evelyn's CRIT Rate increases by 18.8%. After leaving Binding Seal, she retains the buff for 10s. If Evelyn switches to another character while in Binding Seal, she will automatically follow up with Special Attack: Binding Sunder - First Form.",
+                    "When another character in your squad is a Stun or Support character:\nEvelyn's Chain Attack and Ultimate DMG increases by 30%. When Evelyn's CRIT Rate is at or over 80%, the DMG multiplier for her Chain Attack and Ultimate increases to 125% of the original value."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1321505,
+                "names": [
+                    "Core Passive: Entangle",
+                    "Additional Ability: Ambush Point"
+                ],
+                "descriptions": [
+                    "Upon entering Binding Seal, Evelyn's CRIT Rate increases by 20.8%. After leaving Binding Seal, she retains the buff for 10s. If Evelyn switches to another character while in Binding Seal, she will automatically follow up with Special Attack: Binding Sunder - First Form.",
+                    "When another character in your squad is a Stun or Support character:\nEvelyn's Chain Attack and Ultimate DMG increases by 30%. When Evelyn's CRIT Rate is at or over 80%, the DMG multiplier for her Chain Attack and Ultimate increases to 125% of the original value."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1321506,
+                "names": [
+                    "Core Passive: Entangle",
+                    "Additional Ability: Ambush Point"
+                ],
+                "descriptions": [
+                    "Upon entering Binding Seal, Evelyn's CRIT Rate increases by 23%. After leaving Binding Seal, she retains the buff for 10s. If Evelyn switches to another character while in Binding Seal, she will automatically follow up with Special Attack: Binding Sunder - First Form.",
+                    "When another character in your squad is a Stun or Support character:\nEvelyn's Chain Attack and Ultimate DMG increases by 30%. When Evelyn's CRIT Rate is at or over 80%, the DMG multiplier for her Chain Attack and Ultimate increases to 125% of the original value."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1321507,
+                "names": [
+                    "Core Passive: Entangle",
+                    "Additional Ability: Ambush Point"
+                ],
+                "descriptions": [
+                    "Upon entering Binding Seal, Evelyn's CRIT Rate increases by 25%. After leaving Binding Seal, she retains the buff for 10s. If Evelyn switches to another character while in Binding Seal, she will automatically follow up with Special Attack: Binding Sunder - First Form.",
+                    "When another character in your squad is a Stun or Support character:\nEvelyn's Chain Attack and Ultimate DMG increases by 30%. When Evelyn's CRIT Rate is at or over 80%, the DMG multiplier for her Chain Attack and Ultimate increases to 125% of the original value."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110504,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110504,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110504,
+                    "amount": 9
+                },
+                {
+                    "id": 110004,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110504,
+                    "amount": 15
+                },
+                {
+                    "id": 110004,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110504,
+                    "amount": 30
+                },
+                {
+                    "id": 110004,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1321_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1321_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1321_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect37.webp"
+}

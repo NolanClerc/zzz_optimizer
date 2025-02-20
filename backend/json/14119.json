@@ -1,0 +1,384 @@
+{
+    "base_property": {
+        "format": "{0:0.#}",
+        "formatted_value": "48",
+        "name": "Base ATK",
+        "name2": "Base ATK",
+        "value": 48.0
+    },
+    "code_name": "Weapon_S_1191",
+    "description": "This high-power W-Engine has the capability to rapidly lower the temperature of the environment, allowing it to instantly freeze nearby objects. Although it is an excellent tactical W-Engine due to its efficient freezing and high damage output, Ellen primarily uses it to make frappes.\n\n\"I want to bring it to school, especially in the summer. But Lycaon and Rina won't let me... So annoying.\" ï¿½ Ellen, shaking her head while eating ice",
+    "description2": "Equip to increase Attack Agents' combat capabilities",
+    "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1191.webp",
+    "id": 14119,
+    "levels": {
+        "0": {
+            "exp": 50,
+            "rate": 0,
+            "rate2": 10000
+        },
+        "1": {
+            "exp": 100,
+            "rate": 1568,
+            "rate2": 10000
+        },
+        "10": {
+            "exp": 1200,
+            "rate": 15682,
+            "rate2": 9000
+        },
+        "11": {
+            "exp": 1290,
+            "rate": 17250,
+            "rate2": 9000
+        },
+        "12": {
+            "exp": 1380,
+            "rate": 18818,
+            "rate2": 9000
+        },
+        "13": {
+            "exp": 1465,
+            "rate": 20386,
+            "rate2": 9000
+        },
+        "14": {
+            "exp": 1555,
+            "rate": 21954,
+            "rate2": 9000
+        },
+        "15": {
+            "exp": 1640,
+            "rate": 23523,
+            "rate2": 9000
+        },
+        "16": {
+            "exp": 1735,
+            "rate": 25091,
+            "rate2": 9000
+        },
+        "17": {
+            "exp": 1825,
+            "rate": 26659,
+            "rate2": 9000
+        },
+        "18": {
+            "exp": 1910,
+            "rate": 28227,
+            "rate2": 9000
+        },
+        "19": {
+            "exp": 2000,
+            "rate": 29795,
+            "rate2": 9000
+        },
+        "2": {
+            "exp": 150,
+            "rate": 3136,
+            "rate2": 10000
+        },
+        "20": {
+            "exp": 3120,
+            "rate": 31363,
+            "rate2": 8000
+        },
+        "21": {
+            "exp": 3315,
+            "rate": 32932,
+            "rate2": 8000
+        },
+        "22": {
+            "exp": 3510,
+            "rate": 34500,
+            "rate2": 8000
+        },
+        "23": {
+            "exp": 3705,
+            "rate": 36068,
+            "rate2": 8000
+        },
+        "24": {
+            "exp": 3900,
+            "rate": 37636,
+            "rate2": 8000
+        },
+        "25": {
+            "exp": 4100,
+            "rate": 39204,
+            "rate2": 8000
+        },
+        "26": {
+            "exp": 4295,
+            "rate": 40772,
+            "rate2": 8000
+        },
+        "27": {
+            "exp": 4490,
+            "rate": 42341,
+            "rate2": 8000
+        },
+        "28": {
+            "exp": 4685,
+            "rate": 43909,
+            "rate2": 8000
+        },
+        "29": {
+            "exp": 4880,
+            "rate": 45477,
+            "rate2": 8000
+        },
+        "3": {
+            "exp": 200,
+            "rate": 4705,
+            "rate2": 10000
+        },
+        "30": {
+            "exp": 7200,
+            "rate": 47045,
+            "rate2": 7000
+        },
+        "31": {
+            "exp": 7600,
+            "rate": 48613,
+            "rate2": 7000
+        },
+        "32": {
+            "exp": 8000,
+            "rate": 50181,
+            "rate2": 7000
+        },
+        "33": {
+            "exp": 8400,
+            "rate": 51750,
+            "rate2": 7000
+        },
+        "34": {
+            "exp": 8800,
+            "rate": 53318,
+            "rate2": 7000
+        },
+        "35": {
+            "exp": 9200,
+            "rate": 54886,
+            "rate2": 7000
+        },
+        "36": {
+            "exp": 9600,
+            "rate": 56454,
+            "rate2": 7000
+        },
+        "37": {
+            "exp": 10000,
+            "rate": 58022,
+            "rate2": 7000
+        },
+        "38": {
+            "exp": 10400,
+            "rate": 59590,
+            "rate2": 7000
+        },
+        "39": {
+            "exp": 10800,
+            "rate": 61159,
+            "rate2": 7000
+        },
+        "4": {
+            "exp": 300,
+            "rate": 6273,
+            "rate2": 10000
+        },
+        "40": {
+            "exp": 11400,
+            "rate": 62727,
+            "rate2": 6000
+        },
+        "41": {
+            "exp": 12200,
+            "rate": 64295,
+            "rate2": 6000
+        },
+        "42": {
+            "exp": 13000,
+            "rate": 65863,
+            "rate2": 6000
+        },
+        "43": {
+            "exp": 13800,
+            "rate": 67431,
+            "rate2": 6000
+        },
+        "44": {
+            "exp": 14600,
+            "rate": 68999,
+            "rate2": 6000
+        },
+        "45": {
+            "exp": 15400,
+            "rate": 70568,
+            "rate2": 6000
+        },
+        "46": {
+            "exp": 16200,
+            "rate": 72136,
+            "rate2": 6000
+        },
+        "47": {
+            "exp": 17000,
+            "rate": 73704,
+            "rate2": 6000
+        },
+        "48": {
+            "exp": 17800,
+            "rate": 75272,
+            "rate2": 6000
+        },
+        "49": {
+            "exp": 18600,
+            "rate": 76840,
+            "rate2": 6000
+        },
+        "5": {
+            "exp": 400,
+            "rate": 7841,
+            "rate2": 10000
+        },
+        "50": {
+            "exp": 22800,
+            "rate": 78408,
+            "rate2": 5000
+        },
+        "51": {
+            "exp": 24400,
+            "rate": 79977,
+            "rate2": 5000
+        },
+        "52": {
+            "exp": 26000,
+            "rate": 81545,
+            "rate2": 5000
+        },
+        "53": {
+            "exp": 27600,
+            "rate": 83113,
+            "rate2": 5000
+        },
+        "54": {
+            "exp": 29200,
+            "rate": 84681,
+            "rate2": 5000
+        },
+        "55": {
+            "exp": 30800,
+            "rate": 86249,
+            "rate2": 5000
+        },
+        "56": {
+            "exp": 32400,
+            "rate": 87817,
+            "rate2": 5000
+        },
+        "57": {
+            "exp": 34000,
+            "rate": 89386,
+            "rate2": 5000
+        },
+        "58": {
+            "exp": 35600,
+            "rate": 90954,
+            "rate2": 5000
+        },
+        "59": {
+            "exp": 37200,
+            "rate": 92522,
+            "rate2": 5000
+        },
+        "6": {
+            "exp": 500,
+            "rate": 9409,
+            "rate2": 10000
+        },
+        "60": {
+            "exp": 0,
+            "rate": 94090,
+            "rate2": 4000
+        },
+        "7": {
+            "exp": 600,
+            "rate": 10977,
+            "rate2": 10000
+        },
+        "8": {
+            "exp": 750,
+            "rate": 12545,
+            "rate2": 10000
+        },
+        "9": {
+            "exp": 950,
+            "rate": 14114,
+            "rate2": 10000
+        }
+    },
+    "materials": "10:12000,101010:4|10:28000,101020:12|10:60000,101020:20|10:100000,101030:10|10:200000,101030:20",
+    "name": "Deep Sea Visitor",
+    "rand_property": {
+        "format": "{0:0.#%}",
+        "formatted_value": "960%%",
+        "name": "CRIT Rate",
+        "name2": "CRIT Rate",
+        "value": 960.0
+    },
+    "rarity": "S",
+    "refinements": {
+        "1": {
+            "description": "Increases Ice DMG by 25%. Upon hitting an enemy with a Basic Attack, the equipper`s CRIT Rate increases by 10% for 8s. When dealing Ice DMG with a Dash Attack, the equipper`s CRIT Rate increases by an additional 10% for 15s. The duration of each effect is calculated separately.",
+            "name": "Lord of Seas"
+        },
+        "2": {
+            "description": "Increases Ice DMG by 31.5%. Upon hitting an enemy with a Basic Attack, the equipper`s CRIT Rate increases by 12.5% for 8s. When dealing Ice DMG with a Dash Attack, the equipper`s CRIT Rate increases by an additional 12.5% for 15s. The duration of each effect is calculated separately.",
+            "name": "Lord of Seas"
+        },
+        "3": {
+            "description": "Increases Ice DMG by 38%. Upon hitting an enemy with a Basic Attack, the equipper`s CRIT Rate increases by 15% for 8s. When dealing Ice DMG with a Dash Attack, the equipper`s CRIT Rate increases by an additional 15% for 15s. The duration of each effect is calculated separately.",
+            "name": "Lord of Seas"
+        },
+        "4": {
+            "description": "Increases Ice DMG by 44.5%. Upon hitting an enemy with a Basic Attack, the equipper`s CRIT Rate increases by 17.5% for 8s. When dealing Ice DMG with a Dash Attack, the equipper`s CRIT Rate increases by an additional 17.5% for 15s. The duration of each effect is calculated separately.",
+            "name": "Lord of Seas"
+        },
+        "5": {
+            "description": "Increases Ice DMG by 50%. Upon hitting an enemy with a Basic Attack, the equipper`s CRIT Rate increases by 20% for 8s. When dealing Ice DMG with a Dash Attack, the equipper`s CRIT Rate increases by an additional 20% for 15s. The duration of each effect is calculated separately.",
+            "name": "Lord of Seas"
+        }
+    },
+    "short_description": "A high-power W-Engine that possesses efficient freezing capabilities and high damage output. This model is often used by Ellen.",
+    "stars": {
+        "0": {
+            "rand_rate": 0,
+            "star_rate": 0
+        },
+        "1": {
+            "rand_rate": 3000,
+            "star_rate": 8922
+        },
+        "2": {
+            "rand_rate": 6000,
+            "star_rate": 17844
+        },
+        "3": {
+            "rand_rate": 9000,
+            "star_rate": 26766
+        },
+        "4": {
+            "rand_rate": 12000,
+            "star_rate": 35688
+        },
+        "5": {
+            "rand_rate": 15000,
+            "star_rate": 44610
+        }
+    },
+    "type": {
+        "name": "Attack",
+        "type": 1
+    }
+}

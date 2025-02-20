@@ -1,0 +1,1648 @@
+{
+    "id": 1041,
+    "image": "https://api.hakush.in/zzz/UI/IconRole05.webp",
+    "name": "Soldier 11",
+    "code_name": "Soldier 11",
+    "rarity": "S",
+    "specialty": {
+        "id": 1,
+        "name": "Attack"
+    },
+    "element": {
+        "id": 201,
+        "name": "Fire"
+    },
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "faction": {
+        "id": 5,
+        "name": "Obol Squad"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "???",
+        "full_name": "Soldier 11",
+        "gender": "Female",
+        "female_impression": "Is this all the information we have? Come on, Fairy, can't you do better?",
+        "male_impression": "Hmm, I hope Soldier 11 remembers our name someday...",
+        "outlook_desc": "Details currently unavailable",
+        "profile_desc": "Soldier 11 is a member of the New Eridu Defense Force.\nShe currently serves as a primary responder in the Obol squad, Obsidian Division. Soldier 11 is a code name — her real name remains unknown.\n\"...My name? I gave it up long ago.\nIt's only a reminder of my past, and the past makes you weak.\"\n\nSoldier 11 is a fan of spicy food, and likes the super-spicy noodles served at Waterfall Soup.\nIt's worth noting she currently calls us by a different name every time she greets us.\nAdditional information regarding Soldier 11 is still being obtained.",
+        "faction": "Obol Squad",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission",
+            "Complete Agent Story \"Mole in the Hole\""
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 128.0,
+        "AttackGrowth": 77554.0,
+        "AvatarPieceId": 5041.0,
+        "BreakStun": 93.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66882.0,
+        "ElementAbnormalPower": 94.0,
+        "ElementMystery": 93.0,
+        "Endurance": 0.0,
+        "HpGrowth": 837238.0,
+        "HpMax": 617.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Rapid Heat",
+            "description": "When Soldier 11 enters combat or switches in, if her Energy is less than 40, her Energy is recovered to 80. This effect can trigger once every 50s.",
+            "description2": "Long-term high-intensity combat training allows Soldier 11 to complete mastery of her regulatory systems.\nShe will always strive to ensure that she's in the best shape for each and every battle."
+        },
+        {
+            "level": 2,
+            "name": "Scorching Convergence",
+            "description": "When triggering Fire Suppression, Basic Attack, Dash Attack, and Dodge Counter DMG increases by 3%, up to 12 stacks, lasting 15s, with the duration of each stack calculated separately.",
+            "description2": "\"She may look cold and hard, like a big ice cube... But actually, she's scalding hot inside, like a blazing fire.\"\n— From an anonymous soldier of the Obsidian Division"
+        },
+        {
+            "level": 3,
+            "name": "Elite Soldier",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Soldier 11 always expects the most from herself, no matter if it's in training or physical combat. That is how she maintains her combat prowess."
+        },
+        {
+            "level": 4,
+            "name": "Indulgent Blaze",
+            "description": "If Fire Suppression is triggered during the 1st, 2nd, or 3rd hit of Soldier 11's Basic Attack or a Dash Attack, Anti-Interrupt Level increases and DMG received is reduced by 18% during skill activation.\nIf Fire Suppression is triggered during the 4th hit of her Basic Attack, she becomes invulnerable during skill activation.",
+            "description2": "She envies fire. And these smoldering flames will always help her."
+        },
+        {
+            "level": 5,
+            "name": "Perfect Soldier",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "The road from elite to exemplar is long and difficult, but Soldier 11 grits her teeth and perseveres, as if there's something pushing her towards the goal of becoming a perfect soldier..."
+        },
+        {
+            "level": 6,
+            "name": "Scorching Flow",
+            "description": "When Soldier 11 uses her EX Special Attack, Chain Attack, or Ultimate, she gains 8 stacks of Charge (max 8 stacks).\nWhen Fire Suppression is triggered, 1 stack of Charge is consumed, causing the current move to ignore 25% of the target's Fire RES.",
+            "description2": "The flames of the sword distorted the air with their heat. Her movements grew ever more impassioned, as if that heat seeped into her spirit with every breath, igniting her thoughts."
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100211,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 423,
+            "attack": 46,
+            "defense": 34,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100221,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 847,
+            "attack": 91,
+            "defense": 68,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100221,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1270,
+            "attack": 137,
+            "defense": 101,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100231,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1694,
+            "attack": 183,
+            "defense": 135,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100231,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2117,
+            "attack": 228,
+            "defense": 169,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Warmup Sparks",
+                    "description": "Press  to activate:\nUnleashes up to 4 slashes, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Fire Suppression",
+                    "description": "Press  at the right moment to activate:\nUnleashes a set of more powerful slashes, dealing Fire DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Warmup Sparks",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1041001, Prop:1001}",
+                            "params": {
+                                "1041001": {
+                                    "main": 3440,
+                                    "growth": 320,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1041003, Prop:1001}",
+                            "params": {
+                                "1041003": {
+                                    "main": 4120,
+                                    "growth": 380,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1041005, Prop:1001}",
+                            "params": {
+                                "1041005": {
+                                    "main": 10280,
+                                    "growth": 940,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1041007, Prop:1001}",
+                            "params": {
+                                "1041007": {
+                                    "main": 21340,
+                                    "growth": 1940,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1041001, Prop:1002}",
+                            "params": {
+                                "1041001": {
+                                    "main": 1720,
+                                    "growth": 80,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1041003, Prop:1002}",
+                            "params": {
+                                "1041003": {
+                                    "main": 3440,
+                                    "growth": 160,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1041005, Prop:1002}",
+                            "params": {
+                                "1041005": {
+                                    "main": 8230,
+                                    "growth": 380,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1041007, Prop:1002}",
+                            "params": {
+                                "1041007": {
+                                    "main": 16760,
+                                    "growth": 770,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Fire Suppression",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1041002, Prop:1001}",
+                            "params": {
+                                "1041002": {
+                                    "main": 5510,
+                                    "growth": 510,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1041004, Prop:1001}",
+                            "params": {
+                                "1041004": {
+                                    "main": 5720,
+                                    "growth": 520,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1041006, Prop:1001}",
+                            "params": {
+                                "1041006": {
+                                    "main": 13200,
+                                    "growth": 1200,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1041008, Prop:1001}",
+                            "params": {
+                                "1041008": {
+                                    "main": 34070,
+                                    "growth": 3100,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1041002, Prop:1002}",
+                            "params": {
+                                "1041002": {
+                                    "main": 1800,
+                                    "growth": 90,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1041004, Prop:1002}",
+                            "params": {
+                                "1041004": {
+                                    "main": 3360,
+                                    "growth": 160,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1041006, Prop:1002}",
+                            "params": {
+                                "1041006": {
+                                    "main": 7520,
+                                    "growth": 350,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1041008, Prop:1002}",
+                            "params": {
+                                "1041008": {
+                                    "main": 19200,
+                                    "growth": 880,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Tempered Fire",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Blazing Fire",
+                    "description": "Press  during a dodge to activate:\nSlashes enemies in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Fire Suppression",
+                    "description": "Press  during a dodge to activate:\nSlashes enemies in front, dealing Fire DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Backdraft",
+                    "description": "Press  during a Perfect Dodge to activate:\nExecutes a powerful slash against enemies in front, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Blazing Fire",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1041012, Prop:1001}",
+                            "params": {
+                                "1041012": {
+                                    "main": 6830,
+                                    "growth": 630,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1041012, Prop:1002}",
+                            "params": {
+                                "1041012": {
+                                    "main": 3420,
+                                    "growth": 160,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dash Attack: Fire Suppression",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1041013, Prop:1001}",
+                            "params": {
+                                "1041013": {
+                                    "main": 7880,
+                                    "growth": 720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1041013, Prop:1002}",
+                            "params": {
+                                "1041013": {
+                                    "main": 7880,
+                                    "growth": 360,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Backdraft",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1041015, Prop:1001}",
+                            "params": {
+                                "1041015": {
+                                    "main": 26200,
+                                    "growth": 2390,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1041015, Prop:1002}",
+                            "params": {
+                                "1041015": {
+                                    "main": 22580,
+                                    "growth": 1030,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Raging Fire",
+                    "description": "Press  to activate:\nSlashes enemies nearby, dealing Fire DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Fervent Fire",
+                    "description": "With enough Energy, press  to activate:\nSlashes enemies nearby, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's Basic Attacks and Dash Attacks will trigger Fire Suppression for up to 15s or 8 times.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Raging Fire",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1041010, Prop:1001}",
+                            "params": {
+                                "1041010": {
+                                    "main": 5260,
+                                    "growth": 480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1041010, Prop:1002}",
+                            "params": {
+                                "1041010": {
+                                    "main": 5260,
+                                    "growth": 240,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Fervent Fire",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1041011, Prop:1001}",
+                            "params": {
+                                "1041011": {
+                                    "main": 67500,
+                                    "growth": 6140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1041011, Prop:1002}",
+                            "params": {
+                                "1041011": {
+                                    "main": 54350,
+                                    "growth": 2480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "80",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Uplifting Flame",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful upward slash at enemies in a small area, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's Basic Attacks and Dash Attacks trigger Fire Suppression for the next 15s, up to 8 times.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Bellowing Flame",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes a powerful upward slash at enemies in a small area, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's Basic Attacks and Dash Attacks trigger Fire Suppression for the next 15s, up to 8 times.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Uplifting Flame",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1041016, Prop:1001}",
+                            "params": {
+                                "1041016": {
+                                    "main": 63250,
+                                    "growth": 5750,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1041016, Prop:1002}",
+                            "params": {
+                                "1041016": {
+                                    "main": 21360,
+                                    "growth": 980,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Bellowing Flame",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1041017, Prop:1001}",
+                            "params": {
+                                "1041017": {
+                                    "main": 210300,
+                                    "growth": 19120,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1041017, Prop:1002}",
+                            "params": {
+                                "1041017": {
+                                    "main": 28500,
+                                    "growth": 1300,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Covering Fire",
+                    "description": "When the active character is launched, press  to activate:\nSlashes enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Hold the Line",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Reignition",
+                    "description": "Press  after a Defensive Assist to activate:\nCharge and cross slash enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Covering Fire",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1041019, Prop:1001}",
+                            "params": {
+                                "1041019": {
+                                    "main": 12080,
+                                    "growth": 1100,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1041019, Prop:1002}",
+                            "params": {
+                                "1041019": {
+                                    "main": 12080,
+                                    "growth": 550,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Hold the Line",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1041020, Prop:1002}",
+                            "params": {
+                                "1041020": {
+                                    "main": 25900,
+                                    "growth": 1180,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1041021, Prop:1002}",
+                            "params": {
+                                "1041021": {
+                                    "main": 32730,
+                                    "growth": 1490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1041022, Prop:1002}",
+                            "params": {
+                                "1041022": {
+                                    "main": 15930,
+                                    "growth": 730,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Reignition",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1041023, Prop:1001}",
+                            "params": {
+                                "1041023": {
+                                    "main": 38370,
+                                    "growth": 3490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1041023, Prop:1002}",
+                            "params": {
+                                "1041023": {
+                                    "main": 33550,
+                                    "growth": 1530,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1041501,
+                "names": [
+                    "Core Passive: Heatwave",
+                    "Additional Ability: Fields of Fire"
+                ],
+                "descriptions": [
+                    "When triggering Fire Suppression during a Basic Attack or Dash Attack, increase that attack's DMG by 35%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more Fire DMG. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1041502,
+                "names": [
+                    "Core Passive: Heatwave",
+                    "Additional Ability: Fields of Fire"
+                ],
+                "descriptions": [
+                    "When triggering Fire Suppression during a Basic Attack or Dash Attack, increase that attack's DMG by 40.8%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more Fire DMG. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1041503,
+                "names": [
+                    "Core Passive: Heatwave",
+                    "Additional Ability: Fields of Fire"
+                ],
+                "descriptions": [
+                    "When triggering Fire Suppression during a Basic Attack or Dash Attack, increase that attack's DMG by 46.6%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more Fire DMG. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1041504,
+                "names": [
+                    "Core Passive: Heatwave",
+                    "Additional Ability: Fields of Fire"
+                ],
+                "descriptions": [
+                    "When triggering Fire Suppression during a Basic Attack or Dash Attack, increase that attack's DMG by 52.5%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more Fire DMG. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1041505,
+                "names": [
+                    "Core Passive: Heatwave",
+                    "Additional Ability: Fields of Fire"
+                ],
+                "descriptions": [
+                    "When triggering Fire Suppression during a Basic Attack or Dash Attack, increase that attack's DMG by 58.3%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more Fire DMG. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1041506,
+                "names": [
+                    "Core Passive: Heatwave",
+                    "Additional Ability: Fields of Fire"
+                ],
+                "descriptions": [
+                    "When triggering Fire Suppression during a Basic Attack or Dash Attack, increase that attack's DMG by 64.1%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more Fire DMG. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1041507,
+                "names": [
+                    "Core Passive: Heatwave",
+                    "Additional Ability: Fields of Fire"
+                ],
+                "descriptions": [
+                    "When triggering Fire Suppression during a Basic Attack or Dash Attack, increase that attack's DMG by 70%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more Fire DMG. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110505,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110505,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110505,
+                    "amount": 9
+                },
+                {
+                    "id": 110003,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110505,
+                    "amount": 15
+                },
+                {
+                    "id": 110003,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110505,
+                    "amount": 30
+                },
+                {
+                    "id": 110003,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1041_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1041_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1041_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect05.webp"
+}

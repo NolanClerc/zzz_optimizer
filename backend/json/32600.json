@@ -1,0 +1,8 @@
+{
+    "id": 32600,
+    "name": "Fanged Metal",
+    "two_piece_effect": "<color=#F0D12B>Physical DMG</color> +10%",
+    "four_piece_effect": "Whenever a squad member inflicts <color=#F0D12B>Assault</color> on an enemy, the equipper deals 35% additional DMG to the target for 12s.",
+    "story": "A Drive Disc burned with specialized Ether technology offering personalized attribute amplification to the user.",
+    "icon": "https://api.hakush.in/zzz/UI/SuitFangedMetal.webp"
+}

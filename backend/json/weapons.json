@@ -1,0 +1,795 @@
+[
+    {
+        "id": 13108,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1081.webp",
+        "name": "Starlight Engine Replica",
+        "names": {
+            "EN": "Starlight Engine Replica",
+            "KO": "별빛 엔진 레플리카",
+            "CHS": "仿制星徽引擎",
+            "JA": "なんちゃってスターライトエンジン"
+        },
+        "specialty": 1,
+        "rarity": "A"
+    },
+    {
+        "id": 14104,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1041.webp",
+        "name": "The Brimstone",
+        "names": {
+            "EN": "The Brimstone",
+            "KO": "유황석",
+            "CHS": "硫磺石",
+            "JA": "ブリムストーン"
+        },
+        "specialty": 1,
+        "rarity": "S"
+    },
+    {
+        "id": 12009,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_09.webp",
+        "name": "[Vortex] Hatchet",
+        "names": {
+            "EN": "[Vortex] Hatchet",
+            "KO": "「급류」-도끼",
+            "CHS": "「湍流」-斧型",
+            "JA": "「激流」-斧型"
+        },
+        "specialty": 2,
+        "rarity": "B"
+    },
+    {
+        "id": 14107,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1071.webp",
+        "name": "Tusks of Fury",
+        "names": {
+            "EN": "Tusks of Fury",
+            "KO": "저돌적인 송곳니",
+            "CHS": "奔袭獠牙",
+            "JA": "猛進するキバ"
+        },
+        "specialty": 5,
+        "rarity": "S"
+    },
+    {
+        "id": 13103,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1031.webp",
+        "name": "The Vault",
+        "names": {
+            "EN": "The Vault",
+            "KO": "보물함",
+            "CHS": "聚宝箱",
+            "JA": "ザ・ボールト"
+        },
+        "specialty": 4,
+        "rarity": "A"
+    },
+    {
+        "id": 13002,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_02.webp",
+        "name": "Slice of Time",
+        "names": {
+            "EN": "Slice of Time",
+            "KO": "시간의 파편",
+            "CHS": "时光切片",
+            "JA": "歳月の薄片"
+        },
+        "specialty": 4,
+        "rarity": "A"
+    },
+    {
+        "id": 13113,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1131.webp",
+        "name": "Bashful Demon",
+        "names": {
+            "EN": "Bashful Demon",
+            "KO": "수줍은 악마",
+            "CHS": "含羞恶面",
+            "JA": "恥じらう悪面"
+        },
+        "specialty": 4,
+        "rarity": "A"
+    },
+    {
+        "id": 12003,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_03.webp",
+        "name": "[Lunar] Noviluna",
+        "names": {
+            "EN": "[Lunar] Noviluna",
+            "KO": "「루나」-초승달",
+            "CHS": "「月相」-朔",
+            "JA": "「月相」-朔"
+        },
+        "specialty": 1,
+        "rarity": "B"
+    },
+    {
+        "id": 12002,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_02.webp",
+        "name": "[Lunar] Decrescent",
+        "names": {
+            "EN": "[Lunar] Decrescent",
+            "KO": "「루나」-그믐달",
+            "CHS": "「月相」-晦",
+            "JA": "「月相」-晦"
+        },
+        "specialty": 1,
+        "rarity": "B"
+    },
+    {
+        "id": 13135,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1351.webp",
+        "name": "Item_Weapon_A_1351_Name",
+        "names": {
+            "EN": "Item_Weapon_A_1351_Name",
+            "KO": "Item_Weapon_A_1351_Name",
+            "CHS": "裁纸刀",
+            "JA": "Item_Weapon_A_1351_Name"
+        },
+        "specialty": 2,
+        "rarity": "A"
+    },
+    {
+        "id": 13008,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_08.webp",
+        "name": "Weeping Gemini",
+        "names": {
+            "EN": "Weeping Gemini",
+            "KO": "쌍둥이의 눈물",
+            "CHS": "双生泣星",
+            "JA": "双生の涙"
+        },
+        "specialty": 3,
+        "rarity": "A"
+    },
+    {
+        "id": 14001,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_Common_01.webp",
+        "name": "Cannon Rotor",
+        "names": {
+            "EN": "Cannon Rotor",
+            "KO": "캐논 로터",
+            "CHS": "加农转子",
+            "JA": "キャノンローラー"
+        },
+        "specialty": 1,
+        "rarity": "A"
+    },
+    {
+        "id": 13003,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_03.webp",
+        "name": "Rainforest Gourmet",
+        "names": {
+            "EN": "Rainforest Gourmet",
+            "KO": "우림의 식객",
+            "CHS": "雨林饕客",
+            "JA": "密林の食いしん坊"
+        },
+        "specialty": 3,
+        "rarity": "A"
+    },
+    {
+        "id": 13010,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_10.webp",
+        "name": "Bunny Band",
+        "names": {
+            "EN": "Bunny Band",
+            "KO": "버니 밴드",
+            "CHS": "兔能环",
+            "JA": "ラビットチャージャー"
+        },
+        "specialty": 5,
+        "rarity": "A"
+    },
+    {
+        "id": 14116,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1161.webp",
+        "name": "Blazing Laurel",
+        "names": {
+            "EN": "Blazing Laurel",
+            "KO": "화염의 월계관",
+            "CHS": "焰心桂冠",
+            "JA": "炎心の桂冠"
+        },
+        "specialty": 2,
+        "rarity": "S"
+    },
+    {
+        "id": 13011,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_11.webp",
+        "name": "Spring Embrace",
+        "names": {
+            "EN": "Spring Embrace",
+            "KO": "봄날의 포옹",
+            "CHS": "春日融融",
+            "JA": "ホットスプリング"
+        },
+        "specialty": 5,
+        "rarity": "A"
+    },
+    {
+        "id": 14102,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1021.webp",
+        "name": "Steel Cushion",
+        "names": {
+            "EN": "Steel Cushion",
+            "KO": "스틸 쿠션",
+            "CHS": "钢铁肉垫",
+            "JA": "鋼の肉球"
+        },
+        "specialty": 1,
+        "rarity": "S"
+    },
+    {
+        "id": 13015,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_15.webp",
+        "name": "Marcato Desire",
+        "names": {
+            "EN": "Marcato Desire",
+            "KO": "열망의 악센트",
+            "CHS": "强音热望",
+            "JA": "強音デザイア"
+        },
+        "specialty": 1,
+        "rarity": "A"
+    },
+    {
+        "id": 14122,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1221.webp",
+        "name": "Timeweaver",
+        "names": {
+            "EN": "Timeweaver",
+            "KO": "시류의 현자",
+            "CHS": "时流贤者",
+            "JA": "刻流の賢者"
+        },
+        "specialty": 3,
+        "rarity": "S"
+    },
+    {
+        "id": 14120,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1201.webp",
+        "name": "Zanshin Herb Case",
+        "names": {
+            "EN": "Zanshin Herb Case",
+            "KO": "잔심의 청낭",
+            "CHS": "残心青囊",
+            "JA": "残心の青籠"
+        },
+        "specialty": 1,
+        "rarity": "S"
+    },
+    {
+        "id": 14114,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1141.webp",
+        "name": "The Restrained",
+        "names": {
+            "EN": "The Restrained",
+            "KO": "구속된 자",
+            "CHS": "拘缚者",
+            "JA": "拘縛されし者"
+        },
+        "specialty": 2,
+        "rarity": "S"
+    },
+    {
+        "id": 14118,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1181.webp",
+        "name": "Fusion Compiler",
+        "names": {
+            "EN": "Fusion Compiler",
+            "KO": "감입 컴파일러",
+            "CHS": "嵌合编译器",
+            "JA": "複合コンパイラ"
+        },
+        "specialty": 3,
+        "rarity": "S"
+    },
+    {
+        "id": 12011,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_11.webp",
+        "name": "[Magnetic Storm] Bravo",
+        "names": {
+            "EN": "[Magnetic Storm] Bravo",
+            "KO": "「자기 폭풍」-브라보",
+            "CHS": "「电磁暴」-贰式",
+            "JA": "「磁気嵐」-弐式"
+        },
+        "specialty": 3,
+        "rarity": "B"
+    },
+    {
+        "id": 14138,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1381.webp",
+        "name": "Item_Weapon_S_1381_Name",
+        "names": {
+            "EN": "Item_Weapon_S_1381_Name",
+            "KO": "Item_Weapon_S_1381_Name",
+            "CHS": "牺牲洁纯",
+            "JA": "Item_Weapon_S_1381_Name"
+        },
+        "specialty": 1,
+        "rarity": "S"
+    },
+    {
+        "id": 14136,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1361.webp",
+        "name": "Item_Weapon_S_1361_Name",
+        "names": {
+            "EN": "Item_Weapon_S_1361_Name",
+            "KO": "Item_Weapon_S_1361_Name",
+            "CHS": "索魂影眸",
+            "JA": "Item_Weapon_S_1361_Name"
+        },
+        "specialty": 2,
+        "rarity": "S"
+    },
+    {
+        "id": 13007,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_07.webp",
+        "name": "Original Transmorpher",
+        "names": {
+            "EN": "Original Transmorpher",
+            "KO": "오리지널 변신 아이템",
+            "CHS": "正版变身器",
+            "JA": "正規版変身装置"
+        },
+        "specialty": 5,
+        "rarity": "A"
+    },
+    {
+        "id": 12005,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_05.webp",
+        "name": "[Reverb] Mark II",
+        "names": {
+            "EN": "[Reverb] Mark II",
+            "KO": "「잔향」-Ⅱ형",
+            "CHS": "「残响」-Ⅱ型",
+            "JA": "「残響」-Ⅱ型"
+        },
+        "specialty": 4,
+        "rarity": "B"
+    },
+    {
+        "id": 13112,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1121.webp",
+        "name": "Big Cylinder",
+        "names": {
+            "EN": "Big Cylinder",
+            "KO": "빅 실린더",
+            "CHS": "比格气缸",
+            "JA": "ビガー・シリンダー"
+        },
+        "specialty": 5,
+        "rarity": "A"
+    },
+    {
+        "id": 12007,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_07.webp",
+        "name": "[Vortex] Revolver",
+        "names": {
+            "EN": "[Vortex] Revolver",
+            "KO": "「급류」-총",
+            "CHS": "「湍流」-铳型",
+            "JA": "「激流」-銃型"
+        },
+        "specialty": 2,
+        "rarity": "B"
+    },
+    {
+        "id": 14119,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1191.webp",
+        "name": "Deep Sea Visitor",
+        "names": {
+            "EN": "Deep Sea Visitor",
+            "KO": "심해 방문객",
+            "CHS": "深海访客",
+            "JA": "ディープシー・ビジター"
+        },
+        "specialty": 1,
+        "rarity": "S"
+    },
+    {
+        "id": 14132,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1321.webp",
+        "name": "Heartstring Nocturne",
+        "names": {
+            "EN": "Heartstring Nocturne",
+            "KO": "심금을 울리는 야상곡",
+            "CHS": "心弦夜响",
+            "JA": "心弦のノクターン"
+        },
+        "specialty": 1,
+        "rarity": "S"
+    },
+    {
+        "id": 14117,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1171.webp",
+        "name": "Flamemaker Shaker",
+        "names": {
+            "EN": "Flamemaker Shaker",
+            "KO": "타오르는 셰이커",
+            "CHS": "灼心摇壶",
+            "JA": "バーニング・シェイカー"
+        },
+        "specialty": 3,
+        "rarity": "S"
+    },
+    {
+        "id": 14124,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1241.webp",
+        "name": "Riot Suppressor Mark VI",
+        "names": {
+            "EN": "Riot Suppressor Mark VI",
+            "KO": "서프레서 Ⅵ형",
+            "CHS": "防暴者Ⅵ型",
+            "JA": "サプレッサーⅥ型"
+        },
+        "specialty": 1,
+        "rarity": "S"
+    },
+    {
+        "id": 13101,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1011.webp",
+        "name": "Demara Battery Mark II",
+        "names": {
+            "EN": "Demara Battery Mark II",
+            "KO": "데마라 배터리 Ⅱ형",
+            "CHS": "德玛拉电池Ⅱ型",
+            "JA": "デマラ式電池Ⅱ型"
+        },
+        "specialty": 2,
+        "rarity": "A"
+    },
+    {
+        "id": 14110,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1101.webp",
+        "name": "Hellfire Gears",
+        "names": {
+            "EN": "Hellfire Gears",
+            "KO": "헬파이어 기어",
+            "CHS": "燃狱齿轮",
+            "JA": "燃獄ギア"
+        },
+        "specialty": 2,
+        "rarity": "S"
+    },
+    {
+        "id": 12013,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_13.webp",
+        "name": "[Identity] Base",
+        "names": {
+            "EN": "[Identity] Base",
+            "KO": "「아이덴티티」-베이스",
+            "CHS": "「恒等式」-本格",
+            "JA": "「恒等式」-本格"
+        },
+        "specialty": 5,
+        "rarity": "B"
+    },
+    {
+        "id": 12006,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_06.webp",
+        "name": "[Reverb] Mark III",
+        "names": {
+            "EN": "[Reverb] Mark III",
+            "KO": "「잔향」-Ⅲ형",
+            "CHS": "「残响」-Ⅲ型",
+            "JA": "「残響」-Ⅲ型"
+        },
+        "specialty": 4,
+        "rarity": "B"
+    },
+    {
+        "id": 14109,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1091.webp",
+        "name": "Hailstorm Shrine",
+        "names": {
+            "EN": "Hailstorm Shrine",
+            "KO": "싸락눈 내린 별각",
+            "CHS": "霰落星殿",
+            "JA": "あられ落つ星殿"
+        },
+        "specialty": 3,
+        "rarity": "S"
+    },
+    {
+        "id": 13004,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_04.webp",
+        "name": "Starlight Engine",
+        "names": {
+            "EN": "Starlight Engine",
+            "KO": "별빛 엔진",
+            "CHS": "星徽引擎",
+            "JA": "スターライトエンジン"
+        },
+        "specialty": 1,
+        "rarity": "A"
+    },
+    {
+        "id": 12014,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_14.webp",
+        "name": "[Identity] Inflection",
+        "names": {
+            "EN": "[Identity] Inflection",
+            "KO": "「아이덴티티」-인플렉션",
+            "CHS": "「恒等式」-变格",
+            "JA": "「恒等式」-変格"
+        },
+        "specialty": 5,
+        "rarity": "B"
+    },
+    {
+        "id": 13005,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_05.webp",
+        "name": "Steam Oven",
+        "names": {
+            "EN": "Steam Oven",
+            "KO": "스팀오븐",
+            "CHS": "人为刀俎",
+            "JA": "まな板の鯉"
+        },
+        "specialty": 2,
+        "rarity": "A"
+    },
+    {
+        "id": 14131,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1311.webp",
+        "name": "Elegant Vanity",
+        "names": {
+            "EN": "Elegant Vanity",
+            "KO": "우아한 베니티백",
+            "CHS": "玲珑妆匣",
+            "JA": "優美のヴァニティ"
+        },
+        "specialty": 4,
+        "rarity": "S"
+    },
+    {
+        "id": 13127,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1271.webp",
+        "name": "Peacekeeper - Specialized",
+        "names": {
+            "EN": "Peacekeeper - Specialized",
+            "KO": "평화 수호자-특화형",
+            "CHS": "维序者-特化型",
+            "JA": "秩序の守り手・特化型"
+        },
+        "specialty": 5,
+        "rarity": "A"
+    },
+    {
+        "id": 13111,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1111.webp",
+        "name": "Drill Rig - Red Axis",
+        "names": {
+            "EN": "Drill Rig - Red Axis",
+            "KO": "굴착기-붉은 축",
+            "CHS": "旋钻机-赤轴",
+            "JA": "ドリルリグ-レッドシャフト"
+        },
+        "specialty": 1,
+        "rarity": "A"
+    },
+    {
+        "id": 14121,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1211.webp",
+        "name": "Weeping Cradle",
+        "names": {
+            "EN": "Weeping Cradle",
+            "KO": "흐느끼는 요람",
+            "CHS": "啜泣摇篮",
+            "JA": "啜り泣くゆりかご"
+        },
+        "specialty": 4,
+        "rarity": "S"
+    },
+    {
+        "id": 12010,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_10.webp",
+        "name": "[Magnetic Storm] Alpha",
+        "names": {
+            "EN": "[Magnetic Storm] Alpha",
+            "KO": "「자기 폭풍」-알파",
+            "CHS": "「电磁暴」-壹式",
+            "JA": "「磁気嵐」-壱式"
+        },
+        "specialty": 3,
+        "rarity": "B"
+    },
+    {
+        "id": 13115,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1151.webp",
+        "name": "Kaboom the Cannon",
+        "names": {
+            "EN": "Kaboom the Cannon",
+            "KO": "호전적인 꽝꽝이",
+            "CHS": "好斗的阿炮",
+            "JA": "喧嘩腰のボンバルダム"
+        },
+        "specialty": 4,
+        "rarity": "A"
+    },
+    {
+        "id": 13009,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_09.webp",
+        "name": "Electro-Lip Gloss",
+        "names": {
+            "EN": "Electro-Lip Gloss",
+            "KO": "감전 립글로스",
+            "CHS": "触电唇彩",
+            "JA": "電撃リップグロス"
+        },
+        "specialty": 3,
+        "rarity": "A"
+    },
+    {
+        "id": 13013,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_13.webp",
+        "name": "Gilded Blossom",
+        "names": {
+            "EN": "Gilded Blossom",
+            "KO": "도금된 화신풍",
+            "CHS": "鎏金花信",
+            "JA": "金メッキの花信"
+        },
+        "specialty": 1,
+        "rarity": "A"
+    },
+    {
+        "id": 12004,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_04.webp",
+        "name": "[Reverb] Mark I",
+        "names": {
+            "EN": "[Reverb] Mark I",
+            "KO": "「잔향」-Ⅰ형",
+            "CHS": "「残响」-Ⅰ型",
+            "JA": "「残響」-Ⅰ型"
+        },
+        "specialty": 4,
+        "rarity": "B"
+    },
+    {
+        "id": 14126,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1261.webp",
+        "name": "Sharpened Stinger",
+        "names": {
+            "EN": "Sharpened Stinger",
+            "KO": "예리한 집게칼",
+            "CHS": "淬锋钳刺",
+            "JA": "磨き抜かれた切っ先"
+        },
+        "specialty": 3,
+        "rarity": "S"
+    },
+    {
+        "id": 12008,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_08.webp",
+        "name": "[Vortex] Arrow",
+        "names": {
+            "EN": "[Vortex] Arrow",
+            "KO": "「급류」-화살",
+            "CHS": "「湍流」-矢型",
+            "JA": "「激流」-矢型"
+        },
+        "specialty": 2,
+        "rarity": "B"
+    },
+    {
+        "id": 12001,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_01.webp",
+        "name": "[Lunar] Pleniluna",
+        "names": {
+            "EN": "[Lunar] Pleniluna",
+            "KO": "「루나」-보름달",
+            "CHS": "「月相」-望",
+            "JA": "「月相」-望"
+        },
+        "specialty": 1,
+        "rarity": "B"
+    },
+    {
+        "id": 13106,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1061.webp",
+        "name": "Housekeeper",
+        "names": {
+            "EN": "Housekeeper",
+            "KO": "하우스키퍼",
+            "CHS": "家政员",
+            "JA": "ハウスキーパー"
+        },
+        "specialty": 1,
+        "rarity": "A"
+    },
+    {
+        "id": 14002,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_Common_02.webp",
+        "name": "Unfettered Game Ball",
+        "names": {
+            "EN": "Unfettered Game Ball",
+            "KO": "내 맘대로 게임 볼",
+            "CHS": "逍遥游球",
+            "JA": "ゲームボール"
+        },
+        "specialty": 4,
+        "rarity": "A"
+    },
+    {
+        "id": 14125,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_1251.webp",
+        "name": "Ice-Jade Teapot",
+        "names": {
+            "EN": "Ice-Jade Teapot",
+            "KO": "맑은 옥주전자",
+            "CHS": "玉壶青冰",
+            "JA": "玉壺青氷"
+        },
+        "specialty": 2,
+        "rarity": "S"
+    },
+    {
+        "id": 13001,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_01.webp",
+        "name": "Street Superstar",
+        "names": {
+            "EN": "Street Superstar",
+            "KO": "거리의 슈퍼스타",
+            "CHS": "街头巨星",
+            "JA": "ストリートスター"
+        },
+        "specialty": 1,
+        "rarity": "A"
+    },
+    {
+        "id": 13006,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_Common_06.webp",
+        "name": "Precious Fossilized Core",
+        "names": {
+            "EN": "Precious Fossilized Core",
+            "KO": "귀중한 화석 코어",
+            "CHS": "贵重骨核",
+            "JA": "貴重な石化コア"
+        },
+        "specialty": 2,
+        "rarity": "A"
+    },
+    {
+        "id": 12012,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_B_Common_12.webp",
+        "name": "[Magnetic Storm] Charlie",
+        "names": {
+            "EN": "[Magnetic Storm] Charlie",
+            "KO": "「자기 폭풍」-찰리",
+            "CHS": "「电磁暴」-叁式",
+            "JA": "「磁気嵐」-参式"
+        },
+        "specialty": 3,
+        "rarity": "B"
+    },
+    {
+        "id": 14003,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_S_Common_03.webp",
+        "name": "Six Shooter",
+        "names": {
+            "EN": "Six Shooter",
+            "KO": "리볼버 로터",
+            "CHS": "左轮转子",
+            "JA": "シックスシューター"
+        },
+        "specialty": 2,
+        "rarity": "A"
+    },
+    {
+        "id": 13128,
+        "icon": "https://api.hakush.in/zzz/UI/Weapon_A_1281.webp",
+        "name": "Roaring Ride",
+        "names": {
+            "EN": "Roaring Ride",
+            "KO": "뛰뛰빵빵",
+            "CHS": "轰鸣座驾",
+            "JA": "グロウル・マイ・カー"
+        },
+        "specialty": 3,
+        "rarity": "A"
+    }
+]

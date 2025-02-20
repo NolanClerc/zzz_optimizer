@@ -1,0 +1,1571 @@
+{
+    "ascension": [
+        {
+            "attack": 0,
+            "defense": 0,
+            "materials": [
+                {
+                    "amount": 24000,
+                    "id": 10
+                },
+                {
+                    "amount": 4,
+                    "id": 100211
+                }
+            ],
+            "max_hp": 0,
+            "max_level": 10,
+            "min_level": 0
+        },
+        {
+            "attack": 47,
+            "defense": 32,
+            "materials": [
+                {
+                    "amount": 56000,
+                    "id": 10
+                },
+                {
+                    "amount": 12,
+                    "id": 100221
+                }
+            ],
+            "max_hp": 417,
+            "max_level": 20,
+            "min_level": 10
+        },
+        {
+            "attack": 94,
+            "defense": 65,
+            "materials": [
+                {
+                    "amount": 120000,
+                    "id": 10
+                },
+                {
+                    "amount": 20,
+                    "id": 100221
+                }
+            ],
+            "max_hp": 834,
+            "max_level": 30,
+            "min_level": 20
+        },
+        {
+            "attack": 140,
+            "defense": 97,
+            "materials": [
+                {
+                    "amount": 200000,
+                    "id": 10
+                },
+                {
+                    "amount": 10,
+                    "id": 100231
+                }
+            ],
+            "max_hp": 1251,
+            "max_level": 40,
+            "min_level": 30
+        },
+        {
+            "attack": 187,
+            "defense": 130,
+            "materials": [
+                {
+                    "amount": 400000,
+                    "id": 10
+                },
+                {
+                    "amount": 20,
+                    "id": 100231
+                }
+            ],
+            "max_hp": 1668,
+            "max_level": 50,
+            "min_level": 40
+        },
+        {
+            "attack": 234,
+            "defense": 162,
+            "materials": [],
+            "max_hp": 2086,
+            "max_level": 60,
+            "min_level": 50
+        }
+    ],
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "code_name": "Nekomata",
+    "element": {
+        "id": 200,
+        "name": "Physical"
+    },
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "480%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 480
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "0",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "480%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 480
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "25",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "960%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 960
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "25",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "960%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 960
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "50",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "1440%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 1440
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "50",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "1440%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 1440
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "75",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 75
+                }
+            ]
+        }
+    ],
+    "faction": {
+        "id": 1,
+        "name": "Cunning Hares"
+    },
+    "gender": "F",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect11.webp",
+    "id": 1021,
+    "image": "https://api.hakush.in/zzz/UI/IconRole11.webp",
+    "info": {
+        "birthday": "JUL 30",
+        "faction": "Cunning Hares",
+        "female_impression": "Kitty cat! Who doesn't like kitty cats!\nOhhh, I want to touch Nekomata's tails! She's got two, that's double the fun!",
+        "full_name": "Nekomiya Mana",
+        "gender": "Female",
+        "male_impression": "Take it easy... She's not some harmless little kitten on the street in New Eridu...\nWhen dealing with Nekomata, the most important thing is keeping an eye on your wallet...",
+        "outlook_desc": "New Eridu Citizen Verification Profile Info:\nHollow Investigator - Nekomata. Excellent aptitude for Ether. Permitted to conduct investigations, basic mining, etc. in known Hollows within the city (including companion Hollows).\nRemarks: In general, Thirens are better able to adapt to the environment in the hollows than humans. However, due to their faster metabolism, once corrupted they will experience symptoms at a faster rate than humans. Similarly, their efficiency in recovering from the symptoms when leaving the Hollows is also faster.",
+        "profile_desc": "Nekomiya Mana. Refers to herself as \"Nekomata.\"\nA cat Thiren with feline traits, possessing great dexterity when hunting and an insatiable curiosity about the outside world.\nSometimes mischievous, she engages in harmless pranks. But when she sets her sights on a target, her feline-like agility and focus are enough to leave others in awe.\nShe's most interested in other people's wallets.\nRecommendation: Always keep an eye on your wallet when Nekomata is around.\n\nIn the past, Nekomata was a member of the long-standing Red Fang Gang. Its leader, Miguel Silver, took on a fatherly role in her life. Nonetheless, due to differing beliefs from the gang, she opted to part ways and go it alone.\nFollowing certain encounters involving Nicole and others, she eventually opted to enlist in Gentle House, thus becoming the third employee on the team.",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission",
+            "Complete Agent Story \"Cat and Mouse Game\""
+        ]
+    },
+    "mindscape_cinemas": [
+        {
+            "description": "When Nekomata hits an enemy from behind, she ignores 16% of her target's Physical RES. If the enemy is Stunned, all Nekomata's attacks are considered back attacks.",
+            "description2": "While Nekomata lacks strength due to her small size, she has the perceptiveness and agility required to locate her enemies' weaknesses and strike right where it hurts most.",
+            "level": 1,
+            "name": "Bird Hunter"
+        },
+        {
+            "description": "When there's only one enemy on the field and Nekomata is in combat, her Energy Generation Rate is increased by 25%.",
+            "description2": "Cats always prefer to toy with their prey.\nIf there's only one mouse left in combat � that's Nekomata's play time.",
+            "level": 2,
+            "name": "Cat & Mouse"
+        },
+        {
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "According to the legends of the old civilization, each tail represents one of a cat's many lives, with years of wisdom and experience stored within...\nEven if that's not true, the experience Nekomata has gained on the streets certainly is.",
+            "level": 3,
+            "name": "Curious Left Tail"
+        },
+        {
+            "description": "When Nekomata uses her EX Special Attack, her CRIT Rate increases by 7% for 15s, stacking up to 2 times, with each stack's duration being calculated separately.",
+            "description2": "\"Gimme more, gimme MORE! I can eat 'em all~\"\nHer eyes sparkle as she licks the back of her paws.",
+            "level": 4,
+            "name": "Sharpen Claws"
+        },
+        {
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "According to the legends of the old civilization, each tail represents one of a cat's many lives, with years of wisdom and experience stored within... Sometimes Nekomata wonders to herself: If she is lucky enough to keep surviving, will she eventually grow another tail?",
+            "level": 5,
+            "name": "Lucky Right Tail"
+        },
+        {
+            "description": "When Nekomata launches a Chain Attack or uses her Ultimate, her CRIT DMG increases by 18%, stacking up to 3 times. The effect expires when she's no longer in-combat. This effect gains maximum stacks immediately on defeating an enemy.",
+            "description2": "\"When a feline Thiren gets positive reinforcement from aggressive behavior,\ntheir latent animalistic tendencies emerge.\nFortunately, these tendencies aren't permanent...\"\n�Excerpt from the Handbook of Incomplete Research on Feline Thirens",
+            "level": 6,
+            "name": "Predator Lineage"
+        }
+    ],
+    "name": "Nekomata",
+    "passive": {
+        "level_up_materials": {
+            "1": [
+                {
+                    "amount": 5000,
+                    "id": 10
+                }
+            ],
+            "2": [
+                {
+                    "amount": 12000,
+                    "id": 10
+                },
+                {
+                    "amount": 2,
+                    "id": 110502
+                }
+            ],
+            "3": [
+                {
+                    "amount": 28000,
+                    "id": 10
+                },
+                {
+                    "amount": 4,
+                    "id": 110502
+                }
+            ],
+            "4": [
+                {
+                    "amount": 60000,
+                    "id": 10
+                },
+                {
+                    "amount": 9,
+                    "id": 110502
+                },
+                {
+                    "amount": 2,
+                    "id": 110001
+                }
+            ],
+            "5": [
+                {
+                    "amount": 100000,
+                    "id": 10
+                },
+                {
+                    "amount": 15,
+                    "id": 110502
+                },
+                {
+                    "amount": 3,
+                    "id": 110001
+                }
+            ],
+            "6": [
+                {
+                    "amount": 200000,
+                    "id": 10
+                },
+                {
+                    "amount": 30,
+                    "id": 110502
+                },
+                {
+                    "amount": 4,
+                    "id": 110001
+                }
+            ]
+        },
+        "levels": {
+            "1": {
+                "descriptions": [
+                    "When Nekomata's Dodge Counter or Quick Assist hits an enemy, her DMG increases by 30% for 6s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter any character inflicts Assault, increases the DMG of Nekomata's next EX Special Attack by 35%, stacking up to 2 times."
+                ],
+                "id": 1021501,
+                "level": 1,
+                "names": [
+                    "Core Passive: Stealthy Paws",
+                    "Additional Ability: Catwalk"
+                ]
+            },
+            "2": {
+                "descriptions": [
+                    "When Nekomata's Dodge Counter or Quick Assist hits an enemy, her DMG increases by 35% for 6s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter any character inflicts Assault, increases the DMG of Nekomata's next EX Special Attack by 35%, stacking up to 2 times."
+                ],
+                "id": 1021502,
+                "level": 2,
+                "names": [
+                    "Core Passive: Stealthy Paws",
+                    "Additional Ability: Catwalk"
+                ]
+            },
+            "3": {
+                "descriptions": [
+                    "When Nekomata's Dodge Counter or Quick Assist hits an enemy, her DMG increases by 40% for 6s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter any character inflicts Assault, increases the DMG of Nekomata's next EX Special Attack by 35%, stacking up to 2 times."
+                ],
+                "id": 1021503,
+                "level": 3,
+                "names": [
+                    "Core Passive: Stealthy Paws",
+                    "Additional Ability: Catwalk"
+                ]
+            },
+            "4": {
+                "descriptions": [
+                    "When Nekomata's Dodge Counter or Quick Assist hits an enemy, her DMG increases by 45% for 6s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter any character inflicts Assault, increases the DMG of Nekomata's next EX Special Attack by 35%, stacking up to 2 times."
+                ],
+                "id": 1021504,
+                "level": 4,
+                "names": [
+                    "Core Passive: Stealthy Paws",
+                    "Additional Ability: Catwalk"
+                ]
+            },
+            "5": {
+                "descriptions": [
+                    "When Nekomata's Dodge Counter or Quick Assist hits an enemy, her DMG increases by 50% for 6s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter any character inflicts Assault, increases the DMG of Nekomata's next EX Special Attack by 35%, stacking up to 2 times."
+                ],
+                "id": 1021505,
+                "level": 5,
+                "names": [
+                    "Core Passive: Stealthy Paws",
+                    "Additional Ability: Catwalk"
+                ]
+            },
+            "6": {
+                "descriptions": [
+                    "When Nekomata's Dodge Counter or Quick Assist hits an enemy, her DMG increases by 55% for 6s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter any character inflicts Assault, increases the DMG of Nekomata's next EX Special Attack by 35%, stacking up to 2 times."
+                ],
+                "id": 1021506,
+                "level": 6,
+                "names": [
+                    "Core Passive: Stealthy Paws",
+                    "Additional Ability: Catwalk"
+                ]
+            },
+            "7": {
+                "descriptions": [
+                    "When Nekomata's Dodge Counter or Quick Assist hits an enemy, her DMG increases by 60% for 6s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter any character inflicts Assault, increases the DMG of Nekomata's next EX Special Attack by 35%, stacking up to 2 times."
+                ],
+                "id": 1021507,
+                "level": 7,
+                "names": [
+                    "Core Passive: Stealthy Paws",
+                    "Additional Ability: Catwalk"
+                ]
+            }
+        }
+    },
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1021_1.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1021_2.webp",
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1021_3.webp",
+    "rarity": "S",
+    "skills": {
+        "Assist": {
+            "descriptions": [
+                {
+                    "description": "When the active character is launched, press  to activate:\nSlashes enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Quick Assist: Cat's Paw",
+                    "params": null
+                },
+                {
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "name": "Defensive Assist: Desperate Defense",
+                    "params": null
+                },
+                {
+                    "description": "Press  after a Defensive Assist to activate:\nCharge and slash enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Assist Follow-Up: Shadow Strike",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Quick Assist: Cat's Paw",
+                    "params": [
+                        {
+                            "description": "{Skill:1021013, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1021013": {
+                                    "format": "%",
+                                    "growth": 860,
+                                    "main": 9450
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021013, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1021013": {
+                                    "format": "%",
+                                    "growth": 430,
+                                    "main": 9450
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Defensive Assist: Desperate Defense",
+                    "params": [
+                        {
+                            "description": "{Skill:1021014, Prop:1002}",
+                            "name": "Light Defensive Daze Multiplier",
+                            "params": {
+                                "1021014": {
+                                    "format": "%",
+                                    "growth": 1180,
+                                    "main": 25900
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021015, Prop:1002}",
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "params": {
+                                "1021015": {
+                                    "format": "%",
+                                    "growth": 1490,
+                                    "main": 32730
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021016, Prop:1002}",
+                            "name": "Chain Defensive Daze Multiplier",
+                            "params": {
+                                "1021016": {
+                                    "format": "%",
+                                    "growth": 730,
+                                    "main": 15930
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Assist Follow-Up: Shadow Strike",
+                    "params": [
+                        {
+                            "description": "{Skill:1021017, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1021017": {
+                                    "format": "%",
+                                    "growth": 2740,
+                                    "main": 30040
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021017, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1021017": {
+                                    "format": "%",
+                                    "growth": 1180,
+                                    "main": 25810
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100110
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100130
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100130
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100110
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100120
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100120
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100120
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100120
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100130
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100130
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100130
+                    }
+                ]
+            },
+            "type": "Assist"
+        },
+        "Basic": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nUnleashes up to 5 slashes, dealing Physical DMG.\nOn the last hit, there is a 33.33% chance to repeat this hit 3 times.",
+                    "name": "Basic Attack: Kitty Slash",
+                    "params": null
+                },
+                {
+                    "description": "Hold  during the first 3 hits of Nekomata's Basic Attack to activate:\nSlashes enemies in front and passes through them, dealing Physical DMG.\nUpon activation, there is a 33.33% chance to repeat this attack 3 times.",
+                    "name": "Basic Attack: Crimson Blade",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Basic Attack: Kitty Slash",
+                    "params": [
+                        {
+                            "description": "{Skill:1021001, Prop:1001}",
+                            "name": "1st-Hit DMG Multiplier",
+                            "params": {
+                                "1021001": {
+                                    "format": "%",
+                                    "growth": 510,
+                                    "main": 5520
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021002, Prop:1001}",
+                            "name": "2nd-Hit DMG Multiplier",
+                            "params": {
+                                "1021002": {
+                                    "format": "%",
+                                    "growth": 570,
+                                    "main": 6260
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021003, Prop:1001}",
+                            "name": "3rd-Hit DMG Multiplier",
+                            "params": {
+                                "1021003": {
+                                    "format": "%",
+                                    "growth": 670,
+                                    "main": 7270
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021004, Prop:1001}",
+                            "name": "4th-Hit DMG Multiplier",
+                            "params": {
+                                "1021004": {
+                                    "format": "%",
+                                    "growth": 1550,
+                                    "main": 17020
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021005, Prop:1001}",
+                            "name": "5th-Hit DMG Multiplier",
+                            "params": {
+                                "1021005": {
+                                    "format": "%",
+                                    "growth": 1130,
+                                    "main": 12360
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021001, Prop:1002}",
+                            "name": "1st-Hit Daze Multiplier",
+                            "params": {
+                                "1021001": {
+                                    "format": "%",
+                                    "growth": 90,
+                                    "main": 1800
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021002, Prop:1002}",
+                            "name": "2nd-Hit Daze Multiplier",
+                            "params": {
+                                "1021002": {
+                                    "format": "%",
+                                    "growth": 170,
+                                    "main": 3710
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021003, Prop:1002}",
+                            "name": "3rd-Hit Daze Multiplier",
+                            "params": {
+                                "1021003": {
+                                    "format": "%",
+                                    "growth": 220,
+                                    "main": 4670
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021004, Prop:1002}",
+                            "name": "4th-Hit Daze Multiplier",
+                            "params": {
+                                "1021004": {
+                                    "format": "%",
+                                    "growth": 480,
+                                    "main": 10370
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021005, Prop:1002}",
+                            "name": "5th-Hit Daze Multiplier",
+                            "params": {
+                                "1021005": {
+                                    "format": "%",
+                                    "growth": 270,
+                                    "main": 5890
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Basic Attack: Crimson Blade",
+                    "params": [
+                        {
+                            "description": "{Skill:1021006, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1021006": {
+                                    "format": "%",
+                                    "growth": 660,
+                                    "main": 7180
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021006, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1021006": {
+                                    "format": "%",
+                                    "growth": 270,
+                                    "main": 5890
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100110
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100130
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100130
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100110
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100120
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100120
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100120
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100120
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100130
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100130
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100130
+                    }
+                ]
+            },
+            "type": "Basic"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful slash at enemies ahead in a large area, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Chain Attack: Claw Swipe",
+                    "params": null
+                },
+                {
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes powerful slashes at enemies ahead in a large area, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Ultimate: Claw Smash",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Chain Attack: Claw Swipe",
+                    "params": [
+                        {
+                            "description": "{Skill:1021011, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1021011": {
+                                    "format": "%",
+                                    "growth": 4880,
+                                    "main": 53620
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021011, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1021011": {
+                                    "format": "%",
+                                    "growth": 730,
+                                    "main": 15920
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Ultimate: Claw Smash",
+                    "params": [
+                        {
+                            "description": "{Skill:1021012, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1021012": {
+                                    "format": "%",
+                                    "growth": 14290,
+                                    "main": 157110
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021012, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1021012": {
+                                    "format": "%",
+                                    "growth": 540,
+                                    "main": 11810
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100110
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100130
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100130
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100110
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100120
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100120
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100120
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100120
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100130
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100130
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100130
+                    }
+                ]
+            },
+            "type": "Chain"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "name": "Dodge: Can't Touch Me-ow~",
+                    "params": null
+                },
+                {
+                    "description": "Press  during a dodge to activate:\nSlashes enemies in front, dealing Physical DMG.",
+                    "name": "Dash Attack: Over Here!",
+                    "params": null
+                },
+                {
+                    "description": "Press  during a Perfect Dodge to activate:\nSlashes enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Dodge Counter: Phantom Claws",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Dash Attack: Over Here!",
+                    "params": [
+                        {
+                            "description": "{Skill:1021009, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1021009": {
+                                    "format": "%",
+                                    "growth": 320,
+                                    "main": 3510
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021009, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1021009": {
+                                    "format": "%",
+                                    "growth": 80,
+                                    "main": 1760
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Dodge Counter: Phantom Claws",
+                    "params": [
+                        {
+                            "description": "{Skill:1021010, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1021010": {
+                                    "format": "%",
+                                    "growth": 2080,
+                                    "main": 22790
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021010, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1021010": {
+                                    "format": "%",
+                                    "growth": 910,
+                                    "main": 19950
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100110
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100130
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100130
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100110
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100120
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100120
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100120
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100120
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100130
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100130
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100130
+                    }
+                ]
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nUnleashes a downward strike, dealing Physical DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "name": "Special Attack: Surprise Attack",
+                    "params": null
+                },
+                {
+                    "description": "With enough Energy, press  to activate:\nUnleashes a powerful falling slash that deals massive Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "EX Special Attack: Super Surprise Attack!",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Special Attack: Surprise Attack",
+                    "params": [
+                        {
+                            "description": "{Skill:1021007, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1021007": {
+                                    "format": "%",
+                                    "growth": 430,
+                                    "main": 4730
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021007, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1021007": {
+                                    "format": "%",
+                                    "growth": 220,
+                                    "main": 4730
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "EX Special Attack: Super Surprise Attack!",
+                    "params": [
+                        {
+                            "description": "{Skill:1021008, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1021008": {
+                                    "format": "%",
+                                    "growth": 4910,
+                                    "main": 53970
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1021008, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1021008": {
+                                    "format": "%",
+                                    "growth": 2070,
+                                    "main": 45540
+                                }
+                            }
+                        },
+                        {
+                            "description": "40",
+                            "name": "Energy Cost",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100110
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100130
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100130
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100110
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100120
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100120
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100120
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100120
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100130
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100130
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100130
+                    }
+                ]
+            },
+            "type": "Special"
+        }
+    },
+    "specialty": {
+        "id": 1,
+        "name": "Attack"
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 131.0,
+        "AttackGrowth": 79762.0,
+        "AvatarPieceId": 5021.0,
+        "BreakStun": 92.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 47.0,
+        "DefenceGrowth": 64166.0,
+        "ElementAbnormalPower": 97.0,
+        "ElementMystery": 96.0,
+        "Endurance": 0.0,
+        "HpGrowth": 824778.0,
+        "HpMax": 608.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    }
+}

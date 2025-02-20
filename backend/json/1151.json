@@ -1,0 +1,1707 @@
+{
+    "id": 1151,
+    "image": "https://api.hakush.in/zzz/UI/IconRole27.webp",
+    "name": "Lucy",
+    "code_name": "Lucy",
+    "rarity": "A",
+    "specialty": {
+        "id": 4,
+        "name": "Support"
+    },
+    "element": {
+        "id": 201,
+        "name": "Fire"
+    },
+    "attack_type": {
+        "id": 102,
+        "name": "Strike"
+    },
+    "faction": {
+        "id": 4,
+        "name": "Sons of Calydon"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "AUG 14",
+        "full_name": "Luciana de Montefio",
+        "gender": "Female",
+        "female_impression": "Lucy's Knock Knock profile pic is soooo pretty! Is that what she looked like back when she was still living as a rich heiress?",
+        "male_impression": "I think Caesar mentioned Lucy only uses this profile picture because it's incredibly effective when it comes to talking business with others...",
+        "outlook_desc": "New Eridu Citizen Verification Profile Info:\nHollow Investigator — Luciana Auxesis Theodoro de Montefio, possessing good Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: FYI, Luciana Auxesis Theodoro de Montefio is Lucy's full name.",
+        "profile_desc": "Lucy is currently in charge of outgoing business and managing boars for the Sons of Calydon.\nSince her name is far too long and she doesn't want to be involved with her family, she refers to herself as just \"Lucy\" in the Outer Ring.\nHer three boars are called Grassy, Woody, and Bricky, and they're unceasingly loyal to her.\nThough Lucy often speaks with a mixture of rough and elegant language, her actions subtly betray the marks of a proper education.\nLucy's family is incredibly wealthy. She grew up very privileged, with anything she could ever want within grasp... except for freedom.\nAfter her Ether Aptitude test results came back high, Lucy decided she wanted to be a Hollow investigator, but her family disapproved. She was met with harsh words, isolation and confinement, and emotional abuse which led to her deciding to leave to find her own freedom.\n\"Hmph! There's no chance I'll ever go back! If I'm found... then I can say goodbye to the stars and sky and I'll have to inherit the family business instead!\"\nLucy is extremely competitive. She loves to win and hates losing.\nCurrently, the one who has given her the most bitter taste of defeat is Caesar, so Lucy keeps challenging Caesar to duels, losing then challenging again, challenging then losing again.",
+        "faction": "Sons of Calydon",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 95.0,
+        "AttackGrowth": 54230.0,
+        "AvatarPieceId": 5151.0,
+        "BreakStun": 86.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66882.0,
+        "ElementAbnormalPower": 94.0,
+        "ElementMystery": 93.0,
+        "Endurance": 0.0,
+        "HpGrowth": 875757.0,
+        "HpMax": 645.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Drill Formations",
+            "description": "When the guard boars launch Guard Boars: Spinning Swing!, Lucy recovers 2 Energy. This effect can trigger once every 15s, with each guard boar having its own separate cooldown.",
+            "description2": "\"Grassy, eyes right! ...That's left, you idiot!!!\"\nOne command, two directions, three cries of pain, and wails all around."
+        },
+        {
+            "level": 2,
+            "name": "Little Boar Captain",
+            "description": "When Lucy uses a Chain Attack or Ultimate, it grants all squad members, Bangboo, and the guard boars the Cheer On! status for 10s.",
+            "description2": "\"Without a doubt, Captain Lucy is the best leader of the Calydon Boar Thirens!\"\nThis was Woody's conclusion in the \"Sons of Calydon Annual Report.\""
+        },
+        {
+            "level": 3,
+            "name": "Ironfist Overseer",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"I just wish Captain Lucy would be more gentle when she's smacking us around.\"\nWoody thought, but didn't dare say it out loud."
+        },
+        {
+            "level": 4,
+            "name": "Chaos Ball Game",
+            "description": "While in the Cheer On! state, allies' CRIT DMG is increased by an additional 10%.",
+            "description2": "Rules and ribs are made to be broken."
+        },
+        {
+            "level": 5,
+            "name": "Wildland Princess",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "She speaks politely to opponents screaming under her bat.\nShe apologizes to enemies groveling at her feet.\nThis is the perfect etiquette of a noble lady."
+        },
+        {
+            "level": 6,
+            "name": "Fierce Fangs of Fire",
+            "description": "When an ally in the Cheer On! state hits an enemy with an EX Special Attack, a guard boar will drop from the sky and cause an explosion, dealing Fire DMG equal to 300% of the guard boar's ATK. This will extend the duration of the Cheer On! buff for all squad members by 5s. The duration can increase up to 3 times, with a maximum duration of 30s. Refreshing the Cheer On! state resets the stack count. After the guard boar's explosion, it will launch Guard Boars: Spinning Swing!.",
+            "description2": "The little boar Thirens known as the Crimson Mane Guard are always at the forefront of battle!\nThough it's hard to tell if, at the moment they're launched by the bat, they feel total despair or just accept their fate.\nBrave little boars, leading the charge!"
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100214,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 443,
+            "attack": 34,
+            "defense": 34,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100224,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 886,
+            "attack": 68,
+            "defense": 68,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100224,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1329,
+            "attack": 102,
+            "defense": 101,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100234,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1772,
+            "attack": 135,
+            "defense": 135,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100234,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2214,
+            "attack": 169,
+            "defense": 169,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Lady's Bat",
+                    "description": "Press  to activate:\nStrike forward up to 4 times, dealing Physical DMG and Fire DMG.\nWhen Lucy uses her fourth Basic Attack, the currently on-field guard boars will launch Guard Boars: Spinning Swing! together.",
+                    "params": null
+                },
+                {
+                    "name": "Guard Boars: To Arms!",
+                    "description": "In combat, the guard boars will randomly use a baseball bat, boxing gloves, or a slingshot to automatically attack enemies, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Guard Boars: Spinning Swing!",
+                    "description": "When Lucy uses the fourth Basic Attack, or when she gains the Cheer On! status, the guard boars will whirl their baseball bats in a continuous motion, dealing Physical DMG to nearby enemies. If the attack cannot be executed immediately, the guard boars will remember the required number of times to execute it.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Lady's Bat",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1151001, Prop:1001}",
+                            "params": {
+                                "1151001": {
+                                    "main": 5660,
+                                    "growth": 520,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1151002, Prop:1001}",
+                            "params": {
+                                "1151002": {
+                                    "main": 7780,
+                                    "growth": 710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1151004, Prop:1001}",
+                            "params": {
+                                "1151004": {
+                                    "main": 18890,
+                                    "growth": 1720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit (ALT) DMG Multiplier",
+                            "description": "{Skill:1151003, Prop:1001}",
+                            "params": {
+                                "1151003": {
+                                    "main": 21150,
+                                    "growth": 1930,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1151005, Prop:1001}",
+                            "params": {
+                                "1151005": {
+                                    "main": 27260,
+                                    "growth": 2480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1151001, Prop:1002}",
+                            "params": {
+                                "1151001": {
+                                    "main": 2830,
+                                    "growth": 130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1151002, Prop:1002}",
+                            "params": {
+                                "1151002": {
+                                    "main": 6500,
+                                    "growth": 300,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1151004, Prop:1002}",
+                            "params": {
+                                "1151004": {
+                                    "main": 15740,
+                                    "growth": 720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit (ALT) Daze Multiplier",
+                            "description": "{Skill:1151003, Prop:1002}",
+                            "params": {
+                                "1151003": {
+                                    "main": 16230,
+                                    "growth": 740,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1151005, Prop:1002}",
+                            "params": {
+                                "1151005": {
+                                    "main": 20800,
+                                    "growth": 950,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Guard Boars: To Arms!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Baseball Bat DMG Multiplier",
+                            "description": "{Skill:1151023, Prop:1001}",
+                            "params": {
+                                "1151023": {
+                                    "main": 9250,
+                                    "growth": 850,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Boxing Gloves DMG Multiplier",
+                            "description": "{Skill:1151024, Prop:1001}",
+                            "params": {
+                                "1151024": {
+                                    "main": 12750,
+                                    "growth": 1160,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Slingshot DMG Multiplier",
+                            "description": "{Skill:1151025, Prop:1001}",
+                            "params": {
+                                "1151025": {
+                                    "main": 17500,
+                                    "growth": 1600,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Baseball Bat Daze Multiplier",
+                            "description": "{Skill:1151023, Prop:1002}",
+                            "params": {
+                                "1151023": {
+                                    "main": 1550,
+                                    "growth": 80,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Boxing Gloves Daze Multiplier",
+                            "description": "{Skill:1151024, Prop:1002}",
+                            "params": {
+                                "1151024": {
+                                    "main": 2130,
+                                    "growth": 100,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Slingshot Daze Multiplier",
+                            "description": "{Skill:1151025, Prop:1002}",
+                            "params": {
+                                "1151025": {
+                                    "main": 2920,
+                                    "growth": 140,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Guard Boars: Spinning Swing!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Spinning Swing DMG Multiplier",
+                            "description": "{Skill:1151026, Prop:1001}",
+                            "params": {
+                                "1151026": {
+                                    "main": 25000,
+                                    "growth": 2280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Spinning Swing Daze Multiplier",
+                            "description": "{Skill:1151026, Prop:1002}",
+                            "params": {
+                                "1151026": {
+                                    "main": 2000,
+                                    "growth": 100,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Foul Ball!",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Fearless Boar!",
+                    "description": "Press  during dodge to activate:\nRapidly strikes enemies in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Returning Tusk!",
+                    "description": "Press  during a Perfect Dodge to activate:\nStrike enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Fearless Boar!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1151014, Prop:1001}",
+                            "params": {
+                                "1151014": {
+                                    "main": 7840,
+                                    "growth": 720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1151014, Prop:1002}",
+                            "params": {
+                                "1151014": {
+                                    "main": 3920,
+                                    "growth": 180,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Returning Tusk!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1151015, Prop:1001}",
+                            "params": {
+                                "1151015": {
+                                    "main": 30800,
+                                    "growth": 2800,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1151015, Prop:1002}",
+                            "params": {
+                                "1151015": {
+                                    "main": 26000,
+                                    "growth": 1190,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Solid Hit!",
+                    "description": "Press  to activate:\nRecall a guard boar and launch it as a Line Drive. The guard boar will cause an explosion upon hitting enemies or walls, dealing Fire DMG.\nHold  to activate:\nRecall a guard boar and launch it as a Fly Ball. The guard boar will cause an explosion upon landing, dealing Fire DMG.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Home Run!",
+                    "description": "With enough Energy, press  to activate:\nRecall a guard boar and launch it as a Line Drive. The guard boar will cause an explosion upon hitting enemies or walls, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a Quick Assist.\nWith enough Energy, hold  to activate:\nRecall a guard boar and launch it as a Fly Ball. The guard boar will cause an explosion upon landing, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a Quick Assist.",
+                    "params": null
+                },
+                {
+                    "name": "Cheer On!",
+                    "description": "After using EX Special Attack, when a guard boar triggers an explosion, it will apply the Cheer On! status to all allies, Bangboo, and the guard boars themselves. While under the Cheer On! status, allies' ATK increases by {CAL:13+AvatarSkillLevel(1)*0.8,1,2}% of Lucy's initial ATK + {CAL:40+AvatarSkillLevel(1)*4,1,2}, up to a maximum of 600. The Cheer On! status lasts for 10s when a Line Drive is hit, and 15s when a Fly Ball is hit. Repeated triggers reset the duration.",
+                    "params": null
+                },
+                {
+                    "name": "Cheer On!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "ATK Increase",
+                            "description": "{CAL:13+AvatarSkillLevel(1)*0.8,1,2}% of Lucy's ATK + {CAL:40+AvatarSkillLevel(1)*4,1,2}",
+                            "params": null
+                        }
+                    ]
+                },
+                {
+                    "name": "Special Attack: Solid Hit!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Line Drive DMG Multiplier",
+                            "description": "{Skill:1151008, Prop:1001}",
+                            "params": {
+                                "1151008": {
+                                    "main": 6170,
+                                    "growth": 570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Fly Ball DMG Multiplier",
+                            "description": "{Skill:1151009, Prop:1001}",
+                            "params": {
+                                "1151009": {
+                                    "main": 6920,
+                                    "growth": 630,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Line Drive Daze Multiplier",
+                            "description": "{Skill:1151008, Prop:1002}",
+                            "params": {
+                                "1151008": {
+                                    "main": 6170,
+                                    "growth": 290,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Fly Ball Daze Multiplier",
+                            "description": "{Skill:1151009, Prop:1002}",
+                            "params": {
+                                "1151009": {
+                                    "main": 6920,
+                                    "growth": 320,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Home Run!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Line Drive DMG Multiplier",
+                            "description": "{Skill:1151012, Prop:1001}",
+                            "params": {
+                                "1151012": {
+                                    "main": 50840,
+                                    "growth": 4630,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Fly Ball DMG Multiplier",
+                            "description": "{Skill:1151013, Prop:1001}",
+                            "params": {
+                                "1151013": {
+                                    "main": 53640,
+                                    "growth": 4880,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Line Drive Daze Multiplier",
+                            "description": "{Skill:1151012, Prop:1002}",
+                            "params": {
+                                "1151012": {
+                                    "main": 36460,
+                                    "growth": 1660,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Fly Ball Daze Multiplier",
+                            "description": "{Skill:1151013, Prop:1002}",
+                            "params": {
+                                "1151013": {
+                                    "main": 38960,
+                                    "growth": 1780,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "60",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Grand Slam!",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nLucy jumps up and sends a guard boar at enemies in front in a large area, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a Quick Assist.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Walk-Off Home Run!",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nLaunch all guard boars sequentially, dealing massive Fire DMG in a large area to enemies ahead.\nWhile using this skill, other squad members recover 10 energy, and the next character to switch in gains an additional 20 energy.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a Quick Assist.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Grand Slam!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{{Skill:1151016, Prop:1001}/3}*3",
+                            "params": {
+                                "1151016": {
+                                    "main": 49240,
+                                    "growth": 4480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{{Skill:1151016, Prop:1002}/3}*3",
+                            "params": {
+                                "1151016": {
+                                    "main": 9340,
+                                    "growth": 430,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Walk-Off Home Run!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{{Skill:1151017, Prop:1001}/3}*3",
+                            "params": {
+                                "1151017": {
+                                    "main": 171860,
+                                    "growth": 15630,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{{Skill:1151017, Prop:1002}/3}*3",
+                            "params": {
+                                "1151017": {
+                                    "main": 28350,
+                                    "growth": 1290,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Hit By Pitch!",
+                    "description": "When the active character is launched, press  to activate:\nStrikes enemies in front, dealing Fire DMG.\nCharacter is invulnerable during the attack.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Safe on Base!",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Scored a Run!",
+                    "description": "Press  after a Defensive Assist to activate:\nStrikes enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Hit By Pitch!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1151018, Prop:1001}",
+                            "params": {
+                                "1151018": {
+                                    "main": 16000,
+                                    "growth": 1460,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1151018, Prop:1002}",
+                            "params": {
+                                "1151018": {
+                                    "main": 16000,
+                                    "growth": 730,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Safe on Base!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1151019, Prop:1002}",
+                            "params": {
+                                "1151019": {
+                                    "main": 20770,
+                                    "growth": 950,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1151020, Prop:1002}",
+                            "params": {
+                                "1151020": {
+                                    "main": 22940,
+                                    "growth": 1050,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1151021, Prop:1002}",
+                            "params": {
+                                "1151021": {
+                                    "main": 6940,
+                                    "growth": 320,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Scored a Run!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1151022, Prop:1001}",
+                            "params": {
+                                "1151022": {
+                                    "main": 34910,
+                                    "growth": 3180,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1151022, Prop:1002}",
+                            "params": {
+                                "1151022": {
+                                    "main": 30430,
+                                    "growth": 1390,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1151501,
+                "names": [
+                    "Core Passive: Crimson Mane Guard",
+                    "Additional Ability: Batter Up!"
+                ],
+                "descriptions": [
+                    "When Lucy uses her Special Attack or EX Special Attack, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The Cheer On! buff for the guard boars is increased to 140% of the original effect, and their attack frequency is increased.",
+                    "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1151502,
+                "names": [
+                    "Core Passive: Crimson Mane Guard",
+                    "Additional Ability: Batter Up!"
+                ],
+                "descriptions": [
+                    "When Lucy uses her Special Attack or EX Special Attack, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The Cheer On! buff for the guard boars is increased to 150% of the original effect, and their attack frequency is increased.",
+                    "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1151503,
+                "names": [
+                    "Core Passive: Crimson Mane Guard",
+                    "Additional Ability: Batter Up!"
+                ],
+                "descriptions": [
+                    "When Lucy uses her Special Attack or EX Special Attack, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The Cheer On! buff for the guard boars is increased to 160% of the original effect, and their attack frequency is increased.",
+                    "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1151504,
+                "names": [
+                    "Core Passive: Crimson Mane Guard",
+                    "Additional Ability: Batter Up!"
+                ],
+                "descriptions": [
+                    "When Lucy uses her Special Attack or EX Special Attack, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The Cheer On! buff for the guard boars is increased to 170% of the original effect, and their attack frequency is increased.",
+                    "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1151505,
+                "names": [
+                    "Core Passive: Crimson Mane Guard",
+                    "Additional Ability: Batter Up!"
+                ],
+                "descriptions": [
+                    "When Lucy uses her Special Attack or EX Special Attack, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The Cheer On! buff for the guard boars is increased to 180% of the original effect, and their attack frequency is increased.",
+                    "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1151506,
+                "names": [
+                    "Core Passive: Crimson Mane Guard",
+                    "Additional Ability: Batter Up!"
+                ],
+                "descriptions": [
+                    "When Lucy uses her Special Attack or EX Special Attack, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The Cheer On! buff for the guard boars is increased to 190% of the original effect, and their attack frequency is increased.",
+                    "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1151507,
+                "names": [
+                    "Core Passive: Crimson Mane Guard",
+                    "Additional Ability: Batter Up!"
+                ],
+                "descriptions": [
+                    "When Lucy uses her Special Attack or EX Special Attack, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The Cheer On! buff for the guard boars is increased to 200% of the original effect, and their attack frequency is increased.",
+                    "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110504,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110504,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110504,
+                    "amount": 9
+                },
+                {
+                    "id": 110001,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110504,
+                    "amount": 15
+                },
+                {
+                    "id": 110001,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110504,
+                    "amount": 30
+                },
+                {
+                    "id": 110001,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1151_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1151_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1151_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect27.webp"
+}

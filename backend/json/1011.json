@@ -1,0 +1,1548 @@
+{
+    "ascension": [
+        {
+            "attack": 0,
+            "defense": 0,
+            "materials": [
+                {
+                    "amount": 24000,
+                    "id": 10
+                },
+                {
+                    "amount": 4,
+                    "id": 100212
+                }
+            ],
+            "max_hp": 0,
+            "max_level": 10,
+            "min_level": 0
+        },
+        {
+            "attack": 34,
+            "defense": 34,
+            "materials": [
+                {
+                    "amount": 56000,
+                    "id": 10
+                },
+                {
+                    "amount": 12,
+                    "id": 100222
+                }
+            ],
+            "max_hp": 414,
+            "max_level": 20,
+            "min_level": 10
+        },
+        {
+            "attack": 68,
+            "defense": 68,
+            "materials": [
+                {
+                    "amount": 120000,
+                    "id": 10
+                },
+                {
+                    "amount": 20,
+                    "id": 100222
+                }
+            ],
+            "max_hp": 828,
+            "max_level": 30,
+            "min_level": 20
+        },
+        {
+            "attack": 102,
+            "defense": 101,
+            "materials": [
+                {
+                    "amount": 200000,
+                    "id": 10
+                },
+                {
+                    "amount": 10,
+                    "id": 100232
+                }
+            ],
+            "max_hp": 1242,
+            "max_level": 40,
+            "min_level": 30
+        },
+        {
+            "attack": 135,
+            "defense": 135,
+            "materials": [
+                {
+                    "amount": 400000,
+                    "id": 10
+                },
+                {
+                    "amount": 20,
+                    "id": 100232
+                }
+            ],
+            "max_hp": 1656,
+            "max_level": 50,
+            "min_level": 40
+        },
+        {
+            "attack": 169,
+            "defense": 169,
+            "materials": [],
+            "max_hp": 2069,
+            "max_level": 60,
+            "min_level": 50
+        }
+    ],
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "code_name": "Anby",
+    "element": {
+        "id": 203,
+        "name": "Electric"
+    },
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "6",
+                    "id": 12201,
+                    "name": "Impact",
+                    "value": 6
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "0",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "6",
+                    "id": 12201,
+                    "name": "Impact",
+                    "value": 6
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "25",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "12",
+                    "id": 12201,
+                    "name": "Impact",
+                    "value": 12
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "25",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "12",
+                    "id": 12201,
+                    "name": "Impact",
+                    "value": 12
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "50",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "18",
+                    "id": 12201,
+                    "name": "Impact",
+                    "value": 18
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "50",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "18",
+                    "id": 12201,
+                    "name": "Impact",
+                    "value": 18
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "75",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 75
+                }
+            ]
+        }
+    ],
+    "faction": {
+        "id": 1,
+        "name": "Cunning Hares"
+    },
+    "gender": "F",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect01.webp",
+    "id": 1011,
+    "image": "https://api.hakush.in/zzz/UI/IconRole01.webp",
+    "info": {
+        "birthday": "FEB 20",
+        "faction": "Cunning Hares",
+        "female_impression": "Anby often comes to the video store to borrow movies and returns them quickly, so she seems to watch a lot of movies.\nFeelin' the pressure, bro? As the manager of the video rental store, it'd be embarrassing if the amount of movies we watch falls behind our customers.",
+        "full_name": "Anby Demara",
+        "gender": "Female",
+        "male_impression": "Honestly, I'm most curious about Anby's playlist. She's got her headphones on constantly... but what exactly is she listening to?",
+        "outlook_desc": "HIA License Archive Information:\nHollow Investigator - Anby. High aptitude for Ether. Permitted to conduct investigations, basic mining, etc. in known Hollows within the city (including companion Hollows).\nReminder: Similar to Nicole, Anby's investigator license has not been updated for a long time.\nSelf-funded tests are recommended as soon as possible to avoid any losses.",
+        "profile_desc": "Anby, the original member of Gentle House.\nAccording to the New Eridu resident records, her identity as \"Anby Demara\" only exists after joining Gentle House, the name obviously being taken from Nicole. Before registering as an employee of Gentle House, all data relating to Anby is suspiciously blank.\nDespite her extreme lack of common sense, Anby is well-versed in matters related to combat and is among the strongest combatants of the Cunning Hares.\n\nAnby's greatest interest is movies, of which she likes an extensive range of genres. Due to an excessive obsession, she tends to take the stories in movies as reality.\nContrary to her seemingly emotionless appearance, Anby is easily moved by movie storylines.\nHer favorite food is hamburgers because \"they contain protein, carbs, and greens, taste good, and are even affordable � there's nothing else besides hamburgers.\"",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission"
+        ]
+    },
+    "mindscape_cinemas": [
+        {
+            "description": "When the 4th-hit of Anby's Basic Attack hits an enemy, her Energy Generation Rate is increased by 12% for 30s.",
+            "description2": "\"Charge up for just a minute, and you're set to fight for an hour!\" That's the sales pitch for these weapon expansion modules.\nAnd they deliver exactly that.",
+            "level": 1,
+            "name": "Rapid Charge Mode"
+        },
+        {
+            "description": "When Basic Attack: Thunderbolt hits a Stunned enemy, its DMG is increased by 30%. When Anby's EX Special Attack hits an enemy that is not Stunned, the Daze inflicted is increased by 10%.",
+            "description2": "\"Electric shocks will knock you out cold.\"\nLooking at the enemy out cold at her feet, she added:\n\"At least, that's what happens in the movies.\"",
+            "level": 2,
+            "name": "Precision Discharge"
+        },
+        {
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Run, slash, move like lightning. She is no amateur when it comes to Hollows�she's an expert.",
+            "level": 3,
+            "name": "Well-Disciplined"
+        },
+        {
+            "description": "When Anby launches a Chain Attack or uses her Ultimate, off-field Electric Agents recover 3 Energy.\nFor every 12% Energy Generation Rate Anby has, recover an additional 2 Energy, up to a maximum of 6.",
+            "description2": "You won't last long fighting solo. An experienced Hollow Raider knows how to create opportunities for their teammates.",
+            "level": 4,
+            "name": "Conducting Charge"
+        },
+        {
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Working for the Cunning Hares not only builds your mental toughness but also helps (or rather, forces) you to get in shape.",
+            "level": 5,
+            "name": "Street Experience"
+        },
+        {
+            "description": "When Anby uses her EX Special Attack, she gains 8 stacks of Charge (max 8 stacks). When she hits an enemy with her Basic Attack or Dash Attack, 1 stack of Charge is consumed, increasing that attack's DMG by 45%.",
+            "description2": "Coils of electricity flickered over her fingertips.\nAnby raised her head, eyes brimming with determination beyond her years.\nPerhaps, one day, she will be the one with total mastery over electricity.",
+            "level": 6,
+            "name": "Charging Field"
+        }
+    ],
+    "name": "Anby",
+    "passive": {
+        "level_up_materials": {
+            "1": [
+                {
+                    "amount": 5000,
+                    "id": 10
+                }
+            ],
+            "2": [
+                {
+                    "amount": 12000,
+                    "id": 10
+                },
+                {
+                    "amount": 2,
+                    "id": 110501
+                }
+            ],
+            "3": [
+                {
+                    "amount": 28000,
+                    "id": 10
+                },
+                {
+                    "amount": 4,
+                    "id": 110501
+                }
+            ],
+            "4": [
+                {
+                    "amount": 60000,
+                    "id": 10
+                },
+                {
+                    "amount": 9,
+                    "id": 110501
+                },
+                {
+                    "amount": 2,
+                    "id": 110001
+                }
+            ],
+            "5": [
+                {
+                    "amount": 100000,
+                    "id": 10
+                },
+                {
+                    "amount": 15,
+                    "id": 110501
+                },
+                {
+                    "amount": 3,
+                    "id": 110001
+                }
+            ],
+            "6": [
+                {
+                    "amount": 200000,
+                    "id": 10
+                },
+                {
+                    "amount": 30,
+                    "id": 110501
+                },
+                {
+                    "amount": 4,
+                    "id": 110001
+                }
+            ]
+        },
+        "levels": {
+            "1": {
+                "descriptions": [
+                    "Launch a Basic Attack: Thunderbolt, Special Attack, or EX Special Attack after the 3rd-hit of Anby's Basic Attack for an extra 32% Daze.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's Dodge Counter hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
+                ],
+                "id": 1011501,
+                "level": 1,
+                "names": [
+                    "Core Passive: Fluctuating Voltage",
+                    "Additional Ability: Parallel Connection"
+                ]
+            },
+            "2": {
+                "descriptions": [
+                    "Launch a Basic Attack: Thunderbolt, Special Attack, or EX Special Attack after the 3rd-hit of Anby's Basic Attack for an extra 37.3% Daze.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's Dodge Counter hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
+                ],
+                "id": 1011502,
+                "level": 2,
+                "names": [
+                    "Core Passive: Fluctuating Voltage",
+                    "Additional Ability: Parallel Connection"
+                ]
+            },
+            "3": {
+                "descriptions": [
+                    "Launch a Basic Attack: Thunderbolt, Special Attack, or EX Special Attack after the 3rd-hit of Anby's Basic Attack for an extra 42.6% Daze.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's Dodge Counter hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
+                ],
+                "id": 1011503,
+                "level": 3,
+                "names": [
+                    "Core Passive: Fluctuating Voltage",
+                    "Additional Ability: Parallel Connection"
+                ]
+            },
+            "4": {
+                "descriptions": [
+                    "Launch a Basic Attack: Thunderbolt, Special Attack, or EX Special Attack after the 3rd-hit of Anby's Basic Attack for an extra 48% Daze.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's Dodge Counter hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
+                ],
+                "id": 1011504,
+                "level": 4,
+                "names": [
+                    "Core Passive: Fluctuating Voltage",
+                    "Additional Ability: Parallel Connection"
+                ]
+            },
+            "5": {
+                "descriptions": [
+                    "Launch a Basic Attack: Thunderbolt, Special Attack, or EX Special Attack after the 3rd-hit of Anby's Basic Attack for an extra 53.3% Daze.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's Dodge Counter hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
+                ],
+                "id": 1011505,
+                "level": 5,
+                "names": [
+                    "Core Passive: Fluctuating Voltage",
+                    "Additional Ability: Parallel Connection"
+                ]
+            },
+            "6": {
+                "descriptions": [
+                    "Launch a Basic Attack: Thunderbolt, Special Attack, or EX Special Attack after the 3rd-hit of Anby's Basic Attack for an extra 58.6% Daze.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's Dodge Counter hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
+                ],
+                "id": 1011506,
+                "level": 6,
+                "names": [
+                    "Core Passive: Fluctuating Voltage",
+                    "Additional Ability: Parallel Connection"
+                ]
+            },
+            "7": {
+                "descriptions": [
+                    "Launch a Basic Attack: Thunderbolt, Special Attack, or EX Special Attack after the 3rd-hit of Anby's Basic Attack for an extra 64% Daze.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's Dodge Counter hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
+                ],
+                "id": 1011507,
+                "level": 7,
+                "names": [
+                    "Core Passive: Fluctuating Voltage",
+                    "Additional Ability: Parallel Connection"
+                ]
+            }
+        }
+    },
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1011_1.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1011_2.webp",
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1011_3.webp",
+    "rarity": "A",
+    "skills": {
+        "Assist": {
+            "descriptions": [
+                {
+                    "description": "When the active character is launched, press  to activate:\nSlashes enemies in front, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Quick Assist: Thunderfall",
+                    "params": null
+                },
+                {
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "name": "Defensive Assist: Flash",
+                    "params": null
+                },
+                {
+                    "description": "Press  after a Defensive Assist to activate:\nPerform a spinning slash against enemies in front, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Assist Follow-Up: Lightning Whirl",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Quick Assist: Thunderfall",
+                    "params": [
+                        {
+                            "description": "{Skill:1011012, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1011012": {
+                                    "format": "%",
+                                    "growth": 570,
+                                    "main": 6170
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011012, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1011012": {
+                                    "format": "%",
+                                    "growth": 290,
+                                    "main": 6170
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Defensive Assist: Flash",
+                    "params": [
+                        {
+                            "description": "{Skill:1011013, Prop:1002}",
+                            "name": "Light Defensive Daze Multiplier",
+                            "params": {
+                                "1011013": {
+                                    "format": "%",
+                                    "growth": 1130,
+                                    "main": 24670
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011014, Prop:1002}",
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "params": {
+                                "1011014": {
+                                    "format": "%",
+                                    "growth": 1420,
+                                    "main": 31170
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011015, Prop:1002}",
+                            "name": "Chain Defensive Daze Multiplier",
+                            "params": {
+                                "1011015": {
+                                    "format": "%",
+                                    "growth": 690,
+                                    "main": 15170
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Assist Follow-Up: Lightning Whirl",
+                    "params": [
+                        {
+                            "description": "{Skill:1011016, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1011016": {
+                                    "format": "%",
+                                    "growth": 3050,
+                                    "main": 33520
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011016, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1011016": {
+                                    "format": "%",
+                                    "growth": 1330,
+                                    "main": 29140
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100113
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100133
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100133
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100113
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100123
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100123
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100123
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100123
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100133
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100133
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100133
+                    }
+                ]
+            },
+            "type": "Assist"
+        },
+        "Basic": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nUnleashes up to 4 slashes. The first 3 hits deal Physical DMG, the 4th hit deals Electric DMG.",
+                    "name": "Basic Attack: Turbo Volt",
+                    "params": null
+                },
+                {
+                    "description": "After unleashing the 3rd hit of the Basic Attack, hold down or pause for a short while, and then press  to activate:\nUnleashes a downward strike that deals Electric DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "name": "Basic Attack: Thunderbolt",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Basic Attack: Turbo Volt",
+                    "params": [
+                        {
+                            "description": "{Skill:1011001, Prop:1001}",
+                            "name": "1st-Hit DMG Multiplier",
+                            "params": {
+                                "1011001": {
+                                    "format": "%",
+                                    "growth": 290,
+                                    "main": 3120
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011002, Prop:1001}",
+                            "name": "2nd-Hit DMG Multiplier",
+                            "params": {
+                                "1011002": {
+                                    "format": "%",
+                                    "growth": 310,
+                                    "main": 3370
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011003, Prop:1001}",
+                            "name": "3rd-Hit DMG Multiplier",
+                            "params": {
+                                "1011003": {
+                                    "format": "%",
+                                    "growth": 1040,
+                                    "main": 11360
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011004, Prop:1001}",
+                            "name": "4th-Hit DMG Multiplier",
+                            "params": {
+                                "1011004": {
+                                    "format": "%",
+                                    "growth": 2180,
+                                    "main": 23910
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011001, Prop:1002}",
+                            "name": "1st-Hit Daze Multiplier",
+                            "params": {
+                                "1011001": {
+                                    "format": "%",
+                                    "growth": 80,
+                                    "main": 1560
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011002, Prop:1002}",
+                            "name": "2nd-Hit Daze Multiplier",
+                            "params": {
+                                "1011002": {
+                                    "format": "%",
+                                    "growth": 140,
+                                    "main": 2870
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011003, Prop:1002}",
+                            "name": "3rd-Hit Daze Multiplier",
+                            "params": {
+                                "1011003": {
+                                    "format": "%",
+                                    "growth": 410,
+                                    "main": 8960
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011004, Prop:1002}",
+                            "name": "4th-Hit Daze Multiplier",
+                            "params": {
+                                "1011004": {
+                                    "format": "%",
+                                    "growth": 860,
+                                    "main": 18740
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Basic Attack: Thunderbolt",
+                    "params": [
+                        {
+                            "description": "{Skill:1011005, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1011005": {
+                                    "format": "%",
+                                    "growth": 2990,
+                                    "main": 32860
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011005, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1011005": {
+                                    "format": "%",
+                                    "growth": 650,
+                                    "main": 14240
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100113
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100133
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100133
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100113
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100123
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100123
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100123
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100123
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100133
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100133
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100133
+                    }
+                ]
+            },
+            "type": "Basic"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful upwards slash at enemies in a small area, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Chain Attack: Electro Engine",
+                    "params": null
+                },
+                {
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes a powerful upward slash at enemies in a small area followed by several downward strikes, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Ultimate: Overdrive Engine",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Chain Attack: Electro Engine",
+                    "params": [
+                        {
+                            "description": "{Skill:1011010, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1011010": {
+                                    "format": "%",
+                                    "growth": 4940,
+                                    "main": 54240
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011010, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1011010": {
+                                    "format": "%",
+                                    "growth": 660,
+                                    "main": 14340
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Ultimate: Overdrive Engine",
+                    "params": [
+                        {
+                            "description": "{Skill:1011011, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1011011": {
+                                    "format": "%",
+                                    "growth": 13760,
+                                    "main": 151260
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011011, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1011011": {
+                                    "format": "%",
+                                    "growth": 4510,
+                                    "main": 99160
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100113
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100133
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100133
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100113
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100123
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100123
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100123
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100123
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100133
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100133
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100133
+                    }
+                ]
+            },
+            "type": "Chain"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "name": "Dodge: Slide",
+                    "params": null
+                },
+                {
+                    "description": "Press  during a dodge to activate:\nSlashes all nearby enemies, dealing Physical DMG.",
+                    "name": "Dash Attack: Taser Blast",
+                    "params": null
+                },
+                {
+                    "description": "Press  during a Perfect Dodge to activate:\nSlashes enemies in front, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Dodge Counter: Thunderclap",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Dash Attack: Taser Blast",
+                    "params": [
+                        {
+                            "description": "{Skill:1011008, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1011008": {
+                                    "format": "%",
+                                    "growth": 520,
+                                    "main": 5670
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011008, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1011008": {
+                                    "format": "%",
+                                    "growth": 130,
+                                    "main": 2840
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Dodge Counter: Thunderclap",
+                    "params": [
+                        {
+                            "description": "{Skill:1011009, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1011009": {
+                                    "format": "%",
+                                    "growth": 1640,
+                                    "main": 18020
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011009, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1011009": {
+                                    "format": "%",
+                                    "growth": 740,
+                                    "main": 16170
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100113
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100133
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100133
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100113
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100123
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100123
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100123
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100123
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100133
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100133
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100133
+                    }
+                ]
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nUnleashes an upward slash that deals Electric DMG.\nThis attack launches faster when used after the 3rd-hit of the Basic Attack or Basic Attack: Thunderbolt.\nAnti-Interrupt level is increased while using this skill.",
+                    "name": "Special Attack: Fork Lightning",
+                    "params": null
+                },
+                {
+                    "description": "With enough Energy, press  to activate:\nUnleashes a powerful upward slash that deals massive Electric DMG.\nThis attack launches faster when used after the 3rd hit of her Basic Attack or Basic Attack: Thunderbolt.\nCharacter is invulnerable while using this skill.",
+                    "name": "EX Special Attack: Lightning Bolt",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Special Attack: Fork Lightning",
+                    "params": [
+                        {
+                            "description": "{Skill:1011006, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1011006": {
+                                    "format": "%",
+                                    "growth": 850,
+                                    "main": 9340
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011006, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1011006": {
+                                    "format": "%",
+                                    "growth": 430,
+                                    "main": 9340
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "EX Special Attack: Lightning Bolt",
+                    "params": [
+                        {
+                            "description": "{Skill:1011007, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1011007": {
+                                    "format": "%",
+                                    "growth": 5300,
+                                    "main": 58300
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1011007, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1011007": {
+                                    "format": "%",
+                                    "growth": 2190,
+                                    "main": 48180
+                                }
+                            }
+                        },
+                        {
+                            "description": "60",
+                            "name": "Energy Cost",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100113
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100133
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100133
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100113
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100123
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100123
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100123
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100123
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100133
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100133
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100133
+                    }
+                ]
+            },
+            "type": "Special"
+        }
+    },
+    "specialty": {
+        "id": 2,
+        "name": "Stun"
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 95.0,
+        "AttackGrowth": 54230.0,
+        "AvatarPieceId": 5011.0,
+        "BreakStun": 118.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66882.0,
+        "ElementAbnormalPower": 94.0,
+        "ElementMystery": 93.0,
+        "Endurance": 0.0,
+        "HpGrowth": 818426.0,
+        "HpMax": 603.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    }
+}

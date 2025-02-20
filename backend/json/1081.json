@@ -1,0 +1,1586 @@
+{
+    "ascension": [
+        {
+            "attack": 0,
+            "defense": 0,
+            "materials": [
+                {
+                    "amount": 24000,
+                    "id": 10
+                },
+                {
+                    "amount": 4,
+                    "id": 100211
+                }
+            ],
+            "max_hp": 0,
+            "max_level": 10,
+            "min_level": 0
+        },
+        {
+            "attack": 40,
+            "defense": 33,
+            "materials": [
+                {
+                    "amount": 56000,
+                    "id": 10
+                },
+                {
+                    "amount": 12,
+                    "id": 100221
+                }
+            ],
+            "max_hp": 381,
+            "max_level": 20,
+            "min_level": 10
+        },
+        {
+            "attack": 81,
+            "defense": 67,
+            "materials": [
+                {
+                    "amount": 120000,
+                    "id": 10
+                },
+                {
+                    "amount": 20,
+                    "id": 100221
+                }
+            ],
+            "max_hp": 762,
+            "max_level": 30,
+            "min_level": 20
+        },
+        {
+            "attack": 121,
+            "defense": 100,
+            "materials": [
+                {
+                    "amount": 200000,
+                    "id": 10
+                },
+                {
+                    "amount": 10,
+                    "id": 100231
+                }
+            ],
+            "max_hp": 1143,
+            "max_level": 40,
+            "min_level": 30
+        },
+        {
+            "attack": 162,
+            "defense": 134,
+            "materials": [
+                {
+                    "amount": 400000,
+                    "id": 10
+                },
+                {
+                    "amount": 20,
+                    "id": 100231
+                }
+            ],
+            "max_hp": 1524,
+            "max_level": 50,
+            "min_level": 40
+        },
+        {
+            "attack": 202,
+            "defense": 167,
+            "materials": [],
+            "max_hp": 1906,
+            "max_level": 60,
+            "min_level": 50
+        }
+    ],
+    "attack_type": {
+        "id": 103,
+        "name": "Pierce"
+    },
+    "code_name": "Billy",
+    "element": {
+        "id": 200,
+        "name": "Physical"
+    },
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "480%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 480
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "0",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "480%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 480
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "25",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "960%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 960
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "25",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 25
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "960%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 960
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "50",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "1440%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 1440
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "50",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 50
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "format": "{0:0.#%}",
+                    "formatted_value": "1440%%",
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "value": 1440
+                },
+                {
+                    "format": "{0:0.#}",
+                    "formatted_value": "75",
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "value": 75
+                }
+            ]
+        }
+    ],
+    "faction": {
+        "id": 1,
+        "name": "Cunning Hares"
+    },
+    "gender": "M",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect10.webp",
+    "id": 1081,
+    "image": "https://api.hakush.in/zzz/UI/IconRole10.webp",
+    "info": {
+        "birthday": "NOV 25",
+        "faction": "Cunning Hares",
+        "female_impression": "Weren't you obsessed with the Starlight Knight series as a kid, Wise?\nThat brings me back. You shouting \"Starlight Mirage!\" with your arms crossed...",
+        "full_name": "Billy Kid",
+        "gender": "Male",
+        "male_impression": "There was never such a time. Please erase such non-existent memories from your mind.\nIt's been a long time since I was that age, after all, and my name doesn't have \"kid\" in it.",
+        "outlook_desc": "Hollow Investigation Association Licensing Archive�\nInvestigator: Billy. Possesses excellent Ether adaptability and is approved to carry out basic tasks such as extractions within established Hollows (including Companion Hollows).\nNote: Ether adaptability for androids depends entirely on their constituent materials. We recommend regular Ether tolerance testing and self-monitoring of component health.",
+        "profile_desc": "Billy Kid, an AI construct that has passed the forbidden fruit test, is essentially a self-aware machine. \nTrue to his name, despite having the appearance of a robot, he is quite childlike.\nHe's a big fan of the visual FX show \"Starlight Knight\" and wishes to be a hero like the main characters of the show. He often refers to himself as a Starlight Knight and imitates the lines in the show.\nSuch behavior appears to be only for comedic effect, however.\n\"Don't make me sound like an idiot! I'm obviously very smart!\" � Billy.",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission"
+        ]
+    },
+    "mindscape_cinemas": [
+        {
+            "description": "When Billy hits an enemy with a Dash Attack or Dodge Counter, he gains an additional 2.7 Energy. Can trigger once every 5s.",
+            "description2": "\"You guys are way too honest to be bad guys!\"\n\"All lined up, like NPCs at the shooting range!\"",
+            "level": 1,
+            "name": "Dazzling Entrance"
+        },
+        {
+            "description": "Billy's Dodge Counter DMG increases by 25%. Rolling Shots during his Basic Attacks count as dodges, making Billy Invulnerable during skill activation and able to trigger Perfect Dodges. When a Rolling Shot triggers a Perfect Dodge, it will automatically follow up with a Dodge Counter.",
+            "description2": "\"The Starlight Knights never run from danger. That's what we call tactical repositioning for better aim!\"\n� User \"Dreamgirl Monica\" from the Starlight Radiance messageboards.",
+            "level": 2,
+            "name": "Roaming Gunslinger"
+        },
+        {
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Never neglect your training, and never stop improving! This is the philosophy of the Starlight Knights. Billy believes in it wholeheartedly, and practices it sincerely.",
+            "level": 3,
+            "name": "Teachings of the Starlight Knights"
+        },
+        {
+            "description": "When Billy hits an enemy with his EX Special Attack, the skill's CRIT Rate increases based on the distance from the enemy. The closer he is to the target, the greater the effect, up to a maximum increase of 32%.",
+            "description2": "These explosive bullets of Billy's own invention are incredibly lethal at close range.\nTheir performance far outstrips Billy's original intention of simply making them cooler.",
+            "level": 4,
+            "name": "Starlight Ballistics"
+        },
+        {
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Unknown precision components and unique structural design have given Billy performance far beyond his peers... And maintenance costs far beyond his means.",
+            "level": 5,
+            "name": "Lost Technological Construct"
+        },
+        {
+            "description": "When Billy accumulates 10 hits on enemies or triggers a Perfect Dodge, his DMG increases by 6%, stacking up to 5 times and lasting until he's knocked back or launched by an attack.",
+            "description2": "\"Hooboy~ Feelin' great! Move aside, Anby, it's my time to shine!\"\n\"Yo, Anby � can you play the Starlight Knight theme?\"\n�excerpt from Cunning Hares' \"Top 10 Forbidden Sentences,\" selected by Anby",
+            "level": 6,
+            "name": "Starlight Hero"
+        }
+    ],
+    "name": "Billy",
+    "passive": {
+        "level_up_materials": {
+            "1": [
+                {
+                    "amount": 5000,
+                    "id": 10
+                }
+            ],
+            "2": [
+                {
+                    "amount": 12000,
+                    "id": 10
+                },
+                {
+                    "amount": 2,
+                    "id": 110503
+                }
+            ],
+            "3": [
+                {
+                    "amount": 28000,
+                    "id": 10
+                },
+                {
+                    "amount": 4,
+                    "id": 110503
+                }
+            ],
+            "4": [
+                {
+                    "amount": 60000,
+                    "id": 10
+                },
+                {
+                    "amount": 9,
+                    "id": 110503
+                },
+                {
+                    "amount": 2,
+                    "id": 110001
+                }
+            ],
+            "5": [
+                {
+                    "amount": 100000,
+                    "id": 10
+                },
+                {
+                    "amount": 15,
+                    "id": 110503
+                },
+                {
+                    "amount": 3,
+                    "id": 110001
+                }
+            ],
+            "6": [
+                {
+                    "amount": 200000,
+                    "id": 10
+                },
+                {
+                    "amount": 30,
+                    "id": 110503
+                },
+                {
+                    "amount": 4,
+                    "id": 110001
+                }
+            ]
+        },
+        "levels": {
+            "1": {
+                "descriptions": [
+                    "Billy's DMG increases by 25% when he enters Crouching Shot during his Basic Attack. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a Chain Attack, the DMG of his next Ultimate is increased by 50%, stacking up to 2 times. This effect resets whenever an Ultimate is activated."
+                ],
+                "id": 1081501,
+                "level": 1,
+                "names": [
+                    "Core Passive: Steady Shot",
+                    "Additional Ability: Team Starlight"
+                ]
+            },
+            "2": {
+                "descriptions": [
+                    "Billy's DMG increases by 29.1% when he enters Crouching Shot during his Basic Attack. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a Chain Attack, the DMG of his next Ultimate is increased by 50%, stacking up to 2 times. This effect resets whenever an Ultimate is activated."
+                ],
+                "id": 1081502,
+                "level": 2,
+                "names": [
+                    "Core Passive: Steady Shot",
+                    "Additional Ability: Team Starlight"
+                ]
+            },
+            "3": {
+                "descriptions": [
+                    "Billy's DMG increases by 33.3% when he enters Crouching Shot during his Basic Attack. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a Chain Attack, the DMG of his next Ultimate is increased by 50%, stacking up to 2 times. This effect resets whenever an Ultimate is activated."
+                ],
+                "id": 1081503,
+                "level": 3,
+                "names": [
+                    "Core Passive: Steady Shot",
+                    "Additional Ability: Team Starlight"
+                ]
+            },
+            "4": {
+                "descriptions": [
+                    "Billy's DMG increases by 37.5% when he enters Crouching Shot during his Basic Attack. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a Chain Attack, the DMG of his next Ultimate is increased by 50%, stacking up to 2 times. This effect resets whenever an Ultimate is activated."
+                ],
+                "id": 1081504,
+                "level": 4,
+                "names": [
+                    "Core Passive: Steady Shot",
+                    "Additional Ability: Team Starlight"
+                ]
+            },
+            "5": {
+                "descriptions": [
+                    "Billy's DMG increases by 41.6% when he enters Crouching Shot during his Basic Attack. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a Chain Attack, the DMG of his next Ultimate is increased by 50%, stacking up to 2 times. This effect resets whenever an Ultimate is activated."
+                ],
+                "id": 1081505,
+                "level": 5,
+                "names": [
+                    "Core Passive: Steady Shot",
+                    "Additional Ability: Team Starlight"
+                ]
+            },
+            "6": {
+                "descriptions": [
+                    "Billy's DMG increases by 45.8% when he enters Crouching Shot during his Basic Attack. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a Chain Attack, the DMG of his next Ultimate is increased by 50%, stacking up to 2 times. This effect resets whenever an Ultimate is activated."
+                ],
+                "id": 1081506,
+                "level": 6,
+                "names": [
+                    "Core Passive: Steady Shot",
+                    "Additional Ability: Team Starlight"
+                ]
+            },
+            "7": {
+                "descriptions": [
+                    "Billy's DMG increases by 50% when he enters Crouching Shot during his Basic Attack. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
+                    "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a Chain Attack, the DMG of his next Ultimate is increased by 50%, stacking up to 2 times. This effect resets whenever an Ultimate is activated."
+                ],
+                "id": 1081507,
+                "level": 7,
+                "names": [
+                    "Core Passive: Steady Shot",
+                    "Additional Ability: Team Starlight"
+                ]
+            }
+        }
+    },
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1081_1.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1081_2.webp",
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1081_3.webp",
+    "rarity": "A",
+    "skills": {
+        "Assist": {
+            "descriptions": [
+                {
+                    "description": "When the active character is launched, press  to activate:\nLaunches a piercing attack at enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Quick Assist: Power of Teamwork",
+                    "params": null
+                },
+                {
+                    "description": "When the character on field is about to be attacked, press  to activate:\nDodges the enemy's attack and activates Vital View.\nCharacter is invulnerable while using this skill.",
+                    "name": "Evasive Assist: Flash Spin",
+                    "params": null
+                },
+                {
+                    "description": "Press  after an Evasive Assist to activate:\nPierces enemies in a large area in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Assist Follow-Up: Fatal Shot",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Quick Assist: Power of Teamwork",
+                    "params": [
+                        {
+                            "description": "{Skill:1081020, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1081020": {
+                                    "format": "%",
+                                    "growth": 850,
+                                    "main": 9340
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081020, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1081020": {
+                                    "format": "%",
+                                    "growth": 430,
+                                    "main": 9340
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Assist Follow-Up: Fatal Shot",
+                    "params": [
+                        {
+                            "description": "{Skill:1081021, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1081021": {
+                                    "format": "%",
+                                    "growth": 3540,
+                                    "main": 38880
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081021, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1081021": {
+                                    "format": "%",
+                                    "growth": 1560,
+                                    "main": 34120
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100110
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100130
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100130
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100110
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100120
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100120
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100120
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100120
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100130
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100130
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100130
+                    }
+                ]
+            },
+            "type": "Assist"
+        },
+        "Basic": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nUnleashes a piercing attack, dealing Physical DMG.\nRepeatedly press or hold to enter Crouching Shot to extend the attack duration.\nDrag the stick/joystick during Crouching Shot to launch Rolling Shot and adjust the character's position, dealing Physical DMG.\nStop pressing or holding during Crouching Shot to launch Finishing Shot at enemies in front, dealing Physical DMG.",
+                    "name": "Basic Attack: Full Firepower",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Basic Attack: Full Firepower",
+                    "params": [
+                        {
+                            "description": "{Skill:1081002, Prop:1001}",
+                            "name": "Standing Fire DMG Multiplier",
+                            "params": {
+                                "1081002": {
+                                    "format": "%",
+                                    "growth": 620,
+                                    "main": 6800
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081003, Prop:1001}",
+                            "name": "Standing Bullet DMG Multiplier",
+                            "params": {
+                                "1081003": {
+                                    "format": "%",
+                                    "growth": 70,
+                                    "main": 760
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081004, Prop:1001}",
+                            "name": "Crouching Fire DMG Multiplier",
+                            "params": {
+                                "1081004": {
+                                    "format": "%",
+                                    "growth": 570,
+                                    "main": 6180
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081007, Prop:1001}",
+                            "name": "Crouching Bullet DMG Multiplier",
+                            "params": {
+                                "1081007": {
+                                    "format": "%",
+                                    "growth": 120,
+                                    "main": 1270
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081004, Prop:1001}",
+                            "name": "Rolling Shot DMG Multiplier",
+                            "params": {
+                                "1081004": {
+                                    "format": "%",
+                                    "growth": 570,
+                                    "main": 6180
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081008, Prop:1001}",
+                            "name": "Finishing Shot DMG Multiplier",
+                            "params": {
+                                "1081008": {
+                                    "format": "%",
+                                    "growth": 450,
+                                    "main": 4950
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081002, Prop:1002}",
+                            "name": "Standing Fire Daze Multiplier",
+                            "params": {
+                                "1081002": {
+                                    "format": "%",
+                                    "growth": 250,
+                                    "main": 5440
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081003, Prop:1002}",
+                            "name": "Standing Bullet Daze Multiplier",
+                            "params": {
+                                "1081003": {
+                                    "format": "%",
+                                    "growth": 30,
+                                    "main": 610
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081004, Prop:1002}",
+                            "name": "Crouching Fire Daze Multiplier",
+                            "params": {
+                                "1081004": {
+                                    "format": "%",
+                                    "growth": 250,
+                                    "main": 5470
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081007, Prop:1002}",
+                            "name": "Crouching Bullet Daze Multiplier",
+                            "params": {
+                                "1081007": {
+                                    "format": "%",
+                                    "growth": 50,
+                                    "main": 890
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081004, Prop:1002}",
+                            "name": "Rolling Shot Daze Multiplier",
+                            "params": {
+                                "1081004": {
+                                    "format": "%",
+                                    "growth": 250,
+                                    "main": 5470
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081008, Prop:1002}",
+                            "name": "Finishing Shot Daze Multiplier",
+                            "params": {
+                                "1081008": {
+                                    "format": "%",
+                                    "growth": 260,
+                                    "main": 5520
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100110
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100130
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100130
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100110
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100120
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100120
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100120
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100120
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100130
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100130
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100130
+                    }
+                ]
+            },
+            "type": "Basic"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful piercing attack at surrounding enemies in a large area, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Chain Attack: Starlight Mirage",
+                    "params": null
+                },
+                {
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes a powerful piercing attack at surrounding enemies in a large area, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Ultimate: Starlight, Shine Bright",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Chain Attack: Starlight Mirage",
+                    "params": [
+                        {
+                            "description": "{Skill:1081018, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1081018": {
+                                    "format": "%",
+                                    "growth": 6690,
+                                    "main": 73520
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081018, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1081018": {
+                                    "format": "%",
+                                    "growth": 900,
+                                    "main": 19660
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Ultimate: Starlight, Shine Bright",
+                    "params": [
+                        {
+                            "description": "{Skill:1081019, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1081019": {
+                                    "format": "%",
+                                    "growth": 14530,
+                                    "main": 159770
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081019, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1081019": {
+                                    "format": "%",
+                                    "growth": 870,
+                                    "main": 19060
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100110
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100130
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100130
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100110
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100120
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100120
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100120
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100120
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100130
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100130
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100130
+                    }
+                ]
+            },
+            "type": "Chain"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "name": "Dodge: Risky Business",
+                    "params": null
+                },
+                {
+                    "description": "When dragging the stick/joystick during a dodge, press :\nLaunches a piercing attack at nearby enemies within a large area, dealing Physical DMG.\nWhen not dragging the stick/joystick during a dodge, press :\nLaunches a piercing attack at enemies in a line, dealing Physical DMG.",
+                    "name": "Dash Attack: Starlight Sanction",
+                    "params": null
+                },
+                {
+                    "description": "Press  during a Perfect Dodge to activate:\nPierces enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "Dodge Counter: Fair Fight",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Dash Attack: Starlight Sanction",
+                    "params": [
+                        {
+                            "description": "{Skill:1081016, Prop:1001}",
+                            "name": "360-degree Shot DMG Multiplier",
+                            "params": {
+                                "1081016": {
+                                    "format": "%",
+                                    "growth": 580,
+                                    "main": 6300
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081014, Prop:1001}",
+                            "name": "Straight Shot DMG Multiplier",
+                            "params": {
+                                "1081014": {
+                                    "format": "%",
+                                    "growth": 360,
+                                    "main": 3900
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081016, Prop:1002}",
+                            "name": "360-degree Shot Daze Multiplier",
+                            "params": {
+                                "1081016": {
+                                    "format": "%",
+                                    "growth": 290,
+                                    "main": 6300
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081014, Prop:1002}",
+                            "name": "Straight Shot Daze Multiplier",
+                            "params": {
+                                "1081014": {
+                                    "format": "%",
+                                    "growth": 90,
+                                    "main": 1950
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "Dodge Counter: Fair Fight",
+                    "params": [
+                        {
+                            "description": "{Skill:1081017, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1081017": {
+                                    "format": "%",
+                                    "growth": 2020,
+                                    "main": 22140
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081017, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1081017": {
+                                    "format": "%",
+                                    "growth": 880,
+                                    "main": 19340
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100110
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100130
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100130
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100110
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100120
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100120
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100120
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100120
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100130
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100130
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100130
+                    }
+                ]
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "description": "Press  to activate:\nPerforms up to 3 piercing attacks in a line, dealing Physical DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "name": "Special Attack: Stand Still",
+                    "params": null
+                },
+                {
+                    "description": "With enough Energy, press  to activate:\nLaunches a powerful piercing attack in a line, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "name": "EX Special Attack: Clearance Time",
+                    "params": null
+                },
+                {
+                    "description": null,
+                    "name": "Special Attack: Stand Still",
+                    "params": [
+                        {
+                            "description": "{Skill:1081010, Prop:1001}",
+                            "name": "1st-Hit DMG Multiplier",
+                            "params": {
+                                "1081010": {
+                                    "format": "%",
+                                    "growth": 220,
+                                    "main": 2420
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081011, Prop:1001}",
+                            "name": "2nd-Hit DMG Multiplier",
+                            "params": {
+                                "1081011": {
+                                    "format": "%",
+                                    "growth": 470,
+                                    "main": 5170
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081012, Prop:1001}",
+                            "name": "3rd-Hit DMG Multiplier",
+                            "params": {
+                                "1081012": {
+                                    "format": "%",
+                                    "growth": 460,
+                                    "main": 5010
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081010, Prop:1002}",
+                            "name": "1st-Hit Daze Multiplier",
+                            "params": {
+                                "1081010": {
+                                    "format": "%",
+                                    "growth": 110,
+                                    "main": 2420
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081011, Prop:1002}",
+                            "name": "2nd-Hit Daze Multiplier",
+                            "params": {
+                                "1081011": {
+                                    "format": "%",
+                                    "growth": 240,
+                                    "main": 5170
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081012, Prop:1002}",
+                            "name": "3rd-Hit Daze Multiplier",
+                            "params": {
+                                "1081012": {
+                                    "format": "%",
+                                    "growth": 230,
+                                    "main": 5010
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "description": null,
+                    "name": "EX Special Attack: Clearance Time",
+                    "params": [
+                        {
+                            "description": "{Skill:1081013, Prop:1001}",
+                            "name": "DMG Multiplier",
+                            "params": {
+                                "1081013": {
+                                    "format": "%",
+                                    "growth": 4950,
+                                    "main": 54380
+                                }
+                            }
+                        },
+                        {
+                            "description": "{Skill:1081013, Prop:1002}",
+                            "name": "Daze Multiplier",
+                            "params": {
+                                "1081013": {
+                                    "format": "%",
+                                    "growth": 2000,
+                                    "main": 43950
+                                }
+                            }
+                        },
+                        {
+                            "description": "60",
+                            "name": "Energy Cost",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "amount": 2000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100110
+                    }
+                ],
+                "10": [
+                    {
+                        "amount": 112500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 12,
+                        "id": 100130
+                    }
+                ],
+                "11": [
+                    {
+                        "amount": 135000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 15,
+                        "id": 100130
+                    },
+                    {
+                        "amount": 1,
+                        "id": 100941
+                    }
+                ],
+                "12": [],
+                "2": [
+                    {
+                        "amount": 3000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100110
+                    }
+                ],
+                "3": [
+                    {
+                        "amount": 6000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 2,
+                        "id": 100120
+                    }
+                ],
+                "4": [
+                    {
+                        "amount": 9000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 3,
+                        "id": 100120
+                    }
+                ],
+                "5": [
+                    {
+                        "amount": 12000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 4,
+                        "id": 100120
+                    }
+                ],
+                "6": [
+                    {
+                        "amount": 18000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 6,
+                        "id": 100120
+                    }
+                ],
+                "7": [
+                    {
+                        "amount": 45000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 5,
+                        "id": 100130
+                    }
+                ],
+                "8": [
+                    {
+                        "amount": 67500,
+                        "id": 10
+                    },
+                    {
+                        "amount": 8,
+                        "id": 100130
+                    }
+                ],
+                "9": [
+                    {
+                        "amount": 90000,
+                        "id": 10
+                    },
+                    {
+                        "amount": 10,
+                        "id": 100130
+                    }
+                ]
+            },
+            "type": "Special"
+        }
+    },
+    "specialty": {
+        "id": 1,
+        "name": "Attack"
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 113.0,
+        "AttackGrowth": 67335.0,
+        "AvatarPieceId": 5081.0,
+        "BreakStun": 91.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66203.0,
+        "ElementAbnormalPower": 92.0,
+        "ElementMystery": 91.0,
+        "Endurance": 0.0,
+        "HpGrowth": 753604.0,
+        "HpMax": 555.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    }
+}

@@ -1,0 +1,1763 @@
+{
+    "id": 1261,
+    "image": "https://api.hakush.in/zzz/UI/IconRole24.webp",
+    "name": "Jane",
+    "code_name": "Jane",
+    "rarity": "S",
+    "specialty": {
+        "id": 3,
+        "name": "Anomaly"
+    },
+    "element": {
+        "id": 200,
+        "name": "Physical"
+    },
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "faction": {
+        "id": 7,
+        "name": "Criminal Investigation Special Response Team"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "FEB 16",
+        "full_name": "Jane Doe",
+        "gender": "Female",
+        "female_impression": "Fairy, you don't have to reiterate anything. We've all come to terms with Jane's name being Jane.",
+        "male_impression": "I mean, it's far from the worst name we've seen...",
+        "outlook_desc": "Hollow Investigation Association Licensing Archive—\nPublic Security Officer: Zhu Yuan. Ether aptitude confidential. Licensed for investigation, exploration, and other basic work in known Hollows (including Companion Hollows) in the city.\nNote: Zhu Yuan's file belongs to the New Eridu Public Security Janus Quarter Metropolitan Order Division Criminal Investigation Special Response Team. The relevant information can be obtained within the Public Security system, requiring special access permissions.\nFurther Note: Zhu Yuan has excellent Ether aptitude.",
+        "profile_desc": "Jane, a criminal behavior specialist, has had a \"colorful\" career as a consultant with Public Security over the years.\nShe is an expert in disguise, infiltration, and other investigative work.\nShe has a bad habit of trolling others and sometimes plays harmless pranks.\nShe's a skilled mimic, able to change her appearance and demeanor at will, making people wonder what the \"real\" Jane is like.\n\nJane has a wealth of life experience and can seamlessly blend into any environment, as though she has dabbled in everything there is to do.\nHowever, if you ask her for any further details, she'll give you a different story every time.\nWho knows which, if any, are true.\n\nNote 1: Jane does not know our true identity. Do not reveal this to her under any circumstances.\nNote 2: Despite \"Jane Doe\" being an obvious alias, we haven't found any information about her real or former name.\nThis is not my problem. My guess is that her true identity has been completely erased due to her special status.\nLet me reiterate: This is not my problem.",
+        "faction": "Victoria Housekeeping Co.",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission",
+            "Complete the Special Episode \"Undercover R&B\" and read Jane's DM"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 127.0,
+        "AttackGrowth": 76728.0,
+        "AvatarPieceId": 5261.0,
+        "BreakStun": 86.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66203.0,
+        "ElementAbnormalPower": 112.0,
+        "ElementMystery": 114.0,
+        "Endurance": 0.0,
+        "HpGrowth": 849779.0,
+        "HpMax": 626.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Crime Counsel",
+            "description": "The maximum uses of Basic Attack: Salchow Jump are increased by one. While in the Passion state, Jane's Physical Anomaly Buildup Rate increases by an extra 15% and each point of Jane's Anomaly Proficiency increases her DMG by 0.1%, up to a maximum increase of 30%.",
+            "description2": "\"A criminal consultant advises on criminology, not on how to actually commit crimes.\"\nJane suddenly leaned closer and blinked.\n\"Of course, if you see it as the latter... I won't mind.\""
+        },
+        {
+            "level": 2,
+            "name": "Adapt to the Environment",
+            "description": "When Jane's attack hits an enemy in the Gnawed state, or when any squad member triggers Assault on an enemy in the Gnawed state, 15% of the enemy's DEF is ignored. Additionally, when Assault DMG triggers a critical hit, the CRIT DMG dealt is increased by an additional 50%.",
+            "description2": "Gaze into the abyss, and it gazes back. That's only the first step.\n\"Then you must approach, enter, and understand it. This is the second step.\"\n\"The final step... is to resist becoming it.\""
+        },
+        {
+            "level": 3,
+            "name": "Anonymity",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"Anonymity — that means to become anyone. Your favorite person, perhaps~\"\n\"Or maybe, your worst fear?\""
+        },
+        {
+            "level": 4,
+            "name": "Adapt and Thrive",
+            "description": "When any squad member triggers the Assault or Disorder effects, all squad members' Attribute Anomaly DMG is increased by 18%, lasting 15s.",
+            "description2": "\"Whether you're a hunter or the hunted usually depends on your perspective. However, I favor a more straightforward assessment—\"\n\"The Loser is the prey.\""
+        },
+        {
+            "level": 5,
+            "name": "Compulsive Hoarder",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Jane's room is filled with all sorts of things, especially fast food.\n\"Isn't it nice here? There's food within reach everywhere~\""
+        },
+        {
+            "level": 6,
+            "name": "\"Shady\" Technique",
+            "description": "While in the Passion state, Jane's CRIT Rate increases by 20%, and CRIT DMG by 40%. After any squad member inflicts Assault, Jane instantly enters the Passion state, and gains max Passion Stream. When Assault triggers a critical hit, Jane performs an additional attack on the target, dealing Physical DMG equal to 1,600% of her Anomaly Proficiency.",
+            "description2": "On the streets, the means don't matter, only the outcome.\n\"Seeing the darkest desires reveals the most crucial weaknesses.\""
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100213,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 430,
+            "attack": 45,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100223,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 859,
+            "attack": 90,
+            "defense": 67,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100223,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1289,
+            "attack": 136,
+            "defense": 100,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100233,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1719,
+            "attack": 181,
+            "defense": 134,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100233,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2149,
+            "attack": 226,
+            "defense": 167,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 31401,
+                    "name": "Anomaly Mastery",
+                    "format": "{0:0.#}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Dancing Blades",
+                    "description": "Press  to activate:\nUnleashes up to 6 attacks in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Passion",
+                    "description": "When Jane triggers Perfect Dodge, Defensive Assist, or performs a move that deals DMG to the enemy, she accumulates Passion Stream. Upon reaching the maximum Passion Stream, Jane enters the Passion state.\nWhile in the Passion state, Jane's Physical Anomaly Buildup Rate is increased by 25%. Additionally, if Jane's Anomaly Proficiency exceeds 120, each extra point raises her ATK by 2, up to a maximum of 600.\nIn the Passion state, Jane's skills that deal damage consume Passion Stream. Activating a Perfect Dodge or Defensive Assist regenerates Passion Stream. Jane exits the Passion state when all of her Passion Stream is consumed.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Salchow Jump",
+                    "description": "Entering the Passion state grants Jane one use of Basic Attack: Salchow Jump.\nWhen available, hold  to activate:\nLaunch rapid consecutive attacks forward, followed by a Finishing Move, dealing Physical DMG.\nHold the button during the consecutive attacks to extend the skill duration. Release  to trigger the Finishing Move early.\nAnti-Interrupt level is increased during the consecutive attacks, and Jane takes 40% reduced DMG. Jane is invulnerable during the Finishing Move.\nUsing and damaging an enemy with Basic Attack: Salchow Jump while in the Passion state generates Passion Stream.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Dancing Blades",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1261001, Prop:1001}",
+                            "params": {
+                                "1261001": {
+                                    "main": 3610,
+                                    "growth": 330,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1261002, Prop:1001}",
+                            "params": {
+                                "1261002": {
+                                    "main": 6230,
+                                    "growth": 570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1261003, Prop:1001}",
+                            "params": {
+                                "1261003": {
+                                    "main": 8350,
+                                    "growth": 760,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1261004, Prop:1001}",
+                            "params": {
+                                "1261004": {
+                                    "main": 16340,
+                                    "growth": 1490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1261005, Prop:1001}",
+                            "params": {
+                                "1261005": {
+                                    "main": 9880,
+                                    "growth": 900,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "6th-Hit DMG Multiplier",
+                            "description": "{Skill:1261006, Prop:1001}",
+                            "params": {
+                                "1261006": {
+                                    "main": 29130,
+                                    "growth": 2650,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1261001, Prop:1002}",
+                            "params": {
+                                "1261001": {
+                                    "main": 1530,
+                                    "growth": 70,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1261002, Prop:1002}",
+                            "params": {
+                                "1261002": {
+                                    "main": 4430,
+                                    "growth": 210,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1261003, Prop:1002}",
+                            "params": {
+                                "1261003": {
+                                    "main": 5950,
+                                    "growth": 280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1261004, Prop:1002}",
+                            "params": {
+                                "1261004": {
+                                    "main": 10970,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1261005, Prop:1002}",
+                            "params": {
+                                "1261005": {
+                                    "main": 6870,
+                                    "growth": 320,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "6th-Hit Daze Multiplier",
+                            "description": "{Skill:1261006, Prop:1002}",
+                            "params": {
+                                "1261006": {
+                                    "main": 20000,
+                                    "growth": 910,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Salchow Jump",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Consecutive Attack DMG Multiplier",
+                            "description": "{Skill:1261007, Prop:1001}",
+                            "params": {
+                                "1261007": {
+                                    "main": 30080,
+                                    "growth": 2740,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Finishing Move DMG Multiplier",
+                            "description": "{Skill:1261008, Prop:1001}",
+                            "params": {
+                                "1261008": {
+                                    "main": 16130,
+                                    "growth": 1470,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Consecutive Attack Daze Multiplier",
+                            "description": "{Skill:1261007, Prop:1002}",
+                            "params": {
+                                "1261007": {
+                                    "main": 22920,
+                                    "growth": 1050,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Finishing Move Daze Multiplier",
+                            "description": "{Skill:1261008, Prop:1002}",
+                            "params": {
+                                "1261008": {
+                                    "main": 12290,
+                                    "growth": 560,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Phantom",
+                    "description": "Press  to trigger.\nA quick slide dodge.\nCharacter is invulnerable while using this skill.\nJane has an extra dodge. Before she enters the Passion state, she alternates between the two dodges. After entering the Passion state, Jane can pass through enemies in front when dodging.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Edge Jump",
+                    "description": "Press  during a dodge to activate:\nIf after the first dodge, launch an upward slash in front, dealing Physical DMG.\nIf after the second dodge, perform a consecutive slashes in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Phantom Thrust",
+                    "description": "While in the Passion state, press  during a dodge to activate:\nLaunch three quick rushing slashes in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Swift Shadow",
+                    "description": "Press  during a Perfect Dodge to activate:\nIf after the first dodge, unleash multiple slashes at enemies in front, followed by a downward thrust, dealing Physical DMG.\nIf after the second dodge, leap up and deliver three consecutive attacks to enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Swift Shadow Dance",
+                    "description": "While in the Passion state, press  during a Perfect Dodge to activate:\nSlash enemies in front quickly multiple times, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Edge Jump",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Dodge DMG Multiplier",
+                            "description": "{Skill:1261011, Prop:1001}",
+                            "params": {
+                                "1261011": {
+                                    "main": 7150,
+                                    "growth": 650,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Dodge Daze Multiplier",
+                            "description": "{Skill:1261011, Prop:1002}",
+                            "params": {
+                                "1261011": {
+                                    "main": 3580,
+                                    "growth": 170,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Dodge DMG Multiplier",
+                            "description": "{Skill:1261012, Prop:1001}",
+                            "params": {
+                                "1261012": {
+                                    "main": 7150,
+                                    "growth": 650,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Dodge Daze Multiplier",
+                            "description": "{Skill:1261012, Prop:1002}",
+                            "params": {
+                                "1261012": {
+                                    "main": 3580,
+                                    "growth": 170,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dash Attack: Phantom Thrust",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1261013, Prop:1001}",
+                            "params": {
+                                "1261013": {
+                                    "main": 10450,
+                                    "growth": 950,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1261013, Prop:1002}",
+                            "params": {
+                                "1261013": {
+                                    "main": 5230,
+                                    "growth": 240,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Swift Shadow",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Dodge DMG Multiplier",
+                            "description": "{Skill:1261014, Prop:1001}",
+                            "params": {
+                                "1261014": {
+                                    "main": 34120,
+                                    "growth": 3110,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Dodge Daze Multiplier",
+                            "description": "{Skill:1261014, Prop:1002}",
+                            "params": {
+                                "1261014": {
+                                    "main": 22920,
+                                    "growth": 1050,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Dodge DMG Multiplier",
+                            "description": "{Skill:1261015, Prop:1001}",
+                            "params": {
+                                "1261015": {
+                                    "main": 34120,
+                                    "growth": 3110,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Dodge Daze Multiplier",
+                            "description": "{Skill:1261015, Prop:1002}",
+                            "params": {
+                                "1261015": {
+                                    "main": 22920,
+                                    "growth": 1050,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Swift Shadow Dance",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1261016, Prop:1001}",
+                            "params": {
+                                "1261016": {
+                                    "main": 38700,
+                                    "growth": 3520,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1261016, Prop:1002}",
+                            "params": {
+                                "1261016": {
+                                    "main": 24750,
+                                    "growth": 1130,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Aerial Sweep",
+                    "description": "Press  to activate:\nLeaps into the air to launch consecutive kicks forward, then sweeps across, dealing Physical DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Aerial Sweep - Clearout",
+                    "description": "With enough Energy, press  to activate:\nLeaps into the air to launch multiple consecutive kicks forward, then sweeps across, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Aerial Sweep",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1261009, Prop:1001}",
+                            "params": {
+                                "1261009": {
+                                    "main": 5780,
+                                    "growth": 530,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1261009, Prop:1002}",
+                            "params": {
+                                "1261009": {
+                                    "main": 5780,
+                                    "growth": 270,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Aerial Sweep - Clearout",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1261010, Prop:1001}",
+                            "params": {
+                                "1261010": {
+                                    "main": 57470,
+                                    "growth": 5230,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1261010, Prop:1002}",
+                            "params": {
+                                "1261010": {
+                                    "main": 46810,
+                                    "growth": 2130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "60",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Flowers of Sin",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nWeaves between and slashes enemies in a large area in front, dealing massive Physical DMG.\nJane directly enters the Passion state upon activating the skill, and gains max Passion Stream.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Final Curtain",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nWeaves between and slashes enemies with a powerful attack in a large area in front, followed by a Finishing Move, dealing massive Physical DMG.\nJane directly enters the Passion state upon activating the skill, and gains max Passion Stream.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Flowers of Sin",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1261017, Prop:1001}",
+                            "params": {
+                                "1261017": {
+                                    "main": 63260,
+                                    "growth": 5760,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1261017, Prop:1002}",
+                            "params": {
+                                "1261017": {
+                                    "main": 23760,
+                                    "growth": 1080,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Final Curtain",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1261018, Prop:1001}",
+                            "params": {
+                                "1261018": {
+                                    "main": 147060,
+                                    "growth": 13370,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1261018, Prop:1002}",
+                            "params": {
+                                "1261018": {
+                                    "main": 18650,
+                                    "growth": 850,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Dark Thorn",
+                    "description": "When the active character is launched, press  to activate:\nUnleash multiple slashes at enemies in front, followed by a downward thrust, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Lutz Jump",
+                    "description": "While in the Passion state, when the active character is launched, press  to activate:\nSlash enemies in front quickly multiple times, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Last Defense",
+                    "description": "When the on-field character is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Gale Sweep",
+                    "description": "Press  after a Defensive Assist to activate:\nLeap up and swiftly slash the enemy, then execute a wide sweeping slash across a large area in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Dark Thorn",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1261019, Prop:1001}",
+                            "params": {
+                                "1261019": {
+                                    "main": 11920,
+                                    "growth": 1090,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1261019, Prop:1002}",
+                            "params": {
+                                "1261019": {
+                                    "main": 11920,
+                                    "growth": 550,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Quick Assist: Lutz Jump",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1261020, Prop:1001}",
+                            "params": {
+                                "1261020": {
+                                    "main": 13750,
+                                    "growth": 1250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1261020, Prop:1002}",
+                            "params": {
+                                "1261020": {
+                                    "main": 13750,
+                                    "growth": 630,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Last Defense",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1261021, Prop:1002}",
+                            "params": {
+                                "1261021": {
+                                    "main": 27130,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1261022, Prop:1002}",
+                            "params": {
+                                "1261022": {
+                                    "main": 34280,
+                                    "growth": 1560,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1261023, Prop:1002}",
+                            "params": {
+                                "1261023": {
+                                    "main": 16680,
+                                    "growth": 760,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Gale Sweep",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1261024, Prop:1001}",
+                            "params": {
+                                "1261024": {
+                                    "main": 34550,
+                                    "growth": 3150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1261024, Prop:1002}",
+                            "params": {
+                                "1261024": {
+                                    "main": 29900,
+                                    "growth": 1360,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1261501,
+                "names": [
+                    "Core Passive: Insight",
+                    "Additional Ability: Sore Spot"
+                ],
+                "descriptions": [
+                    "When Jane's attacks hit an enemy, it causes them to enter the Gnawed state, lasting for 10s. If any squad member triggers Assault on an enemy in the Gnawed state and causes the Flinch effect, the Flinch effect duration is extended by 5s, and Assault DMG has a chance to trigger a critical hit, with a base CRIT Rate of 20% and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by 0.1%.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nJane's Physical Anomaly Buildup Rate is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's Physical Anomaly Buildup towards the target is increased by an additional 15%."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1261502,
+                "names": [
+                    "Core Passive: Insight",
+                    "Additional Ability: Sore Spot"
+                ],
+                "descriptions": [
+                    "When Jane's attacks hit an enemy, it causes them to enter the Gnawed state, lasting for 10s. If any squad member triggers Assault on an enemy in the Gnawed state and causes the Flinch effect, the Flinch effect duration is extended by 5s, and Assault DMG has a chance to trigger a critical hit, with a base CRIT Rate of 25% and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by 0.11%.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nJane's Physical Anomaly Buildup Rate is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's Physical Anomaly Buildup towards the target is increased by an additional 15%."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1261503,
+                "names": [
+                    "Core Passive: Insight",
+                    "Additional Ability: Sore Spot"
+                ],
+                "descriptions": [
+                    "When Jane's attacks hit an enemy, it causes them to enter the Gnawed state, lasting for 10s. If any squad member triggers Assault on an enemy in the Gnawed state and causes the Flinch effect, the Flinch effect duration is extended by 5s, and Assault DMG has a chance to trigger a critical hit, with a base CRIT Rate of 28% and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by 0.12%.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nJane's Physical Anomaly Buildup Rate is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's Physical Anomaly Buildup towards the target is increased by an additional 15%."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1261504,
+                "names": [
+                    "Core Passive: Insight",
+                    "Additional Ability: Sore Spot"
+                ],
+                "descriptions": [
+                    "When Jane's attacks hit an enemy, it causes them to enter the Gnawed state, lasting for 10s. If any squad member triggers Assault on an enemy in the Gnawed state and causes the Flinch effect, the Flinch effect duration is extended by 5s, and Assault DMG has a chance to trigger a critical hit, with a base CRIT Rate of 31% and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by 0.13%.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nJane's Physical Anomaly Buildup Rate is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's Physical Anomaly Buildup towards the target is increased by an additional 15%."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1261505,
+                "names": [
+                    "Core Passive: Insight",
+                    "Additional Ability: Sore Spot"
+                ],
+                "descriptions": [
+                    "When Jane's attacks hit an enemy, it causes them to enter the Gnawed state, lasting for 10s. If any squad member triggers Assault on an enemy in the Gnawed state and causes the Flinch effect, the Flinch effect duration is extended by 5s, and Assault DMG has a chance to trigger a critical hit, with a base CRIT Rate of 34% and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by 0.14%.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nJane's Physical Anomaly Buildup Rate is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's Physical Anomaly Buildup towards the target is increased by an additional 15%."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1261506,
+                "names": [
+                    "Core Passive: Insight",
+                    "Additional Ability: Sore Spot"
+                ],
+                "descriptions": [
+                    "When Jane's attacks hit an enemy, it causes them to enter the Gnawed state, lasting for 10s. If any squad member triggers Assault on an enemy in the Gnawed state and causes the Flinch effect, the Flinch effect duration is extended by 5s, and Assault DMG has a chance to trigger a critical hit, with a base CRIT Rate of 37% and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by 0.15%.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nJane's Physical Anomaly Buildup Rate is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's Physical Anomaly Buildup towards the target is increased by an additional 15%."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1261507,
+                "names": [
+                    "Core Passive: Insight",
+                    "Additional Ability: Sore Spot"
+                ],
+                "descriptions": [
+                    "When Jane's attacks hit an enemy, it causes them to enter the Gnawed state, lasting for 10s. If any squad member triggers Assault on an enemy in the Gnawed state and causes the Flinch effect, the Flinch effect duration is extended by 5s, and Assault DMG has a chance to trigger a critical hit, with a base CRIT Rate of 40% and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by 0.16%.",
+                    "When another character in your squad is an Anomaly character or shares the same Faction:\nJane's Physical Anomaly Buildup Rate is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's Physical Anomaly Buildup towards the target is increased by an additional 15%."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110506,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110506,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110506,
+                    "amount": 9
+                },
+                {
+                    "id": 110001,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110506,
+                    "amount": 15
+                },
+                {
+                    "id": 110001,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110506,
+                    "amount": 30
+                },
+                {
+                    "id": 110001,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1261_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1261_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1261_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect24.webp"
+}

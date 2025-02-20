@@ -1,0 +1,1758 @@
+{
+    "id": 1141,
+    "image": "https://api.hakush.in/zzz/UI/IconRole18.webp",
+    "name": "Lycaon",
+    "code_name": "Lycaon",
+    "rarity": "S",
+    "specialty": {
+        "id": 2,
+        "name": "Stun"
+    },
+    "element": {
+        "id": 202,
+        "name": "Ice"
+    },
+    "attack_type": {
+        "id": 102,
+        "name": "Strike"
+    },
+    "faction": {
+        "id": 2,
+        "name": "Victoria Housekeeping Co."
+    },
+    "gender": "M",
+    "info": {
+        "birthday": "OCT 4",
+        "full_name": "Von Lycaon",
+        "gender": "Male",
+        "female_impression": "Is there truly anything in this world that poses a challenge for Lycaon?\nIt seems that no matter what obstacles he encounters, he effortlessly solves them all (as long as you touch his tail)!",
+        "male_impression": "Belle, did your comment get mixed up with your personal preferences...?\nAnd Fairy suggested touching Lycaon's chin and head, not his tail.",
+        "outlook_desc": "New Eridu Citizen Verification Profile Info:\nHollow Investigator: Lycaon, with an excellent aptitude for Ether, is authorized to perform basic tasks such as investigating and mining in identified Hollows (including Companion Hollows) within New Eridu.\nNote: Lycaon's personal files contain a classified section that requires administrator permissions to access.\nIt is assumed this section contains information about his past and criminal records.",
+        "profile_desc": "Lycaon, the substantive leader and representative of Victoria Housekeeping Co., is responsible for managing all members of the company.\nRational and reliable, Lycaon is an elegant gentleman and a versatile attendant who can solve any problem. He is the cornerstone of his team and a reassuring presence.\nHe has a slight obsession with cleanliness, always tidying up his surroundings and unable to tolerate dirty environments.\n\nAlthough Lycaon maintains his elegance and composure, his canine instincts occasionally shine through. When he is particularly happy, his tail and ears unconsciously wag. He seems to be aware of this habit and somewhat bothered by it.\nAdditionally, like most furry Thiren, Lycaon takes great care of his fur.\n\nSuggestion: Since Lycaon is a canine Thiren, stroking his head or chin may enhance the emotional connection between you. (Note: Success is not guaranteed.)\n* Risks: Due to his height, you may not be able to do this even if you stand on tiptoes.",
+        "faction": "Victoria Housekeeping Co.",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Agent Story \"And the True Heroes Are Always Behind the Scenes\""
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 105.0,
+        "AttackGrowth": 61287.0,
+        "AvatarPieceId": 5141.0,
+        "BreakStun": 119.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66203.0,
+        "ElementAbnormalPower": 91.0,
+        "ElementMystery": 90.0,
+        "Endurance": 0.0,
+        "HpGrowth": 918185.0,
+        "HpMax": 677.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Full Moon Momentum",
+            "description": "When Lycaon's EX Special Attack hits an enemy, the attack's Daze increases by 12%. This effect can trigger once every 8s. When he charges his EX Special Attack to completion, this buff will increase by an additional 10%.",
+            "description2": "Records suggest that werewolves exposed to moonlight become significantly more aggressive.\n\"Don't stare directly at the moon.\""
+        },
+        {
+            "level": 2,
+            "name": "Energy Feedback",
+            "description": "When Stunning an enemy or triggering a squad member's Chain Attack, Lycaon gains 5 Energy. Can trigger once every 1s.",
+            "description2": "\"Canines receive a brief dopamine boost in their brains after completing semi-complex tasks. At that moment, if their owner pets them to show encouragement, they will be extremely happy...\"\n—Excerpt from the \"Handbook of Unreliable Canine Research\""
+        },
+        {
+            "level": 3,
+            "name": "Attendant Training",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "His every gesture exudes poise, and his words and actions are as refreshing as a spring breeze. An attendant's training is about maintaining control over everything."
+        },
+        {
+            "level": 4,
+            "name": "Graceful Demeanor",
+            "description": "If Lycaon is attacked while using a Basic Attack or Special Attack, he will immediately gain a Shield equal to 7.5% of his Max HP, lasting for 15s.\nDuring the Shield's duration, his Anti-Interrupt level is increased. This effect can trigger once every 15s.",
+            "description2": "\"An outstanding attendant maintains a graceful demeanor at any and all times.\""
+        },
+        {
+            "level": 5,
+            "name": "Alpha Nature",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "His glance harbors a primal ferocity, and the echoes of his howls rumble within his throat. Regardless of his current gracefulness, underneath the formal wear, he's still untamed."
+        },
+        {
+            "level": 6,
+            "name": "Ruthless Hunter",
+            "description": "When a charged attack hits an enemy, the target suffers 10% increased DMG from Lycaon, stacking up to 5 times and lasting 12s. Only one stack can be gained per skill use, and repeated triggers reset the duration.",
+            "description2": "\"Apologies, but given the circumstances, I will not show any mercy.\"\n\"After all, if a fair fight is what you are after, a Hollow is not the place to look for it.\""
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100212,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 464,
+            "attack": 37,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100222,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 929,
+            "attack": 75,
+            "defense": 67,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100222,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1393,
+            "attack": 112,
+            "defense": 100,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100232,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1857,
+            "attack": 150,
+            "defense": 134,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100232,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2322,
+            "attack": 187,
+            "defense": 167,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 6,
+                    "formatted_value": "6"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 6,
+                    "formatted_value": "6"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 18,
+                    "formatted_value": "18"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 18,
+                    "formatted_value": "18"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Moon Hunter",
+                    "description": "Press  to activate:\nUnleashes up to 5 strikes in front, dealing Physical DMG.\nHold down  to charge up, increasing the power of the attack and dealing Ice DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Moon Hunter",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1141001, Prop:1001}",
+                            "params": {
+                                "1141001": {
+                                    "main": 2920,
+                                    "growth": 270,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Charged Attack DMG Multiplier",
+                            "description": "{Skill:1141002, Prop:1001}",
+                            "params": {
+                                "1141002": {
+                                    "main": 3710,
+                                    "growth": 340,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1141003, Prop:1001}",
+                            "params": {
+                                "1141003": {
+                                    "main": 3490,
+                                    "growth": 320,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Charged Attack DMG Multiplier",
+                            "description": "{Skill:1141004, Prop:1001}",
+                            "params": {
+                                "1141004": {
+                                    "main": 5640,
+                                    "growth": 520,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1141005, Prop:1001}",
+                            "params": {
+                                "1141005": {
+                                    "main": 5840,
+                                    "growth": 540,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Charged Attack DMG Multiplier",
+                            "description": "{Skill:1141006, Prop:1001}",
+                            "params": {
+                                "1141006": {
+                                    "main": 9950,
+                                    "growth": 910,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1141007, Prop:1001}",
+                            "params": {
+                                "1141007": {
+                                    "main": 15200,
+                                    "growth": 1390,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Charged Attack DMG Multiplier",
+                            "description": "{Skill:1141008, Prop:1001}",
+                            "params": {
+                                "1141008": {
+                                    "main": 21090,
+                                    "growth": 1920,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1141009, Prop:1001}",
+                            "params": {
+                                "1141009": {
+                                    "main": 18070,
+                                    "growth": 1650,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Level-1 Charged Attack DMG Multiplier",
+                            "description": "{Skill:1141010, Prop:1001}",
+                            "params": {
+                                "1141010": {
+                                    "main": 27760,
+                                    "growth": 2530,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Level-2 Charged Attack DMG Multiplier",
+                            "description": "{Skill:1141011, Prop:1001}",
+                            "params": {
+                                "1141011": {
+                                    "main": 35570,
+                                    "growth": 3240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1141001, Prop:1002}",
+                            "params": {
+                                "1141001": {
+                                    "main": 1460,
+                                    "growth": 70,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Charged Daze Multiplier",
+                            "description": "{Skill:1141002, Prop:1002}",
+                            "params": {
+                                "1141002": {
+                                    "main": 1210,
+                                    "growth": 60,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1141003, Prop:1002}",
+                            "params": {
+                                "1141003": {
+                                    "main": 3030,
+                                    "growth": 140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Charged Daze Multiplier",
+                            "description": "{Skill:1141004, Prop:1002}",
+                            "params": {
+                                "1141004": {
+                                    "main": 3290,
+                                    "growth": 150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1141005, Prop:1002}",
+                            "params": {
+                                "1141005": {
+                                    "main": 4560,
+                                    "growth": 210,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Charged Daze Multiplier",
+                            "description": "{Skill:1141006, Prop:1002}",
+                            "params": {
+                                "1141006": {
+                                    "main": 5370,
+                                    "growth": 250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1141007, Prop:1002}",
+                            "params": {
+                                "1141007": {
+                                    "main": 11200,
+                                    "growth": 510,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Charged Daze Multiplier",
+                            "description": "{Skill:1141008, Prop:1002}",
+                            "params": {
+                                "1141008": {
+                                    "main": 10710,
+                                    "growth": 490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1141009, Prop:1002}",
+                            "params": {
+                                "1141009": {
+                                    "main": 14770,
+                                    "growth": 680,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Level-1 Charged Daze Multiplier",
+                            "description": "{Skill:1141010, Prop:1002}",
+                            "params": {
+                                "1141010": {
+                                    "main": 16310,
+                                    "growth": 750,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Level-2 Charged Daze Multiplier",
+                            "description": "{Skill:1141011, Prop:1002}",
+                            "params": {
+                                "1141011": {
+                                    "main": 20560,
+                                    "growth": 940,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Suitable Positioning",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Keep it Clean",
+                    "description": "Press  during a dodge to activate:\nSlides forward, launching a series of strikes in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Etiquette Manual",
+                    "description": "Press  during a Perfect Dodge to activate:\nStrikes enemies in front, dealing Ice DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Keep it Clean",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1141018, Prop:1001}",
+                            "params": {
+                                "1141018": {
+                                    "main": 4730,
+                                    "growth": 430,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1141018, Prop:1002}",
+                            "params": {
+                                "1141018": {
+                                    "main": 2370,
+                                    "growth": 110,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Etiquette Manual",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1141019, Prop:1001}",
+                            "params": {
+                                "1141019": {
+                                    "main": 18700,
+                                    "growth": 1700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1141019, Prop:1002}",
+                            "params": {
+                                "1141019": {
+                                    "main": 16810,
+                                    "growth": 770,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Time to Hunt",
+                    "description": "Press  to activate:\nUnleashes a series of strikes in front, dealing Ice DMG.\nHold down  to charge up, increasing its power.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Thrill of the Hunt",
+                    "description": "With enough Energy, press  to activate:\nUnleashes a series of powerful strikes in front, dealing massive Ice DMG.\nHold down  to charge up, consuming Energy and enhancing the power of the attack.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Time to Hunt",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{{Skill:1141012, Prop:1001} + {Skill:1141013, Prop:1001}}",
+                            "params": {
+                                "1141012": {
+                                    "main": 2280,
+                                    "growth": 210,
+                                    "format": "%"
+                                },
+                                "1141013": {
+                                    "main": 5430,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charged Attack DMG Multiplier",
+                            "description": "{{Skill:1141012, Prop:1001} + {Skill:1141014, Prop:1001}}",
+                            "params": {
+                                "1141012": {
+                                    "main": 2280,
+                                    "growth": 210,
+                                    "format": "%"
+                                },
+                                "1141014": {
+                                    "main": 11030,
+                                    "growth": 1010,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{{Skill:1141012, Prop:1002} + {Skill:1141013, Prop:1002}}",
+                            "params": {
+                                "1141012": {
+                                    "main": 2280,
+                                    "growth": 110,
+                                    "format": "%"
+                                },
+                                "1141013": {
+                                    "main": 5430,
+                                    "growth": 250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charged Daze Multiplier",
+                            "description": "{{Skill:1141012, Prop:1002} + {Skill:1141014, Prop:1002}}",
+                            "params": {
+                                "1141012": {
+                                    "main": 2280,
+                                    "growth": 110,
+                                    "format": "%"
+                                },
+                                "1141014": {
+                                    "main": 11030,
+                                    "growth": 510,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Thrill of the Hunt",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{{Skill:1141015, Prop:1001} + {Skill:1141016, Prop:1001}}",
+                            "params": {
+                                "1141015": {
+                                    "main": 25240,
+                                    "growth": 2300,
+                                    "format": "%"
+                                },
+                                "1141016": {
+                                    "main": 28190,
+                                    "growth": 2570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charged Attack DMG Multiplier",
+                            "description": "{{Skill:1141015, Prop:1001} + {Skill:1141017, Prop:1001}}",
+                            "params": {
+                                "1141015": {
+                                    "main": 25240,
+                                    "growth": 2300,
+                                    "format": "%"
+                                },
+                                "1141017": {
+                                    "main": 53710,
+                                    "growth": 4890,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{{Skill:1141015, Prop:1002} + {Skill:1141016, Prop:1002}}",
+                            "params": {
+                                "1141015": {
+                                    "main": 21150,
+                                    "growth": 970,
+                                    "format": "%"
+                                },
+                                "1141016": {
+                                    "main": 23890,
+                                    "growth": 1090,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charged Daze Multiplier",
+                            "description": "{{Skill:1141015, Prop:1002} + {Skill:1141017, Prop:1002}}",
+                            "params": {
+                                "1141015": {
+                                    "main": 21150,
+                                    "growth": 970,
+                                    "format": "%"
+                                },
+                                "1141017": {
+                                    "main": 45290,
+                                    "growth": 2060,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Activation Energy Cost",
+                            "description": "40",
+                            "params": null
+                        },
+                        {
+                            "name": "Charged Attack Energy Cost",
+                            "description": "20",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: As You Wish",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a series of powerful strikes at enemies in a small area in front of him, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Mission Complete",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes multiple powerful strikes at enemies in a large area, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: As You Wish",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1141020, Prop:1001}",
+                            "params": {
+                                "1141020": {
+                                    "main": 63780,
+                                    "growth": 5800,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1141020, Prop:1002}",
+                            "params": {
+                                "1141020": {
+                                    "main": 21880,
+                                    "growth": 1000,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Mission Complete",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1141021, Prop:1001}",
+                            "params": {
+                                "1141021": {
+                                    "main": 169410,
+                                    "growth": 15410,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1141021, Prop:1002}",
+                            "params": {
+                                "1141021": {
+                                    "main": 109660,
+                                    "growth": 4990,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Wolf Pack",
+                    "description": "When the active character is launched, press  to activate:\nStrikes enemies in front, dealing Ice DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Disrupted Hunt",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Vengeful Counterattack",
+                    "description": "Press  after a Defensive Assist to activate:\nCreates an icicle in front, which strikes all enemies within range, dealing Ice DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Wolf Pack",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1141022, Prop:1001}",
+                            "params": {
+                                "1141022": {
+                                    "main": 6310,
+                                    "growth": 580,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1141022, Prop:1002}",
+                            "params": {
+                                "1141022": {
+                                    "main": 6310,
+                                    "growth": 290,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Disrupted Hunt",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1141023, Prop:1002}",
+                            "params": {
+                                "1141023": {
+                                    "main": 25900,
+                                    "growth": 1180,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1141024, Prop:1002}",
+                            "params": {
+                                "1141024": {
+                                    "main": 32730,
+                                    "growth": 1490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1141025, Prop:1002}",
+                            "params": {
+                                "1141025": {
+                                    "main": 15930,
+                                    "growth": 730,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Vengeful Counterattack",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1141026, Prop:1001}",
+                            "params": {
+                                "1141026": {
+                                    "main": 28830,
+                                    "growth": 2630,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1141026, Prop:1002}",
+                            "params": {
+                                "1141026": {
+                                    "main": 24680,
+                                    "growth": 1130,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1141501,
+                "names": [
+                    "Core Passive: Metallic Paws",
+                    "Additional Ability: Elegant Predator"
+                ],
+                "descriptions": [
+                    "When Lycaon charges his Basic Attack to completion, the attack deals 40% increased Daze.\nWhen EX Special Attack or Assist Follow-Up hits an enemy, the target's Ice DMG RES decreases by 25% for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1141502,
+                "names": [
+                    "Core Passive: Metallic Paws",
+                    "Additional Ability: Elegant Predator"
+                ],
+                "descriptions": [
+                    "When Lycaon charges his Basic Attack to completion, the attack deals 46.6% increased Daze.\nWhen EX Special Attack or Assist Follow-Up hits an enemy, the target's Ice DMG RES decreases by 25% for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1141503,
+                "names": [
+                    "Core Passive: Metallic Paws",
+                    "Additional Ability: Elegant Predator"
+                ],
+                "descriptions": [
+                    "When Lycaon charges his Basic Attack to completion, the attack deals 53.3% increased Daze.\nWhen EX Special Attack or Assist Follow-Up hits an enemy, the target's Ice DMG RES decreases by 25% for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1141504,
+                "names": [
+                    "Core Passive: Metallic Paws",
+                    "Additional Ability: Elegant Predator"
+                ],
+                "descriptions": [
+                    "When Lycaon charges his Basic Attack to completion, the attack deals 60% increased Daze.\nWhen EX Special Attack or Assist Follow-Up hits an enemy, the target's Ice DMG RES decreases by 25% for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1141505,
+                "names": [
+                    "Core Passive: Metallic Paws",
+                    "Additional Ability: Elegant Predator"
+                ],
+                "descriptions": [
+                    "When Lycaon charges his Basic Attack to completion, the attack deals 66.6% increased Daze.\nWhen EX Special Attack or Assist Follow-Up hits an enemy, the target's Ice DMG RES decreases by 25% for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1141506,
+                "names": [
+                    "Core Passive: Metallic Paws",
+                    "Additional Ability: Elegant Predator"
+                ],
+                "descriptions": [
+                    "When Lycaon charges his Basic Attack to completion, the attack deals 73.3% increased Daze.\nWhen EX Special Attack or Assist Follow-Up hits an enemy, the target's Ice DMG RES decreases by 25% for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1141507,
+                "names": [
+                    "Core Passive: Metallic Paws",
+                    "Additional Ability: Elegant Predator"
+                ],
+                "descriptions": [
+                    "When Lycaon charges his Basic Attack to completion, the attack deals 80% increased Daze.\nWhen EX Special Attack or Assist Follow-Up hits an enemy, the target's Ice DMG RES decreases by 25% for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110503,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110503,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110503,
+                    "amount": 9
+                },
+                {
+                    "id": 110003,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110503,
+                    "amount": 15
+                },
+                {
+                    "id": 110003,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110503,
+                    "amount": 30
+                },
+                {
+                    "id": 110003,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1141_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1141_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1141_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect18.webp"
+}

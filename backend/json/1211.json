@@ -1,0 +1,1509 @@
+{
+    "id": 1211,
+    "image": "https://api.hakush.in/zzz/UI/IconRole22.webp",
+    "name": "Rina",
+    "code_name": "Rina",
+    "rarity": "S",
+    "specialty": {
+        "id": 4,
+        "name": "Support"
+    },
+    "element": {
+        "id": 203,
+        "name": "Electric"
+    },
+    "attack_type": {
+        "id": 102,
+        "name": "Strike"
+    },
+    "faction": {
+        "id": 2,
+        "name": "Victoria Housekeeping Co."
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "SEP 23",
+        "full_name": "Alexandrina Sebastiane",
+        "gender": "Female",
+        "female_impression": "Look here, Wise! Can you believe Fairy wants us to try Rina's dishes? She just keeps getting meaner!",
+        "male_impression": "We don't need to take on such a high level of risk at the moment. I suggest Fairy refrain from making such suggestions next time.",
+        "outlook_desc": "New Eridu Citizen Verification Profile:\nRina, possessing good Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: The floating Bangboo accompanying Rina also exhibit excellent Ether adaptability.",
+        "profile_desc": "Rina, the head maid of Victoria Housekeeping Co., and the most senior member of the organization.\nShe possesses beauty and grace, appearing immaculate from head to toe, with a noble demeanor and a gentle smile on her face.\nShe places considerable importance on how she is perceived by others.\n\nRina is always accompanied by two Bangboo named Anastella (brown hair) and Drusilla (blonde hair), both of whom have distinct personalities.\nDrusilla has been with Rina for a significant period of time and displays high intelligence, capable of discerning Rina's true emotions and thoughts.\nAnastella, a recent addition, usually responds rather than initiates conversation and is frequently teased by Drusilla.\n\nRina's favorite hobby is cooking, but only a few individuals are capable of enduring the dishes she prepares.\nSuggestion: You may try tasting Rina's dishes as a test to determine if you are the Chosen One.",
+        "faction": "Victoria Housekeeping Co.",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Agent Story \"Until Your Memory Fades\""
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 103.0,
+        "AttackGrowth": 60201.0,
+        "AvatarPieceId": 5211.0,
+        "BreakStun": 83.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 48.0,
+        "DefenceGrowth": 65524.0,
+        "ElementAbnormalPower": 93.0,
+        "ElementMystery": 92.0,
+        "Endurance": 0.0,
+        "HpGrowth": 939358.0,
+        "HpMax": 692.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Dance Duet",
+            "description": "After being sent out to launch an attack, Drusilla and Anastella stay in place for an additional 5.5s before returning to Rina.\nThe effect gained from Core Passive: Mini Destruction Partner by characters within 10m is increased to 130% of the original value.",
+            "description2": "\"Get your work done, or you're in for a beating!\" is how Drusilla tries to encourage everyone.\n\"Yeah, a beating!\" Anastella always chimes in."
+        },
+        {
+            "level": 2,
+            "name": "Master's Paragon",
+            "description": "Upon entering combat or switching in, Rina's DMG increases by 15% for 12s. This effect can trigger once every 18s.",
+            "description2": "\"It takes an excellent head maid to lead excellent maids, and an exemplary master to raise exemplary Bangboo.\" — Excerpt from Rina's speech at the \"Victoria Housekeeping Human Resource Management and Bangboo Training Insight Seminar.\""
+        },
+        {
+            "level": 3,
+            "name": "Head Maid's Specialty",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Rina always has the confidence to excel at anything and the ability to annihilate everything.\nHowever, when it comes to being in the mood to annihilate enemies, both her confidence and capability align."
+        },
+        {
+            "level": 4,
+            "name": "Needle and Hammer",
+            "description": "Rina's Energy Regen increases by 0.5/s when both Drusilla and Anastella are deployed. The effect ends when Drusilla or Anastella returns to Rina.",
+            "description2": "Drusilla and Anastella can never agree on anything.\n\"Beating up the dummy in front\" is an exception."
+        },
+        {
+            "level": 5,
+            "name": "Head Maid Perfectionist",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"Rina\" means perfection in the Bangboo language.\nPerfectionism is the number one rule in the Victoria Housekeeping handbook.\nAnd Rina has her own criteria for judging \"perfection.\""
+        },
+        {
+            "level": 6,
+            "name": "Stormy Night's Fright",
+            "description": "When an EX Special Attack, Chain Attack or Ultimate hits an enemy, the entire squad's Electric DMG is increased by 15% for 8s.",
+            "description2": "Thunder rumbles in the old castle on a rainy night. The depths of the long corridors are filled with eerie shadows.\nFear circuits overloaded, the filming of a thriller commences."
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100214,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 475,
+            "attack": 37,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100224,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 950,
+            "attack": 74,
+            "defense": 66,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100224,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1425,
+            "attack": 111,
+            "defense": 99,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100234,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1900,
+            "attack": 147,
+            "defense": 133,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100234,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2375,
+            "attack": 184,
+            "defense": 166,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 23101,
+                    "name": "PEN Ratio",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 23101,
+                    "name": "PEN Ratio",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 23101,
+                    "name": "PEN Ratio",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 23101,
+                    "name": "PEN Ratio",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 23101,
+                    "name": "PEN Ratio",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 23101,
+                    "name": "PEN Ratio",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Whack the Dimwit",
+                    "description": "Press  to activate:\nOrder Drusilla and Anastella to attack up to 4 times, dealing Physical DMG and Electric DMG.\nPerforming other actions with Rina during Drusilla and Anastella's attacks will not interrupt Rina's Basic Attack combo count.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Shoo the Fool",
+                    "description": "Hold  or  to activate:\nCalls back Drusilla and Anastella to swing them around for a ranged attack, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Whack the Dimwit",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1211001, Prop:1001}",
+                            "params": {
+                                "1211001": {
+                                    "main": 4400,
+                                    "growth": 400,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1211003, Prop:1001}",
+                            "params": {
+                                "1211003": {
+                                    "main": 11140,
+                                    "growth": 1020,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1211004, Prop:1001}",
+                            "params": {
+                                "1211004": {
+                                    "main": 11710,
+                                    "growth": 1070,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1211006, Prop:1001}",
+                            "params": {
+                                "1211006": {
+                                    "main": 18390,
+                                    "growth": 1680,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1211001, Prop:1002}",
+                            "params": {
+                                "1211001": {
+                                    "main": 2450,
+                                    "growth": 120,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1211003, Prop:1002}",
+                            "params": {
+                                "1211003": {
+                                    "main": 8840,
+                                    "growth": 410,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1211004, Prop:1002}",
+                            "params": {
+                                "1211004": {
+                                    "main": 9660,
+                                    "growth": 440,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1211006, Prop:1002}",
+                            "params": {
+                                "1211006": {
+                                    "main": 14680,
+                                    "growth": 670,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Shoo the Fool",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1211007, Prop:1001}",
+                            "params": {
+                                "1211007": {
+                                    "main": 31510,
+                                    "growth": 2870,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1211007, Prop:1002}",
+                            "params": {
+                                "1211007": {
+                                    "main": 31510,
+                                    "growth": 1440,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Dress Adjustment",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Sudden Surprise",
+                    "description": "Press  during a dodge to activate:\nOrder Drusilla and Anastella to execute a piercing attack, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Bangboo Callback",
+                    "description": "Press  during a Perfect Dodge to activate:\nOrder Drusilla and Anastella to spin forward and trigger an explosion, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Sudden Surprise",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1211011, Prop:1001}",
+                            "params": {
+                                "1211011": {
+                                    "main": 10500,
+                                    "growth": 960,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1211011, Prop:1002}",
+                            "params": {
+                                "1211011": {
+                                    "main": 5250,
+                                    "growth": 240,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Bangboo Callback",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1211013, Prop:1001}",
+                            "params": {
+                                "1211013": {
+                                    "main": 22760,
+                                    "growth": 2070,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1211013, Prop:1002}",
+                            "params": {
+                                "1211013": {
+                                    "main": 22760,
+                                    "growth": 1040,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Beat the Blockhead",
+                    "description": "Press  to activate:\nOrder Anastella to execute a downward smash, dealing Electric DMG\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Dimwit Disappearing Trick",
+                    "description": "With enough Energy, press  to activate:\nOrder Drusilla and Anastella to execute multiple downward smashes, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Beat the Blockhead",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1211008, Prop:1001}",
+                            "params": {
+                                "1211008": {
+                                    "main": 6130,
+                                    "growth": 560,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1211008, Prop:1002}",
+                            "params": {
+                                "1211008": {
+                                    "main": 6130,
+                                    "growth": 280,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Dimwit Disappearing Trick",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1211009, Prop:1001}",
+                            "params": {
+                                "1211009": {
+                                    "main": 54600,
+                                    "growth": 4970,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1211009, Prop:1002}",
+                            "params": {
+                                "1211009": {
+                                    "main": 44450,
+                                    "growth": 2030,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "60",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Code of Conduct",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nOrder Drusilla and Anastella to push forward and generate a ball-shaped electrical field that deals massive Electric DMG.\nDuring this skill, Drusilla and Anastella are unable to perform Basic Attacks, Dash Attacks, Special Attacks, and EX Special Attacks, but can be recalled to Rina's side through Basic Attack: Shoo the Fool.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: The Queen's Attendants",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nOrder Drusilla and Anastella to spin forward, dealing massive Electric DMG.\nDuring this skill, Drusilla and Anastella are unable to respond to Basic Attack, Dash Attack, Special Attack, or EX Special Attack commands, but can be recalled to Rina's side through Basic Attack: Shoo the Fool.\nUpon activating this skill, the other squad members recover 10 Energy. The next character to switch in recovers an additional 20 Energy.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Code of Conduct",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1211015, Prop:1001}",
+                            "params": {
+                                "1211015": {
+                                    "main": 101300,
+                                    "growth": 9210,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1211015, Prop:1002}",
+                            "params": {
+                                "1211015": {
+                                    "main": 17510,
+                                    "growth": 800,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: The Queen's Attendants",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1211017, Prop:1001}",
+                            "params": {
+                                "1211017": {
+                                    "main": 211670,
+                                    "growth": 19250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1211017, Prop:1002}",
+                            "params": {
+                                "1211017": {
+                                    "main": 11380,
+                                    "growth": 520,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Duple Meter Allemande",
+                    "description": "When the active character is launched, press  to activate:\nOrder Drusilla and Anastella to spin forward and trigger an explosion, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Evasive Assist: Triple Meter Courante",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nDodges the enemy's attack and activates Vital View.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Quadruple Meter Gavotte",
+                    "description": "Press  after an Evasive Assist to activate:\nOrder Drusilla and Anastella to push forward and generate an electrical vortex, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Duple Meter Allemande",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1211019, Prop:1001}",
+                            "params": {
+                                "1211019": {
+                                    "main": 12260,
+                                    "growth": 1120,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1211019, Prop:1002}",
+                            "params": {
+                                "1211019": {
+                                    "main": 12260,
+                                    "growth": 560,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Quadruple Meter Gavotte",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1211021, Prop:1001}",
+                            "params": {
+                                "1211021": {
+                                    "main": 34940,
+                                    "growth": 3180,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1211021, Prop:1002}",
+                            "params": {
+                                "1211021": {
+                                    "main": 30360,
+                                    "growth": 1380,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1211501,
+                "names": [
+                    "Core Passive: Mini Destruction Partner",
+                    "Additional Ability: Banquet of Perfection"
+                ],
+                "descriptions": [
+                    "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + 6%, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
+                    "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of Shock inflicted on enemies by any character by 3s. When Shocked enemies are on the field, all squad members' Electric DMG increases by 10%."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1211502,
+                "names": [
+                    "Core Passive: Mini Destruction Partner",
+                    "Additional Ability: Banquet of Perfection"
+                ],
+                "descriptions": [
+                    "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + 7.5%, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
+                    "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of Shock inflicted on enemies by any character by 3s. When Shocked enemies are on the field, all squad members' Electric DMG increases by 10%."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1211503,
+                "names": [
+                    "Core Passive: Mini Destruction Partner",
+                    "Additional Ability: Banquet of Perfection"
+                ],
+                "descriptions": [
+                    "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + 9%, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
+                    "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of Shock inflicted on enemies by any character by 3s. When Shocked enemies are on the field, all squad members' Electric DMG increases by 10%."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1211504,
+                "names": [
+                    "Core Passive: Mini Destruction Partner",
+                    "Additional Ability: Banquet of Perfection"
+                ],
+                "descriptions": [
+                    "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + 10.2%, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
+                    "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of Shock inflicted on enemies by any character by 3s. When Shocked enemies are on the field, all squad members' Electric DMG increases by 10%."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1211505,
+                "names": [
+                    "Core Passive: Mini Destruction Partner",
+                    "Additional Ability: Banquet of Perfection"
+                ],
+                "descriptions": [
+                    "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + 10.8%, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
+                    "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of Shock inflicted on enemies by any character by 3s. When Shocked enemies are on the field, all squad members' Electric DMG increases by 10%."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1211506,
+                "names": [
+                    "Core Passive: Mini Destruction Partner",
+                    "Additional Ability: Banquet of Perfection"
+                ],
+                "descriptions": [
+                    "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + 11.4%, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
+                    "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of Shock inflicted on enemies by any character by 3s. When Shocked enemies are on the field, all squad members' Electric DMG increases by 10%."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1211507,
+                "names": [
+                    "Core Passive: Mini Destruction Partner",
+                    "Additional Ability: Banquet of Perfection"
+                ],
+                "descriptions": [
+                    "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + 12%, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
+                    "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of Shock inflicted on enemies by any character by 3s. When Shocked enemies are on the field, all squad members' Electric DMG increases by 10%."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110505,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110505,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110505,
+                    "amount": 9
+                },
+                {
+                    "id": 110003,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110505,
+                    "amount": 15
+                },
+                {
+                    "id": 110003,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110505,
+                    "amount": 30
+                },
+                {
+                    "id": 110003,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1211_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1211_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1211_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect22.webp"
+}

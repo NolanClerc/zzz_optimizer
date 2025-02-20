@@ -1,0 +1,503 @@
+{
+    "id": 54003,
+    "code_name": "Devilboo",
+    "name": "Devilboo",
+    "description": "The only thing more tempting than a devil... is Devilboo!",
+    "rarity": "A",
+    "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole14.webp",
+    "stats": {
+        "Stamina": 100.0,
+        "StaminaUpragde": 10.0,
+        "Endurance": 180.0,
+        "HpMax": 360.0,
+        "Hpupgrade": 428397.0,
+        "Attack": 53.0,
+        "AttackUpgrade": 267156.0,
+        "BreakStun": 90.0,
+        "ElementAbnormalPower": 108.0,
+        "Defence": 30.0,
+        "DefUpgrade": 85729.0,
+        "Crit": 500.0,
+        "PenRatio": 0.0,
+        "CritDmg": 5000.0
+    },
+    "ascensions": {
+        "1": {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 15000
+                },
+                {
+                    "id": 102010,
+                    "amount": 4
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "2": {
+            "max_hp": 188,
+            "attack": 49,
+            "defense": 38,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 35000
+                },
+                {
+                    "id": 102020,
+                    "amount": 12
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 450,
+                    "formatted_value": "450%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "3": {
+            "max_hp": 376,
+            "attack": 247,
+            "defense": 75,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 75000
+                },
+                {
+                    "id": 102020,
+                    "amount": 20
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 2250,
+                    "formatted_value": "2250%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "4": {
+            "max_hp": 564,
+            "attack": 741,
+            "defense": 113,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 125000
+                },
+                {
+                    "id": 102030,
+                    "amount": 10
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 2250,
+                    "formatted_value": "2250%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2500,
+                    "formatted_value": "2500%%"
+                }
+            ]
+        },
+        "5": {
+            "max_hp": 752,
+            "attack": 1976,
+            "defense": 151,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 250000
+                },
+                {
+                    "id": 102030,
+                    "amount": 20
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 4500,
+                    "formatted_value": "4500%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2500,
+                    "formatted_value": "2500%%"
+                }
+            ]
+        },
+        "6": {
+            "max_hp": 940,
+            "attack": 4941,
+            "defense": 188,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": [],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 4500,
+                    "formatted_value": "4500%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 5000,
+                    "formatted_value": "5000%%"
+                }
+            ]
+        }
+    },
+    "skills": {
+        "A": {
+            "1": {
+                "name": "Kiss of Temptation",
+                "description": "Active Skill\nEnters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5400301, Prop:1001}/3}*3|{{Skill:5400301, Prop:1002}/3}*3|30s"
+            },
+            "2": {
+                "name": "Kiss of Temptation",
+                "description": "Active Skill\nEnters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5400301, Prop:1001}/3}*3|{{Skill:5400301, Prop:1002}/3}*3|30s"
+            },
+            "3": {
+                "name": "Kiss of Temptation",
+                "description": "Active Skill\nEnters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5400301, Prop:1001}/3}*3|{{Skill:5400301, Prop:1002}/3}*3|30s"
+            },
+            "4": {
+                "name": "Kiss of Temptation",
+                "description": "Active Skill\nEnters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5400301, Prop:1001}/3}*3|{{Skill:5400301, Prop:1002}/3}*3|30s"
+            },
+            "5": {
+                "name": "Kiss of Temptation",
+                "description": "Active Skill\nEnters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5400301, Prop:1001}/3}*3|{{Skill:5400301, Prop:1002}/3}*3|30s"
+            },
+            "6": {
+                "name": "Kiss of Temptation",
+                "description": "Active Skill\nEnters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5400301, Prop:1001}/3}*3|{{Skill:5400301, Prop:1002}/3}*3|30s"
+            },
+            "7": {
+                "name": "Kiss of Temptation",
+                "description": "Active Skill\nEnters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5400301, Prop:1001}/3}*3|{{Skill:5400301, Prop:1002}/3}*3|30s"
+            },
+            "8": {
+                "name": "Kiss of Temptation",
+                "description": "Active Skill\nEnters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5400301, Prop:1001}/3}*3|{{Skill:5400301, Prop:1002}/3}*3|30s"
+            },
+            "9": {
+                "name": "Kiss of Temptation",
+                "description": "Active Skill\nEnters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5400301, Prop:1001}/3}*3|{{Skill:5400301, Prop:1002}/3}*3|30s"
+            },
+            "10": {
+                "name": "Kiss of Temptation",
+                "description": "Active Skill\nEnters the flying state, shooting homing bullets at enemies to deal Ether DMG and inflict Ether Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{{Skill:5400301, Prop:1001}/3}*3|{{Skill:5400301, Prop:1002}/3}*3|30s"
+            }
+        },
+        "B": {
+            "1": {
+                "name": "Ether Activity Increase",
+                "description": "Additional Ability\nWhen there are at least 2 Ether Attribute characters in your squad:\nBangboo Chain Attack inflicts 40% more Anomaly Buildup.\nAfter activating Bangboo Chain Attack, the coordination state lasts for 5 more seconds and can activate 4 more times.",
+                "properties": [
+                    "Anomaly Buildup Increase",
+                    "Duration Extension",
+                    "Additional Activations"
+                ],
+                "parameter": "40%|5s|4 times"
+            },
+            "2": {
+                "name": "Ether Activity Increase",
+                "description": "Additional Ability\nWhen there are at least 2 Ether Attribute characters in your squad:\nBangboo Chain Attack inflicts 50% more Anomaly Buildup.\nAfter activating Bangboo Chain Attack, the coordination state lasts for 6 more seconds and can activate 5 more times.",
+                "properties": [
+                    "Anomaly Buildup Increase",
+                    "Duration Extension",
+                    "Additional Activations"
+                ],
+                "parameter": "50%|6s|5 times"
+            },
+            "3": {
+                "name": "Ether Activity Increase",
+                "description": "Additional Ability\nWhen there are at least 2 Ether Attribute characters in your squad:\nBangboo Chain Attack inflicts 60% more Anomaly Buildup.\nAfter activating Bangboo Chain Attack, the coordination state lasts for 7 more seconds and can activate 6 more times.",
+                "properties": [
+                    "Anomaly Buildup Increase",
+                    "Duration Extension",
+                    "Additional Activations"
+                ],
+                "parameter": "60%|7s|6 times"
+            },
+            "4": {
+                "name": "Ether Activity Increase",
+                "description": "Additional Ability\nWhen there are at least 2 Ether Attribute characters in your squad:\nBangboo Chain Attack inflicts 70% more Anomaly Buildup.\nAfter activating Bangboo Chain Attack, the coordination state lasts for 8 more seconds and can activate 7 more times.",
+                "properties": [
+                    "Anomaly Buildup Increase",
+                    "Duration Extension",
+                    "Additional Activations"
+                ],
+                "parameter": "70%|8s|7 times"
+            },
+            "5": {
+                "name": "Ether Activity Increase",
+                "description": "Additional Ability\nWhen there are at least 2 Ether Attribute characters in your squad:\nBangboo Chain Attack inflicts 80% more Anomaly Buildup.\nAfter activating Bangboo Chain Attack, the coordination state lasts for 9 more seconds and can activate 8 more times.",
+                "properties": [
+                    "Anomaly Buildup Increase",
+                    "Duration Extension",
+                    "Additional Activations"
+                ],
+                "parameter": "80%|9s|8 times"
+            }
+        },
+        "C": {
+            "1": {
+                "name": "Kiss of Confusion",
+                "description": "Bangboo Chain Attack\nFires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.",
+                "properties": [
+                    "Active Attack DMG Multiplier",
+                    "Active Attack Daze Multiplier",
+                    "Coordinated Attack DMG Multiplier",
+                    "Coordinated Attack Daze Multiplier",
+                    "Coordination State Duration",
+                    "Coordinated Attack Activations"
+                ],
+                "parameter": "{Skill:5400302, Prop:1001}|{Skill:5400302, Prop:1002}|{{Skill:5400303, Prop:1001}/2}*2|{{Skill:5400303, Prop:1002}/2}*2|30s|10 Activations"
+            },
+            "2": {
+                "name": "Kiss of Confusion",
+                "description": "Bangboo Chain Attack\nFires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.",
+                "properties": [
+                    "Active Attack DMG Multiplier",
+                    "Active Attack Daze Multiplier",
+                    "Coordinated Attack DMG Multiplier",
+                    "Coordinated Attack Daze Multiplier",
+                    "Coordination State Duration",
+                    "Coordinated Attack Activations"
+                ],
+                "parameter": "{Skill:5400302, Prop:1001}|{Skill:5400302, Prop:1002}|{{Skill:5400303, Prop:1001}/2}*2|{{Skill:5400303, Prop:1002}/2}*2|30s|10 Activations"
+            },
+            "3": {
+                "name": "Kiss of Confusion",
+                "description": "Bangboo Chain Attack\nFires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.",
+                "properties": [
+                    "Active Attack DMG Multiplier",
+                    "Active Attack Daze Multiplier",
+                    "Coordinated Attack DMG Multiplier",
+                    "Coordinated Attack Daze Multiplier",
+                    "Coordination State Duration",
+                    "Coordinated Attack Activations"
+                ],
+                "parameter": "{Skill:5400302, Prop:1001}|{Skill:5400302, Prop:1002}|{{Skill:5400303, Prop:1001}/2}*2|{{Skill:5400303, Prop:1002}/2}*2|30s|10 Activations"
+            },
+            "4": {
+                "name": "Kiss of Confusion",
+                "description": "Bangboo Chain Attack\nFires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.",
+                "properties": [
+                    "Active Attack DMG Multiplier",
+                    "Active Attack Daze Multiplier",
+                    "Coordinated Attack DMG Multiplier",
+                    "Coordinated Attack Daze Multiplier",
+                    "Coordination State Duration",
+                    "Coordinated Attack Activations"
+                ],
+                "parameter": "{Skill:5400302, Prop:1001}|{Skill:5400302, Prop:1002}|{{Skill:5400303, Prop:1001}/2}*2|{{Skill:5400303, Prop:1002}/2}*2|30s|10 Activations"
+            },
+            "5": {
+                "name": "Kiss of Confusion",
+                "description": "Bangboo Chain Attack\nFires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.",
+                "properties": [
+                    "Active Attack DMG Multiplier",
+                    "Active Attack Daze Multiplier",
+                    "Coordinated Attack DMG Multiplier",
+                    "Coordinated Attack Daze Multiplier",
+                    "Coordination State Duration",
+                    "Coordinated Attack Activations"
+                ],
+                "parameter": "{Skill:5400302, Prop:1001}|{Skill:5400302, Prop:1002}|{{Skill:5400303, Prop:1001}/2}*2|{{Skill:5400303, Prop:1002}/2}*2|30s|10 Activations"
+            },
+            "6": {
+                "name": "Kiss of Confusion",
+                "description": "Bangboo Chain Attack\nFires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.",
+                "properties": [
+                    "Active Attack DMG Multiplier",
+                    "Active Attack Daze Multiplier",
+                    "Coordinated Attack DMG Multiplier",
+                    "Coordinated Attack Daze Multiplier",
+                    "Coordination State Duration",
+                    "Coordinated Attack Activations"
+                ],
+                "parameter": "{Skill:5400302, Prop:1001}|{Skill:5400302, Prop:1002}|{{Skill:5400303, Prop:1001}/2}*2|{{Skill:5400303, Prop:1002}/2}*2|30s|10 Activations"
+            },
+            "7": {
+                "name": "Kiss of Confusion",
+                "description": "Bangboo Chain Attack\nFires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.",
+                "properties": [
+                    "Active Attack DMG Multiplier",
+                    "Active Attack Daze Multiplier",
+                    "Coordinated Attack DMG Multiplier",
+                    "Coordinated Attack Daze Multiplier",
+                    "Coordination State Duration",
+                    "Coordinated Attack Activations"
+                ],
+                "parameter": "{Skill:5400302, Prop:1001}|{Skill:5400302, Prop:1002}|{{Skill:5400303, Prop:1001}/2}*2|{{Skill:5400303, Prop:1002}/2}*2|30s|10 Activations"
+            },
+            "8": {
+                "name": "Kiss of Confusion",
+                "description": "Bangboo Chain Attack\nFires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.",
+                "properties": [
+                    "Active Attack DMG Multiplier",
+                    "Active Attack Daze Multiplier",
+                    "Coordinated Attack DMG Multiplier",
+                    "Coordinated Attack Daze Multiplier",
+                    "Coordination State Duration",
+                    "Coordinated Attack Activations"
+                ],
+                "parameter": "{Skill:5400302, Prop:1001}|{Skill:5400302, Prop:1002}|{{Skill:5400303, Prop:1001}/2}*2|{{Skill:5400303, Prop:1002}/2}*2|30s|10 Activations"
+            },
+            "9": {
+                "name": "Kiss of Confusion",
+                "description": "Bangboo Chain Attack\nFires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.",
+                "properties": [
+                    "Active Attack DMG Multiplier",
+                    "Active Attack Daze Multiplier",
+                    "Coordinated Attack DMG Multiplier",
+                    "Coordinated Attack Daze Multiplier",
+                    "Coordination State Duration",
+                    "Coordinated Attack Activations"
+                ],
+                "parameter": "{Skill:5400302, Prop:1001}|{Skill:5400302, Prop:1002}|{{Skill:5400303, Prop:1001}/2}*2|{{Skill:5400303, Prop:1002}/2}*2|30s|10 Activations"
+            },
+            "10": {
+                "name": "Kiss of Confusion",
+                "description": "Bangboo Chain Attack\nFires a laser at the target and then enters the coordination state. Under this state, fires homing bullets in coordination with the on-field character's attacks, dealing Ether DMG and inflicting Ether Anomaly Buildup for up to 30s or 10 activations.",
+                "properties": [
+                    "Active Attack DMG Multiplier",
+                    "Active Attack Daze Multiplier",
+                    "Coordinated Attack DMG Multiplier",
+                    "Coordinated Attack Daze Multiplier",
+                    "Coordination State Duration",
+                    "Coordinated Attack Activations"
+                ],
+                "parameter": "{Skill:5400302, Prop:1001}|{Skill:5400302, Prop:1002}|{{Skill:5400303, Prop:1001}/2}*2|{{Skill:5400303, Prop:1002}/2}*2|30s|10 Activations"
+            }
+        }
+    }
+}

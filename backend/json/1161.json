@@ -1,0 +1,1806 @@
+{
+    "id": 1161,
+    "image": "https://api.hakush.in/zzz/UI/IconRole26.webp",
+    "name": "Lighter",
+    "code_name": "Lighter",
+    "rarity": "S",
+    "specialty": {
+        "id": 2,
+        "name": "Stun"
+    },
+    "element": {
+        "id": 201,
+        "name": "Fire"
+    },
+    "attack_type": {
+        "id": 102,
+        "name": "Strike"
+    },
+    "faction": {
+        "id": 4,
+        "name": "Sons of Calydon"
+    },
+    "gender": "M",
+    "info": {
+        "birthday": "DEC 27",
+        "full_name": "Lighter",
+        "gender": "Male",
+        "female_impression": "Didn't Lighter say that he'd faint at the sight of blood? And that's why he always keeps his shades on?\nCan someone who faints at the sight of blood really be a Champion? And even fight underground boxing matches...?",
+        "male_impression": "This feels like a poorly crafted excuse...",
+        "outlook_desc": "New Eridu Citizen Verification Profile:\nLighter, possessing good Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: There is a mental health counselling report among Lighter's records.",
+        "profile_desc": "Lighter, the Champion of the Sons of Calydon and an ex-mercenary.\nIn the Outer Ring, the Champion of a team refers to the one responsible for dealing with the opponent's strongest fighter in a gang fight, and they often need to participate in one-on-one duels. Their victory is crucial, as it brings glory and morale to the entire team.\n\"The Champion can perish, but cannot lose.\"\n\nA red scarf is what identifies the Champion of the Sons of Calydon.\nEven if the opponent doesn't know Lighter, they'll know who he is just from seeing that red scarf.\n\nFrom what is currently known, Lighter is actually very low profile. He only steals the spotlight on the battlefield when he acts on his obligations as Champion.\nNote: Lighter is the second Red Scarf of the Sons of Calydon. He teasingly refers to the previous Red Scarf as \"Brother\" or \"predecessor.\"",
+        "faction": "Sons of Calydon",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 109.0,
+        "AttackGrowth": 63891.0,
+        "AvatarPieceId": 5161.0,
+        "BreakStun": 119.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66882.0,
+        "ElementAbnormalPower": 91.0,
+        "ElementMystery": 90.0,
+        "Endurance": 0.0,
+        "HpGrowth": 918185.0,
+        "HpMax": 677.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "The Champion",
+            "description": "Among the debuffs imposed by Core Passive: Accelerant, the Collapse effect increases Stun duration by 5s, while further reducing Ice RES and Fire RES by 10%. The more powerful Finishing Move that follows when Lighter's Morale is completely exhausted during a startup light punch or jab combo deals 30% increased DMG.",
+            "description2": "Victory for the champion is crucial. By facing off against the strongest fighter from the opposing side, he eliminates the threat to his leader — bringing an immense morale uplift to the team.\nFor him, only victory deserves recognition.\n\"The Champion cannot be defeated.\""
+        },
+        {
+            "level": 2,
+            "name": "Red Scarf",
+            "description": "When applying Collapse via Core Passive: Accelerant to enemies, the target's Stun DMG Multiplier increases by 25%. The increase to Ice DMG and Fire DMG provided by Elation from Additional Ability: Fighting Spirit increases to 120% of the original.",
+            "description2": "As the \"Red Scarf\" of the Sons of Calydon, Lighter is quite famous in the Outer Ring, and not just because of his fists, but also due to... his unique way of speaking.\n\"I enjoy taking it easy... but you wouldn't manage without me, would you?\""
+        },
+        {
+            "level": 3,
+            "name": "Mercenary Leader",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"I'm probably the last person anyone should pick as their leader.\""
+        },
+        {
+            "level": 4,
+            "name": "Sunglasses",
+            "description": "When Lighter is off-field, the Energy Regen for the on-field character is increased by 10%. Upon entering the Morale Burst state, Lighter restores 4 Energy for off-field characters. This effect can trigger once every 18s.",
+            "description2": "\"You're asking why I wear sunglasses? Uh... it's because I get queasy at the sight of blood, I guess.\""
+        },
+        {
+            "level": 5,
+            "name": "Decision Maker",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"Give me an order, and I'll carry it out. It's that simple.\"\nLighter adjusted his sunglasses with a carefree smile.\n\"Just don't put me in charge of making decisions.\""
+        },
+        {
+            "level": 6,
+            "name": "Survivor",
+            "description": "Lighter's Morale recovery efficiency is increased to 200% of its original value. When Lighter lands a heavy strike on enemies during a Basic Attack, Dodge Counter, Special Attack, EX Special Attack, Quick Assist, Assist Follow-Up, Chain Attack, or Ultimate, it will trigger the Blazing Impact effect, dealing 250% of ATK as Fire DMG. This effect can trigger once every 8s on each enemy. If Lighter's Impact exceeds 170 points, each additional point will further increase the multiplier of Blazing Impact by 5%, up to a maximum increase of 500%. The more powerful Finishing Move that follows when Lighter's Morale is completely exhausted during a light punch or jab combo will trigger an additional activation of Blazing Impact when hitting an enemy, ignoring the effect's cooldown.",
+            "description2": "If given the chance to do it all over again, he would never opt to be the only survivor.\nUnfortunately, fate is rarely a choice."
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100212,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 432,
+            "attack": 47,
+            "defense": 34,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100222,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 864,
+            "attack": 95,
+            "defense": 68,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100222,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1296,
+            "attack": 142,
+            "defense": 101,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100232,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1727,
+            "attack": 190,
+            "defense": 135,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100232,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2159,
+            "attack": 237,
+            "defense": 169,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 6,
+                    "formatted_value": "6"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 6,
+                    "formatted_value": "6"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 18,
+                    "formatted_value": "18"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 18,
+                    "formatted_value": "18"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: L-Form Thundering Fist",
+                    "description": "Press or hold  to activate:\nPerform up to five forward strikes, dealing Physical DMG and Fire DMG.\nDuring the 3rd hit of the Basic Attack, drag the stick/joystick, and repeatedly press or hold  to unleash a series of melee follow-up attacks. Release the stick/joystick to follow up with the 4th hit of the Basic Attack.\nWhile performing the startup light punch in the 5th hit of the Basic Attack, drag the stick/joystick and repeatedly press or hold  to keep alternating between the light punch and 4th hit of the Basic Attack. Release the stick/joystick to follow up with the subsequent jab combo.\nContinue repeatedly pressing or holding  to extend the duration of the jab combo.\nWhen you stop pressing or holding , or when the combo reaches its maximum duration, launches a Finishing Move forward. Lighter is invulnerable during the Finishing Move.\nDuring the 5th hit of the Basic Attack, Lighter takes 40% less DMG.\nWhile in the Morale Burst state, Anti-Interrupt Level is increased during the 5th hit of his Basic Attack, and the DMG reduction effect is increased to 80%.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: L-Form Thundering Fist",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1161001, Prop:1001}",
+                            "params": {
+                                "1161001": {
+                                    "main": 3920,
+                                    "growth": 360,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1161002, Prop:1001}",
+                            "params": {
+                                "1161002": {
+                                    "main": 4800,
+                                    "growth": 440,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1161003, Prop:1001}",
+                            "params": {
+                                "1161003": {
+                                    "main": 5530,
+                                    "growth": 510,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up 1st-Hit DMG Multiplier",
+                            "description": "{Skill:1161004, Prop:1001}",
+                            "params": {
+                                "1161004": {
+                                    "main": 8690,
+                                    "growth": 790,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up 2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1161005, Prop:1001}",
+                            "params": {
+                                "1161005": {
+                                    "main": 4770,
+                                    "growth": 440,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up 3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1161006, Prop:1001}",
+                            "params": {
+                                "1161006": {
+                                    "main": 5810,
+                                    "growth": 530,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up 4th-Hit DMG Multiplier",
+                            "description": "{Skill:1161007, Prop:1001}",
+                            "params": {
+                                "1161007": {
+                                    "main": 3280,
+                                    "growth": 300,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up 5th-Hit DMG Multiplier",
+                            "description": "{Skill:1161008, Prop:1001}",
+                            "params": {
+                                "1161008": {
+                                    "main": 8900,
+                                    "growth": 810,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1161009, Prop:1001}",
+                            "params": {
+                                "1161009": {
+                                    "main": 7890,
+                                    "growth": 720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Startup DMG Multiplier",
+                            "description": "{Skill:1161010, Prop:1001}",
+                            "params": {
+                                "1161010": {
+                                    "main": 16360,
+                                    "growth": 1490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Combo DMG Multiplier",
+                            "description": "{Skill:1161011, Prop:1001}",
+                            "params": {
+                                "1161011": {
+                                    "main": 12290,
+                                    "growth": 1120,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Finisher DMG Multiplier",
+                            "description": "{Skill:1161012, Prop:1001}",
+                            "params": {
+                                "1161012": {
+                                    "main": 10460,
+                                    "growth": 960,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Startup DMG Multiplier (Morale Burst)",
+                            "description": "{Skill:1161026, Prop:1001}",
+                            "params": {
+                                "1161026": {
+                                    "main": 17720,
+                                    "growth": 1620,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Combo DMG Multiplier (Morale Burst)",
+                            "description": "{Skill:1161027, Prop:1001}",
+                            "params": {
+                                "1161027": {
+                                    "main": 36430,
+                                    "growth": 3320,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Finisher DMG Multiplier (Morale Burst)",
+                            "description": "{Skill:1161028, Prop:1001}",
+                            "params": {
+                                "1161028": {
+                                    "main": 11970,
+                                    "growth": 1090,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Powerful Finisher DMG Multiplier (Morale Burst)",
+                            "description": "{Skill:1161025, Prop:1001}",
+                            "params": {
+                                "1161025": {
+                                    "main": 43540,
+                                    "growth": 3960,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1161001, Prop:1002}",
+                            "params": {
+                                "1161001": {
+                                    "main": 1960,
+                                    "growth": 90,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1161002, Prop:1002}",
+                            "params": {
+                                "1161002": {
+                                    "main": 3290,
+                                    "growth": 150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1161003, Prop:1002}",
+                            "params": {
+                                "1161003": {
+                                    "main": 4670,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up 1st-Hit Daze Multiplier",
+                            "description": "{Skill:1161004, Prop:1002}",
+                            "params": {
+                                "1161004": {
+                                    "main": 6050,
+                                    "growth": 280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up 2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1161005, Prop:1002}",
+                            "params": {
+                                "1161005": {
+                                    "main": 3320,
+                                    "growth": 160,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up 3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1161006, Prop:1002}",
+                            "params": {
+                                "1161006": {
+                                    "main": 4040,
+                                    "growth": 190,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up 4th-Hit Daze Multiplier",
+                            "description": "{Skill:1161007, Prop:1002}",
+                            "params": {
+                                "1161007": {
+                                    "main": 2280,
+                                    "growth": 110,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up 5th-Hit Daze Multiplier",
+                            "description": "{Skill:1161008, Prop:1002}",
+                            "params": {
+                                "1161008": {
+                                    "main": 6190,
+                                    "growth": 290,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1161009, Prop:1002}",
+                            "params": {
+                                "1161009": {
+                                    "main": 7610,
+                                    "growth": 350,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Startup Daze Multiplier",
+                            "description": "{Skill:1161010, Prop:1002}",
+                            "params": {
+                                "1161010": {
+                                    "main": 12950,
+                                    "growth": 590,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Combo Daze Multiplier",
+                            "description": "{Skill:1161011, Prop:1002}",
+                            "params": {
+                                "1161011": {
+                                    "main": 8130,
+                                    "growth": 370,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Finisher Daze Multiplier",
+                            "description": "{Skill:1161012, Prop:1002}",
+                            "params": {
+                                "1161012": {
+                                    "main": 7950,
+                                    "growth": 370,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Startup Daze Multiplier (Morale Burst)",
+                            "description": "{Skill:1161026, Prop:1002}",
+                            "params": {
+                                "1161026": {
+                                    "main": 13630,
+                                    "growth": 620,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Combo Daze Multiplier (Morale Burst)",
+                            "description": "{Skill:1161027, Prop:1002}",
+                            "params": {
+                                "1161027": {
+                                    "main": 8550,
+                                    "growth": 390,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Finisher Daze Multiplier (Morale Burst)",
+                            "description": "{Skill:1161028, Prop:1002}",
+                            "params": {
+                                "1161028": {
+                                    "main": 9210,
+                                    "growth": 420,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Powerful Finisher Daze Multiplier (Morale Burst)",
+                            "description": "{Skill:1161025, Prop:1002}",
+                            "params": {
+                                "1161025": {
+                                    "main": 13240,
+                                    "growth": 610,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Shadowed Slide",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.\nPress  while the character is attacking to activate:\nPerform a quick shuffle dodge in the direction of the stick/Joystick.\nThis skill will not interrupt the combo count for Basic Attacks.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Charging Slam",
+                    "description": "Press  during a dodge to activate:\nRapidly strikes enemies in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Blazing Flash",
+                    "description": "Press  during a Perfect Dodge to activate:\nStrike enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using the skill, press or hold  to immediately follow up with the 5th hit of the Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Charging Slam",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1161016, Prop:1001}",
+                            "params": {
+                                "1161016": {
+                                    "main": 8990,
+                                    "growth": 820,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1161016, Prop:1002}",
+                            "params": {
+                                "1161016": {
+                                    "main": 4500,
+                                    "growth": 210,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Blazing Flash",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1161017, Prop:1001}",
+                            "params": {
+                                "1161017": {
+                                    "main": 18630,
+                                    "growth": 1700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1161017, Prop:1002}",
+                            "params": {
+                                "1161017": {
+                                    "main": 16870,
+                                    "growth": 770,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: V-Form Sunrise Uppercut",
+                    "description": "Press  to activate:\nStrikes enemies in front with an uppercut, dealing Fire DMG.\nAnti-Interrupt level is increased while using this skill.\nPress  during a shuffle dodge to activate:\nStrike forward with a series of punches, dealing Fire DMG.\nThis skill will not interrupt the combo count for Basic Attacks.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: V-Form Sunrise Uppercut - Full Distance",
+                    "description": "With enough Energy, press  to activate:\nLeaps into the air with a powerful uppercut, striking enemies in front and dealing massive Fire DMG.\nPress  again during this skill to spend additional Energy to perform a powerful follow-up attack, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold  to follow up with the 4th hit of the Basic Attack.\nWith enough Energy, press  during the shuffle dodge to activate:\nStrike forward with a powerful punch combo, dealing massive Fire DMG.\nThis skill will not interrupt the combo count for Basic Attacks.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold  to immediately follow up with the 5th hit of the Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: V-Form Sunrise Uppercut",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1161013, Prop:1001}",
+                            "params": {
+                                "1161013": {
+                                    "main": 3630,
+                                    "growth": 330,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1161013, Prop:1002}",
+                            "params": {
+                                "1161013": {
+                                    "main": 3630,
+                                    "growth": 170,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: V-Form Sunrise Uppercut - Full Distance",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1161014, Prop:1001}",
+                            "params": {
+                                "1161014": {
+                                    "main": 48630,
+                                    "growth": 4430,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up DMG Multiplier",
+                            "description": "{Skill:1161015, Prop:1001}",
+                            "params": {
+                                "1161015": {
+                                    "main": 29270,
+                                    "growth": 2670,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1161014, Prop:1002}",
+                            "params": {
+                                "1161014": {
+                                    "main": 40350,
+                                    "growth": 1840,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up Daze Multiplier",
+                            "description": "{Skill:1161015, Prop:1002}",
+                            "params": {
+                                "1161015": {
+                                    "main": 24770,
+                                    "growth": 1130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Activation Energy Cost",
+                            "description": "40",
+                            "params": null
+                        },
+                        {
+                            "name": "Follow-Up Energy Cost",
+                            "description": "20",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: V-Form Scorching Sun",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful strike at enemies in front in a small area, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: W-Form Crowned Inferno",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes a powerful strike in a large area around, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: V-Form Scorching Sun",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1161018, Prop:1001}",
+                            "params": {
+                                "1161018": {
+                                    "main": 71210,
+                                    "growth": 6480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1161018, Prop:1002}",
+                            "params": {
+                                "1161018": {
+                                    "main": 27320,
+                                    "growth": 1250,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: W-Form Crowned Inferno",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1161019, Prop:1001}",
+                            "params": {
+                                "1161019": {
+                                    "main": 150800,
+                                    "growth": 13710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1161019, Prop:1002}",
+                            "params": {
+                                "1161019": {
+                                    "main": 94740,
+                                    "growth": 4310,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Blazing Flash - Guard",
+                    "description": "When the active character is launched, press  to activate:\nStrike enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using the skill, press or hold  to immediately follow up with the 5th hit of the Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Swift Break",
+                    "description": "When the on-field character is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Charging Slam - Stab",
+                    "description": "Press  after a Defensive Assist to activate:\nStrike enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold  to immediately follow up with the 5th hit of the Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Blazing Flash - Guard",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1161020, Prop:1001}",
+                            "params": {
+                                "1161020": {
+                                    "main": 6970,
+                                    "growth": 640,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1161020, Prop:1002}",
+                            "params": {
+                                "1161020": {
+                                    "main": 6970,
+                                    "growth": 320,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Swift Break",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1161021, Prop:1002}",
+                            "params": {
+                                "1161021": {
+                                    "main": 27130,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1161022, Prop:1002}",
+                            "params": {
+                                "1161022": {
+                                    "main": 34280,
+                                    "growth": 1560,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1161023, Prop:1002}",
+                            "params": {
+                                "1161023": {
+                                    "main": 16680,
+                                    "growth": 760,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Charging Slam - Stab",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1161024, Prop:1001}",
+                            "params": {
+                                "1161024": {
+                                    "main": 21980,
+                                    "growth": 2000,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1161024, Prop:1002}",
+                            "params": {
+                                "1161024": {
+                                    "main": 18230,
+                                    "growth": 830,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1161501,
+                "names": [
+                    "Core Passive: Accelerant",
+                    "Additional Ability: Fighting Spirit"
+                ],
+                "descriptions": [
+                    "Lighter automatically gains Morale over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 Morale, up to a maximum of 100. When Morale reaches 80, the next time Lighter switches into battle he immediately launches a Quick Assist. Once Morale is 80 or higher, executing the 5th hit of his Basic Attack puts Lighter in the Morale Burst state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his Basic Attack. When a skill hits an enemy with its power increased, it will continuously consume Morale. With every 10 points of Morale consumed, Lighter's Impact increases by 1%, up to a maximum increase of 10%, and lasting 6s.\nIn the Morale Burst state, Lighter will no longer automatically gain Morale over time. If his Morale is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the Morale Burst state, when startup light punches or jab combos hit enemies, the target's Ice RES and Fire RES are reduced by 15%, lasting 30s.\nIn the Morale Burst state, when the Finishing Move hits an enemy, it applies the Collapse effect on the target, extending its Stunned duration by 3s. The Collapse effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his Basic Attack hits an enemy, when he switches off field, or when his Morale runs out, Lighter will leave the Morale Burst state, keeping any unspent Morale.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nWhile under the Morale Burst state, when the 5th hit of Lighter's Basic Attack hits an enemy, all squad members gain a stack of Elation, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of Elation, an Agent's Ice DMG and Fire DMG increase by 1.25%.\nWhen obtaining Elation, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of Elation by an extra 0.25%. When any squad member launches a Chain Attack, it will refresh the duration of all squad members' Elation. Elation can increase the Ice DMG and Fire DMG of Agents by a maximum of 75%."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1161502,
+                "names": [
+                    "Core Passive: Accelerant",
+                    "Additional Ability: Fighting Spirit"
+                ],
+                "descriptions": [
+                    "Lighter automatically gains Morale over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 Morale, up to a maximum of 100. When Morale reaches 80, the next time Lighter switches into battle he immediately launches a Quick Assist. Once Morale is 80 or higher, executing the 5th hit of his Basic Attack puts Lighter in the Morale Burst state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his Basic Attack. When a skill hits an enemy with its power increased, it will continuously consume Morale. With every 10 points of Morale consumed, Lighter's Impact increases by 1.17%, up to a maximum increase of 11.7%, and lasting 6s.\nIn the Morale Burst state, Lighter will no longer automatically gain Morale over time. If his Morale is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the Morale Burst state, when startup light punches or jab combos hit enemies, the target's Ice RES and Fire RES are reduced by 15%, lasting 30s.\nIn the Morale Burst state, when the Finishing Move hits an enemy, it applies the Collapse effect on the target, extending its Stunned duration by 3s. The Collapse effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his Basic Attack hits an enemy, when he switches off field, or when his Morale runs out, Lighter will leave the Morale Burst state, keeping any unspent Morale.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nWhile under the Morale Burst state, when the 5th hit of Lighter's Basic Attack hits an enemy, all squad members gain a stack of Elation, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of Elation, an Agent's Ice DMG and Fire DMG increase by 1.25%.\nWhen obtaining Elation, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of Elation by an extra 0.25%. When any squad member launches a Chain Attack, it will refresh the duration of all squad members' Elation. Elation can increase the Ice DMG and Fire DMG of Agents by a maximum of 75%."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1161503,
+                "names": [
+                    "Core Passive: Accelerant",
+                    "Additional Ability: Fighting Spirit"
+                ],
+                "descriptions": [
+                    "Lighter automatically gains Morale over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 Morale, up to a maximum of 100. When Morale reaches 80, the next time Lighter switches into battle he immediately launches a Quick Assist. Once Morale is 80 or higher, executing the 5th hit of his Basic Attack puts Lighter in the Morale Burst state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his Basic Attack. When a skill hits an enemy with its power increased, it will continuously consume Morale. With every 10 points of Morale consumed, Lighter's Impact increases by 1.33%, up to a maximum increase of 13.3%, and lasting 6s.\nIn the Morale Burst state, Lighter will no longer automatically gain Morale over time. If his Morale is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the Morale Burst state, when startup light punches or jab combos hit enemies, the target's Ice RES and Fire RES are reduced by 15%, lasting 30s.\nIn the Morale Burst state, when the Finishing Move hits an enemy, it applies the Collapse effect on the target, extending its Stunned duration by 3s. The Collapse effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his Basic Attack hits an enemy, when he switches off field, or when his Morale runs out, Lighter will leave the Morale Burst state, keeping any unspent Morale.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nWhile under the Morale Burst state, when the 5th hit of Lighter's Basic Attack hits an enemy, all squad members gain a stack of Elation, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of Elation, an Agent's Ice DMG and Fire DMG increase by 1.25%.\nWhen obtaining Elation, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of Elation by an extra 0.25%. When any squad member launches a Chain Attack, it will refresh the duration of all squad members' Elation. Elation can increase the Ice DMG and Fire DMG of Agents by a maximum of 75%."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1161504,
+                "names": [
+                    "Core Passive: Accelerant",
+                    "Additional Ability: Fighting Spirit"
+                ],
+                "descriptions": [
+                    "Lighter automatically gains Morale over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 Morale, up to a maximum of 100. When Morale reaches 80, the next time Lighter switches into battle he immediately launches a Quick Assist. Once Morale is 80 or higher, executing the 5th hit of his Basic Attack puts Lighter in the Morale Burst state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his Basic Attack. When a skill hits an enemy with its power increased, it will continuously consume Morale. With every 10 points of Morale consumed, Lighter's Impact increases by 1.5%, up to a maximum increase of 15%, and lasting 6s.\nIn the Morale Burst state, Lighter will no longer automatically gain Morale over time. If his Morale is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the Morale Burst state, when startup light punches or jab combos hit enemies, the target's Ice RES and Fire RES are reduced by 15%, lasting 30s.\nIn the Morale Burst state, when the Finishing Move hits an enemy, it applies the Collapse effect on the target, extending its Stunned duration by 3s. The Collapse effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his Basic Attack hits an enemy, when he switches off field, or when his Morale runs out, Lighter will leave the Morale Burst state, keeping any unspent Morale.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nWhile under the Morale Burst state, when the 5th hit of Lighter's Basic Attack hits an enemy, all squad members gain a stack of Elation, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of Elation, an Agent's Ice DMG and Fire DMG increase by 1.25%.\nWhen obtaining Elation, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of Elation by an extra 0.25%. When any squad member launches a Chain Attack, it will refresh the duration of all squad members' Elation. Elation can increase the Ice DMG and Fire DMG of Agents by a maximum of 75%."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1161505,
+                "names": [
+                    "Core Passive: Accelerant",
+                    "Additional Ability: Fighting Spirit"
+                ],
+                "descriptions": [
+                    "Lighter automatically gains Morale over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 Morale, up to a maximum of 100. When Morale reaches 80, the next time Lighter switches into battle he immediately launches a Quick Assist. Once Morale is 80 or higher, executing the 5th hit of his Basic Attack puts Lighter in the Morale Burst state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his Basic Attack. When a skill hits an enemy with its power increased, it will continuously consume Morale. With every 10 points of Morale consumed, Lighter's Impact increases by 1.67%, up to a maximum increase of 16.7%, and lasting 6s.\nIn the Morale Burst state, Lighter will no longer automatically gain Morale over time. If his Morale is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the Morale Burst state, when startup light punches or jab combos hit enemies, the target's Ice RES and Fire RES are reduced by 15%, lasting 30s.\nIn the Morale Burst state, when the Finishing Move hits an enemy, it applies the Collapse effect on the target, extending its Stunned duration by 3s. The Collapse effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his Basic Attack hits an enemy, when he switches off field, or when his Morale runs out, Lighter will leave the Morale Burst state, keeping any unspent Morale.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nWhile under the Morale Burst state, when the 5th hit of Lighter's Basic Attack hits an enemy, all squad members gain a stack of Elation, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of Elation, an Agent's Ice DMG and Fire DMG increase by 1.25%.\nWhen obtaining Elation, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of Elation by an extra 0.25%. When any squad member launches a Chain Attack, it will refresh the duration of all squad members' Elation. Elation can increase the Ice DMG and Fire DMG of Agents by a maximum of 75%."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1161506,
+                "names": [
+                    "Core Passive: Accelerant",
+                    "Additional Ability: Fighting Spirit"
+                ],
+                "descriptions": [
+                    "Lighter automatically gains Morale over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 Morale, up to a maximum of 100. When Morale reaches 80, the next time Lighter switches into battle he immediately launches a Quick Assist. Once Morale is 80 or higher, executing the 5th hit of his Basic Attack puts Lighter in the Morale Burst state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his Basic Attack. When a skill hits an enemy with its power increased, it will continuously consume Morale. With every 10 points of Morale consumed, Lighter's Impact increases by 1.83%, up to a maximum increase of 18.3%, and lasting 6s.\nIn the Morale Burst state, Lighter will no longer automatically gain Morale over time. If his Morale is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the Morale Burst state, when startup light punches or jab combos hit enemies, the target's Ice RES and Fire RES are reduced by 15%, lasting 30s.\nIn the Morale Burst state, when the Finishing Move hits an enemy, it applies the Collapse effect on the target, extending its Stunned duration by 3s. The Collapse effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his Basic Attack hits an enemy, when he switches off field, or when his Morale runs out, Lighter will leave the Morale Burst state, keeping any unspent Morale.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nWhile under the Morale Burst state, when the 5th hit of Lighter's Basic Attack hits an enemy, all squad members gain a stack of Elation, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of Elation, an Agent's Ice DMG and Fire DMG increase by 1.25%.\nWhen obtaining Elation, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of Elation by an extra 0.25%. When any squad member launches a Chain Attack, it will refresh the duration of all squad members' Elation. Elation can increase the Ice DMG and Fire DMG of Agents by a maximum of 75%."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1161507,
+                "names": [
+                    "Core Passive: Accelerant",
+                    "Additional Ability: Fighting Spirit"
+                ],
+                "descriptions": [
+                    "Lighter automatically gains Morale over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 Morale, up to a maximum of 100. When Morale reaches 80, the next time Lighter switches into battle he immediately launches a Quick Assist. Once Morale is 80 or higher, executing the 5th hit of his Basic Attack puts Lighter in the Morale Burst state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his Basic Attack. When a skill hits an enemy with its power increased, it will continuously consume Morale. With every 10 points of Morale consumed, Lighter's Impact increases by 2%, up to a maximum increase of 20%, and lasting 6s.\nIn the Morale Burst state, Lighter will no longer automatically gain Morale over time. If his Morale is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the Morale Burst state, when startup light punches or jab combos hit enemies, the target's Ice RES and Fire RES are reduced by 15%, lasting 30s.\nIn the Morale Burst state, when the Finishing Move hits an enemy, it applies the Collapse effect on the target, extending its Stunned duration by 3s. The Collapse effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his Basic Attack hits an enemy, when he switches off field, or when his Morale runs out, Lighter will leave the Morale Burst state, keeping any unspent Morale.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nWhile under the Morale Burst state, when the 5th hit of Lighter's Basic Attack hits an enemy, all squad members gain a stack of Elation, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of Elation, an Agent's Ice DMG and Fire DMG increase by 1.25%.\nWhen obtaining Elation, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of Elation by an extra 0.25%. When any squad member launches a Chain Attack, it will refresh the duration of all squad members' Elation. Elation can increase the Ice DMG and Fire DMG of Agents by a maximum of 75%."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110502,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110502,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110502,
+                    "amount": 9
+                },
+                {
+                    "id": 110004,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110502,
+                    "amount": 15
+                },
+                {
+                    "id": 110004,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110502,
+                    "amount": 30
+                },
+                {
+                    "id": 110004,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1161_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1161_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1161_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect26.webp"
+}

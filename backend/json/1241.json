@@ -1,0 +1,1697 @@
+{
+    "id": 1241,
+    "image": "https://api.hakush.in/zzz/UI/IconRole23.webp",
+    "name": "Zhu Yuan",
+    "code_name": "Zhu Yuan",
+    "rarity": "S",
+    "specialty": {
+        "id": 1,
+        "name": "Attack"
+    },
+    "element": {
+        "id": 205,
+        "name": "Ether"
+    },
+    "attack_type": {
+        "id": 103,
+        "name": "Pierce"
+    },
+    "faction": {
+        "id": 7,
+        "name": "Criminal Investigation Special Response Team"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "SEP 1",
+        "full_name": "Zhu Yuan",
+        "gender": "Female",
+        "female_impression": "An exemplary human. We've been dealing with such an opponent for so long. Aren't we amazing?",
+        "male_impression": "That's because it's me + you + Fairy. I wouldn't wanna know the outcome if it was one on one...",
+        "outlook_desc": "Hollow Investigation Association Licensing Archive—\nPublic Security Officer: Zhu Yuan. Ether aptitude confidential. Licensed for investigation, exploration, and other basic work in known Hollows (including Companion Hollows) in the city.\nNote: Zhu Yuan's file belongs to the New Eridu Public Security Janus Quarter Metropolitan Order Division Criminal Investigation Special Response Team. The relevant information can be obtained within the Public Security system, requiring special access permissions.\nFurther Note: Zhu Yuan has excellent Ether aptitude.",
+        "profile_desc": "Zhu Yuan, an exceptional officer at Public Security, is a highly skilled individual expected to become the next commissioner. She currently leads the Criminal Investigation Special Response Team at the Janus Precinct within the Metropolitan Order Division. Her team members include Qingyi, Seth, and [redacted].\nNote: For documents with higher security levels within the Public Security system, further investigation is required; scheduling priority - low.\n\nZhu Yuan possesses excellent skills in criminal investigation, combat, and self-management (including working overtime). She has no unresolved cases on record.\nSuggestion: Approaching Zhu Yuan is an ill-advised decision that may compromise your cover. Always remember your true identity as a Proxy. Remember your true identity as a Proxy. Remember your true identity as a Proxy.",
+        "faction": "Sixth Street",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission",
+            "Complete Main Commission Chapter 2 Interlude"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 132.0,
+        "AttackGrowth": 80729.0,
+        "AvatarPieceId": 5241.0,
+        "BreakStun": 90.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 48.0,
+        "DefenceGrowth": 65524.0,
+        "ElementAbnormalPower": 93.0,
+        "ElementMystery": 92.0,
+        "Endurance": 0.0,
+        "HpGrowth": 816391.0,
+        "HpMax": 602.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Quick Reload",
+            "description": "When Zhu Yuan activates Chain Attacks/Ultimates, gain the Quick Reload effect. When Zhu Yuan has the Quick Reload effect and uses up all Enhanced Shotshells, the Quick Reload effect will be consumed to instantly gain 6/9 Enhanced Shotshells.",
+            "description2": "Zhu Yuan once competed in the Janus Quarter's Public Security Officer Contest, clinching first place with her extraordinary reloading techniques. Her colleague commented: \"It's nothing but sheer practice.\""
+        },
+        {
+            "level": 2,
+            "name": "Ether Ember",
+            "description": "In Suppressive Mode, Zhu Yuan's Anti-Interrupt level is increased and DMG taken reduced by 10%. When Zhu Yuan hits an enemy with Enhanced Shotshells, deal 10% more Basic Attack: Please Do Not Resist and Dash Attack: Overwhelming Firepower Ether DMG, stacking up to 5 times and lasting for 5s. Each shot adds one stack of this effect, and repeated triggers reset the duration.",
+            "description2": "Zhu Yuan is equipped with Ether bullets specially designed by Public Security, which cause irreversible corruption upon hitting the enemy.\nThis is why Zhu Yuan always warns her enemies to surrender and stop resisting before she fires. It really is for their own health and safety..."
+        },
+        {
+            "level": 3,
+            "name": "Public Security Special Training",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "As an elite Public Security Officer, Zhu Yuan's training focused on a single objective: to enhance all aspects of her combat abilities within the Hollow, ensuring she could outmatch any criminal."
+        },
+        {
+            "level": 4,
+            "name": "Ether Perforation",
+            "description": "When Zhu Yuan hits an enemy with Enhanced Shotshells, her Basic Attack: Please Do Not Resist and Dash Attack: Overwhelming Firepower ignore 25% of the target's Ether RES.",
+            "description2": "When in battle, the gangs in the Hollows often try to quietly calculate how many bullets their enemies have left. What they don't know is that Zhu Yuan's custom magazine can recharge itself with the Ether in the air..."
+        },
+        {
+            "level": 5,
+            "name": "Special Ops Experience",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "A seasoned Public Security Officer excels at reading the battlefield, striking precisely and maximizing combat efficiency. Sometimes, one stern look is enough to make her enemies think twice about putting up a fight."
+        },
+        {
+            "level": 6,
+            "name": "Expanded Energy Pack III",
+            "description": "When Zhu Yuan consumes a total of 12 Enhanced Shotshells, she receives the Ether Afterglow effect, and the Energy cost of the next EX Special Attack is reduced by 30. Launching an EX Special Attack will consume Ether Afterglow and shoot an additional 4-bullet Ether Buckshot. Each extra bullet deals DMG equal to 220% of Zhu Yuan's ATK.",
+            "description2": "Zhu Yuan often worries about her gear's remaining battery, getting nervous when the power dips into the red zone and consciously saving power. Public Security finally equipped her with an energy pack that offered both high capacity and long-lasting endurance."
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100211,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 413,
+            "attack": 47,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100221,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 826,
+            "attack": 95,
+            "defense": 66,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100221,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1239,
+            "attack": 142,
+            "defense": 99,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100231,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1651,
+            "attack": 189,
+            "defense": 133,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100231,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2064,
+            "attack": 236,
+            "defense": 166,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 1920,
+                    "formatted_value": "1920%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 1920,
+                    "formatted_value": "1920%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2880,
+                    "formatted_value": "2880%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2880,
+                    "formatted_value": "2880%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Don't Move!",
+                    "description": "[Assault Mode]\nPress  to activate.\nUnleash a flurry of martial arts, bullets, and Ether Buckshots in a series of up to 5 attacks, dealing Physical DMG and Ether DMG.\nWhen the 4th or 5th hit strikes an enemy, obtain 1 Enhanced Shotshell per hit. A max of 1 can be obtained per activation of this Basic Attack.\nWhile using this skill, drag the stick/joystick and press  to activate Dash Attack: Firepower Offensive and readjust to face the selected direction.\nWhile under Assault Mode, hold  to switch to Suppressive Mode.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Please Do Not Resist",
+                    "description": "[Suppressive Mode]\nHold  to activate:\nUnleash up to 3 Shotshell piercing attacks, dealing Physical DMG. If Zhu Yuan has Enhanced Shotshells upon firing, 1 Enhanced Shotshell will be consumed, dealing massive Ether DMG.\nWhile using this skill, drag the stick/joystick to activate her Dash Attack: Overwhelming Firepower and readjust to face the selected direction.\nWhile in Suppressive Mode, release  to return to Assault Mode.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Don't Move!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1241001, Prop:1001}",
+                            "params": {
+                                "1241001": {
+                                    "main": 4310,
+                                    "growth": 400,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1241002, Prop:1001}",
+                            "params": {
+                                "1241002": {
+                                    "main": 12640,
+                                    "growth": 1150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1241003, Prop:1001}",
+                            "params": {
+                                "1241003": {
+                                    "main": 13730,
+                                    "growth": 1250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1241004, Prop:1001}",
+                            "params": {
+                                "1241004": {
+                                    "main": 15100,
+                                    "growth": 1380,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1241005, Prop:1001}",
+                            "params": {
+                                "1241005": {
+                                    "main": 16220,
+                                    "growth": 1480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1241001, Prop:1002}",
+                            "params": {
+                                "1241001": {
+                                    "main": 2160,
+                                    "growth": 100,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1241002, Prop:1002}",
+                            "params": {
+                                "1241002": {
+                                    "main": 9730,
+                                    "growth": 450,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1241003, Prop:1002}",
+                            "params": {
+                                "1241003": {
+                                    "main": 9470,
+                                    "growth": 440,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1241004, Prop:1002}",
+                            "params": {
+                                "1241004": {
+                                    "main": 12430,
+                                    "growth": 570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1241005, Prop:1002}",
+                            "params": {
+                                "1241005": {
+                                    "main": 13920,
+                                    "growth": 640,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Please Do Not Resist",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier (Physical)",
+                            "description": "{Skill:1241006, Prop:1001}",
+                            "params": {
+                                "1241006": {
+                                    "main": 5370,
+                                    "growth": 490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier (Physical)",
+                            "description": "{Skill:1241007, Prop:1001}",
+                            "params": {
+                                "1241007": {
+                                    "main": 5370,
+                                    "growth": 490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier (Physical)",
+                            "description": "{Skill:1241008, Prop:1001}",
+                            "params": {
+                                "1241008": {
+                                    "main": 16090,
+                                    "growth": 1470,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier (Physical)",
+                            "description": "{Skill:1241006, Prop:1002}",
+                            "params": {
+                                "1241006": {
+                                    "main": 5960,
+                                    "growth": 280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier (Physical)",
+                            "description": "{Skill:1241007, Prop:1002}",
+                            "params": {
+                                "1241007": {
+                                    "main": 5960,
+                                    "growth": 280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier (Physical)",
+                            "description": "{Skill:1241008, Prop:1002}",
+                            "params": {
+                                "1241008": {
+                                    "main": 17870,
+                                    "growth": 820,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit DMG Multiplier (Ether)",
+                            "description": "{Skill:1241010, Prop:1001}",
+                            "params": {
+                                "1241010": {
+                                    "main": 13590,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier (Ether)",
+                            "description": "{Skill:1241011, Prop:1001}",
+                            "params": {
+                                "1241011": {
+                                    "main": 13590,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier (Ether)",
+                            "description": "{Skill:1241012, Prop:1001}",
+                            "params": {
+                                "1241012": {
+                                    "main": 40770,
+                                    "growth": 3710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier (Ether)",
+                            "description": "{Skill:1241010, Prop:1002}",
+                            "params": {
+                                "1241010": {
+                                    "main": 5960,
+                                    "growth": 280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier (Ether)",
+                            "description": "{Skill:1241011, Prop:1002}",
+                            "params": {
+                                "1241011": {
+                                    "main": 5960,
+                                    "growth": 280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier (Ether)",
+                            "description": "{Skill:1241012, Prop:1002}",
+                            "params": {
+                                "1241012": {
+                                    "main": 17870,
+                                    "growth": 820,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Tactical Detour",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Firepower Offensive",
+                    "description": "Assault Mode\nPress  during a dodge to activate:\nUses handgun to attack, dealing Ether DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Overwhelming Firepower",
+                    "description": "Suppressive Mode\nDrag the stick/joystick during Basic Attack: Please Do Not Resist to activate:\nUnleashes a Shotshell piercing attack, dealing Physical DMG. If Zhu Yuan has Enhanced Shotshells when firing, 1 Enhanced Shotshell will be consumed, dealing massive Ether DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Fire Blast",
+                    "description": "Press  during a Perfect Dodge to activate.\nShoots enemies in front with an Ether Buckshot, dealing Ether DMG.\nGain 1 Enhanced Shotshell on skill use.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Firepower Offensive",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1241017, Prop:1001}",
+                            "params": {
+                                "1241017": {
+                                    "main": 5510,
+                                    "growth": 510,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1241017, Prop:1002}",
+                            "params": {
+                                "1241017": {
+                                    "main": 2760,
+                                    "growth": 130,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dash Attack: Overwhelming Firepower",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier (Physical)",
+                            "description": "{Skill:1241018, Prop:1001}",
+                            "params": {
+                                "1241018": {
+                                    "main": 5370,
+                                    "growth": 490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier (Physical)",
+                            "description": "{Skill:1241018, Prop:1002}",
+                            "params": {
+                                "1241018": {
+                                    "main": 5960,
+                                    "growth": 280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "DMG Multiplier (Ether)",
+                            "description": "{Skill:1241019, Prop:1001}",
+                            "params": {
+                                "1241019": {
+                                    "main": 13590,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier (Ether)",
+                            "description": "{Skill:1241019, Prop:1002}",
+                            "params": {
+                                "1241019": {
+                                    "main": 5960,
+                                    "growth": 280,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Fire Blast",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1241020, Prop:1001}",
+                            "params": {
+                                "1241020": {
+                                    "main": 17680,
+                                    "growth": 1610,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1241020, Prop:1002}",
+                            "params": {
+                                "1241020": {
+                                    "main": 16140,
+                                    "growth": 740,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Buckshot Blast",
+                    "description": "Press  to activate:\nShoots Ether Buckshots that deal Ether DMG. This can be repeated 3 times by repeatedly pressing .\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Full Barrage",
+                    "description": "With enough Energy, press  to activate:\nShoots a series of Ether Buckshots, that explode and deal massive Ether DMG.\nUpon activation, gain 3 Enhanced Shotshells.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Buckshot Blast",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1241015, Prop:1001}",
+                            "params": {
+                                "1241015": {
+                                    "main": 1840,
+                                    "growth": 170,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1241015, Prop:1002}",
+                            "params": {
+                                "1241015": {
+                                    "main": 1840,
+                                    "growth": 90,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Full Barrage",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1241016, Prop:1001}",
+                            "params": {
+                                "1241016": {
+                                    "main": 58740,
+                                    "growth": 5340,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1241016, Prop:1002}",
+                            "params": {
+                                "1241016": {
+                                    "main": 48000,
+                                    "growth": 2190,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "60",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Eradication Mode",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUses Modified Master Firearm to execute a saturated attack, firing lasers and seeking missiles to deal massive Ether DMG.\nUpon activation, gain 3 Enhanced Shotshells.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Max Eradication Mode",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUses Modified Master Firearm to execute a saturated attack, firing lasers and seeking missiles to deal massive Ether DMG.\nUpon activation, gain 3 Enhanced Shotshells.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Eradication Mode",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1241022, Prop:1001}",
+                            "params": {
+                                "1241022": {
+                                    "main": 58750,
+                                    "growth": 5350,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1241022, Prop:1002}",
+                            "params": {
+                                "1241022": {
+                                    "main": 14860,
+                                    "growth": 680,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Max Eradication Mode",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1241023, Prop:1001}",
+                            "params": {
+                                "1241023": {
+                                    "main": 197760,
+                                    "growth": 17980,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1241023, Prop:1002}",
+                            "params": {
+                                "1241023": {
+                                    "main": 12510,
+                                    "growth": 627,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Covering Shot",
+                    "description": "When the active character is launched, press  to activate:\nShoots enemies in front with an Ether Buckshot, dealing Ether DMG.\nGain 1 Enhanced Shotshell on skill use.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Evasive Assist: Guarded Backup",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nDodges the enemy's attack and activates Vital View.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Defensive Counter",
+                    "description": "Press  after an Evasive Assist to activate:\nAttack with a combination of martial arts and shotshells, dealing Physical DMG and Ether DMG.\nUpon activation, gain 3 Enhanced Shotshells.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Covering Shot",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1241024, Prop:1001}",
+                            "params": {
+                                "1241024": {
+                                    "main": 5140,
+                                    "growth": 470,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1241024, Prop:1002}",
+                            "params": {
+                                "1241024": {
+                                    "main": 5140,
+                                    "growth": 240,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Defensive Counter",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1241025, Prop:1001}",
+                            "params": {
+                                "1241025": {
+                                    "main": 35580,
+                                    "growth": 3240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1241025, Prop:1002}",
+                            "params": {
+                                "1241025": {
+                                    "main": 30860,
+                                    "growth": 1410,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1241501,
+                "names": [
+                    "Core Passive: Special Ops Ammunition",
+                    "Additional Ability: Tactical Coordination"
+                ],
+                "descriptions": [
+                    "When Zhu Yuan is under Suppressive Mode, using Enhanced Shotshells increases her DMG by 20%. When attacking Stunned enemies, this DMG buff is increased by an additional 20%. When Zhu Yuan enters the battlefield, she immediately gains 6 Enhanced Shotshells.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an EX Special Attack, Chain Attack, or Ultimate."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1241502,
+                "names": [
+                    "Core Passive: Special Ops Ammunition",
+                    "Additional Ability: Tactical Coordination"
+                ],
+                "descriptions": [
+                    "When Zhu Yuan is under Suppressive Mode, using Enhanced Shotshells increases her DMG by 23.3%. When attacking Stunned enemies, this DMG buff is increased by an additional 23.3%. When Zhu Yuan enters the battlefield, she immediately gains 6 Enhanced Shotshells.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an EX Special Attack, Chain Attack, or Ultimate."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1241503,
+                "names": [
+                    "Core Passive: Special Ops Ammunition",
+                    "Additional Ability: Tactical Coordination"
+                ],
+                "descriptions": [
+                    "When Zhu Yuan is under Suppressive Mode, using Enhanced Shotshells increases her DMG by 26.6%. When attacking Stunned enemies, this DMG buff is increased by an additional 26.6%. When Zhu Yuan enters the battlefield, she immediately gains 6 Enhanced Shotshells.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an EX Special Attack, Chain Attack, or Ultimate."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1241504,
+                "names": [
+                    "Core Passive: Special Ops Ammunition",
+                    "Additional Ability: Tactical Coordination"
+                ],
+                "descriptions": [
+                    "When Zhu Yuan is under Suppressive Mode, using Enhanced Shotshells increases her DMG by 30%. When attacking Stunned enemies, this DMG buff is increased by an additional 30%. When Zhu Yuan enters the battlefield, she immediately gains 6 Enhanced Shotshells.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an EX Special Attack, Chain Attack, or Ultimate."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1241505,
+                "names": [
+                    "Core Passive: Special Ops Ammunition",
+                    "Additional Ability: Tactical Coordination"
+                ],
+                "descriptions": [
+                    "When Zhu Yuan is under Suppressive Mode, using Enhanced Shotshells increases her DMG by 33.3%. When attacking Stunned enemies, this DMG buff is increased by an additional 33.3%. When Zhu Yuan enters the battlefield, she immediately gains 6 Enhanced Shotshells.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an EX Special Attack, Chain Attack, or Ultimate."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1241506,
+                "names": [
+                    "Core Passive: Special Ops Ammunition",
+                    "Additional Ability: Tactical Coordination"
+                ],
+                "descriptions": [
+                    "When Zhu Yuan is under Suppressive Mode, using Enhanced Shotshells increases her DMG by 36.6%. When attacking Stunned enemies, this DMG buff is increased by an additional 36.6%. When Zhu Yuan enters the battlefield, she immediately gains 6 Enhanced Shotshells.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an EX Special Attack, Chain Attack, or Ultimate."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1241507,
+                "names": [
+                    "Core Passive: Special Ops Ammunition",
+                    "Additional Ability: Tactical Coordination"
+                ],
+                "descriptions": [
+                    "When Zhu Yuan is under Suppressive Mode, using Enhanced Shotshells increases her DMG by 40%. When attacking Stunned enemies, this DMG buff is increased by an additional 40%. When Zhu Yuan enters the battlefield, she immediately gains 6 Enhanced Shotshells.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an EX Special Attack, Chain Attack, or Ultimate."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110503,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110503,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110503,
+                    "amount": 9
+                },
+                {
+                    "id": 110002,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110503,
+                    "amount": 15
+                },
+                {
+                    "id": 110002,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110503,
+                    "amount": 30
+                },
+                {
+                    "id": 110002,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1241_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1241_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1241_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect23.webp"
+}

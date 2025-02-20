@@ -1,0 +1,453 @@
+{
+    "id": 54008,
+    "code_name": "Plugboo",
+    "name": "Plugboo",
+    "description": "\"Beeeeep... beep... beep beep.\"",
+    "rarity": "S",
+    "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole19.webp",
+    "stats": {
+        "Stamina": 100.0,
+        "StaminaUpragde": 10.0,
+        "Endurance": 180.0,
+        "HpMax": 396.0,
+        "Hpupgrade": 471237.0,
+        "Attack": 65.0,
+        "AttackUpgrade": 327644.0,
+        "BreakStun": 99.0,
+        "ElementAbnormalPower": 132.0,
+        "Defence": 30.0,
+        "DefUpgrade": 85729.0,
+        "Crit": 500.0,
+        "PenRatio": 0.0,
+        "CritDmg": 5000.0
+    },
+    "ascensions": {
+        "1": {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 15000
+                },
+                {
+                    "id": 102010,
+                    "amount": 4
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "2": {
+            "max_hp": 207,
+            "attack": 61,
+            "defense": 38,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 35000
+                },
+                {
+                    "id": 102020,
+                    "amount": 12
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 450,
+                    "formatted_value": "450%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "3": {
+            "max_hp": 414,
+            "attack": 303,
+            "defense": 75,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 75000
+                },
+                {
+                    "id": 102020,
+                    "amount": 20
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 2250,
+                    "formatted_value": "2250%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "4": {
+            "max_hp": 621,
+            "attack": 909,
+            "defense": 113,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 125000
+                },
+                {
+                    "id": 102030,
+                    "amount": 10
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 2250,
+                    "formatted_value": "2250%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2500,
+                    "formatted_value": "2500%%"
+                }
+            ]
+        },
+        "5": {
+            "max_hp": 828,
+            "attack": 2424,
+            "defense": 151,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 250000
+                },
+                {
+                    "id": 102030,
+                    "amount": 20
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 4500,
+                    "formatted_value": "4500%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2500,
+                    "formatted_value": "2500%%"
+                }
+            ]
+        },
+        "6": {
+            "max_hp": 1034,
+            "attack": 6059,
+            "defense": 188,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": [],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 4500,
+                    "formatted_value": "4500%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 5000,
+                    "formatted_value": "5000%%"
+                }
+            ]
+        }
+    },
+    "skills": {
+        "A": {
+            "1": {
+                "name": "Shock Sniper",
+                "description": "Active Skill\nUnleashes an EM cannon attack on the enemy, dealing Electric DMG and accumulating Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400801, Prop:1001}|{Skill:5400801, Prop:1002}|16s"
+            },
+            "2": {
+                "name": "Shock Sniper",
+                "description": "Active Skill\nUnleashes an EM cannon attack on the enemy, dealing Electric DMG and accumulating Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400801, Prop:1001}|{Skill:5400801, Prop:1002}|16s"
+            },
+            "3": {
+                "name": "Shock Sniper",
+                "description": "Active Skill\nUnleashes an EM cannon attack on the enemy, dealing Electric DMG and accumulating Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400801, Prop:1001}|{Skill:5400801, Prop:1002}|16s"
+            },
+            "4": {
+                "name": "Shock Sniper",
+                "description": "Active Skill\nUnleashes an EM cannon attack on the enemy, dealing Electric DMG and accumulating Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400801, Prop:1001}|{Skill:5400801, Prop:1002}|16s"
+            },
+            "5": {
+                "name": "Shock Sniper",
+                "description": "Active Skill\nUnleashes an EM cannon attack on the enemy, dealing Electric DMG and accumulating Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400801, Prop:1001}|{Skill:5400801, Prop:1002}|16s"
+            },
+            "6": {
+                "name": "Shock Sniper",
+                "description": "Active Skill\nUnleashes an EM cannon attack on the enemy, dealing Electric DMG and accumulating Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400801, Prop:1001}|{Skill:5400801, Prop:1002}|16s"
+            },
+            "7": {
+                "name": "Shock Sniper",
+                "description": "Active Skill\nUnleashes an EM cannon attack on the enemy, dealing Electric DMG and accumulating Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400801, Prop:1001}|{Skill:5400801, Prop:1002}|16s"
+            },
+            "8": {
+                "name": "Shock Sniper",
+                "description": "Active Skill\nUnleashes an EM cannon attack on the enemy, dealing Electric DMG and accumulating Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400801, Prop:1001}|{Skill:5400801, Prop:1002}|16s"
+            },
+            "9": {
+                "name": "Shock Sniper",
+                "description": "Active Skill\nUnleashes an EM cannon attack on the enemy, dealing Electric DMG and accumulating Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400801, Prop:1001}|{Skill:5400801, Prop:1002}|16s"
+            },
+            "10": {
+                "name": "Shock Sniper",
+                "description": "Active Skill\nUnleashes an EM cannon attack on the enemy, dealing Electric DMG and accumulating Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400801, Prop:1001}|{Skill:5400801, Prop:1002}|16s"
+            }
+        },
+        "B": {
+            "1": {
+                "name": "Electromancer",
+                "description": "Additional Ability\nWhen there are at least 2 Electric Attribute characters in your squad: Bangboo Chain Attack inflicts 100% more Anomaly Buildup.",
+                "properties": [
+                    "Anomaly Buildup Increase"
+                ],
+                "parameter": "100%"
+            },
+            "2": {
+                "name": "Electromancer",
+                "description": "Additional Ability\nWhen there are at least 2 Electric Attribute characters in your squad: Bangboo Chain Attack inflicts 125% more Anomaly Buildup.",
+                "properties": [
+                    "Anomaly Buildup Increase"
+                ],
+                "parameter": "125%"
+            },
+            "3": {
+                "name": "Electromancer",
+                "description": "Additional Ability\nWhen there are at least 2 Electric Attribute characters in your squad: Bangboo Chain Attack inflicts 150% more Anomaly Buildup.",
+                "properties": [
+                    "Anomaly Buildup Increase"
+                ],
+                "parameter": "150%"
+            },
+            "4": {
+                "name": "Electromancer",
+                "description": "Additional Ability\nWhen there are at least 2 Electric Attribute characters in your squad: Bangboo Chain Attack inflicts 175% more Anomaly Buildup.",
+                "properties": [
+                    "Anomaly Buildup Increase"
+                ],
+                "parameter": "175%"
+            },
+            "5": {
+                "name": "Electromancer",
+                "description": "Additional Ability\nWhen there are at least 2 Electric Attribute characters in your squad: Bangboo Chain Attack inflicts 200% more Anomaly Buildup.",
+                "properties": [
+                    "Anomaly Buildup Increase"
+                ],
+                "parameter": "200%"
+            }
+        },
+        "C": {
+            "1": {
+                "name": "High-Voltage Resistance",
+                "description": "Bangboo Chain Attack\nUnleash a strong electric attack on all nearby enemies in a large area, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400802, Prop:1001}|{Skill:5400802, Prop:1002}"
+            },
+            "2": {
+                "name": "High-Voltage Resistance",
+                "description": "Bangboo Chain Attack\nUnleash a strong electric attack on all nearby enemies in a large area, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400802, Prop:1001}|{Skill:5400802, Prop:1002}"
+            },
+            "3": {
+                "name": "High-Voltage Resistance",
+                "description": "Bangboo Chain Attack\nUnleash a strong electric attack on all nearby enemies in a large area, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400802, Prop:1001}|{Skill:5400802, Prop:1002}"
+            },
+            "4": {
+                "name": "High-Voltage Resistance",
+                "description": "Bangboo Chain Attack\nUnleash a strong electric attack on all nearby enemies in a large area, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400802, Prop:1001}|{Skill:5400802, Prop:1002}"
+            },
+            "5": {
+                "name": "High-Voltage Resistance",
+                "description": "Bangboo Chain Attack\nUnleash a strong electric attack on all nearby enemies in a large area, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400802, Prop:1001}|{Skill:5400802, Prop:1002}"
+            },
+            "6": {
+                "name": "High-Voltage Resistance",
+                "description": "Bangboo Chain Attack\nUnleash a strong electric attack on all nearby enemies in a large area, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400802, Prop:1001}|{Skill:5400802, Prop:1002}"
+            },
+            "7": {
+                "name": "High-Voltage Resistance",
+                "description": "Bangboo Chain Attack\nUnleash a strong electric attack on all nearby enemies in a large area, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400802, Prop:1001}|{Skill:5400802, Prop:1002}"
+            },
+            "8": {
+                "name": "High-Voltage Resistance",
+                "description": "Bangboo Chain Attack\nUnleash a strong electric attack on all nearby enemies in a large area, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400802, Prop:1001}|{Skill:5400802, Prop:1002}"
+            },
+            "9": {
+                "name": "High-Voltage Resistance",
+                "description": "Bangboo Chain Attack\nUnleash a strong electric attack on all nearby enemies in a large area, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400802, Prop:1001}|{Skill:5400802, Prop:1002}"
+            },
+            "10": {
+                "name": "High-Voltage Resistance",
+                "description": "Bangboo Chain Attack\nUnleash a strong electric attack on all nearby enemies in a large area, dealing Electric DMG and inflicting massive Electric Anomaly Buildup.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400802, Prop:1001}|{Skill:5400802, Prop:1002}"
+            }
+        }
+    }
+}

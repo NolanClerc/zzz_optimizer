@@ -1,0 +1,1557 @@
+{
+    "id": 1381,
+    "image": "https://api.hakush.in/zzz/UI/IconRole40.webp",
+    "name": "Silver Soldier - Anby",
+    "code_name": "SilverAnby",
+    "rarity": "S",
+    "specialty": {
+        "id": 1,
+        "name": "Attack"
+    },
+    "element": {
+        "id": 203,
+        "name": "Electric"
+    },
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "faction": {
+        "id": 5,
+        "name": "Obol Squad"
+    },
+    "gender": "F",
+    "info": null,
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 134.0,
+        "AttackGrowth": 81654.0,
+        "AvatarPieceId": 5381.0,
+        "BreakStun": 93.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66882.0,
+        "ElementAbnormalPower": 94.0,
+        "ElementMystery": 93.0,
+        "Endurance": 0.0,
+        "HpGrowth": 837238.0,
+        "HpMax": 617.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "SilverAnby_Talent_01_Title",
+            "description": "SilverAnby_Talent_01_Desc_01",
+            "description2": "SilverAnby_Talent_01_Desc_02"
+        },
+        {
+            "level": 2,
+            "name": "SilverAnby_Talent_02_Title",
+            "description": "SilverAnby_Talent_02_Desc_01",
+            "description2": "SilverAnby_Talent_02_Desc_02"
+        },
+        {
+            "level": 3,
+            "name": "SilverAnby_Talent_03_Title",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "SilverAnby_Talent_03_Desc_02"
+        },
+        {
+            "level": 4,
+            "name": "SilverAnby_Talent_04_Title",
+            "description": "SilverAnby_Talent_04_Desc_01",
+            "description2": "SilverAnby_Talent_04_Desc_02"
+        },
+        {
+            "level": 5,
+            "name": "SilverAnby_Talent_05_Title",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "SilverAnby_Talent_05_Desc_02"
+        },
+        {
+            "level": 6,
+            "name": "SilverAnby_Talent_06_Title",
+            "description": "SilverAnby_Talent_06_Desc_01",
+            "description2": "SilverAnby_Talent_06_Desc_02"
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100211,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 423,
+            "attack": 48,
+            "defense": 34,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100221,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 847,
+            "attack": 95,
+            "defense": 68,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100221,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1270,
+            "attack": 143,
+            "defense": 101,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100231,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1694,
+            "attack": 191,
+            "defense": 135,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100231,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2117,
+            "attack": 239,
+            "defense": 169,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "SilverAnby_Skill_Normal_Title",
+                    "description": "SilverAnby_Skill_Normal_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_Normal_Mark01_Title",
+                    "description": "SilverAnby_Skill_Normal_Mark01_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_Normal_Title",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1381001, Prop:1001}",
+                            "params": {
+                                "1381001": {
+                                    "main": 4310,
+                                    "growth": 400,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1381002, Prop:1001}",
+                            "params": {
+                                "1381002": {
+                                    "main": 8750,
+                                    "growth": 800,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1381003, Prop:1001}",
+                            "params": {
+                                "1381003": {
+                                    "main": 17780,
+                                    "growth": 1620,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1381004, Prop:1001}",
+                            "params": {
+                                "1381004": {
+                                    "main": 22420,
+                                    "growth": 2040,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1381001, Prop:1002}",
+                            "params": {
+                                "1381001": {
+                                    "main": 2160,
+                                    "growth": 100,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1381002, Prop:1002}",
+                            "params": {
+                                "1381002": {
+                                    "main": 6750,
+                                    "growth": 310,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1381003, Prop:1002}",
+                            "params": {
+                                "1381003": {
+                                    "main": 12940,
+                                    "growth": 590,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1381004, Prop:1002}",
+                            "params": {
+                                "1381004": {
+                                    "main": 19130,
+                                    "growth": 870,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "SilverAnby_Skill_Normal_Mark01_Title",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "SilverAnby_Property_Normal_Mark01_Desc_Dmg_01",
+                            "description": "{Skill:1381005, Prop:1001}",
+                            "params": {
+                                "1381005": {
+                                    "main": 33000,
+                                    "growth": 3000,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "SilverAnby_Property_Normal_Mark01_Desc_Stun_01",
+                            "description": "{Skill:1381005, Prop:1001}",
+                            "params": {
+                                "1381005": {
+                                    "main": 33000,
+                                    "growth": 3000,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "SilverAnby_Skill_Evade_Title",
+                    "description": "SilverAnby_Skill_Evade_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_Rush_Title",
+                    "description": "SilverAnby_Skill_Rush_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_Counter_Title",
+                    "description": "SilverAnby_Skill_Counter_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_Rush_Title",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1381009, Prop:1001}",
+                            "params": {
+                                "1381009": {
+                                    "main": 24750,
+                                    "growth": 2250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1381009, Prop:1002}",
+                            "params": {
+                                "1381009": {
+                                    "main": 4130,
+                                    "growth": 190,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "SilverAnby_Skill_Counter_Title",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1381010, Prop:1001}",
+                            "params": {
+                                "1381010": {
+                                    "main": 23870,
+                                    "growth": 2170,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1381010, Prop:1002}",
+                            "params": {
+                                "1381010": {
+                                    "main": 20900,
+                                    "growth": 950,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "SilverAnby_Skill_Special_Title",
+                    "description": "SilverAnby_Skill_Special_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_ExSpecial_Title",
+                    "description": "SilverAnby_Skill_ExSpecial_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_Special_Title",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1381006, Prop:1001}",
+                            "params": {
+                                "1381006": {
+                                    "main": 10820,
+                                    "growth": 990,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1381006, Prop:1002}",
+                            "params": {
+                                "1381006": {
+                                    "main": 5410,
+                                    "growth": 250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "SilverAnby_Property_Special_ChargeAttack_Desc_Dmg_03",
+                            "description": "{Skill:1381007, Prop:1001}",
+                            "params": {
+                                "1381007": {
+                                    "main": 3820,
+                                    "growth": 350,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "SilverAnby_Property_Special_ChargeAttack_Desc_Stun_03",
+                            "description": "{Skill:1381007, Prop:1002}",
+                            "params": {
+                                "1381007": {
+                                    "main": 2940,
+                                    "growth": 140,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "SilverAnby_Skill_ExSpecial_Title",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1381008, Prop:1001}",
+                            "params": {
+                                "1381008": {
+                                    "main": 47270,
+                                    "growth": 4300,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1381008, Prop:1002}",
+                            "params": {
+                                "1381008": {
+                                    "main": 45860,
+                                    "growth": 2090,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "SilverAnby_Property_ExSpecial_SpCostValue_01",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "SilverAnby_Skill_QTE_Title",
+                    "description": "SilverAnby_Skill_QTE_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_ExQTE_Title",
+                    "description": "SilverAnby_Skill_ExQTE_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_QTE_Title",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1381011, Prop:1001}",
+                            "params": {
+                                "1381011": {
+                                    "main": 67000,
+                                    "growth": 6100,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1381011, Prop:1002}",
+                            "params": {
+                                "1381011": {
+                                    "main": 23110,
+                                    "growth": 1060,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "SilverAnby_Skill_ExQTE_Title",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1381012, Prop:1001}",
+                            "params": {
+                                "1381012": {
+                                    "main": 199560,
+                                    "growth": 18150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1381012, Prop:1002}",
+                            "params": {
+                                "1381012": {
+                                    "main": 26590,
+                                    "growth": 1210,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "SilverAnby_Skill_BeHitAid_Title",
+                    "description": "SilverAnby_Skill_BeHitAid_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_ParryAid_Title",
+                    "description": "SilverAnby_Skill_ParryAid_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_AssaultAid_Title",
+                    "description": "SilverAnby_Skill_AssaultAid_Desc",
+                    "params": null
+                },
+                {
+                    "name": "SilverAnby_Skill_BeHitAid_Title",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1381013, Prop:1001}",
+                            "params": {
+                                "1381013": {
+                                    "main": 10270,
+                                    "growth": 940,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1381013, Prop:1002}",
+                            "params": {
+                                "1381013": {
+                                    "main": 10270,
+                                    "growth": 470,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "SilverAnby_Skill_ParryAid_Title",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1381014, Prop:1002}",
+                            "params": {
+                                "1381014": {
+                                    "main": 27130,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1381015, Prop:1002}",
+                            "params": {
+                                "1381015": {
+                                    "main": 34280,
+                                    "growth": 1560,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1381016, Prop:1002}",
+                            "params": {
+                                "1381016": {
+                                    "main": 16680,
+                                    "growth": 760,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "SilverAnby_Skill_AssaultAid_Title",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1381017, Prop:1001}",
+                            "params": {
+                                "1381017": {
+                                    "main": 43280,
+                                    "growth": 3940,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1381017, Prop:1002}",
+                            "params": {
+                                "1381017": {
+                                    "main": 38010,
+                                    "growth": 1730,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1381501,
+                "names": [
+                    "SilverAnby_UniqueSkill_Title",
+                    "SilverAnby_MathSkill_Title"
+                ],
+                "descriptions": [
+                    "SilverAnby_UniqueSkill_01_Desc",
+                    "SilverAnby_MathSkill_Desc"
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1381502,
+                "names": [
+                    "SilverAnby_UniqueSkill_Title",
+                    "SilverAnby_MathSkill_Title"
+                ],
+                "descriptions": [
+                    "SilverAnby_UniqueSkill_02_Desc",
+                    "SilverAnby_MathSkill_Desc"
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1381503,
+                "names": [
+                    "SilverAnby_UniqueSkill_Title",
+                    "SilverAnby_MathSkill_Title"
+                ],
+                "descriptions": [
+                    "SilverAnby_UniqueSkill_03_Desc",
+                    "SilverAnby_MathSkill_Desc"
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1381504,
+                "names": [
+                    "SilverAnby_UniqueSkill_Title",
+                    "SilverAnby_MathSkill_Title"
+                ],
+                "descriptions": [
+                    "SilverAnby_UniqueSkill_04_Desc",
+                    "SilverAnby_MathSkill_Desc"
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1381505,
+                "names": [
+                    "SilverAnby_UniqueSkill_Title",
+                    "SilverAnby_MathSkill_Title"
+                ],
+                "descriptions": [
+                    "SilverAnby_UniqueSkill_05_Desc",
+                    "SilverAnby_MathSkill_Desc"
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1381506,
+                "names": [
+                    "SilverAnby_UniqueSkill_Title",
+                    "SilverAnby_MathSkill_Title"
+                ],
+                "descriptions": [
+                    "SilverAnby_UniqueSkill_06_Desc",
+                    "SilverAnby_MathSkill_Desc"
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1381507,
+                "names": [
+                    "SilverAnby_UniqueSkill_Title",
+                    "SilverAnby_MathSkill_Title"
+                ],
+                "descriptions": [
+                    "SilverAnby_UniqueSkill_07_Desc",
+                    "SilverAnby_MathSkill_Desc"
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110509,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110509,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110509,
+                    "amount": 9
+                },
+                {
+                    "id": 110002,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110509,
+                    "amount": 15
+                },
+                {
+                    "id": 110002,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110509,
+                    "amount": 30
+                },
+                {
+                    "id": 110002,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1381_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1381_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1381_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect40.webp"
+}

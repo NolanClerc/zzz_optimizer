@@ -1,0 +1,436 @@
+[
+    {
+        "id": 54003,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole14.webp",
+        "rarity": "A",
+        "code_name": "Devilboo",
+        "description": "The only thing more tempting than a devil... is Devilboo!",
+        "name": "Devilboo",
+        "names": {
+            "EN": "Devilboo",
+            "KO": "데빌부",
+            "CHS": "恶魔布",
+            "JA": "アクマデボンプ"
+        }
+    },
+    {
+        "id": 53007,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole02.webp",
+        "rarity": "A",
+        "code_name": "Cryboo",
+        "description": "Who knows what troubles plague a young Bangboo?",
+        "name": "Cryboo",
+        "names": {
+            "EN": "Cryboo",
+            "KO": "울보부",
+            "CHS": "泪眼布",
+            "JA": "ウルリンボンプ"
+        }
+    },
+    {
+        "id": 53017,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole27.webp",
+        "rarity": "A",
+        "code_name": "Knightboo",
+        "description": "My steed and I can both bounce to accelerate!",
+        "name": "Knightboo",
+        "names": {
+            "EN": "Knightboo",
+            "KO": "기사부",
+            "CHS": "骑士布",
+            "JA": "キシドウボンプ"
+        }
+    },
+    {
+        "id": 53005,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole04.webp",
+        "rarity": "A",
+        "code_name": "Paperboo",
+        "description": "Always nostalgic over when it hatched from its shell.",
+        "name": "Paperboo",
+        "names": {
+            "EN": "Paperboo",
+            "KO": "종이부",
+            "CHS": "纸壳布",
+            "JA": "ハコイリボンプ"
+        }
+    },
+    {
+        "id": 56001,
+        "icon": "https://api.hakush.in/zzz/UI/.webp",
+        "rarity": "A",
+        "code_name": "Bangboo_Name_en_56001",
+        "description": "",
+        "name": "Bangboo_Name_56001",
+        "names": {
+            "EN": "Bangboo_Name_56001",
+            "KO": "Bangboo_Name_56001",
+            "CHS": "Bangboo_Name_56001",
+            "JA": "Bangboo_Name_56001"
+        }
+    },
+    {
+        "id": 53012,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole17.webp",
+        "rarity": "A",
+        "code_name": "Booressure",
+        "description": "Understanding the mood of a conversation is key to becoming a Bangboo social expert.",
+        "name": "Booressure",
+        "names": {
+            "EN": "Booressure",
+            "KO": "압력부",
+            "CHS": "气压布",
+            "JA": "キアツデボンプ"
+        }
+    },
+    {
+        "id": 53003,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole06.webp",
+        "rarity": "A",
+        "code_name": "Exploreboo",
+        "description": "Beep-beep-beep-beep. Does that mean there treasure or that it's running outta battery?",
+        "name": "Exploreboo",
+        "names": {
+            "EN": "Exploreboo",
+            "KO": "탐험부",
+            "CHS": "寻宝布",
+            "JA": "タンケンボンプ"
+        }
+    },
+    {
+        "id": 54015,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole30.webp",
+        "rarity": "S",
+        "code_name": "Snap",
+        "description": "Its flash only shines for true superstars.",
+        "name": "Snap",
+        "names": {
+            "EN": "Snap",
+            "KO": "찰칵이",
+            "CHS": "咔嚓仔",
+            "JA": "カチャコ"
+        }
+    },
+    {
+        "id": 55002,
+        "icon": "https://api.hakush.in/zzz/UI/.webp",
+        "rarity": "A",
+        "code_name": "Eous",
+        "description": "Eous",
+        "name": "Eous",
+        "names": {
+            "EN": "Eous",
+            "KO": "이아스",
+            "CHS": "伊埃斯",
+            "JA": "イアス"
+        }
+    },
+    {
+        "id": 53011,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole21.webp",
+        "rarity": "A",
+        "code_name": "Magnetiboo",
+        "description": "Suffering from anxiety caused by an attachment disorder. Treatment plan: Its master should refrain from wearing any metal accessories.",
+        "name": "Magnetiboo",
+        "names": {
+            "EN": "Magnetiboo",
+            "KO": "자석부",
+            "CHS": "磁力布",
+            "JA": "クッツキボンプ"
+        }
+    },
+    {
+        "id": 54009,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole20.webp",
+        "rarity": "S",
+        "code_name": "Resonaboo",
+        "description": "Accumulating Ether energy...",
+        "name": "Resonaboo",
+        "names": {
+            "EN": "Resonaboo",
+            "KO": "공명부",
+            "CHS": "共鸣布",
+            "JA": "レゾナンボンプ"
+        }
+    },
+    {
+        "id": 54008,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole19.webp",
+        "rarity": "S",
+        "code_name": "Plugboo",
+        "description": "\"Beeeeep... beep... beep beep.\"",
+        "name": "Plugboo",
+        "names": {
+            "EN": "Plugboo",
+            "KO": "플러그부",
+            "CHS": "插头布",
+            "JA": "プラグノボンプ"
+        }
+    },
+    {
+        "id": 53009,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole18.webp",
+        "rarity": "A",
+        "code_name": "Boollseye",
+        "description": "Right in the bull's eye!",
+        "name": "Boollseye",
+        "names": {
+            "EN": "Boollseye",
+            "KO": "과녁부",
+            "CHS": "飞靶布",
+            "JA": "ズバットボンプ"
+        }
+    },
+    {
+        "id": 54014,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole28.webp",
+        "rarity": "S",
+        "code_name": "Agent Gulliver",
+        "description": "Security check! Open up!",
+        "name": "Agent Gulliver",
+        "names": {
+            "EN": "Agent Gulliver",
+            "KO": "걸리버 요원",
+            "CHS": "格列佛探员",
+            "JA": "ガリバー隊員"
+        }
+    },
+    {
+        "id": 54001,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole07.webp",
+        "rarity": "S",
+        "code_name": "Sharkboo",
+        "description": "Seen in the distant seas and the seafood section of the fresh food market.",
+        "name": "Sharkboo",
+        "names": {
+            "EN": "Sharkboo",
+            "KO": "샤크부",
+            "CHS": "鲨牙布",
+            "JA": "ガブットボンプ"
+        }
+    },
+    {
+        "id": 53008,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole03.webp",
+        "rarity": "A",
+        "code_name": "Avocaboo",
+        "description": "A massive success among people who love veggie salads.",
+        "name": "Avocaboo",
+        "names": {
+            "EN": "Avocaboo",
+            "KO": "아보카부",
+            "CHS": "果核布",
+            "JA": "アボカドボンプ"
+        }
+    },
+    {
+        "id": 54006,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole15.webp",
+        "rarity": "S",
+        "code_name": "Rocketboo",
+        "description": "This Bangboo accelerates for 17.5 steps when running a hundred kilometers.",
+        "name": "Rocketboo",
+        "names": {
+            "EN": "Rocketboo",
+            "KO": "날쌘부",
+            "CHS": "飚速布",
+            "JA": "ハヤスギボンプ"
+        }
+    },
+    {
+        "id": 53006,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole01.webp",
+        "rarity": "A",
+        "code_name": "Bagboo",
+        "description": "There's a dark past hidden under that bag...",
+        "name": "Bagboo",
+        "names": {
+            "EN": "Bagboo",
+            "KO": "봉투부",
+            "CHS": "纸袋布",
+            "JA": "フクロノボンプ"
+        }
+    },
+    {
+        "id": 53010,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole16.webp",
+        "rarity": "A",
+        "code_name": "Electroboo",
+        "description": "Bzzzt... Please wear insulated gloves when petting.",
+        "name": "Electroboo",
+        "names": {
+            "EN": "Electroboo",
+            "KO": "찌릿부",
+            "CHS": "电击布",
+            "JA": "ビリビリボンプ"
+        }
+    },
+    {
+        "id": 54012,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole25.webp",
+        "rarity": "S",
+        "code_name": "Officer Cui",
+        "description": "Though it may be a Bangboo, it's even more intimidating than a Security Canine!",
+        "name": "Officer Cui",
+        "names": {
+            "EN": "Officer Cui",
+            "KO": "최 순찰대원",
+            "CHS": "阿崔巡查",
+            "JA": "ツェイ巡査"
+        }
+    },
+    {
+        "id": 53013,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole24.webp",
+        "rarity": "A",
+        "code_name": "Baddieboo",
+        "description": "Don't mess with it... It won't care if you're a human or Bangboo when it gets angry!",
+        "name": "Baddieboo",
+        "names": {
+            "EN": "Baddieboo",
+            "KO": "불량부",
+            "CHS": "不良布",
+            "JA": "カチコミボンプ"
+        }
+    },
+    {
+        "id": 53002,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole11.webp",
+        "rarity": "A",
+        "code_name": "Luckyboo",
+        "description": "Takes up quite a bit of space when placed on the counter.",
+        "name": "Luckyboo",
+        "names": {
+            "EN": "Luckyboo",
+            "KO": "럭키부",
+            "CHS": "招财布",
+            "JA": "オマネキボンプ"
+        }
+    },
+    {
+        "id": 54002,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole10.webp",
+        "rarity": "S",
+        "code_name": "Safety",
+        "description": "Safety first, ehn-na second.",
+        "name": "Safety",
+        "names": {
+            "EN": "Safety",
+            "KO": "세이프티",
+            "CHS": "阿全",
+            "JA": "ゴアンゼン"
+        }
+    },
+    {
+        "id": 53004,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole05.webp",
+        "rarity": "A",
+        "code_name": "Sumoboo",
+        "description": "A sumo wrestler never retreats!",
+        "name": "Sumoboo",
+        "names": {
+            "EN": "Sumoboo",
+            "KO": "스모부",
+            "CHS": "扑击布",
+            "JA": "オスモウボンプ"
+        }
+    },
+    {
+        "id": 54013,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole23.webp",
+        "rarity": "S",
+        "code_name": "Bangvolver",
+        "description": "Today's Fortune: Amazing!",
+        "name": "Bangvolver",
+        "names": {
+            "EN": "Bangvolver",
+            "KO": "리볼버부",
+            "CHS": "左轮布",
+            "JA": "リボルバボンプ"
+        }
+    },
+    {
+        "id": 54004,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole09.webp",
+        "rarity": "S",
+        "code_name": "Butler",
+        "description": "A perfect butler for a perfect you.",
+        "name": "Butler",
+        "names": {
+            "EN": "Butler",
+            "KO": "버틀러",
+            "CHS": "巴特勒",
+            "JA": "バトラー"
+        }
+    },
+    {
+        "id": 53001,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole12.webp",
+        "rarity": "A",
+        "code_name": "Penguinboo",
+        "description": "Widdly-waddly, icy and chilly.",
+        "name": "Penguinboo",
+        "names": {
+            "EN": "Penguinboo",
+            "KO": "펭귄부",
+            "CHS": "企鹅布",
+            "JA": "ペンギンボンプ"
+        }
+    },
+    {
+        "id": 53015,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole29.webp",
+        "rarity": "A",
+        "code_name": "Brawlerboo",
+        "description": "Ten thousand en-nah forward punches as practice per day!",
+        "name": "Brawlerboo",
+        "names": {
+            "EN": "Brawlerboo",
+            "KO": "격투부",
+            "CHS": "格斗布",
+            "JA": "カクトウボンプ"
+        }
+    },
+    {
+        "id": 54005,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole13.webp",
+        "rarity": "S",
+        "code_name": "Amillion",
+        "description": "A million Dennies in one Bangboo.",
+        "name": "Amillion",
+        "names": {
+            "EN": "Amillion",
+            "KO": "에밀리온",
+            "CHS": "艾米莉安",
+            "JA": "アミリオン"
+        }
+    },
+    {
+        "id": 55001,
+        "icon": "https://api.hakush.in/zzz/UI/.webp",
+        "rarity": "A",
+        "code_name": "Eous",
+        "description": "Eous",
+        "name": "Eous",
+        "names": {
+            "EN": "Eous",
+            "KO": "이아스",
+            "CHS": "伊埃斯",
+            "JA": "イアス"
+        }
+    },
+    {
+        "id": 54011,
+        "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole26.webp",
+        "rarity": "S",
+        "code_name": "Red Moccus",
+        "description": "I'll be waiting for you on the off-road section of the Outer Ring!",
+        "name": "Red Moccus",
+        "names": {
+            "EN": "Red Moccus",
+            "KO": "레드모쿠스",
+            "CHS": "赤红莫库斯",
+            "JA": "真紅のモックス"
+        }
+    }
+]

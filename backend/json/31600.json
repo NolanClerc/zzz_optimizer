@@ -1,0 +1,8 @@
+{
+    "id": 31600,
+    "name": "Swing Jazz",
+    "two_piece_effect": "Energy Regen +20%",
+    "four_piece_effect": "Launching a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> increases all squad members' DMG by 15% for 12s. Passive effects of the same name do not stack.",
+    "story": "A Drive Disc highly favored by versatile investigators, with a focus on high compatibility and enhanced cooperative support.",
+    "icon": "https://api.hakush.in/zzz/UI/SuitSwingJazz.webp"
+}

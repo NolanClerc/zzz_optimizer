@@ -1,0 +1,8 @@
+{
+    "id": 31000,
+    "name": "Woodpecker Electro",
+    "two_piece_effect": "CRIT Rate +8%",
+    "four_piece_effect": "Landing a critical hit on an enemy with a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge Counter</color>, or <color=#FFFFFF>EX Special Attack</color> increases the equipper's ATK by 9% for 6s. The buff duration for different skills are calculated separately.",
+    "story": "A Drive Disc so hot it's gone viral. Even ordinary citizens who don't enter the Hollows will do anything to get their hands on it. The tunes burned on it are absolutely captivating.",
+    "icon": "https://api.hakush.in/zzz/UI/SuitWoodpeckerElectro.webp"
+}

@@ -1,0 +1,1587 @@
+{
+    "id": 1121,
+    "image": "https://api.hakush.in/zzz/UI/IconRole16.webp",
+    "name": "Ben",
+    "code_name": "Ben",
+    "rarity": "A",
+    "specialty": {
+        "id": 5,
+        "name": "Defense"
+    },
+    "element": {
+        "id": 201,
+        "name": "Fire"
+    },
+    "attack_type": {
+        "id": 102,
+        "name": "Strike"
+    },
+    "faction": {
+        "id": 3,
+        "name": "Belobog Heavy Industries"
+    },
+    "gender": "M",
+    "info": {
+        "birthday": "DEC 23",
+        "full_name": "Ben Bigger",
+        "gender": "Male",
+        "female_impression": "The first time I saw him, I was definitely taken aback...\nWho would've thought Ben was unexpectedly a soft, furry, gentle-natured bear!",
+        "male_impression": "Never judge a book by its cover.\nThat said, it seems he's often required to present a menacing image to deter the enemy... and it appears to be quite effective.",
+        "outlook_desc": "New Eridu Citizen Verification Profile Info:\nHollow Investigator — Ben possesses outstanding Ether aptitude, and is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: Based on the data, Ben's Ether aptitude places him in the top tier at Belobog Heavy Industries. Coupled with his Thiren traits (better adaptation to Hollow environments than humans, faster mutation rate after exposure to corruption, but also rapid recovery), he is deemed highly suitable for long-term work within Hollows.",
+        "profile_desc": "Ben is the financial and asset management director at Belobog Heavy Industries and one of Koleda's trusted aides.\n\"I enjoy mathematics, but that doesn't stop me from giving thugs a good smack.\"\nHe's a burly and strong Thiren. Despite his tough exterior, he's of a surprisingly sensitive and detail-oriented nature, especially when it comes to numbers.\nOriginally a frontline mechanical operator at Belobog, his talents caught Koleda's discerning eye, leading to his promotion to a managerial position responsible for the company's finances.\nGrateful for Koleda's trust in him, he remains profoundly loyal to her.\nHis favorite food is black caviar, but he dislikes fish.\n\nI once witnessed this imposing figure seated in a small office chair, wearing small glasses, and carefully cross-referencing Belobog's asset records while mashing away at a calculator with his huge fingers.\nQuestion: Is that what they call on Inter-Knot a \"Kawaii Curveball?\"",
+        "faction": "Belobog Heavy Industries",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission",
+            "Complete Main Commission Chapter 2"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 94.0,
+        "AttackGrowth": 53574.0,
+        "AvatarPieceId": 5121.0,
+        "BreakStun": 95.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 58.0,
+        "DefenceGrowth": 78989.0,
+        "ElementAbnormalPower": 86.0,
+        "ElementMystery": 90.0,
+        "Endurance": 0.0,
+        "HpGrowth": 935856.0,
+        "HpMax": 690.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Reacting Force",
+            "description": "When successfully Blocking an enemy with Ben's Special Attack or EX Special Attack, the DMG dealt by the blocked enemy is reduced by 30% for 15s.",
+            "description2": "\"Every action has an equal and opposite reaction. So why do you have to bash things head-on?\"\n\"Looks like your calculations are off.\""
+        },
+        {
+            "level": 2,
+            "name": "Offense Through Defense",
+            "description": "When successfully triggering a Block Counter during Ben's Special Attack or EX Special Attack, inflict an additional 300% of Ben's DEF as DMG.",
+            "description2": "Unlike other bear Thirens, Ben remains patient when fighting.\nHe believes if he keeps his defenses up, he can wait until the enemy reveals their weakness."
+        },
+        {
+            "level": 3,
+            "name": "Careful Accounting",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Financial responsibility demands mastering cost-efficiency and utilizing every available resource to enhance both the team and oneself."
+        },
+        {
+            "level": 4,
+            "name": "Agile Adaptation",
+            "description": "When successfully blocking enemy DMG with Ben's invulnerable effect during his Special Attack or EX Special Attack, the following counter deals 30% more DMG.",
+            "description2": "Ben's professional accounting instincts let him adapt dynamically based on the situation.\nWhether dealing with accounts or enemies, it's important to achieve the best results at the lowest cost."
+        },
+        {
+            "level": 5,
+            "name": "Meticulous Detail",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Ben's keen eye doesn't miss a single error in statements. The same goes for combat, where he gets progressively stronger as he corrects mistakes."
+        },
+        {
+            "level": 6,
+            "name": "Wild Spirit",
+            "description": "After launching an attack or follow-up attack during Ben's EX Special Attack, Daze inflicted by Basic Attacks, Dash Attack, and Dodge Counter is increased by 20%, lasting 12s.",
+            "description2": "Bear Thirens are different from canine Thirens.\nThey can't be appeased with food alone.\nWhen they lose their temper, the only thing you can do is run for your life...\n—The discontinued \"Be a Good Neighbor! 100 Tips for Getting Along With Thirens\""
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100215,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 473,
+            "attack": 34,
+            "defense": 40,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100225,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 947,
+            "attack": 67,
+            "defense": 80,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100225,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1420,
+            "attack": 101,
+            "defense": 120,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100235,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1893,
+            "attack": 134,
+            "defense": 160,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100235,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2366,
+            "attack": 168,
+            "defense": 200,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Debt Reconciliation",
+                    "description": "Press  to activate:\nUnleashes up to 3 strikes, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Debt Reconciliation",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1121001, Prop:1001}",
+                            "params": {
+                                "1121001": {
+                                    "main": 6590,
+                                    "growth": 600,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1121002, Prop:1001}",
+                            "params": {
+                                "1121002": {
+                                    "main": 18900,
+                                    "growth": 1720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1121003, Prop:1001}",
+                            "params": {
+                                "1121003": {
+                                    "main": 34830,
+                                    "growth": 3170,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1121001, Prop:1002}",
+                            "params": {
+                                "1121001": {
+                                    "main": 4710,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1121002, Prop:1002}",
+                            "params": {
+                                "1121002": {
+                                    "main": 15690,
+                                    "growth": 720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1121003, Prop:1002}",
+                            "params": {
+                                "1121003": {
+                                    "main": 26010,
+                                    "growth": 1190,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Missing Invoice",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Incoming Expense",
+                    "description": "Press  during a Dodge to activate:\nStrikes enemies in front of him, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Accounts Settled",
+                    "description": "Press  during a Perfect Dodge to activate:\nStrike enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Incoming Expense",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1121012, Prop:1001}",
+                            "params": {
+                                "1121012": {
+                                    "main": 13840,
+                                    "growth": 1260,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1121012, Prop:1002}",
+                            "params": {
+                                "1121012": {
+                                    "main": 6920,
+                                    "growth": 320,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Accounts Settled",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1121013, Prop:1001}",
+                            "params": {
+                                "1121013": {
+                                    "main": 22570,
+                                    "growth": 2060,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1121013, Prop:1002}",
+                            "params": {
+                                "1121013": {
+                                    "main": 19670,
+                                    "growth": 900,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Fiscal Fist",
+                    "description": "Press  to activate:\nBen lifts his weapon, blocking the enemy's attack before unleashing a forward strike, dealing Physical DMG. Successfully blocking an attack enhances the power of this skill and triggers Block Counter, dealing massive Physical DMG.\nHold  to remain in the Blocking stance.\nWhile in the Blocking stance, Ben gains a Shield that weakens over time.\nAfter leaving the blocking stance, the Shield is removed and recovers over time.\nThe Shield cannot exceed 16% of Ben's Max HP.\nBen is invulnerable when activating Block.\nAnti-Interrupt level is increased while launching strikes.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Cashflow Counter",
+                    "description": "With enough Energy, press  to activate:\nBen lifts his weapon, blocking the enemy's attacks before unleashing a forward strike, dealing Fire DMG. Successfully blocking an attack enhances the power of this skill and triggers Block Counter, dealing massive Fire DMG.\nHold  to remain in the Blocking stance.\nWhile in the Blocking stance, Ben gains a Shield that weakens over time.\nAfter leaving the blocking stance, the Shield is removed and recovers over time.\nThe Shield cannot exceed 16% of Ben's Max HP.\nWhen this skill is activated, the Shield is restored to its maximum value.\nAfter activating the skill, press  again to follow up with a powerful forward strike, dealing massive Fire DMG.\nBen is invulnerable when activating Block.\nBen is invulnerable while launching strikes.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Fiscal Fist",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Active Attack DMG Multiplier",
+                            "description": "{Skill:1121005, Prop:1001}",
+                            "params": {
+                                "1121005": {
+                                    "main": 4170,
+                                    "growth": 380,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Block Counter DMG Multiplier",
+                            "description": "{Skill:1121006, Prop:1001}",
+                            "params": {
+                                "1121006": {
+                                    "main": 23340,
+                                    "growth": 2130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Active Attack Daze Multiplier",
+                            "description": "{Skill:1121005, Prop:1002}",
+                            "params": {
+                                "1121005": {
+                                    "main": 4170,
+                                    "growth": 190,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Block Counter Daze Multiplier",
+                            "description": "{Skill:1121006, Prop:1002}",
+                            "params": {
+                                "1121006": {
+                                    "main": 22340,
+                                    "growth": 1020,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Cashflow Counter",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Active Attack DMG Multiplier",
+                            "description": "{Skill:1121008, Prop:1001}",
+                            "params": {
+                                "1121008": {
+                                    "main": 43850,
+                                    "growth": 3990,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up Attack DMG Multiplier",
+                            "description": "{Skill:1121009, Prop:1001}",
+                            "params": {
+                                "1121009": {
+                                    "main": 43850,
+                                    "growth": 3990,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Block Counter DMG Multiplier",
+                            "description": "{Skill:1121010, Prop:1001}",
+                            "params": {
+                                "1121010": {
+                                    "main": 50050,
+                                    "growth": 4550,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Block Follow-Up DMG Multiplier",
+                            "description": "{Skill:1121011, Prop:1001}",
+                            "params": {
+                                "1121011": {
+                                    "main": 55120,
+                                    "growth": 5020,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Active Attack Daze Multiplier",
+                            "description": "{Skill:1121008, Prop:1002}",
+                            "params": {
+                                "1121008": {
+                                    "main": 24710,
+                                    "growth": 1130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up Attack Daze Multiplier",
+                            "description": "{Skill:1121009, Prop:1002}",
+                            "params": {
+                                "1121009": {
+                                    "main": 24710,
+                                    "growth": 1130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Block Counter Daze Multiplier",
+                            "description": "{Skill:1121010, Prop:1002}",
+                            "params": {
+                                "1121010": {
+                                    "main": 36760,
+                                    "growth": 1680,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Block Follow-Up Daze Multiplier",
+                            "description": "{Skill:1121011, Prop:1002}",
+                            "params": {
+                                "1121011": {
+                                    "main": 36760,
+                                    "growth": 1680,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Block Energy Cost",
+                            "description": "30",
+                            "params": null
+                        },
+                        {
+                            "name": "Follow-Up Energy Cost",
+                            "description": "30",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Signed and Sealed",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful strike at enemies in front in a large area, dealing massive Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Complete Payback",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes a powerful strike at enemies in front in a large area, dealing massive Fire DMG.\nWhen activating the skill, additionally recover 3 Assist Points.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Signed and Sealed",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1121014, Prop:1001}",
+                            "params": {
+                                "1121014": {
+                                    "main": 62730,
+                                    "growth": 5710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1121014, Prop:1002}",
+                            "params": {
+                                "1121014": {
+                                    "main": 32830,
+                                    "growth": 1500,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Complete Payback",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1121015, Prop:1001}",
+                            "params": {
+                                "1121015": {
+                                    "main": 164300,
+                                    "growth": 14940,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1121015, Prop:1002}",
+                            "params": {
+                                "1121015": {
+                                    "main": 11000,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Joint Account",
+                    "description": "When the active character is launched, press  to activate:\nStrikes enemies in front, dealing Fire DMG.\nCharacter is invulnerable during the attack.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Risk Allocation",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Don't Break Contract",
+                    "description": "Press  after a Defensive Assist to activate:\nCharges and strikes enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Joint Account",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1121016, Prop:1001}",
+                            "params": {
+                                "1121016": {
+                                    "main": 9670,
+                                    "growth": 880,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1121016, Prop:1002}",
+                            "params": {
+                                "1121016": {
+                                    "main": 9670,
+                                    "growth": 440,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Risk Allocation",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1121017, Prop:1002}",
+                            "params": {
+                                "1121017": {
+                                    "main": 22510,
+                                    "growth": 1030,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1121018, Prop:1002}",
+                            "params": {
+                                "1121018": {
+                                    "main": 26840,
+                                    "growth": 1220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1121019, Prop:1002}",
+                            "params": {
+                                "1121019": {
+                                    "main": 10840,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Don't Break Contract",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1121020, Prop:1001}",
+                            "params": {
+                                "1121020": {
+                                    "main": 32590,
+                                    "growth": 2970,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1121020, Prop:1002}",
+                            "params": {
+                                "1121020": {
+                                    "main": 28280,
+                                    "growth": 1290,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1121501,
+                "names": [
+                    "Core Passive: Guardian",
+                    "Additional Ability: Contractual Agreement"
+                ],
+                "descriptions": [
+                    "Ben's initial ATK increases along with his initial DEF. He gains 40% of his initial DEF as ATK.\nWhen Ben launches a follow-up attack during his EX Special Attack, all squad members gain a Shield of 15% of his DEF +100, lasting for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile the Shield from Core Passive: Guardian is in effect, the character's CRIT Rate is increased by 16%."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1121502,
+                "names": [
+                    "Core Passive: Guardian",
+                    "Additional Ability: Contractual Agreement"
+                ],
+                "descriptions": [
+                    "Ben's initial ATK increases along with his initial DEF. He gains 46% of his initial DEF as ATK.\nWhen Ben launches a follow-up attack during his EX Special Attack, all squad members gain a Shield of 17.5% of his DEF +220, lasting for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile the Shield from Core Passive: Guardian is in effect, the character's CRIT Rate is increased by 16%."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1121503,
+                "names": [
+                    "Core Passive: Guardian",
+                    "Additional Ability: Contractual Agreement"
+                ],
+                "descriptions": [
+                    "Ben's initial ATK increases along with his initial DEF. He gains 52% of his initial DEF as ATK.\nWhen Ben launches a follow-up attack during his EX Special Attack, all squad members gain a Shield of 20% of his DEF +330, lasting for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile the Shield from Core Passive: Guardian is in effect, the character's CRIT Rate is increased by 16%."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1121504,
+                "names": [
+                    "Core Passive: Guardian",
+                    "Additional Ability: Contractual Agreement"
+                ],
+                "descriptions": [
+                    "Ben's initial ATK increases along with his initial DEF. He gains 60% of his initial DEF as ATK.\nWhen Ben launches a follow-up attack during his EX Special Attack, all squad members gain a Shield of 22.5% of his DEF +460, lasting for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile the Shield from Core Passive: Guardian is in effect, the character's CRIT Rate is increased by 16%."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1121505,
+                "names": [
+                    "Core Passive: Guardian",
+                    "Additional Ability: Contractual Agreement"
+                ],
+                "descriptions": [
+                    "Ben's initial ATK increases along with his initial DEF. He gains 66% of his initial DEF as ATK.\nWhen Ben launches a follow-up attack during his EX Special Attack, all squad members gain a Shield of 25% of his DEF +500, lasting for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile the Shield from Core Passive: Guardian is in effect, the character's CRIT Rate is increased by 16%."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1121506,
+                "names": [
+                    "Core Passive: Guardian",
+                    "Additional Ability: Contractual Agreement"
+                ],
+                "descriptions": [
+                    "Ben's initial ATK increases along with his initial DEF. He gains 72% of his initial DEF as ATK.\nWhen Ben launches a follow-up attack during his EX Special Attack, all squad members gain a Shield of 27.5% of his DEF +525, lasting for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile the Shield from Core Passive: Guardian is in effect, the character's CRIT Rate is increased by 16%."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1121507,
+                "names": [
+                    "Core Passive: Guardian",
+                    "Additional Ability: Contractual Agreement"
+                ],
+                "descriptions": [
+                    "Ben's initial ATK increases along with his initial DEF. He gains 80% of his initial DEF as ATK.\nWhen Ben launches a follow-up attack during his EX Special Attack, all squad members gain a Shield of 30% of his DEF +550, lasting for 30s.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhile the Shield from Core Passive: Guardian is in effect, the character's CRIT Rate is increased by 16%."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110504,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110504,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110504,
+                    "amount": 9
+                },
+                {
+                    "id": 110002,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110504,
+                    "amount": 15
+                },
+                {
+                    "id": 110002,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110504,
+                    "amount": 30
+                },
+                {
+                    "id": 110002,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1121_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1121_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1121_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect16.webp"
+}

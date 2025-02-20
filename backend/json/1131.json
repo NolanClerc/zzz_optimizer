@@ -1,0 +1,1739 @@
+{
+    "id": 1131,
+    "image": "https://api.hakush.in/zzz/UI/IconRole17.webp",
+    "name": "Soukaku",
+    "code_name": "Soukaku",
+    "rarity": "A",
+    "specialty": {
+        "id": 4,
+        "name": "Support"
+    },
+    "element": {
+        "id": 202,
+        "name": "Ice"
+    },
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "faction": {
+        "id": 6,
+        "name": "Hollow Special Operations Section 6"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "JAN 23",
+        "full_name": "Soukaku",
+        "gender": "Female",
+        "female_impression": "So many \"avoid doing this\" and \"don't do thats\"... It makes it look like Soukaku's difficult to get along with, but she's a super cute and sweet kid!",
+        "male_impression": "That's probably because we've always avoided the things Fairy warns us about... At least, I won't be taking the risk and trying anything.",
+        "outlook_desc": "Hollow Investigative Association Licensing Archive:\nExecutive Officer Soukaku, Ether aptitude confidential, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: Considering prior combat data, it can be deduced that Soukaku, as an Oni, possesses exceptional Ether aptitude.",
+        "profile_desc": "Soukaku is a member of Hollow Special Operations Section 6 and currently under the guardianship of Section 6's Deputy Chief, Tsukishiro Yanagi.\nSoukaku's birth records cannot be found in either the HIA archives or the New Eridu Citizen Verification Profiles. Her records only date back to when she started living with Tsukishiro Yanagi.\nThere are also no records of her schooling. According to supplementary information, Soukaku is currently homeschooled.\n\nSoukaku is naive, innocent, and carefree, but she possesses an uncharacteristic obsession with food. Please be careful not to let Soukaku become too hungry.\nAt the same time, please do not let Soukaku see food being wasted. This is unacceptable behavior to Soukaku. Deduction: Soukaku has experienced famine before.\n\nSoukaku's understanding of city life and human society is limited, and her view of life and death differs from most people.\nUsually, Soukaku is willing to believe anything other people say, but that doesn't mean she can't tell when something is a lie.\nIn fact, prior data shows that unless one has the ability to run and hide on par with Section 6, it would be in one's best interest to avoid lying to Soukaku.",
+        "faction": "Hollow Special Operations Section 6",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Story \"Leisurely Lull: Goldfinch's Escape\" (available after completing Main Story Chapter 5)"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 96.0,
+        "AttackGrowth": 54887.0,
+        "AvatarPieceId": 5131.0,
+        "BreakStun": 86.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 48.0,
+        "DefenceGrowth": 65185.0,
+        "ElementAbnormalPower": 93.0,
+        "ElementMystery": 96.0,
+        "Endurance": 0.0,
+        "HpGrowth": 875757.0,
+        "HpMax": 645.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Uplifting Current",
+            "description": "When Soukaku triggers Core Passive: Blade Banner or Additional Ability: Group Set Meal, the buff duration is increased by 8s.",
+            "description2": "When charged, the special charging module can generate a wind current of Ether energy to charge surrounding Ether devices.\nTo Soukaku, it's just like having a buffet with friends.\n\"Guys~ It's all-you-can-eat time!\""
+        },
+        {
+            "level": 2,
+            "name": "Experimental Charging Module",
+            "description": "When Soukaku's Basic Attack, Dash Attack, Dodge Counter, or Quick Assist hits an enemy, there's a 15% chance she gains 1 stack of Vortex, triggering up to once per second.\nWhen Vortex reaches max stacks, any additional stacks grant Soukaku 1.2 Energy instead.",
+            "description2": "A charging module is able to continuously accumulate energy during battle.\nTherefore, it is regarded as an era-defining conceptual tactical weapon by the R&D department.\nBut for Soukaku, fully charging it simply means it's time to eat."
+        },
+        {
+            "level": 3,
+            "name": "Attendance Meal Allowance",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "The best way to motivate Soukaku to train harder is simple: just increase her attendance meal allowance."
+        },
+        {
+            "level": 4,
+            "name": "Hypothermia",
+            "description": "If an enemy is hit by Fly the Flag, the target's Ice RES is reduced by 10% for 8s.",
+            "description2": "The custom-made weapon Oni Banner features a powerful built-in cooling system. Its Ether-infused catalyst generates cold air, dealing significant DMG to enemies it hits."
+        },
+        {
+            "level": 5,
+            "name": "Late-Night Snacks",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "To further incentivize Soukaku to train is simple: just add a late-night snack top of the attendance meal allowance."
+        },
+        {
+            "level": 6,
+            "name": "Northern Wind",
+            "description": "While in the Frosted Banner state, the number of usable enhanced Basic Attacks and enhanced Dash Attacks is increased to 12, and also deal 45% more DMG.",
+            "description2": "Unlocking the safety device within the blade banner allows it to operate at full capacity. It's not just for combat... it's also handy for cooling down a meal."
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100214,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 443,
+            "attack": 34,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100224,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 886,
+            "attack": 68,
+            "defense": 66,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100224,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1329,
+            "attack": 103,
+            "defense": 99,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100234,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1772,
+            "attack": 137,
+            "defense": 132,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100234,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2214,
+            "attack": 171,
+            "defense": 165,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Making Rice Cakes",
+                    "description": "Press  to activate:\nUnleashes up to 3 attacks, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Making Rice Cakes (Frosted Banner)",
+                    "description": "When Frosted Banner is active, press  to activate:\nUnleashes up to 3 faster attacks in front, dealing Ice DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Making Rice Cakes",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1131001, Prop:1001}",
+                            "params": {
+                                "1131001": {
+                                    "main": 6620,
+                                    "growth": 610,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1131002, Prop:1001}",
+                            "params": {
+                                "1131002": {
+                                    "main": 21630,
+                                    "growth": 1970,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1131003, Prop:1001}",
+                            "params": {
+                                "1131003": {
+                                    "main": 29310,
+                                    "growth": 2670,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1131001, Prop:1002}",
+                            "params": {
+                                "1131001": {
+                                    "main": 3310,
+                                    "growth": 160,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1131002, Prop:1002}",
+                            "params": {
+                                "1131002": {
+                                    "main": 18800,
+                                    "growth": 860,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1131003, Prop:1002}",
+                            "params": {
+                                "1131003": {
+                                    "main": 22170,
+                                    "growth": 1010,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Making Rice Cakes (Frosted Banner)",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1131004, Prop:1001}",
+                            "params": {
+                                "1131004": {
+                                    "main": 7660,
+                                    "growth": 700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1131005, Prop:1001}",
+                            "params": {
+                                "1131005": {
+                                    "main": 22850,
+                                    "growth": 2080,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1131006, Prop:1001}",
+                            "params": {
+                                "1131006": {
+                                    "main": 51140,
+                                    "growth": 4650,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1131004, Prop:1002}",
+                            "params": {
+                                "1131004": {
+                                    "main": 4660,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1131005, Prop:1002}",
+                            "params": {
+                                "1131005": {
+                                    "main": 12750,
+                                    "growth": 580,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1131006, Prop:1002}",
+                            "params": {
+                                "1131006": {
+                                    "main": 26330,
+                                    "growth": 1200,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Grab a Bite",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: 50/50",
+                    "description": "Press  during a dodge to activate:\nSlashes enemies in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: 50/50 (Frosted Banner)",
+                    "description": "When Frosted Banner is active, press  during a Dodge to activate:\nSlashes enemies in front, dealing Ice DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Away From My Snacks",
+                    "description": "Press  during a Perfect Dodge to activate:\nSlashes enemies in front, dealing Ice DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: 50/50",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1131015, Prop:1001}",
+                            "params": {
+                                "1131015": {
+                                    "main": 7670,
+                                    "growth": 700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1131015, Prop:1002}",
+                            "params": {
+                                "1131015": {
+                                    "main": 3840,
+                                    "growth": 180,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dash Attack: 50/50 (Frosted Banner)",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1131016, Prop:1001}",
+                            "params": {
+                                "1131016": {
+                                    "main": 13150,
+                                    "growth": 1200,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1131016, Prop:1002}",
+                            "params": {
+                                "1131016": {
+                                    "main": 8010,
+                                    "growth": 370,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Away From My Snacks",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1131017, Prop:1001}",
+                            "params": {
+                                "1131017": {
+                                    "main": 24730,
+                                    "growth": 2250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1131017, Prop:1002}",
+                            "params": {
+                                "1131017": {
+                                    "main": 21340,
+                                    "growth": 970,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Cooling Bento",
+                    "description": "Press  to activate:\nSoukaku releases a wind current in front of her and unleashes her finishing move, dealing Ice DMG.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.\nHolding  while using this skill allows for a quick transition to Fly the Flag.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Fanning Mosquitoes",
+                    "description": "With enough Energy, press  to activate:\nReleases wind currents of extended range in front of her, dealing massive Ice DMG.\nThis skill can be triggered consecutively by pressing repeatedly. Each use consumes a specified amount of Energy. When Soukaku's Energy is depleted, or you stop pressing the button, she unleashes a powerful finishing move that deals massive Ice DMG.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.\nHolding  while using this skill allows for a quick transition to Fly the Flag.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Rally!",
+                    "description": "Hold  to activate:\nSoukaku plunges her weapon into the ground, morphs it into a flag, and launches Fly the Flag, dealing Ice DMG. Hitting an enemy with Fly the Flag triggers a Quick Assist.\nPressing  or  after Fly the Flag activates a Special Attack as she retracts the flag, dealing Ice DMG.\nIf Soukaku owns 3 stacks of Vortex on using Fly the Flag, she consumes all 3 stacks and enters the Frosted Banner state. In the Frosted Banner state, she can unleash an enhanced Basic Attack or an enhanced Dash Attack, dealing massive Ice DMG. This effect can last up to 45s or stack up to 6 times.\nSoukaku's weapon gains Vortexes in the following circumstances:\nGains 1 stack of Vortex when launching an EX Special Attack,\nGains 1 stack of Vortex when launching a Chain Attack,\nGains 3 stacks of Vortex when launching an Ultimate.\nSoukaku can accumulate a maximum of 3 stacks of Vortex.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Cooling Bento",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1131008, Prop:1001}",
+                            "params": {
+                                "1131008": {
+                                    "main": 2840,
+                                    "growth": 260,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Finishing Move DMG Multiplier",
+                            "description": "{Skill:1131009, Prop:1001}",
+                            "params": {
+                                "1131009": {
+                                    "main": 10010,
+                                    "growth": 910,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1131008, Prop:1002}",
+                            "params": {
+                                "1131008": {
+                                    "main": 2840,
+                                    "growth": 130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Finishing Move Daze Multiplier",
+                            "description": "{Skill:1131009, Prop:1002}",
+                            "params": {
+                                "1131009": {
+                                    "main": 10010,
+                                    "growth": 460,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Fanning Mosquitoes",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Consecutive Attack DMG Multiplier",
+                            "description": "{{Skill:1131011, Prop:1001}/2}",
+                            "params": {
+                                "1131011": {
+                                    "main": 26240,
+                                    "growth": 2390,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Wind Current DMG Multiplier",
+                            "description": "{Skill:1131010, Prop:1001}",
+                            "params": {
+                                "1131010": {
+                                    "main": 10210,
+                                    "growth": 930,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Consecutive Attack Daze Multiplier",
+                            "description": "{{Skill:1131011, Prop:1002}/2}",
+                            "params": {
+                                "1131011": {
+                                    "main": 22580,
+                                    "growth": 1030,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Wind Current Daze Multiplier",
+                            "description": "{Skill:1131010, Prop:1002}",
+                            "params": {
+                                "1131010": {
+                                    "main": 8790,
+                                    "growth": 400,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost to Use",
+                            "description": "60",
+                            "params": null
+                        },
+                        {
+                            "name": "Energy Cost of Each Attack",
+                            "description": "30",
+                            "params": null
+                        }
+                    ]
+                },
+                {
+                    "name": "Special Attack: Rally!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Fly the Flag DMG Multiplier",
+                            "description": "{Skill:1131012, Prop:1001}",
+                            "params": {
+                                "1131012": {
+                                    "main": 25010,
+                                    "growth": 2280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Quick Fly the Flag DMG Multiplier",
+                            "description": "{Skill:1131013, Prop:1001}",
+                            "params": {
+                                "1131013": {
+                                    "main": 14010,
+                                    "growth": 1280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Lowering the Flag DMG Multiplier",
+                            "description": "{Skill:1131014, Prop:1001}",
+                            "params": {
+                                "1131014": {
+                                    "main": 24500,
+                                    "growth": 2230,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Fly the Flag Daze Multiplier",
+                            "description": "{Skill:1131012, Prop:1002}",
+                            "params": {
+                                "1131012": {
+                                    "main": 27510,
+                                    "growth": 1260,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Quick Fly the Flag Daze Multiplier",
+                            "description": "{Skill:1131013, Prop:1002}",
+                            "params": {
+                                "1131013": {
+                                    "main": 14010,
+                                    "growth": 640,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Lowering the Flag Daze Multiplier",
+                            "description": "{Skill:1131014, Prop:1002}",
+                            "params": {
+                                "1131014": {
+                                    "main": 24500,
+                                    "growth": 1120,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Pudding Slash",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nSoukaku quickly unleashes a series of strikes at enemies in front of her and follows up with Fly the Flag, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Jumbo Pudding Slash",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nSoukaku quickly unleashes an extended series of strikes at enemies in front of her and follows up with Fly the Flag, dealing massive Ice DMG.\nUpon activating this skill, Soukaku enters the Masked state, increasing her CRIT Rate by 15% for 15s.\nUpon activating this skill, other squad members recover 10 Energy. The next character to switch in gains an additional 20 Energy.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Pudding Slash",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1131018, Prop:1001}",
+                            "params": {
+                                "1131018": {
+                                    "main": 74580,
+                                    "growth": 6780,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1131018, Prop:1002}",
+                            "params": {
+                                "1131018": {
+                                    "main": 34680,
+                                    "growth": 1580,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Jumbo Pudding Slash",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1131019, Prop:1001}",
+                            "params": {
+                                "1131019": {
+                                    "main": 198980,
+                                    "growth": 18090,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1131019, Prop:1002}",
+                            "params": {
+                                "1131019": {
+                                    "main": 37680,
+                                    "growth": 1720,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: A Set for Two",
+                    "description": "When the active character is launched, press  to activate:\nSlashes enemies in front, dealing Ice DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Guarding Tactics",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Sweeping Strike",
+                    "description": "Press  after a Defensive Assist to activate:\nCharges and strikes enemies in front, dealing Ice DMG.\nCharacter is invulnerable while using this skill.\nHolding  while using this skill allows for a quick transition to Fly the Flag.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: A Set for Two",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1131020, Prop:1001}",
+                            "params": {
+                                "1131020": {
+                                    "main": 11340,
+                                    "growth": 1040,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1131020, Prop:1002}",
+                            "params": {
+                                "1131020": {
+                                    "main": 11340,
+                                    "growth": 520,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Guarding Tactics",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1131021, Prop:1002}",
+                            "params": {
+                                "1131021": {
+                                    "main": 24670,
+                                    "growth": 1130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1131022, Prop:1002}",
+                            "params": {
+                                "1131022": {
+                                    "main": 31170,
+                                    "growth": 1420,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1131023, Prop:1002}",
+                            "params": {
+                                "1131023": {
+                                    "main": 15170,
+                                    "growth": 690,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Sweeping Strike",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{{Skill:1131024, Prop:1001} + {Skill:1131026, Prop:1001}}",
+                            "params": {
+                                "1131024": {
+                                    "main": 26400,
+                                    "growth": 2400,
+                                    "format": "%"
+                                },
+                                "1131026": {
+                                    "main": 11320,
+                                    "growth": 1030,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{{Skill:1131024, Prop:1002} + {Skill:1131026, Prop:1002}}",
+                            "params": {
+                                "1131024": {
+                                    "main": 23130,
+                                    "growth": 1060,
+                                    "format": "%"
+                                },
+                                "1131026": {
+                                    "main": 9910,
+                                    "growth": 460,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1131501,
+                "names": [
+                    "Core Passive: Blade Banner",
+                    "Additional Ability: Group Set Meal"
+                ],
+                "descriptions": [
+                    "When Soukaku launches Fly the Flag, her ATK is increased by 10% of her initial ATK, up to 500, for 22s. When consuming Vortex during Fly the Flag, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via Quick Assists or Chain Attacks triggered by Fly the Flag, and it refreshes the duration of the buff.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes Vortex to activate Fly the Flag, the Ice DMG of all squad members is increased by 20% for 22s."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1131502,
+                "names": [
+                    "Core Passive: Blade Banner",
+                    "Additional Ability: Group Set Meal"
+                ],
+                "descriptions": [
+                    "When Soukaku launches Fly the Flag, her ATK is increased by 12.5% of her initial ATK, up to 500, for 22s. When consuming Vortex during Fly the Flag, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via Quick Assists or Chain Attacks triggered by Fly the Flag, and it refreshes the duration of the buff.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes Vortex to activate Fly the Flag, the Ice DMG of all squad members is increased by 20% for 22s."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1131503,
+                "names": [
+                    "Core Passive: Blade Banner",
+                    "Additional Ability: Group Set Meal"
+                ],
+                "descriptions": [
+                    "When Soukaku launches Fly the Flag, her ATK is increased by 15% of her initial ATK, up to 500, for 22s. When consuming Vortex during Fly the Flag, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via Quick Assists or Chain Attacks triggered by Fly the Flag, and it refreshes the duration of the buff.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes Vortex to activate Fly the Flag, the Ice DMG of all squad members is increased by 20% for 22s."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1131504,
+                "names": [
+                    "Core Passive: Blade Banner",
+                    "Additional Ability: Group Set Meal"
+                ],
+                "descriptions": [
+                    "When Soukaku launches Fly the Flag, her ATK is increased by 17% of her initial ATK, up to 500, for 22s. When consuming Vortex during Fly the Flag, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via Quick Assists or Chain Attacks triggered by Fly the Flag, and it refreshes the duration of the buff.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes Vortex to activate Fly the Flag, the Ice DMG of all squad members is increased by 20% for 22s."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1131505,
+                "names": [
+                    "Core Passive: Blade Banner",
+                    "Additional Ability: Group Set Meal"
+                ],
+                "descriptions": [
+                    "When Soukaku launches Fly the Flag, her ATK is increased by 18% of her initial ATK, up to 500, for 22s. When consuming Vortex during Fly the Flag, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via Quick Assists or Chain Attacks triggered by Fly the Flag, and it refreshes the duration of the buff.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes Vortex to activate Fly the Flag, the Ice DMG of all squad members is increased by 20% for 22s."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1131506,
+                "names": [
+                    "Core Passive: Blade Banner",
+                    "Additional Ability: Group Set Meal"
+                ],
+                "descriptions": [
+                    "When Soukaku launches Fly the Flag, her ATK is increased by 19% of her initial ATK, up to 500, for 22s. When consuming Vortex during Fly the Flag, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via Quick Assists or Chain Attacks triggered by Fly the Flag, and it refreshes the duration of the buff.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes Vortex to activate Fly the Flag, the Ice DMG of all squad members is increased by 20% for 22s."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1131507,
+                "names": [
+                    "Core Passive: Blade Banner",
+                    "Additional Ability: Group Set Meal"
+                ],
+                "descriptions": [
+                    "When Soukaku launches Fly the Flag, her ATK is increased by 20% of her initial ATK, up to 500, for 22s. When consuming Vortex during Fly the Flag, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via Quick Assists or Chain Attacks triggered by Fly the Flag, and it refreshes the duration of the buff.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes Vortex to activate Fly the Flag, the Ice DMG of all squad members is increased by 20% for 22s."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110501,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110501,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110501,
+                    "amount": 9
+                },
+                {
+                    "id": 110003,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110501,
+                    "amount": 15
+                },
+                {
+                    "id": 110003,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110501,
+                    "amount": 30
+                },
+                {
+                    "id": 110003,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1131_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1131_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1131_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect17.webp"
+}

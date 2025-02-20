@@ -1,0 +1,1678 @@
+{
+    "id": 1251,
+    "image": "https://api.hakush.in/zzz/UI/IconRole29.webp",
+    "name": "Qingyi",
+    "code_name": "QingYi",
+    "rarity": "S",
+    "specialty": {
+        "id": 2,
+        "name": "Stun"
+    },
+    "element": {
+        "id": 203,
+        "name": "Electric"
+    },
+    "attack_type": {
+        "id": 102,
+        "name": "Strike"
+    },
+    "faction": {
+        "id": 7,
+        "name": "Criminal Investigation Special Response Team"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "JAN 1",
+        "full_name": "Qingyi",
+        "gender": "Female",
+        "female_impression": "Why does Fairy only warn us once when it comes to Qingyi? She warned us to \"remember our true identity\" three whole times when she gave suggestions about Zhu Yuan!",
+        "male_impression": "Because even if she knew, she'd pretend she didn't...\nShe might even have already guessed.",
+        "outlook_desc": "Hollow Investigative Association Licensing Archive:\nPublic Security Officer: Qingyi. Ether aptitude confidential. Licensed for investigation, exploration, and other basic work in known Hollows (including Companion Hollows) in the city.\nNote: Qingyi's file belongs to the New Eridu Public Security Janus Quarter Metropolitan Order Division Criminal Investigation Special Response Team. The relevant information can be obtained within the Public Security system, requiring special access permissions.\nFurther Note: As an intelligent construct, Qingyi demonstrates exceptional Ether aptitude.",
+        "profile_desc": "Qingyi is a rookie officer in the Criminal Investigation Special Response Team.\nAs an artificial human, her personality is derived from ancient cultural texts from the old civilization. Her body, known as an \"Automaton,\" is an intelligent construct composed of biological materials.\nRecommended by White Star Institute, she was assigned to Public Security as a rookie officer partnered with Zhu Yuan.\n\nQingyi always exhibits an easygoing, laid-back demeanor, not restricted by rules.\nIn contrast to modern individuals affected by today's society, Qingyi frequently proposes unexpected solutions to problems.\n\nQingyi always carries a cup of hot water and takes occasional sips.\n\"Drinking hot water is good for your health.\"\nSuggestion: Approaching Qingyi is also an ill-considered decision that may compromise your cover. Please remember your true identity as a Proxy.",
+        "faction": "Sixth Street",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission",
+            "Complete Main Commission Chapter 2 Interlude"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 109.0,
+        "AttackGrowth": 64272.0,
+        "AvatarPieceId": 5251.0,
+        "BreakStun": 118.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66882.0,
+        "ElementAbnormalPower": 94.0,
+        "ElementMystery": 93.0,
+        "Endurance": 0.0,
+        "HpGrowth": 900269.0,
+        "HpMax": 663.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Insulation Breakdown",
+            "description": "When Qingyi enters combat, Flash Connect Voltage is instantly restored to its maximum, and the accumulation rate is increased by 30%. When using her Basic Attack: Enchanted Moonlit Blossoms, if Flash Connect Voltage is at its maximum, the attack will reduce the DEF of the enemy it hits by 15%, and Qingyi's CRIT Rate against that enemy will increase by 20% for 15s.",
+            "description2": "\"While there will be no threat to your life, we kindly request you do not resist arrest...\"\nThe direction and intensity of the current have been precisely calculated to ensure that every suspect receives a safe electric shock experience."
+        },
+        {
+            "level": 2,
+            "name": "Minimal Effort, Maximum Impact",
+            "description": "The Stun DMG Multiplier increase provided by each stack of Subjugation in Core Passive: Eternal Seasons increases to 135% of its original value. When Qingyi's attack hits an enemy and the stacks of Subjugation she applies reaches its maximum stacks, her Daze dealt to the target increases by 15%.",
+            "description2": "An ancient combat technique mentioned in old civillization texts. It seems to have started as a martial arts technique, rather than a staff technique.\n\"Don't be so constrained, the arm itself can be used like a three-section staff, mhm.\""
+        },
+        {
+            "level": 3,
+            "name": "Drink Hot Water",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"Young people should be mindful their health, and drinking more hot water is a good start.\"\nQingyi always appears comforted when she drinks from her flask. But be careful if she offers you a drink—\n\"Even 100-degree Celsius boiling water doesn't faze her...\" One Public Security Officer who encountered this left such a note."
+        },
+        {
+            "level": 4,
+            "name": "Stable Arc Barrier",
+            "description": "Upon entering or exiting Flash Connect state, gain a shield equal to 10% of Qingyi's Max HP. If a previous shield is still active when the shield effect refreshes, Qingyi generates 5 Energy. This Energy Generation effect can be triggered once every 10s.",
+            "description2": "By reverse-engineering Automatons from the old civilization, the White Star Institute developed the Arc Barrier, a technology that combines defense, attack, and electrical energy conversion.\n\"As the saying goes: Water can float a boat or sink it. Physics has a saying: Electric current flows like water. Therefore: Electric current can be used both offensively and defensively. It's a fantastic combination.\""
+        },
+        {
+            "level": 5,
+            "name": "Youthful Spirit",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"Great, young people should be courageous and try new things. Keep it up!\"\nIt sometimes feels like Qingyi's encouragement is lazy and teasing, but if you really get into trouble, just rely on her.\nAfter all, she's been around for centuries and can handle anything."
+        },
+        {
+            "level": 6,
+            "name": "Eight Meridians",
+            "description": "The Interrupt Level of Basic Attack: Enchanted Moonlit Blossoms is greatly increased, and the CRIT DMG is increased by an additional 100%. When Qingyi hits an enemy with her Basic Attack: Enchanted Moonlit Blossoms, the target's Attribute DMG RES is reduced by 20% for 15s.",
+            "description2": "A theory about the human circulatory system documented in ancient texts from the old civilization. It's said those who fully master this theory can instantly disable an opponent in a fight.\n\"How about trying the pressure points that cause itching next time? Who should be the guinea pig? Manager? Or Zhu Yuan?\""
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100212,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 455,
+            "attack": 39,
+            "defense": 34,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100222,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 911,
+            "attack": 78,
+            "defense": 68,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100222,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1366,
+            "attack": 117,
+            "defense": 101,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100232,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1821,
+            "attack": 156,
+            "defense": 135,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100232,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2276,
+            "attack": 195,
+            "defense": 169,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 6,
+                    "formatted_value": "6"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 6,
+                    "formatted_value": "6"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 18,
+                    "formatted_value": "18"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 18,
+                    "formatted_value": "18"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Penultimate",
+                    "description": "Press  to activate:\nLaunch up to four strikes forward, dealing Physical DMG and Electric DMG.\nDuring the 3rd-hit, repeatedly press  to continue the attack, continuously striking the enemy. Using Dodge during this period will not interrupt Qingyi's Basic Attack combo count.\nDuring the 3rd hit, stop pressing  to interrupt the continuous attack, transitioning automatically to the 4th hit. If the continuous attack lasts for a certain time, the 4th hit will be enhanced.\nAnti-Interrupt Level is increased and DMG received is reduced by 40% during the 3rd and 4th hit.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Enchanted Blossoms",
+                    "description": "Hold  to activate:\nLaunches a forward rush attack, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Flash Connect",
+                    "description": "When Qingyi deals Electric DMG with a skill, she accumulates Flash Connect Voltage. When Flash Connect Voltage reaches 75%, she will enter the Flash Connect state. When using her Basic Attack: Enchanted Moonlit Blossoms, Qingyi will consume all Flash Connect Voltage and exit the Flash Connect state. For every 1% of Flash Connect Voltage consumed over 75%, her Damage and Daze inflicted by this skill will be increased by 1%/0.5%. Basic Attack: Enchanted Moonlit Blossoms itself does not accumulate Flash Connect Voltage.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Enchanted Moonlit Blossoms",
+                    "description": "During the Flash Connect state, hold  to activate:\nLaunch five consecutive forward rush attacks, then execute a Finishing Move that inflicts massive Electric DMG. Release  during the move to trigger the Finishing Move early.\nActivate the Finishing Move just before the character is attacked to trigger Perfect Dodge.\nAnti-Interrupt level is increased and DMG received is reduced by 40% during the rush attack. Qingyi is invulnerable during the Finishing Move.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Penultimate",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1251001, Prop:1001}",
+                            "params": {
+                                "1251001": {
+                                    "main": 4720,
+                                    "growth": 430,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit DMG Multiplier (ALT)",
+                            "description": "{Skill:1251002, Prop:1001}",
+                            "params": {
+                                "1251002": {
+                                    "main": 11030,
+                                    "growth": 1010,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1251003, Prop:1001}",
+                            "params": {
+                                "1251003": {
+                                    "main": 12210,
+                                    "growth": 1110,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1251004, Prop:1001}",
+                            "params": {
+                                "1251004": {
+                                    "main": 1760,
+                                    "growth": 160,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1251005, Prop:1001}",
+                            "params": {
+                                "1251005": {
+                                    "main": 10640,
+                                    "growth": 970,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier (Enhanced)",
+                            "description": "{Skill:1251006, Prop:1001}",
+                            "params": {
+                                "1251006": {
+                                    "main": 23440,
+                                    "growth": 2140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1251001, Prop:1002}",
+                            "params": {
+                                "1251001": {
+                                    "main": 2360,
+                                    "growth": 110,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier (ALT)",
+                            "description": "{Skill:1251002, Prop:1002}",
+                            "params": {
+                                "1251002": {
+                                    "main": 5520,
+                                    "growth": 260,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1251003, Prop:1002}",
+                            "params": {
+                                "1251003": {
+                                    "main": 8220,
+                                    "growth": 380,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1251004, Prop:1002}",
+                            "params": {
+                                "1251004": {
+                                    "main": 1910,
+                                    "growth": 90,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1251005, Prop:1002}",
+                            "params": {
+                                "1251005": {
+                                    "main": 10630,
+                                    "growth": 490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier (Enhanced)",
+                            "description": "{Skill:1251006, Prop:1002}",
+                            "params": {
+                                "1251006": {
+                                    "main": 20470,
+                                    "growth": 940,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Enchanted Blossoms",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1251007, Prop:1001}",
+                            "params": {
+                                "1251007": {
+                                    "main": 8560,
+                                    "growth": 780,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1251007, Prop:1002}",
+                            "params": {
+                                "1251007": {
+                                    "main": 8560,
+                                    "growth": 390,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Enchanted Moonlit Blossoms",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Rush Attack DMG Multiplier",
+                            "description": "{Skill:1251008, Prop:1001}",
+                            "params": {
+                                "1251008": {
+                                    "main": 44870,
+                                    "growth": 4080,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Finishing Move DMG Multiplier",
+                            "description": "{Skill:1251009, Prop:1001}",
+                            "params": {
+                                "1251009": {
+                                    "main": 39440,
+                                    "growth": 3590,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Rush Attack Daze Multiplier",
+                            "description": "{Skill:1251008, Prop:1002}",
+                            "params": {
+                                "1251008": {
+                                    "main": 27190,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Finishing Move Daze Multiplier",
+                            "description": "{Skill:1251009, Prop:1002}",
+                            "params": {
+                                "1251009": {
+                                    "main": 21760,
+                                    "growth": 990,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Swan Song",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Breach",
+                    "description": "Press  during a Dodge to activate:\nRush forward and then launch an upward attack, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Lingering Sentiments",
+                    "description": "Press  during a Perfect Dodge to activate:\nLeap into the air and then perform a downward attack, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Breach",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1251012, Prop:1001}",
+                            "params": {
+                                "1251012": {
+                                    "main": 4950,
+                                    "growth": 450,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1251012, Prop:1002}",
+                            "params": {
+                                "1251012": {
+                                    "main": 2480,
+                                    "growth": 120,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Lingering Sentiments",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1251013, Prop:1001}",
+                            "params": {
+                                "1251013": {
+                                    "main": 28400,
+                                    "growth": 2590,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1251013, Prop:1002}",
+                            "params": {
+                                "1251013": {
+                                    "main": 19040,
+                                    "growth": 870,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Sunlit Glory",
+                    "description": "Press  to activate:\nQuickly swings upward, followed by a downward smash, dealing Electric DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Moonlit Begonia",
+                    "description": "With enough Energy, press  to activate:\nQuickly swings upward and leaps into the air, turning around to launch a series of attacks, then follows up with a powerful downward smash, dealing massive Electric DMG.\nHold  to consume additional energy to increase the number of hits of the series of attacks.\nCharacter is invulnerable while using this skill.\nAfter executing the move, you can immediately follow up with the 3rd-hit of a Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Sunlit Glory",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1251010, Prop:1001}",
+                            "params": {
+                                "1251010": {
+                                    "main": 6240,
+                                    "growth": 570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1251010, Prop:1002}",
+                            "params": {
+                                "1251010": {
+                                    "main": 6240,
+                                    "growth": 290,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Moonlit Begonia",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{{Skill:1251011, Prop:1001} + {Skill:1251021, Prop:1001} + {Skill:1251022, Prop:1001}}",
+                            "params": {
+                                "1251011": {
+                                    "main": 15070,
+                                    "growth": 1370,
+                                    "format": "%"
+                                },
+                                "1251021": {
+                                    "main": 21100,
+                                    "growth": 1920,
+                                    "format": "%"
+                                },
+                                "1251022": {
+                                    "main": 24110,
+                                    "growth": 2200,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{{Skill:1251011, Prop:1002} + {Skill:1251021, Prop:1002} + {Skill:1251022, Prop:1002}}",
+                            "params": {
+                                "1251011": {
+                                    "main": 11110,
+                                    "growth": 510,
+                                    "format": "%"
+                                },
+                                "1251021": {
+                                    "main": 15550,
+                                    "growth": 710,
+                                    "format": "%"
+                                },
+                                "1251022": {
+                                    "main": 17770,
+                                    "growth": 810,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "60",
+                            "params": null
+                        },
+                        {
+                            "name": "Additional Energy Cost",
+                            "description": "20",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Tranquil Serenade",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nLaunch a series of powerful strikes over a large area in front, dealing massive Electric DMG\nWhen this attack hits an enemy, the skill's DMG increases by 3% for every stack of Subjugation in Core Passive: Eternal Seasons the target has.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Eight Sounds of Ganzhou",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nLaunch a series of powerful strikes over a large area in front, followed by a Finishing Move, dealing massive Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Tranquil Serenade",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1251014, Prop:1001}",
+                            "params": {
+                                "1251014": {
+                                    "main": 64790,
+                                    "growth": 5890,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1251014, Prop:1002}",
+                            "params": {
+                                "1251014": {
+                                    "main": 20900,
+                                    "growth": 950,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Eight Sounds of Ganzhou",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1251015, Prop:1001}",
+                            "params": {
+                                "1251015": {
+                                    "main": 167070,
+                                    "growth": 15190,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1251015, Prop:1002}",
+                            "params": {
+                                "1251015": {
+                                    "main": 109710,
+                                    "growth": 4990,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Wind Through the Pines",
+                    "description": "When the active character is launched, press  to activate:\nLeap into the air and perform a downward attack, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Graceful Embellishment",
+                    "description": "When the on-field character is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Song of the Clear River",
+                    "description": "Press  after a Defensive Assist to activate:\nRush forward with an attack and inject electrical energy into the ground, then pull back to trigger an explosion, dealing Electric DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Wind Through the Pines",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1251016, Prop:1001}",
+                            "params": {
+                                "1251016": {
+                                    "main": 13390,
+                                    "growth": 1220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1251016, Prop:1002}",
+                            "params": {
+                                "1251016": {
+                                    "main": 13390,
+                                    "growth": 610,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Graceful Embellishment",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1251017, Prop:1002}",
+                            "params": {
+                                "1251017": {
+                                    "main": 24930,
+                                    "growth": 1140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1251018, Prop:1002}",
+                            "params": {
+                                "1251018": {
+                                    "main": 30430,
+                                    "growth": 1390,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1251019, Prop:1002}",
+                            "params": {
+                                "1251019": {
+                                    "main": 12830,
+                                    "growth": 590,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Song of the Clear River",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1251020, Prop:1001}",
+                            "params": {
+                                "1251020": {
+                                    "main": 37640,
+                                    "growth": 3430,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1251020, Prop:1002}",
+                            "params": {
+                                "1251020": {
+                                    "main": 27900,
+                                    "growth": 1270,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100113,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100123,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100133,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1251501,
+                "names": [
+                    "Core Passive: Eternal Seasons",
+                    "Additional Ability: Three Verses of Farewell at Yang Pass"
+                ],
+                "descriptions": [
+                    "When Qingyi lands a Finishing Move on an enemy with her Basic Attack: Enchanted Moonlit Blossoms, it applies 5 stacks of Subjugation to the enemy, stacking up to 20 times. Each stack of Subjugation increases the target's Stun DMG Multiplier by 2%. For each rush attack performed during Basic Attack: Enchanted Moonlit Blossoms, the Finishing Move will apply 1 extra stack of Subjugation. If Perfect Dodge is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of Subjugation. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of Subjugation are reset.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nBasic Attacks deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1251502,
+                "names": [
+                    "Core Passive: Eternal Seasons",
+                    "Additional Ability: Three Verses of Farewell at Yang Pass"
+                ],
+                "descriptions": [
+                    "When Qingyi lands a Finishing Move on an enemy with her Basic Attack: Enchanted Moonlit Blossoms, it applies 5 stacks of Subjugation to the enemy, stacking up to 20 times. Each stack of Subjugation increases the target's Stun DMG Multiplier by 2.4%. For each rush attack performed during Basic Attack: Enchanted Moonlit Blossoms, the Finishing Move will apply an extra stack of Subjugation. If Perfect Dodge is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of Subjugation. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of Subjugation are reset.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nBasic Attacks deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1251503,
+                "names": [
+                    "Core Passive: Eternal Seasons",
+                    "Additional Ability: Three Verses of Farewell at Yang Pass"
+                ],
+                "descriptions": [
+                    "When Qingyi lands a Finishing Move on an enemy with her Basic Attack: Enchanted Moonlit Blossoms, it applies 5 stacks of Subjugation to the enemy, stacking up to 20 times. Each stack of Subjugation increases the target's Stun DMG Multiplier by 2.7%. For each rush attack performed during Basic Attack: Enchanted Moonlit Blossoms, the Finishing Move will apply an extra stack of Subjugation. If Perfect Dodge is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of Subjugation. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of Subjugation are reset.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nBasic Attacks deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1251504,
+                "names": [
+                    "Core Passive: Eternal Seasons",
+                    "Additional Ability: Three Verses of Farewell at Yang Pass"
+                ],
+                "descriptions": [
+                    "When Qingyi lands a Finishing Move on an enemy with her Basic Attack: Enchanted Moonlit Blossoms, it applies 5 stacks of Subjugation to the enemy, stacking up to 20 times. Each stack of Subjugation increases the target's Stun DMG Multiplier by 3%. For each rush attack performed during Basic Attack: Enchanted Moonlit Blossoms, the Finishing Move will apply an extra stack of Subjugation. If Perfect Dodge is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of Subjugation. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of Subjugation are reset.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nBasic Attacks deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1251505,
+                "names": [
+                    "Core Passive: Eternal Seasons",
+                    "Additional Ability: Three Verses of Farewell at Yang Pass"
+                ],
+                "descriptions": [
+                    "When Qingyi lands a Finishing Move on an enemy with her Basic Attack: Enchanted Moonlit Blossoms, it applies 5 stacks of Subjugation to the enemy, stacking up to 20 times. Each stack of Subjugation increases the target's Stun DMG Multiplier by 3.4%. For each rush attack performed during Basic Attack: Enchanted Moonlit Blossoms, the Finishing Move will apply an extra stack of Subjugation. If Perfect Dodge is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of Subjugation. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of Subjugation are reset.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nBasic Attacks deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1251506,
+                "names": [
+                    "Core Passive: Eternal Seasons",
+                    "Additional Ability: Three Verses of Farewell at Yang Pass"
+                ],
+                "descriptions": [
+                    "When Qingyi lands a Finishing Move on an enemy with her Basic Attack: Enchanted Moonlit Blossoms, it applies 5 stacks of Subjugation to the enemy, stacking up to 20 times. Each stack of Subjugation increases the target's Stun DMG Multiplier by 3.7%. For each rush attack performed during Basic Attack: Enchanted Moonlit Blossoms, the Finishing Move will apply an extra stack of Subjugation. If Perfect Dodge is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of Subjugation. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of Subjugation are reset.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nBasic Attacks deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1251507,
+                "names": [
+                    "Core Passive: Eternal Seasons",
+                    "Additional Ability: Three Verses of Farewell at Yang Pass"
+                ],
+                "descriptions": [
+                    "When Qingyi lands a Finishing Move on an enemy with her Basic Attack: Enchanted Moonlit Blossoms, it applies 5 stacks of Subjugation to the enemy, stacking up to 20 times. Each stack of Subjugation increases the target's Stun DMG Multiplier by 4%. For each rush attack performed during Basic Attack: Enchanted Moonlit Blossoms, the Finishing Move will apply an extra stack of Subjugation. If Perfect Dodge is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of Subjugation. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of Subjugation are reset.",
+                    "When another character in your squad is an Attack character or shares the same Faction:\nBasic Attacks deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110503,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110503,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110503,
+                    "amount": 9
+                },
+                {
+                    "id": 110002,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110503,
+                    "amount": 15
+                },
+                {
+                    "id": 110002,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110503,
+                    "amount": 30
+                },
+                {
+                    "id": 110002,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1251_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1251_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1251_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect29.webp"
+}

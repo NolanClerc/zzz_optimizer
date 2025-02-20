@@ -1,0 +1,1655 @@
+{
+    "id": 1061,
+    "image": "https://api.hakush.in/zzz/UI/IconRole09.webp",
+    "name": "Corin",
+    "code_name": "Corin",
+    "rarity": "A",
+    "specialty": {
+        "id": 1,
+        "name": "Attack"
+    },
+    "element": {
+        "id": 200,
+        "name": "Physical"
+    },
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "faction": {
+        "id": 2,
+        "name": "Victoria Housekeeping Co."
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "JUN 2",
+        "full_name": "Corin Wickes",
+        "gender": "Female",
+        "female_impression": "Corin is excellent at her work, but why does she lack confidence in herself...?\nIf only I could share half of my confidence with her!",
+        "male_impression": "Some people are just introverted and sensitive. Fortunately, Corin's companions have complete faith in her capabilities.\nBelle, let's encourage her whenever we have the opportunity.",
+        "outlook_desc": "New Eridu Citizen Verification Profile:\nEllen, with a good aptitude for Ether, is authorized to perform basic tasks such as investigating and mining in identified Hollows (including Companion Hollows) within New Eridu.\nNote: The remaining information about Ellen is currently archived in a certain school in New Eridu.",
+        "profile_desc": "Corin is one of the maids working for Victoria Housekeeping Co.\nShe is a highly obedient maid but lacks confidence and often fears being disliked by others. When in a rush, she becomes flustered and stutters.\nCorin is always apologizing no matter what happens.\n\"I... I... I'm so sorry! I'm so incompetent... I'll never get things right...\"\n\nCorin never, however, fails to fulfill her tasks with excellence and is one of the most reliable members of Victoria Housekeeping Co.\nDespite her flawless performance, Corin remains skeptical about her abilities, constantly worrying about being a burden to her colleagues, which can sometimes frustrate Lycaon.\nThoughts: Is Corin's personality innate, shaped by her life experiences?",
+        "faction": "Victoria Housekeeping Co.",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Commission Chapter 3"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 116.0,
+        "AttackGrowth": 69346.0,
+        "AvatarPieceId": 5061.0,
+        "BreakStun": 93.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 65864.0,
+        "ElementAbnormalPower": 93.0,
+        "ElementMystery": 96.0,
+        "Endurance": 0.0,
+        "HpGrowth": 761177.0,
+        "HpMax": 561.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Open Trauma",
+            "description": "When Corin's Chain Attack or Ultimate hits an enemy, her DMG against the target increases by 12% for 15s.",
+            "description2": "\"The young mistress always said, if something's worth doing, it's worth focusing on.\"\n\"I've been practicing, and I can do it now!\"\n\"But... are you watching me...?\""
+        },
+        {
+            "level": 2,
+            "name": "Atomic Smash",
+            "description": "When Corin's EX Special Attack, Chain Attack or Ultimate hits an enemy, the target's Physical RES is reduced by 0.5%, stacking up to 20 times and lasting 5s. The duration of each stack is calculated separately.",
+            "description2": "\"Sorry, Mr. or Ms. Ethereal!\"\n\"But I've got work to do... I really am sorry!\"\nFeeling guilty, Corin sincerely apologizes to the monster — as she wields her savage chainsaw, slicing through the enemies in her way."
+        },
+        {
+            "level": 3,
+            "name": "Amateur Maid",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"I—I'll do my best to become a good maid!\" Corin said, walking towards the Ethereals, chainsaw in hand."
+        },
+        {
+            "level": 4,
+            "name": "Battlefield Retainer",
+            "description": "When Corin uses a Quick Assist, Defensive Assist, or Chain Attack, she recovers 7.2 Energy. This effect can trigger once every 16s.",
+            "description2": "A diligent and serious young maid, Corin always puts her heart and soul into everything she does.\nOf course, that includes taking out enemies in combat."
+        },
+        {
+            "level": 5,
+            "name": "Special Ops Maid",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"Uh... sorry, I'm so clumsy. I don't know how to make sure my cuts are even...\"\n—Said Corin as she looked down at the bits of Ethereal scattered across the ground."
+        },
+        {
+            "level": 6,
+            "name": "Accumulated Release",
+            "description": "When Corin's extended slash hits an enemy, she obtains a stack of Charge (max 40 stacks).\nDuring a Dodge Counter, Special Attack, EX Special Attack, Quick Assist, or Assist Follow-Up, when her chainsaw detonation hits an enemy, consumes all stacks of Charge. Each stack consumed causes the attack to deal an additional 3% of ATK as DMG.",
+            "description2": "Corin knows that she isn't the most powerful of maids, nor the smartest. But she hopes to become the hardest working.\nShe puts to good use everything she's ever learned."
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100211,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 385,
+            "attack": 41,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100221,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 770,
+            "attack": 83,
+            "defense": 67,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100221,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1155,
+            "attack": 124,
+            "defense": 100,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100231,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1540,
+            "attack": 166,
+            "defense": 133,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100231,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1925,
+            "attack": 207,
+            "defense": 167,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 1920,
+                    "formatted_value": "1920%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 1920,
+                    "formatted_value": "1920%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2880,
+                    "formatted_value": "2880%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2880,
+                    "formatted_value": "2880%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Wipeout",
+                    "description": "Press  to activate:\nUnleashes up to 5 slashes, dealing Physical DMG.\nRepeatedly press or hold the button during the 3rd and 5th hits to extend the chainsaw slash attack.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Wipeout",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1061001, Prop:1001}",
+                            "params": {
+                                "1061001": {
+                                    "main": 8200,
+                                    "growth": 750,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1061002, Prop:1001}",
+                            "params": {
+                                "1061002": {
+                                    "main": 7660,
+                                    "growth": 700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1061003, Prop:1001}",
+                            "params": {
+                                "1061003": {
+                                    "main": 17920,
+                                    "growth": 1630,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1061004, Prop:1001}",
+                            "params": {
+                                "1061004": {
+                                    "main": 23340,
+                                    "growth": 2130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1061006, Prop:1001}",
+                            "params": {
+                                "1061006": {
+                                    "main": 42120,
+                                    "growth": 3830,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1061001, Prop:1002}",
+                            "params": {
+                                "1061001": {
+                                    "main": 4100,
+                                    "growth": 190,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1061002, Prop:1002}",
+                            "params": {
+                                "1061002": {
+                                    "main": 7020,
+                                    "growth": 320,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1061003, Prop:1002}",
+                            "params": {
+                                "1061003": {
+                                    "main": 12380,
+                                    "growth": 570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1061004, Prop:1002}",
+                            "params": {
+                                "1061004": {
+                                    "main": 18640,
+                                    "growth": 850,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1061006, Prop:1002}",
+                            "params": {
+                                "1061006": {
+                                    "main": 34200,
+                                    "growth": 1560,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Shoo!",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Oopsy-Daisy!",
+                    "description": "Press  during a dodge to activate:\nSlashes enemies in front, dealing Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw attack's duration.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Nope!",
+                    "description": "Press  during a Perfect Dodge to activate:\nSlashes enemies in front before detonating her chainsaw, dealing Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Oopsy-Daisy!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Maximum DMG Multiplier",
+                            "description": "{Skill:1061014, Prop:1001}",
+                            "params": {
+                                "1061014": {
+                                    "main": 9670,
+                                    "growth": 880,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Maximum Daze Multiplier",
+                            "description": "{Skill:1061014, Prop:1002}",
+                            "params": {
+                                "1061014": {
+                                    "main": 4840,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Nope!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{{Skill:1061015, Prop:1001} + {Skill:1061016, Prop:1001}}",
+                            "params": {
+                                "1061015": {
+                                    "main": 13560,
+                                    "growth": 1240,
+                                    "format": "%"
+                                },
+                                "1061016": {
+                                    "main": 13560,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{{Skill:1061015, Prop:1002} + {Skill:1061016, Prop:1002}}",
+                            "params": {
+                                "1061015": {
+                                    "main": 6590,
+                                    "growth": 300,
+                                    "format": "%"
+                                },
+                                "1061016": {
+                                    "main": 6590,
+                                    "growth": 300,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Clean Sweep",
+                    "description": "Press  to activate:\nUnleashes a series of slashes upon enemies in front, before detonating the chainsaw, dealing Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nAnti-Interrupt level is increased while using this skill, and DMG taken is reduced by 40%.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Skirt Alert",
+                    "description": "With enough Energy, press  to activate:\nUnleashes a series of powerful slashes upon enemies in front, before detonating the chainsaw, dealing massive Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack at the cost of Energy if the attack connects.\nCharacter is invulnerable during the spinning slash.\nAnti-Interrupt level is increased during the extended slash, and DMG taken is reduced by 40%.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Clean Sweep",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Spinning Slash DMG Multiplier",
+                            "description": "{Skill:1061008, Prop:1001}",
+                            "params": {
+                                "1061008": {
+                                    "main": 6670,
+                                    "growth": 610,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Extended Slash Maximum DMG Multiplier",
+                            "description": "{Skill:1061009, Prop:1001}",
+                            "params": {
+                                "1061009": {
+                                    "main": 3750,
+                                    "growth": 350,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion DMG Multiplier",
+                            "description": "{Skill:1061010, Prop:1001}",
+                            "params": {
+                                "1061010": {
+                                    "main": 2500,
+                                    "growth": 230,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Spinning Slash Daze Multiplier",
+                            "description": "{Skill:1061008, Prop:1002}",
+                            "params": {
+                                "1061008": {
+                                    "main": 6670,
+                                    "growth": 310,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Extended Slash Maximum Daze Multiplier",
+                            "description": "{Skill:1061009, Prop:1002}",
+                            "params": {
+                                "1061009": {
+                                    "main": 3750,
+                                    "growth": 180,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion Daze Multiplier",
+                            "description": "{Skill:1061010, Prop:1002}",
+                            "params": {
+                                "1061010": {
+                                    "main": 2500,
+                                    "growth": 120,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Skirt Alert",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Spinning Slash DMG Multiplier",
+                            "description": "{Skill:1061011, Prop:1001}",
+                            "params": {
+                                "1061011": {
+                                    "main": 34510,
+                                    "growth": 3140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Extended Slash Maximum DMG Multiplier",
+                            "description": "{Skill:1061012, Prop:1001}",
+                            "params": {
+                                "1061012": {
+                                    "main": 103520,
+                                    "growth": 9420,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion DMG Multiplier",
+                            "description": "{Skill:1061013, Prop:1001}",
+                            "params": {
+                                "1061013": {
+                                    "main": 34510,
+                                    "growth": 3140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Spinning Slash Daze Multiplier",
+                            "description": "{Skill:1061011, Prop:1002}",
+                            "params": {
+                                "1061011": {
+                                    "main": 20640,
+                                    "growth": 940,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Extended Slash Maximum Daze Multiplier",
+                            "description": "{Skill:1061012, Prop:1002}",
+                            "params": {
+                                "1061012": {
+                                    "main": 61900,
+                                    "growth": 2820,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion Daze Multiplier",
+                            "description": "{Skill:1061013, Prop:1002}",
+                            "params": {
+                                "1061013": {
+                                    "main": 20640,
+                                    "growth": 940,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Spinning Slash Energy Cost",
+                            "description": "20",
+                            "params": null
+                        },
+                        {
+                            "name": "Extended Slash Maximum Energy Cost",
+                            "description": "40",
+                            "params": null
+                        },
+                        {
+                            "name": "Explosion Energy Cost",
+                            "description": "20",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Sorry...",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful slash at enemies in a small area, dealing massive Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Very, Very Sorry!",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes a powerful slash at enemies in a small area, dealing massive Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Sorry...",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1061017, Prop:1001}",
+                            "params": {
+                                "1061017": {
+                                    "main": 68730,
+                                    "growth": 6250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1061017, Prop:1002}",
+                            "params": {
+                                "1061017": {
+                                    "main": 28830,
+                                    "growth": 1320,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Very, Very Sorry!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1061018, Prop:1001}",
+                            "params": {
+                                "1061018": {
+                                    "main": 202880,
+                                    "growth": 18450,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1061018, Prop:1002}",
+                            "params": {
+                                "1061018": {
+                                    "main": 40680,
+                                    "growth": 1850,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Emergency Measures",
+                    "description": "When the active character is launched, press  to activate:\nSlashes enemies in front before detonating her chainsaw, dealing Physical DMG.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: P—Please Allow Me!",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Quick Sweep",
+                    "description": "Press  after a Defensive Assist to activate:\nUnleash a series of slashes against enemies in front followed by an explosive chainsaw, dealing Physical DMG.\nRepeatedly press or hold to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Emergency Measures",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{{Skill:1061019, Prop:1001} + {Skill:1061020, Prop:1001}}",
+                            "params": {
+                                "1061019": {
+                                    "main": 13170,
+                                    "growth": 1200,
+                                    "format": "%"
+                                },
+                                "1061020": {
+                                    "main": 8330,
+                                    "growth": 760,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{{Skill:1061019, Prop:1002} + {Skill:1061020, Prop:1002}}",
+                            "params": {
+                                "1061019": {
+                                    "main": 13170,
+                                    "growth": 600,
+                                    "format": "%"
+                                },
+                                "1061020": {
+                                    "main": 8330,
+                                    "growth": 380,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: P—Please Allow Me!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1061021, Prop:1002}",
+                            "params": {
+                                "1061021": {
+                                    "main": 24670,
+                                    "growth": 1130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1061022, Prop:1002}",
+                            "params": {
+                                "1061022": {
+                                    "main": 31170,
+                                    "growth": 1420,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1061023, Prop:1002}",
+                            "params": {
+                                "1061023": {
+                                    "main": 15170,
+                                    "growth": 690,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Quick Sweep",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1061024, Prop:1001}",
+                            "params": {
+                                "1061024": {
+                                    "main": 54750,
+                                    "growth": 4980,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1061024, Prop:1002}",
+                            "params": {
+                                "1061024": {
+                                    "main": 48860,
+                                    "growth": 2230,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1061501,
+                "names": [
+                    "Core Passive: Hyperfocus",
+                    "Additional Ability: Cleanup Assistance"
+                ],
+                "descriptions": [
+                    "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by 18.7%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1061502,
+                "names": [
+                    "Core Passive: Hyperfocus",
+                    "Additional Ability: Cleanup Assistance"
+                ],
+                "descriptions": [
+                    "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by 21.8%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1061503,
+                "names": [
+                    "Core Passive: Hyperfocus",
+                    "Additional Ability: Cleanup Assistance"
+                ],
+                "descriptions": [
+                    "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by 25%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1061504,
+                "names": [
+                    "Core Passive: Hyperfocus",
+                    "Additional Ability: Cleanup Assistance"
+                ],
+                "descriptions": [
+                    "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by 28.1%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1061505,
+                "names": [
+                    "Core Passive: Hyperfocus",
+                    "Additional Ability: Cleanup Assistance"
+                ],
+                "descriptions": [
+                    "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by 31.2%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1061506,
+                "names": [
+                    "Core Passive: Hyperfocus",
+                    "Additional Ability: Cleanup Assistance"
+                ],
+                "descriptions": [
+                    "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by 34.3%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1061507,
+                "names": [
+                    "Core Passive: Hyperfocus",
+                    "Additional Ability: Cleanup Assistance"
+                ],
+                "descriptions": [
+                    "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by 37.5%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110502,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110502,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110502,
+                    "amount": 9
+                },
+                {
+                    "id": 110003,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110502,
+                    "amount": 15
+                },
+                {
+                    "id": 110003,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110502,
+                    "amount": 30
+                },
+                {
+                    "id": 110003,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1061_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1061_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1061_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect09.webp"
+}

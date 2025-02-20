@@ -1,0 +1,1766 @@
+{
+    "id": 1071,
+    "image": "https://api.hakush.in/zzz/UI/IconRole25.webp",
+    "name": "Caesar",
+    "code_name": "Caesar",
+    "rarity": "S",
+    "specialty": {
+        "id": 5,
+        "name": "Defense"
+    },
+    "element": {
+        "id": 200,
+        "name": "Physical"
+    },
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "faction": {
+        "id": 4,
+        "name": "Sons of Calydon"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "MAR 16",
+        "full_name": "Caesar King",
+        "gender": "Female",
+        "female_impression": "Big Daddy looks cultured and sophisticated, but Caesar's a different kettle of fish...\nBut even though she often gets her idioms wrong, Caesar's still very cute!",
+        "male_impression": "Earning the trust of the Outer Ring's Overlord is a pretty big deal. We should really appreciate that.\nOf course, it'd be nice if Caesar could make fewer typos in her DMs to us.",
+        "outlook_desc": "There's no record of Caesar in the New Eridu Citizen Verification Profile.\nBased on data analysis from previous combat, Caesar has a good Aptitude for Ether",
+        "profile_desc": "Caesar: Leader of the Sons of Calydon biker gang and a \"monarch\" in the making.\nHer combination of formidable strength and bold, straightforward personality has earned her the love and respect of the Outer Ring's residents.\nAlthough she appears to do things in her own way, she is actually very willing to listen to others' opinions. Caesar actively listens to and implements any valid suggestion she hears — regardless of who it comes from.\nShe is completely defenseless against those she trusts. Once she accepts someone, she considers them part of her inner circle, treating them with absolute trust.\n(Assumption: Caesar currently views you in this way.)\n\nCaesar's father has been missing for as long as she can remember, and her mother passed away from illness when she was young. She was raised by Big Daddy, who took a very hands-off approach to raising her, allowing her to grow up freely and independently.\n\nIn addition, Caesar seems to have a curious interest in matters related to romance.\nIf you wish to get closer to her, you might want to try discussing this topic with her.",
+        "faction": "Sons of Calydon",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 101.0,
+        "AttackGrowth": 58761.0,
+        "AvatarPieceId": 5071.0,
+        "BreakStun": 105.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 61.0,
+        "DefenceGrowth": 82180.0,
+        "ElementAbnormalPower": 87.0,
+        "ElementMystery": 90.0,
+        "Endurance": 0.0,
+        "HpGrowth": 1039361.0,
+        "HpMax": 766.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Spearhead Advance",
+            "description": "When Caesar enters combat or switches in, she instantly buffs all squad members with a Radiant Aegis shield. This effect can trigger once every 300s. While Radiant Aegis is active, enemies within a 5m radius of the shield bearer suffer a 15% All-Attribute RES reduction.",
+            "description2": "\"Big Daddy taught me that this is when you form a spearheaded formation with overwhelming force and strike at the enemy's weakest point—\"\n\"And I'll be leading the charge, of course!\""
+        },
+        {
+            "level": 2,
+            "name": "Legacy of the Far Lands",
+            "description": "While Radiant Aegis from Core Passive: Barrier of Resilience is active, Caesar's Energy Generation Rate increases by 10%, and the shield bearer's ATK boost is increased to 150% of its original value.",
+            "description2": "Caesar's combat style stands out from those of New Eridu or the Outer Ring, drawing from the techniques of the most skilled warriors among the wanderers.\nKnowing when to hold back and when to strike decisively — that has always been the wanderer's way of survival. And Caesar has always been a good student of this philosophy."
+        },
+        {
+            "level": 3,
+            "name": "Absolute Trust",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Once Caesar recognizes someone as one of her own, she fully accepts them as part of her inner circle. She gives them absolute trust, letting her guard down completely...\nJust like she does with you now."
+        },
+        {
+            "level": 4,
+            "name": "Aries the Battering-Ram",
+            "description": "When Caesar uses a Chain Attack or Ultimate, she gains 3 additional Assist Points. If her Energy is below 20, she can activate EX Special Attack: Overpowered Shield Bash with 1 Assist Point instead. This substitution can trigger once every 5s.",
+            "description2": "One of the tactics Caesar mastered under the guidance of the wanderers.\n\"No matter what, I'll fight till the last moment!\""
+        },
+        {
+            "level": 5,
+            "name": "Romantic Conquest",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Behind Caesar's carefree and unpolished appearance lies a romantic at heart.\nShe's always curious about love stories.\nBut if you dig a little deeper into the subject... you might just catch her blushing."
+        },
+        {
+            "level": 6,
+            "name": "Overlord's Will",
+            "description": "EX Special Attack: Overpowered Shield Bash and Assist Follow-Up are guaranteed to trigger a critical hit. The skill's DMG is increased by 50% and deals additional 50% DMG to the primary target. When Caesar uses EX Special Attack: Overpowered Shield Bash or Assist Follow-Up, her CRIT Rate is increased by 30% and her CRIT DMG is increased by 60% for 15s.",
+            "description2": "\"I used to keep my eyes straight ahead, thinking that as long as I was strong enough, I could do anything.\"\n\"But being a great leader takes more than just power.\"\n\"I need to protect my friends behind me — they are the reason I can keep going.\""
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100215,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 526,
+            "attack": 38,
+            "defense": 42,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100225,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 1051,
+            "attack": 76,
+            "defense": 83,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100225,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1577,
+            "attack": 113,
+            "defense": 125,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100235,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 2102,
+            "attack": 151,
+            "defense": 166,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100235,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2628,
+            "attack": 189,
+            "defense": 208,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 6,
+                    "formatted_value": "6"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 6,
+                    "formatted_value": "6"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 18,
+                    "formatted_value": "18"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 18,
+                    "formatted_value": "18"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Rampaging Slash",
+                    "description": "Press  to activate:\nUnleashes up to 6 slashes ahead, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Dead End",
+                    "description": "When there are sufficient Assist Points, hold  to activate:\nConsume 1 Assist Point to toss the shield and attack nearby enemies in all directions, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Rampaging Slash",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1071001, Prop:1001}",
+                            "params": {
+                                "1071001": {
+                                    "main": 4720,
+                                    "growth": 430,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1071002, Prop:1001}",
+                            "params": {
+                                "1071002": {
+                                    "main": 4090,
+                                    "growth": 380,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1071003, Prop:1001}",
+                            "params": {
+                                "1071003": {
+                                    "main": 14830,
+                                    "growth": 1350,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit (ALT) DMG Multiplier",
+                            "description": "{Skill:1071008, Prop:1001}",
+                            "params": {
+                                "1071008": {
+                                    "main": 11840,
+                                    "growth": 1080,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1071004, Prop:1001}",
+                            "params": {
+                                "1071004": {
+                                    "main": 7880,
+                                    "growth": 720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1071005, Prop:1001}",
+                            "params": {
+                                "1071005": {
+                                    "main": 19860,
+                                    "growth": 1810,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "6th-Hit DMG Multiplier",
+                            "description": "{Skill:1071006, Prop:1001}",
+                            "params": {
+                                "1071006": {
+                                    "main": 39990,
+                                    "growth": 3640,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1071001, Prop:1002}",
+                            "params": {
+                                "1071001": {
+                                    "main": 2130,
+                                    "growth": 100,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1071002, Prop:1002}",
+                            "params": {
+                                "1071002": {
+                                    "main": 3380,
+                                    "growth": 160,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1071003, Prop:1002}",
+                            "params": {
+                                "1071003": {
+                                    "main": 11000,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit (ALT) Daze Multiplier",
+                            "description": "{Skill:1071008, Prop:1002}",
+                            "params": {
+                                "1071008": {
+                                    "main": 7360,
+                                    "growth": 340,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1071004, Prop:1002}",
+                            "params": {
+                                "1071004": {
+                                    "main": 6750,
+                                    "growth": 310,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1071005, Prop:1002}",
+                            "params": {
+                                "1071005": {
+                                    "main": 13750,
+                                    "growth": 630,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "6th-Hit Daze Multiplier",
+                            "description": "{Skill:1071006, Prop:1002}",
+                            "params": {
+                                "1071006": {
+                                    "main": 26260,
+                                    "growth": 1200,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Dead End",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1071007, Prop:1001}",
+                            "params": {
+                                "1071007": {
+                                    "main": 12630,
+                                    "growth": 1150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1071007, Prop:1002}",
+                            "params": {
+                                "1071007": {
+                                    "main": 9320,
+                                    "growth": 430,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Assist Point Cost",
+                            "description": "1",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Adrift",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Hog Rush",
+                    "description": "Press  during a dodge to activate:\nStrikes forward with the shield, dealing Physical DMG.\nDuring skill activation, DMG taken is reduced by 40%, and when attacked by an enemy, Caesar blocks with the shield and gets knocked back. Following that, press  or  to trigger Retaliation and activate Special Attack: Roaring Thrust or EX Special Attack: Overpowered Shield Bash.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Eye For an Eye",
+                    "description": "Press  during a Perfect Dodge to activate:\nStabs at enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Hog Rush",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1071016, Prop:1001}",
+                            "params": {
+                                "1071016": {
+                                    "main": 6230,
+                                    "growth": 570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1071016, Prop:1002}",
+                            "params": {
+                                "1071016": {
+                                    "main": 3120,
+                                    "growth": 150,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Eye For an Eye",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1071017, Prop:1001}",
+                            "params": {
+                                "1071017": {
+                                    "main": 19350,
+                                    "growth": 1760,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1071017, Prop:1002}",
+                            "params": {
+                                "1071017": {
+                                    "main": 17420,
+                                    "growth": 800,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Shockwave Shield Bash",
+                    "description": "Press  to activate:\nStrike forward with the shield, dealing Physical DMG.\nIf Caesar is hit by an enemy at the beginning of the skill's activation, it will trigger a Perfect Block, negating the damage once and automatically following up with a Special Attack: Roaring Thrust.\nAfter using the skill, Caesar enters a guard stance, reducing incoming damage by 40%. When attacked by an enemy, Caesar blocks with the shield and gets slightly knocked back. Press  or  to trigger Retaliation, activating Special Attack: Roaring Thrust or EX Special Attack: Overpowered Shield Bash\nWhen Retaliation is triggered, Caesar is invulnerable while using the skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Roaring Thrust",
+                    "description": "After activating Special Attack: Shockwave Shield Bash, press  to activate:\nThrusts forward, dealing Physical DMG.\nIf Perfect Block or Retaliation is not triggered, the Anti-Interrupt level is increased while using this skill.\nCharacter is invulnerable while using this skill when Perfect Block or Retaliation is triggered.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Parry Counter",
+                    "description": "With enough Energy, press  to activate:\nStrikes forward with the shield, followed by a powerful thrust, dealing massive Physical DMG.\nIf Caesar is hit by an enemy at the beginning of the skill activation or an Interrupt is triggered with the shield strike, it will trigger Perfect Block, negating incoming damage once and countering with a shield attack. After triggering Perfect Block, press  to activate EX Special Attack: Overpowered Shield Bash without consuming energy.\nAfter using the skill, Caesar enters a guard stance, reducing incoming damage by 40%. When attacked by an enemy, Caesar blocks the attack and is knocked back. Press  or  to trigger Retaliation and activate Special Attack: Roaring Thrust or EX Special Attack: Overpowered Shield Bash\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Overpowered Shield Bash",
+                    "description": "After activating EX Special Attack: Parry Counter, with enough energy, press  to activate:\nStrikes forward with the shield, dealing massive Physical DMG.\nIf Caesar is hit by an enemy at the beginning of the skill activation or an Interrupt is triggered with the shield strike, it will trigger Perfect Block, negating incoming damage once and recovering the Energy used to activate the skill.\nWhen the skill is activated through Perfect Block or Retaliation, it cannot trigger Perfect Block again.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Stance Switch",
+                    "description": "When Caesar triggers a Perfect Block, Retaliation, or Defensive Assist, her impact is increased by {CAL:8+AvatarSkillLevel(1)*1,1,2}% for 3s.",
+                    "params": null
+                },
+                {
+                    "name": "Stance Switch",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Impact Increase",
+                            "description": "{CAL:8+AvatarSkillLevel(1)*1,1,2}%",
+                            "params": null
+                        }
+                    ]
+                },
+                {
+                    "name": "Special Attack: Shockwave Shield Bash",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1071009, Prop:1001}",
+                            "params": {
+                                "1071009": {
+                                    "main": 5330,
+                                    "growth": 490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1071009, Prop:1002}",
+                            "params": {
+                                "1071009": {
+                                    "main": 2400,
+                                    "growth": 110,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "[Perfect Block] Daze Multiplier",
+                            "description": "{Skill:1071014, Prop:1002}",
+                            "params": {
+                                "1071014": {
+                                    "main": 7700,
+                                    "growth": 350,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Special Attack: Roaring Thrust",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1071010, Prop:1001}",
+                            "params": {
+                                "1071010": {
+                                    "main": 5880,
+                                    "growth": 540,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1071010, Prop:1002}",
+                            "params": {
+                                "1071010": {
+                                    "main": 2650,
+                                    "growth": 130,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Parry Counter",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1071011, Prop:1001}",
+                            "params": {
+                                "1071011": {
+                                    "main": 38720,
+                                    "growth": 3520,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1071011, Prop:1002}",
+                            "params": {
+                                "1071011": {
+                                    "main": 25260,
+                                    "growth": 1150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "[Perfect Block] Daze Multiplier",
+                            "description": "{Skill:1071015, Prop:1002}",
+                            "params": {
+                                "1071015": {
+                                    "main": 15400,
+                                    "growth": 700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "[Perfect Block] Counter DMG Multiplier",
+                            "description": "{Skill:1071012, Prop:1001}",
+                            "params": {
+                                "1071012": {
+                                    "main": 38720,
+                                    "growth": 3520,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "[Perfect Block] Counter Daze Multiplier",
+                            "description": "{Skill:1071012, Prop:1002}",
+                            "params": {
+                                "1071012": {
+                                    "main": 25260,
+                                    "growth": 1150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "40",
+                            "params": null
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Overpowered Shield Bash",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1071013, Prop:1001}",
+                            "params": {
+                                "1071013": {
+                                    "main": 42570,
+                                    "growth": 3870,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1071013, Prop:1002}",
+                            "params": {
+                                "1071013": {
+                                    "main": 28840,
+                                    "growth": 1320,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "[Perfect Block] Daze Multiplier",
+                            "description": "{Skill:1071015, Prop:1002}",
+                            "params": {
+                                "1071015": {
+                                    "main": 15400,
+                                    "growth": 700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Press Activation Energy Cost",
+                            "description": "20",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Road Rage Slam",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful downward strike at enemies ahead, dealing massive Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Savage Smash",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nTosses the shield forward, unleashing a powerful spinning attack on enemies in front, followed by a downward strike, dealing massive Physical DMG.\nWhen hitting shielded enemies, the Daze dealt is increased by {CAL:40+AvatarSkillLevel(3)*5,1,2}%.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Road Rage Slam",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1071018, Prop:1001}",
+                            "params": {
+                                "1071018": {
+                                    "main": 63880,
+                                    "growth": 5810,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1071018, Prop:1002}",
+                            "params": {
+                                "1071018": {
+                                    "main": 19990,
+                                    "growth": 910,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Savage Smash",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1071019, Prop:1001}",
+                            "params": {
+                                "1071019": {
+                                    "main": 201230,
+                                    "growth": 18300,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1071019, Prop:1002}",
+                            "params": {
+                                "1071019": {
+                                    "main": 27870,
+                                    "growth": 1270,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Increase",
+                            "description": "{CAL:40+AvatarSkillLevel(3)*5,1,2}%",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Lane Change",
+                    "description": "When the active character is launched, press  to activate:\nThrust at enemies in front, dealing Physical DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Aegis Shield",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Aiding Blade",
+                    "description": "Press  after a Defensive Assist to activate:\nTosses the shield forward, unleashing a powerful spinning attack on enemies in front, followed by a slash that deals Physical DMG.\nAfter activating the skill, press  or  to trigger a Retaliation, activating Special Attack: Roaring Thrust or EX Special Attack: Overpowered Shield Bash.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Lane Change",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1071020, Prop:1001}",
+                            "params": {
+                                "1071020": {
+                                    "main": 6420,
+                                    "growth": 590,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1071020, Prop:1002}",
+                            "params": {
+                                "1071020": {
+                                    "main": 6420,
+                                    "growth": 300,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Aegis Shield",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1071021, Prop:1002}",
+                            "params": {
+                                "1071021": {
+                                    "main": 27130,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1071022, Prop:1002}",
+                            "params": {
+                                "1071022": {
+                                    "main": 34530,
+                                    "growth": 1570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1071023, Prop:1002}",
+                            "params": {
+                                "1071023": {
+                                    "main": 16930,
+                                    "growth": 770,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Aiding Blade",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1071024, Prop:1001}",
+                            "params": {
+                                "1071024": {
+                                    "main": 40720,
+                                    "growth": 3710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1071024, Prop:1002}",
+                            "params": {
+                                "1071024": {
+                                    "main": 35630,
+                                    "growth": 1620,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100110,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100120,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100130,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1071501,
+                "names": [
+                    "Core Passive: Barrier of Resilience",
+                    "Additional Ability: Battle Spirit"
+                ],
+                "descriptions": [
+                    "When Caesar activates EX Special Attack: Parry Counter, Chain Attack, Ultimate, or triggers EX Special Attack: Overpowered Shield Bash through Retaliation, she buffs all squad members with a Radiant Aegis shield equal to 300% of her base Impact + 200. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile Radiant Aegis is active, the shield bearer's Anti-Interrupt level is increased.\nWhile Radiant Aegis is active, the shield bearer's ATK is increased by 40. After Radiant Aegis expires, this buff remains for an additional 5s.",
+                    "When another character in your squad can activate Defensive Assist or shares the same Faction:\nWhen Caesar activates Perfect Block, Retaliation, Defensive Assist, or Basic Attack: Dead End, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1071502,
+                "names": [
+                    "Core Passive: Barrier of Resilience",
+                    "Additional Ability: Battle Spirit"
+                ],
+                "descriptions": [
+                    "When Caesar activates EX Special Attack: Parry Counter, Chain Attack, Ultimate, or triggers EX Special Attack: Overpowered Shield Bash through Retaliation, she buffs all squad members with a Radiant Aegis shield equal to 500% of her base Impact + 400. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile Radiant Aegis is active, the shield bearer's Anti-Interrupt level is increased.\nWhile Radiant Aegis is active, the shield bearer's ATK is increased by 135. After Radiant Aegis expires, this buff remains for an additional 5s.",
+                    "When another character in your squad can activate Defensive Assist or shares the same Faction:\nWhen Caesar activates Perfect Block, Retaliation, Defensive Assist, or Basic Attack: Dead End, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1071503,
+                "names": [
+                    "Core Passive: Barrier of Resilience",
+                    "Additional Ability: Battle Spirit"
+                ],
+                "descriptions": [
+                    "When Caesar activates EX Special Attack: Parry Counter, Chain Attack, Ultimate, or triggers EX Special Attack: Overpowered Shield Bash through Retaliation, she buffs all squad members with a Radiant Aegis shield equal to 700% of her base Impact + 700. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile Radiant Aegis is active, the shield bearer's Anti-Interrupt level is increased.\nWhile Radiant Aegis is active, the shield bearer's ATK is increased by 240. After Radiant Aegis expires, this buff remains for an additional 5s.",
+                    "When another character in your squad can activate Defensive Assist or shares the same Faction:\nWhen Caesar activates Perfect Block, Retaliation, Defensive Assist, or Basic Attack: Dead End, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1071504,
+                "names": [
+                    "Core Passive: Barrier of Resilience",
+                    "Additional Ability: Battle Spirit"
+                ],
+                "descriptions": [
+                    "When Caesar activates EX Special Attack: Parry Counter, Chain Attack, Ultimate, or triggers EX Special Attack: Overpowered Shield Bash through Retaliation, she buffs all squad members with a Radiant Aegis shield equal to 900% of her base Impact + 900. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile Radiant Aegis is active, the shield bearer's Anti-Interrupt level is increased.\nWhile Radiant Aegis is active, the shield bearer's ATK is increased by 400. After Radiant Aegis expires, this buff remains for an additional 5s.",
+                    "When another character in your squad can activate Defensive Assist or shares the same Faction:\nWhen Caesar activates Perfect Block, Retaliation, Defensive Assist, or Basic Attack: Dead End, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1071505,
+                "names": [
+                    "Core Passive: Barrier of Resilience",
+                    "Additional Ability: Battle Spirit"
+                ],
+                "descriptions": [
+                    "When Caesar activates EX Special Attack: Parry Counter, Chain Attack, Ultimate, or triggers EX Special Attack: Overpowered Shield Bash through Retaliation, she buffs all squad members with a Radiant Aegis shield equal to 1,100% of her base Impact + 1,100. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile Radiant Aegis is active, the shield bearer's Anti-Interrupt level is increased.\nWhile Radiant Aegis is active, the shield bearer's ATK is increased by 650. After Radiant Aegis expires, this buff remains for an additional 5s.",
+                    "When another character in your squad can activate Defensive Assist or shares the same Faction:\nWhen Caesar activates Perfect Block, Retaliation, Defensive Assist, or Basic Attack: Dead End, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1071506,
+                "names": [
+                    "Core Passive: Barrier of Resilience",
+                    "Additional Ability: Battle Spirit"
+                ],
+                "descriptions": [
+                    "When Caesar activates EX Special Attack: Parry Counter, Chain Attack, Ultimate, or triggers EX Special Attack: Overpowered Shield Bash through Retaliation, she buffs all squad members with a Radiant Aegis shield equal to 1,300% of her base Impact + 1,300. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile Radiant Aegis is active, the shield bearer's Anti-Interrupt level is increased.\nWhile Radiant Aegis is active, the shield bearer's ATK is increased by 900. After Radiant Aegis expires, this buff remains for an additional 5s.",
+                    "When another character in your squad can activate Defensive Assist or shares the same Faction:\nWhen Caesar activates Perfect Block, Retaliation, Defensive Assist, or Basic Attack: Dead End, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1071507,
+                "names": [
+                    "Core Passive: Barrier of Resilience",
+                    "Additional Ability: Battle Spirit"
+                ],
+                "descriptions": [
+                    "When Caesar activates EX Special Attack: Parry Counter, Chain Attack, Ultimate, or triggers EX Special Attack: Overpowered Shield Bash through Retaliation, she buffs all squad members with a Radiant Aegis shield equal to 1,400% of her base Impact + 1,400. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile Radiant Aegis is active, the shield bearer's Anti-Interrupt level is increased.\nWhile Radiant Aegis is active, the shield bearer's ATK is increased by 1,000. After Radiant Aegis expires, this buff remains for an additional 5s.",
+                    "When another character in your squad can activate Defensive Assist or shares the same Faction:\nWhen Caesar activates Perfect Block, Retaliation, Defensive Assist, or Basic Attack: Dead End, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110507,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110507,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110507,
+                    "amount": 9
+                },
+                {
+                    "id": 110004,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110507,
+                    "amount": 15
+                },
+                {
+                    "id": 110004,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110507,
+                    "amount": 30
+                },
+                {
+                    "id": 110004,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1071_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1071_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1071_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect25.webp"
+}

@@ -1,0 +1,1738 @@
+{
+    "id": 1191,
+    "image": "https://api.hakush.in/zzz/UI/IconRole21.webp",
+    "name": "Ellen",
+    "code_name": "Ellen",
+    "rarity": "S",
+    "specialty": {
+        "id": 1,
+        "name": "Attack"
+    },
+    "element": {
+        "id": 202,
+        "name": "Ice"
+    },
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "faction": {
+        "id": 2,
+        "name": "Victoria Housekeeping Co."
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "JAN 4",
+        "full_name": "Ellen Joe",
+        "gender": "Female",
+        "female_impression": "I was somewhat surprised to see Ellen in her school uniform...\nFor her, working in Victoria Housekeeping is something like a part-time job outside of school, right? That's impressive!",
+        "male_impression": "In a way, we're also working a part-time job, Belle...",
+        "outlook_desc": "New Eridu Citizen Verification Profile:\nEllen, with a good aptitude for Ether, is authorized to perform basic tasks such as investigating and mining in identified Hollows (including Companion Hollows) within New Eridu.\nNote: The remaining information about Ellen is currently archived in a certain school in New Eridu.",
+        "profile_desc": "Ellen is a maid working for Victoria Housekeeping Co. and its latest member.\nShe is a laid-back individual who dislikes activities that require energy. However, with the full support of her teammates, she can unleash her formidable power during critical moments.\nSince her fighting style leads to high energy consumption, she always carries a lollipop in her mouth to ensure an adequate sugar intake.\nWhile she frequently expresses her desire to change jobs due to the hassle, she genuinely values her companions at Victoria Housekeeping.\n\nEllen attends a school in New Eridu and has a group of ordinary friends.\nApart from her role as a maid at Victoria Housekeeping, Ellen spends a significant amount of time with her friends, leading an ordinary and contented student life.\n\nThoughts: As a multitasker, Ellen must balance her student life with her job at Victoria Housekeeping Co.\nPerhaps this is one of the reasons why she often feels tired?",
+        "faction": "Victoria Housekeeping Co.",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Commission Chapter 3"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 135.0,
+        "AttackGrowth": 82578.0,
+        "AvatarPieceId": 5191.0,
+        "BreakStun": 93.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66203.0,
+        "ElementAbnormalPower": 94.0,
+        "ElementMystery": 93.0,
+        "Endurance": 0.0,
+        "HpGrowth": 837238.0,
+        "HpMax": 617.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Glacial Omen",
+            "description": "Upon hitting an enemy with a Swift Scissors strike during Dash Attack: Arctic Ambush, the obtained Flash Freeze Charges are increased to 3. Upon hitting an enemy with a Charged Scissors strike during Dash Attack: Arctic Ambush, the obtained Flash Freeze Charges are increased to 6. For each Flash Freeze Charge consumed, Ellen's CRIT Rate is increased by 2% for 15s, stacking up to 6 times. The duration of each stack is calculated separately.",
+            "description2": "Chilling winds are an omen of winter, and a signal that Ellen is about to apply for extended leave to hibernate.\nSpeaking of which, do sharks actually need to hibernate?"
+        },
+        {
+            "level": 2,
+            "name": "Arctic Ocean Predator",
+            "description": "The 3rd hit of Basic Attack: Flash Freeze Trimming can be directly followed up with EX Special Attack: Sharknami. For each point of Flash Freeze Charge when using an EX Special Attack, the current attack's CRIT DMG is increased by 20%, up to a max of 60%.",
+            "description2": "Despite being freshly stained with red, the massive shears held by Ellen lacked any trace of warmth.\nThe icy cold stems from her iron-forged instrument, as well as the fear of facing a predator such as herself."
+        },
+        {
+            "level": 3,
+            "name": "Overtime-Intolerant",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "The whole point of \"efficiency\" is being able to go home early and sleep.\nSo strike harder and strike faster."
+        },
+        {
+            "level": 4,
+            "name": "Endless Hoarfrost",
+            "description": "Whenever a squad member Freezes or Stuns an enemy, Ellen gains 6 Flash Freeze Charges and the Quick Charge effect. She also recovers 4 Energy. The Energy recovery effect can trigger once per 10s.",
+            "description2": "A relentless assault of piercing cold. Terrifying monstrosities will learn the beauty and cruelty of winter under Ellen's blade.\nBut, actually, the endless work that maids have during holidays is far more cruel... "
+        },
+        {
+            "level": 5,
+            "name": "Adequate Sleep",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Except for when in the toughest of battles, Ellen always seems to have that \"I can fall asleep at any moment\" look.\nMany an enemy has met their demise after underestimating Ellen because of it."
+        },
+        {
+            "level": 6,
+            "name": "The Feast Begins",
+            "description": "When Ellen uses an EX Special Attack, Chain Attack, or gains Quick Charge, her PEN Ratio increases by 20% for 6s. She also gains 1 stack of The Feast Begins, up to a maximum of 3 stacks. With 3 stacks of The Feast Begins, using a Charged Scissors strike during Dash Attack: Arctic Ambush consumes all stacks, increasing the DMG of the current attack by 250%.",
+            "description2": "An open wound, a drop of blood. A thrilling hunt, a grand feast. A fragile life, a moment of satisfaction."
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100211,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 423,
+            "attack": 48,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100221,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 847,
+            "attack": 96,
+            "defense": 67,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100221,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1270,
+            "attack": 145,
+            "defense": 100,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100231,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1694,
+            "attack": 193,
+            "defense": 134,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100231,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2117,
+            "attack": 241,
+            "defense": 167,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 480,
+                    "formatted_value": "480%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 960,
+                    "formatted_value": "960%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 1440,
+                    "formatted_value": "1440%%"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Saw Teeth Trimming",
+                    "description": "Press  to activate:\nUnleashes up to 3 attacks, dealing Physical DMG.\nPress repeatedly or hold  during the 3rd attack to extend the skill duration.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Flash Freeze Trimming",
+                    "description": "While Flash Freeze is active, press  to activate:\nLaunch up to 3 attacks at enemies in front, dealing Ice DMG.\nEach attack consumes 1 Flash Freeze Charge.\nPress repeatedly or hold  during the 3rd attack to extend the skill duration.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Saw Teeth Trimming",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1191001, Prop:1001}",
+                            "params": {
+                                "1191001": {
+                                    "main": 4880,
+                                    "growth": 450,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1191002, Prop:1001}",
+                            "params": {
+                                "1191002": {
+                                    "main": 11110,
+                                    "growth": 1010,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1191003, Prop:1001}",
+                            "params": {
+                                "1191003": {
+                                    "main": 29730,
+                                    "growth": 2710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1191001, Prop:1002}",
+                            "params": {
+                                "1191001": {
+                                    "main": 2440,
+                                    "growth": 120,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1191002, Prop:1002}",
+                            "params": {
+                                "1191002": {
+                                    "main": 8680,
+                                    "growth": 400,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1191003, Prop:1002}",
+                            "params": {
+                                "1191003": {
+                                    "main": 24040,
+                                    "growth": 1100,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Flash Freeze Trimming",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1191004, Prop:1001}",
+                            "params": {
+                                "1191004": {
+                                    "main": 9960,
+                                    "growth": 910,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1191005, Prop:1001}",
+                            "params": {
+                                "1191005": {
+                                    "main": 18400,
+                                    "growth": 1680,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1191006, Prop:1001}",
+                            "params": {
+                                "1191006": {
+                                    "main": 49620,
+                                    "growth": 4520,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1191004, Prop:1002}",
+                            "params": {
+                                "1191004": {
+                                    "main": 4880,
+                                    "growth": 230,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1191005, Prop:1002}",
+                            "params": {
+                                "1191005": {
+                                    "main": 9020,
+                                    "growth": 410,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1191006, Prop:1002}",
+                            "params": {
+                                "1191006": {
+                                    "main": 24550,
+                                    "growth": 1120,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Vortex",
+                    "description": "Press  to activate:\nA rapid dash dodge.\nCharacter is invulnerable while using this skill.\nWhen Perfect Dodge is triggered, Ellen gains the Quick Charge effect, reducing the charge time of Dash Attack: Arctic Ambush, lasting up to 5 seconds or until it triggers.",
+                    "params": null
+                },
+                {
+                    "name": "Dash: Roaming Hunt",
+                    "description": "Hold or double-press  to activate:\nEnter the Roaming state, allowing dashing movement.\nIn the Roaming state, drag the stick/joystick to control Ellen's direction, and release to stop.\nEllen is invulnerable for a brief time after activation.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Arctic Ambush",
+                    "description": "While in the Roaming state, press  to activate:\nDelivers a spinning slash to enemies before opening her scissors for a Swift Scissors strike, dealing Ice DMG.\nGain 1 point of Flash Freeze Charge when the Swift Scissors strike hits.\n\nWhile in the Roaming state, hold  to activate:\nPerform a spinning slash against the enemy, then pull apart the scissors to unleash a Charged Scissors strike, dealing massive Ice DMG.\nGain 3 points of Flash Freeze Charge when the Charged Scissors strike hits. If the enemy is Frozen, it always triggers Shatter.\nAnti-Interrupt level is increased while charging the skill, and DMG taken is reduced by 40%.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Flash Freeze",
+                    "description": "When Ellen has Flash Freeze Charges, the Flash Freeze effect is activated. Once Flash Freeze activates, Basic Attacks and Dash Attacks expend Flash Freeze Charges, dealing massive Ice DMG. Ellen can have up to a maximum of 6 Flash Freeze Charges.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Monstrous Wave",
+                    "description": "Press  during a dodge to activate:\nLaunches a dashing slash attack at enemies in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Cold Snap",
+                    "description": "While Flash Freeze is active, press  during dodge to activate:\nLaunches a dashing slash attack at enemies in front, dealing Ice DMG.\nConsumes 1 Flash Freeze Charge.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Reef Rock",
+                    "description": "Press  during a Perfect Dodge to activate:\nRapidly move through enemies with open scissors for a cutting strike, dealing Ice DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Arctic Ambush",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Spinning Slash DMG Multiplier",
+                            "description": "{Skill:1191007, Prop:1001}",
+                            "params": {
+                                "1191007": {
+                                    "main": 6230,
+                                    "growth": 570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Swift Scissors DMG Multiplier",
+                            "description": "{Skill:1191008, Prop:1001}",
+                            "params": {
+                                "1191008": {
+                                    "main": 12760,
+                                    "growth": 1160,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charged Scissors DMG Multiplier",
+                            "description": "{Skill:1191009, Prop:1001}",
+                            "params": {
+                                "1191009": {
+                                    "main": 15820,
+                                    "growth": 1440,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Spinning Slash Daze Multiplier",
+                            "description": "{Skill:1191007, Prop:1002}",
+                            "params": {
+                                "1191007": {
+                                    "main": 6230,
+                                    "growth": 290,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Swift Scissors Daze Multiplier",
+                            "description": "{Skill:1191008, Prop:1002}",
+                            "params": {
+                                "1191008": {
+                                    "main": 9820,
+                                    "growth": 450,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charged Scissors Daze Multiplier",
+                            "description": "{Skill:1191009, Prop:1002}",
+                            "params": {
+                                "1191009": {
+                                    "main": 12170,
+                                    "growth": 560,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Swift Scissors Flash Freeze Charge Obtained",
+                            "description": "1",
+                            "params": null
+                        },
+                        {
+                            "name": "Charged Scissors Flash Freeze Charge Obtained",
+                            "description": "3",
+                            "params": null
+                        }
+                    ]
+                },
+                {
+                    "name": "Dash Attack: Monstrous Wave",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1191013, Prop:1001}",
+                            "params": {
+                                "1191013": {
+                                    "main": 7700,
+                                    "growth": 700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1191013, Prop:1002}",
+                            "params": {
+                                "1191013": {
+                                    "main": 3850,
+                                    "growth": 180,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dash Attack: Cold Snap",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1191014, Prop:1001}",
+                            "params": {
+                                "1191014": {
+                                    "main": 14570,
+                                    "growth": 1330,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1191014, Prop:1002}",
+                            "params": {
+                                "1191014": {
+                                    "main": 7880,
+                                    "growth": 360,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Reef Rock",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1191015, Prop:1001}",
+                            "params": {
+                                "1191015": {
+                                    "main": 15260,
+                                    "growth": 1390,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1191015, Prop:1002}",
+                            "params": {
+                                "1191015": {
+                                    "main": 22740,
+                                    "growth": 1040,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Drift",
+                    "description": "Press  to activate:\nUse a quick tail sweep attack in front, dealing Ice DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Tail Swipe",
+                    "description": "With enough Energy, press  to activate:\nPerform a forceful tail whip attack that deals massive Ice DMG.\nGain 1 Flash Freeze Charge upon striking an enemy.\nCharacter is invulnerable while using this skill.\nAfter executing the move, you can immediately follow up with the 3rd-hit of a Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Sharknami",
+                    "description": "With enough Energy and after executing EX Special Attack: Tail Swipe, press  to activate:\nPerform a powerful series of slashes ahead that deal massive Ice DMG.\nGain 1 Flash Freeze Charge upon striking an enemy.\nCharacter is invulnerable while using this skill.\nAfter executing the move, you can immediately follow up with the 3rd-hit of a Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Drift",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1191010, Prop:1001}",
+                            "params": {
+                                "1191010": {
+                                    "main": 5050,
+                                    "growth": 460,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1191010, Prop:1002}",
+                            "params": {
+                                "1191010": {
+                                    "main": 5050,
+                                    "growth": 230,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Tail Swipe",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1191011, Prop:1001}",
+                            "params": {
+                                "1191011": {
+                                    "main": 37720,
+                                    "growth": 3430,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1191011, Prop:1002}",
+                            "params": {
+                                "1191011": {
+                                    "main": 40510,
+                                    "growth": 1850,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "40",
+                            "params": null
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Sharknami",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1191012, Prop:1001}",
+                            "params": {
+                                "1191012": {
+                                    "main": 55330,
+                                    "growth": 5030,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1191012, Prop:1002}",
+                            "params": {
+                                "1191012": {
+                                    "main": 37170,
+                                    "growth": 1690,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "40",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Avalanche",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nCrash down from above and unleash an ice storm, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Endless Winter",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nCrash down from above and unleash an ice storm before a powerful scissor strike, dealing massive Ice DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Avalanche",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1191016, Prop:1001}",
+                            "params": {
+                                "1191016": {
+                                    "main": 79460,
+                                    "growth": 7230,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1191016, Prop:1002}",
+                            "params": {
+                                "1191016": {
+                                    "main": 35570,
+                                    "growth": 1620,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Endless Winter",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1191017, Prop:1001}",
+                            "params": {
+                                "1191017": {
+                                    "main": 189080,
+                                    "growth": 17190,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1191017, Prop:1002}",
+                            "params": {
+                                "1191017": {
+                                    "main": 18520,
+                                    "growth": 850,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Shark Sentinel",
+                    "description": "When the active character is launched, press  to activate:\nSpeedily move through the enemy with open scissors for a cutting strike, dealing Ice DMG.\nCharacter is invulnerable while using this skill.\nWhen the character on the field is launched, drag the stick/joystick and press  to activate:\nEnter the Roaming state, enabling dashing movement.\nWhile in the Roaming state, use the stick/joystick to change directions and release to stop.\nCharacter is invulnerable briefly when triggering the skill.\nUpon triggering a Quick Assist, Ellen gains the Quick Charge effect, shortening the charging time of Dash Attack: Arctic Ambush, lasting up to 5s or until it triggers once.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Wavefront Impact",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Shark Cruiser",
+                    "description": "Press  after a Defensive Assist to activate:\nCharge and slash enemies in front, dealing Ice DMG.\nPress repeatedly or hold  during the attack to extend the skill duration.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Shark Sentinel",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1191018, Prop:1001}",
+                            "params": {
+                                "1191018": {
+                                    "main": 12110,
+                                    "growth": 1110,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1191018, Prop:1002}",
+                            "params": {
+                                "1191018": {
+                                    "main": 12110,
+                                    "growth": 560,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Wavefront Impact",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1191019, Prop:1002}",
+                            "params": {
+                                "1191019": {
+                                    "main": 27130,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1191020, Prop:1002}",
+                            "params": {
+                                "1191020": {
+                                    "main": 34280,
+                                    "growth": 1560,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1191021, Prop:1002}",
+                            "params": {
+                                "1191021": {
+                                    "main": 16680,
+                                    "growth": 760,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Shark Cruiser",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1191022, Prop:1001}",
+                            "params": {
+                                "1191022": {
+                                    "main": 43790,
+                                    "growth": 3990,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1191022, Prop:1002}",
+                            "params": {
+                                "1191022": {
+                                    "main": 38480,
+                                    "growth": 1750,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1191501,
+                "names": [
+                    "Core Passive: Sharp-Toothed",
+                    "Additional Ability: Rising Storm"
+                ],
+                "descriptions": [
+                    "When Ellen launches a Charged Scissors strike during Dash Attack: Arctic Ambush, or consumes a Flash Freeze Charge to activate Basic Attack: Flash Freeze Trimming, the skill's CRIT DMG is increased by 50%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Ellen deals Ice DMG, subsequent Ice DMG increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1191502,
+                "names": [
+                    "Core Passive: Sharp-Toothed",
+                    "Additional Ability: Rising Storm"
+                ],
+                "descriptions": [
+                    "When Ellen launches a Charged Scissors strike during Dash Attack: Arctic Ambush, or consumes a Flash Freeze Charge to activate Basic Attack: Flash Freeze Trimming, the skill's CRIT DMG is increased by 58.3%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Ellen deals Ice DMG, subsequent Ice DMG increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1191503,
+                "names": [
+                    "Core Passive: Sharp-Toothed",
+                    "Additional Ability: Rising Storm"
+                ],
+                "descriptions": [
+                    "When Ellen launches a Charged Scissors strike during Dash Attack: Arctic Ambush, or consumes a Flash Freeze Charge to activate Basic Attack: Flash Freeze Trimming, the skill's CRIT DMG is increased by 66.6%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Ellen deals Ice DMG, subsequent Ice DMG increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1191504,
+                "names": [
+                    "Core Passive: Sharp-Toothed",
+                    "Additional Ability: Rising Storm"
+                ],
+                "descriptions": [
+                    "When Ellen launches a Charged Scissors strike during Dash Attack: Arctic Ambush, or consumes a Flash Freeze Charge to activate Basic Attack: Flash Freeze Trimming, the skill's CRIT DMG is increased by 75%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Ellen deals Ice DMG, subsequent Ice DMG increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1191505,
+                "names": [
+                    "Core Passive: Sharp-Toothed",
+                    "Additional Ability: Rising Storm"
+                ],
+                "descriptions": [
+                    "When Ellen launches a Charged Scissors strike during Dash Attack: Arctic Ambush, or consumes a Flash Freeze Charge to activate Basic Attack: Flash Freeze Trimming, the skill's CRIT DMG is increased by 83.3%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Ellen deals Ice DMG, subsequent Ice DMG increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1191506,
+                "names": [
+                    "Core Passive: Sharp-Toothed",
+                    "Additional Ability: Rising Storm"
+                ],
+                "descriptions": [
+                    "When Ellen launches a Charged Scissors strike during Dash Attack: Arctic Ambush, or consumes a Flash Freeze Charge to activate Basic Attack: Flash Freeze Trimming, the skill's CRIT DMG is increased by 91.6%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Ellen deals Ice DMG, subsequent Ice DMG increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1191507,
+                "names": [
+                    "Core Passive: Sharp-Toothed",
+                    "Additional Ability: Rising Storm"
+                ],
+                "descriptions": [
+                    "When Ellen launches a Charged Scissors Strike during Dash Attack: Arctic Ambush, or consumes a Flash Freeze Charge to activate Basic Attack: Flash Freeze Trimming, the skill's CRIT DMG is increased by 100%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen Ellen deals Ice DMG, subsequent Ice DMG increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110501,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110501,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110501,
+                    "amount": 9
+                },
+                {
+                    "id": 110001,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110501,
+                    "amount": 15
+                },
+                {
+                    "id": 110001,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110501,
+                    "amount": 30
+                },
+                {
+                    "id": 110001,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1191_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1191_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1191_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect21.webp"
+}

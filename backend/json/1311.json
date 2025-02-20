@@ -1,0 +1,1706 @@
+{
+    "id": 1311,
+    "image": "https://api.hakush.in/zzz/UI/IconRole36.webp",
+    "name": "Astra Yao",
+    "code_name": "Astra",
+    "rarity": "S",
+    "specialty": {
+        "id": 4,
+        "name": "Support"
+    },
+    "element": {
+        "id": 205,
+        "name": "Ether"
+    },
+    "attack_type": {
+        "id": 102,
+        "name": "Strike"
+    },
+    "faction": {
+        "id": 8,
+        "name": "Stars of Lyra"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "JAN 31",
+        "full_name": "Astra Yao",
+        "gender": "Female",
+        "female_impression": "Astra just sent me another message on Knock Knock! It's a swimsuit photoshoot for \"Jealous\"! Wow, she's got a great body~",
+        "male_impression": "What?! Why don't I... Ahem, I think my phone is broken. Belle, can I borrow yours for a moment?",
+        "outlook_desc": "There's no record of Astra Yao's aptitude for Ether in her New Eridu Citizen Verification Profile.\nNote: She has an outstanding aptitude for Ether.",
+        "profile_desc": "Astra Yao is widely regarded as Ridu's most iconic singer. With her extraordinary voice, stage presence, and songwriting talent, she has led the musical trends of an entire era. \"If music is the resonance of the soul, then Astra Yao is the spark that ignites it all,\" said one famous music critic.\n\nAs brilliant as she is, Astra remains remarkably sincere and pure. On stage, her voice resonates deeply with the audience, which has allowed her to amass a large and loyal fanbase known as her \"Astranauts.\" Of course, Astra's brilliance wouldn't be possible without the careful protection of her manager, Evelyn. Offstage, she appears to be just a cute, hapless girl who depends on Evelyn in her daily life, and on Wise and Belle in the Hollows.\n\n\"If I tickled Eous, would it make you laugh?\" Astra asked curiously while lifting the Proxy, who was linked via the HDD system.\n\nShe seems to have a particular fondness for Eous.\nContemplation: Human emotions are indeed an interesting subject. It's still hard to determine whether Astra likes Eous because of the owner, or whether she likes the owner because of Eous.",
+        "faction": "Stars of Lyra",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Story \"Leisurely Lull: Goldfinch's Escape\" (available after completing Main Story Chapter 5)",
+            "Complete Special Episode \"Astra-Nomical Moment\""
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 103.0,
+        "AttackGrowth": 59961.0,
+        "AvatarPieceId": 5311.0,
+        "BreakStun": 83.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 48.0,
+        "DefenceGrowth": 65524.0,
+        "ElementAbnormalPower": 93.0,
+        "ElementMystery": 92.0,
+        "Endurance": 0.0,
+        "HpGrowth": 939358.0,
+        "HpMax": 692.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "12-Tone Equal Temperament",
+            "description": "When Astra Yao's attack hits an enemy, the target's All-Attribute RES is reduced by 6%, stacking up to 3 times and lasting 30s. Repeated triggers reset the duration. Upon entering the battlefield, Astra Yao immediately gains 1,000 Decibels. When activating her Ultimate, all squad members gain 1 stack of Song of Protection for 60s. When attacked by an enemy, consume Song of Protection, granting Invulnerability for 1s.",
+            "description2": "\"What is the 12-tone equal temperament?\"\n\"12-tone equal temperament is a musical tuning system, just like how children have to line up, sounds need to be in order too.\"\n\"But sounds probably don't like lining up, just like children!\"\n—Astra Yao's music teacher, recalling when she was six."
+        },
+        {
+            "level": 2,
+            "name": "Art of Greed",
+            "description": "The ATK buff from Core Passive: \"Graceful Andante\" is further increased by 19%, with an increased maximum of 400. While in the Idyllic Cadenza state, when other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, Astra Yao will additionally follow up with 1 Tremolo and 3 Tone Clusters to attack. This effect can trigger once every 3s.",
+            "description2": "\"The shiniest thing in the world is, of course, love!\"\nJust like a bird gathering shiny things for its nest, an artist's inner greed is probably to gather all the love in the world. By gathering all the love, one can create the most beautiful melody."
+        },
+        {
+            "level": 3,
+            "name": "Interwoven Staff Notation",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "A blank musical staff is a set of parallel lines that never intersect, like souls that have never met, quietly waiting for their melodies to intertwine into a song.\n\"Let's fill it with notes! And lots and lots of tied notes. It'll make a fantastic song!\"\nAnd that's how a new song was created, stretching across 136 bars, all connected with ties..."
+        },
+        {
+            "level": 4,
+            "name": "\"Hair Upon Your Nape\"",
+            "description": "After activating a Chain Attack or Ultimate, within 15s, Astra Yao can trigger a Quick Assist even if she does not have Chords. When the attack hits an enemy, the interval for triggering a Quick Assist is reduced to 1s. While in the Idyllic Cadenza state, when other squad members enter the field via a Quick Assist, they will receive different buffs based on their specialty, and this effect can be triggered once every 3s for the entire squad: Attack: The next Quick Assist heavy attack on an enemy will deal extra DMG equal to 300% of Astra Yao's ATK; Anomaly: The next Quick Assist will have 50% increased Anomaly Buildup; Stun: The next Quick Assist will inflict 50% increased Daze.",
+            "description2": "One hand hovers over the piano\nNot sure which note will bring me peace\nA sad minor key\nOr gentle melody of longing?\nI seek your shadow through the score\nI close my eyes, and see you more\nSuch as the hair upon your nape"
+        },
+        {
+            "level": 5,
+            "name": "Proxy and Silk String",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "\"Eve! I've just realized something huge — both you and {M#Wise}{F#Belle} are tall and slim!\"\n\"...And your point being...?\"\n\"You're both my favorite people!\"\nAstra beamed with joy, as if she had uncovered an earth-shattering secret."
+        },
+        {
+            "level": 6,
+            "name": "We Are the World",
+            "description": "While in the Idyllic Cadenza state, the DMG multiplier for Tremolo and Tone Clusters released or followed up with will increase to 200% of the original, and CRIT Rate is increased by 80%. When triggering a Precise Assist, Astra Yao will automatically follow up with the charged 3rd-hit of Basic Attack: \"Capriccio\", with a 80% increased CRIT Rate. This effect can trigger once every 10s.",
+            "description2": "The turmoil in the world originates from the solitude of the human heart. If everyone's heart was reciprocated, perhaps all the suffering, sadness, and silence in the world would vanish?\nIf we could weave this connection with song, would all the cracks heal, and all the pain turn into a beautiful melody, filling the silence? At that point, the world would no longer be a lonely island.\n\"This song is dedicated to the world!\""
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100214,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 475,
+            "attack": 37,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100224,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 950,
+            "attack": 74,
+            "defense": 66,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100224,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1425,
+            "attack": 110,
+            "defense": 99,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100234,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1900,
+            "attack": 147,
+            "defense": 133,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100234,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2375,
+            "attack": 184,
+            "defense": 166,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 24,
+                    "formatted_value": "24"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 30501,
+                    "name": "Base Energy Regen",
+                    "format": "{0:0.##}",
+                    "value": 36,
+                    "formatted_value": "36"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: \"Capriccio\"",
+                    "description": "Press  to activate:\nPerform up to three attacks forward, dealing Ether DMG.\nDuring the 3rd-hit, hold  to charge, drawing enemies in and expanding the attack range for a stronger attack.\nAfter using other skills, hold  to initiate the 3rd-hit directly.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Interlude",
+                    "description": "While in the Idyllic Cadenza state, press  to activate:\nRelease Tremolo forward to attack, dealing Ether DMG.\nA Quick Assist will be triggered when this skill hits an enemy.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Chorus",
+                    "description": "While in the Idyllic Cadenza state, press  during a Perfect Dodge to activate:\nLaunch multiple Tremolo attacks at enemies in front, dealing massive Ether DMG.\nA Quick Assist will be triggered when this skill hits an enemy.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Finale",
+                    "description": "While in the Idyllic Cadenza state, hold  to activate:\nRelease Tremolo forward to attack, dealing Ether DMG and exit the Idyllic Cadenza state.\nUpon activation of the skill, it grants the buff from Core Passive: \"Graceful Andante\".\nWith enough Energy, consumes Energy to follow up with 1 Tremolo and 3 Tone Clusters. This Tremolo attack released is considered an EX Special Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: \"Capriccio\"",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1311001, Prop:1001}",
+                            "params": {
+                                "1311001": {
+                                    "main": 4380,
+                                    "growth": 400,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1311002, Prop:1001}",
+                            "params": {
+                                "1311002": {
+                                    "main": 5910,
+                                    "growth": 540,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Min DMG Multiplier",
+                            "description": "{Skill:1311003, Prop:1001}",
+                            "params": {
+                                "1311003": {
+                                    "main": 12090,
+                                    "growth": 1100,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Max DMG Multiplier",
+                            "description": "{Skill:1311004, Prop:1001}",
+                            "params": {
+                                "1311004": {
+                                    "main": 27070,
+                                    "growth": 2470,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1311001, Prop:1002}",
+                            "params": {
+                                "1311001": {
+                                    "main": 4130,
+                                    "growth": 190,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1311002, Prop:1002}",
+                            "params": {
+                                "1311002": {
+                                    "main": 5640,
+                                    "growth": 260,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Min Daze Multiplier",
+                            "description": "{Skill:1311003, Prop:1002}",
+                            "params": {
+                                "1311003": {
+                                    "main": 11480,
+                                    "growth": 530,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Max Daze Multiplier",
+                            "description": "{Skill:1311004, Prop:1002}",
+                            "params": {
+                                "1311004": {
+                                    "main": 21940,
+                                    "growth": 1000,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Interlude",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1311005, Prop:1001}",
+                            "params": {
+                                "1311005": {
+                                    "main": 5500,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1311005, Prop:1001}",
+                            "params": {
+                                "1311005": {
+                                    "main": 5500,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1311005, Prop:1001} * 2",
+                            "params": {
+                                "1311005": {
+                                    "main": 5500,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1311005, Prop:1001}",
+                            "params": {
+                                "1311005": {
+                                    "main": 5500,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1311005, Prop:1001} * 2",
+                            "params": {
+                                "1311005": {
+                                    "main": 5500,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1311005, Prop:1002}",
+                            "params": {
+                                "1311005": {
+                                    "main": 4840,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1311005, Prop:1002}",
+                            "params": {
+                                "1311005": {
+                                    "main": 4840,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1311005, Prop:1002} * 2",
+                            "params": {
+                                "1311005": {
+                                    "main": 4840,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1311005, Prop:1002}",
+                            "params": {
+                                "1311005": {
+                                    "main": 4840,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1311005, Prop:1002} * 2",
+                            "params": {
+                                "1311005": {
+                                    "main": 4840,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Chorus",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1311005, Prop:1001} * 4",
+                            "params": {
+                                "1311005": {
+                                    "main": 5500,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1311005, Prop:1002} * 4",
+                            "params": {
+                                "1311005": {
+                                    "main": 4840,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Finale",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1311005, Prop:1001}",
+                            "params": {
+                                "1311005": {
+                                    "main": 5500,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1311005, Prop:1002}",
+                            "params": {
+                                "1311005": {
+                                    "main": 4840,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: \"Mini Waltz\"",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: \"Lunar Eclipse Melody\"",
+                    "description": "Press  during a dodge to activate:\nAttack ahead, dealing Ether DMG.\nWhen triggered, dragging thestick/joystick allows movement in the corresponding direction.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: \"Umbrella Waltz\"",
+                    "description": "Press  during a Perfect Dodge to activate:\nAttack enemies in front, dealing Ether DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: \"Lunar Eclipse Melody\"",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1311010, Prop:1001}",
+                            "params": {
+                                "1311010": {
+                                    "main": 8070,
+                                    "growth": 740,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1311010, Prop:1002}",
+                            "params": {
+                                "1311010": {
+                                    "main": 4040,
+                                    "growth": 190,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: \"Umbrella Waltz\"",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1311011, Prop:1001}",
+                            "params": {
+                                "1311011": {
+                                    "main": 11000,
+                                    "growth": 1000,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1311011, Prop:1002}",
+                            "params": {
+                                "1311011": {
+                                    "main": 9680,
+                                    "growth": 440,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: \"Windchimes & Oaths\"",
+                    "description": "Press  to activate:\nQuickly move away, then release Tremolo, dealing Ether DMG, and enter the Idyllic Cadenza state.\nDuring activation, dragging the stick/joystick enables movement in the direction held.\nHold  to charge during activation, drawing enemies in, and follow up with 1 to 4 Tremolos depending on the charge duration.\nA Quick Assist will be triggered when this skill hits an enemy.\nCharacter is invulnerable when quickly moving away.",
+                    "params": null
+                },
+                {
+                    "name": "Idyllic Cadenza",
+                    "description": "After entering the Idyllic Cadenza state, Astra Yao increases all squad members' DMG by {CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}% and CRIT DMG by {CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%.\nWhile in the Idyllic Cadenza state, Astra Yao cannot move, but pressing  will activate Basic Attack: Interlude, and pressing  will activate a dodge. After triggering a Perfect Dodge, press  to activate Basic Attack: Chorus.\nWhile in this state, Astra Yao's Anti-Interrupt Level is increased, and the DMG she takes is reduced by 40%. After switching to another character, Astra Yao will remain on the field and become Invulnerable. When switching back to her, she will automatically follow up with Special Attack: \"Windchimes & Oaths\".\nDuring this state, hold  to activate Basic Attack: Finale, exiting the Idyllic Cadenza state, or hold  to exit the Idyllic Cadenza state directly.",
+                    "params": null
+                },
+                {
+                    "name": "Chord",
+                    "description": "For every 25 Energy, Astra Yao will have 1 Chord.\nWhile in the Idyllic Cadenza state, when Astra Yao has Chords, a Quick Assist can be triggered in the following situations:\n· When the active character's attack hits an enemy, once per 3s.\n· When the active character's heavy attack hits an enemy, once per 1s.\nWhen other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, Astra Yao will consume 25 Energy and release 1 Tremolo to attack. This Tremolo attack released is considered an EX Special Attack.\nAfter triggering a Quick Assist, quickly press  to switch characters and trigger a Precise Assist, causing Astra Yao to follow up with 3 Tone Clusters to attack. When other squad members switch in through a Chain Attack, Defensive Assist, or Evasive Assist, it will automatically trigger a Precise Assist.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: \"Windchimes & Oaths\"",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Squad DMG Increase",
+                            "description": "{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%",
+                            "params": null
+                        },
+                        {
+                            "name": "Squad CRIT DMG Increase",
+                            "description": "{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%",
+                            "params": null
+                        },
+                        {
+                            "name": "Minimum DMG Multiplier",
+                            "description": "{Skill:1311006, Prop:1001}",
+                            "params": {
+                                "1311006": {
+                                    "main": 5500,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Maximum DMG Multiplier",
+                            "description": "{Skill:1311006, Prop:1001} * 4",
+                            "params": {
+                                "1311006": {
+                                    "main": 5500,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Minimum Daze Multiplier",
+                            "description": "{Skill:1311006, Prop:1002}",
+                            "params": {
+                                "1311006": {
+                                    "main": 4840,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Maximum Daze Multiplier",
+                            "description": "{Skill:1311006, Prop:1002} * 4",
+                            "params": {
+                                "1311006": {
+                                    "main": 4840,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Chord",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Follow-Up Tremolo DMG Multiplier",
+                            "description": "{Skill:1311008, Prop:1001}",
+                            "params": {
+                                "1311008": {
+                                    "main": 4600,
+                                    "growth": 420,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up Tone Cluster DMG Multiplier",
+                            "description": "{Skill:1311009, Prop:1001} * 3",
+                            "params": {
+                                "1311009": {
+                                    "main": 2400,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "25",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: \"Tipsy Concerto\"",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUse song to channel energy into a blast, dealing massive Ether DMG.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy.\nAfter the skill, Astra Yao enters the Idyllic Cadenza state.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: \"Fantasian Sonata\"",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUse song to channel energy into a blast, dealing massive Ether DMG, and restoring {CAL:-50+AvatarSkillLevel(3)*250,1,2} HP to all squad members.\nCharacter is invulnerable while using this skill.\nA Quick Assist is triggered when this skill hits an enemy.\nAfter the skill, Astra Yao enters the Idyllic Cadenza state.\nAfter the skill, the next two Quick Assists will be replaced by Chain Attacks.\nBefore all replacement chances are used up, a Quick Assist is triggered whenever any quad member hits an enemy with a Chain Attack or Ultimate.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: \"Tipsy Concerto\"",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1311012, Prop:1001}",
+                            "params": {
+                                "1311012": {
+                                    "main": 67180,
+                                    "growth": 6110,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1311012, Prop:1002}",
+                            "params": {
+                                "1311012": {
+                                    "main": 23290,
+                                    "growth": 1060,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: \"Fantasian Sonata\"",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1311013, Prop:1001}",
+                            "params": {
+                                "1311013": {
+                                    "main": 195980,
+                                    "growth": 17820,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1311013, Prop:1002}",
+                            "params": {
+                                "1311013": {
+                                    "main": 23830,
+                                    "growth": 1090,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "HP Recovery",
+                            "description": "{CAL:-50+AvatarSkillLevel(3)*250,1,2}",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: \"One Luminous Sky\"",
+                    "description": "When the active character is launched, press  to activate:\nAttack enemies in front, dealing Ether DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Evasive Assist: \"Two Hearts\"",
+                    "description": "When the on-field character is about to be attacked, press  to activate:\nDodges the enemy's attack and activates Vital View.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: \"Three Lifetimes of Fate\"",
+                    "description": "Press  after an Evasive Assist to activate:\nRelease an energy beam forward, dealing Ether DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: \"One Luminous Sky\"",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1311014, Prop:1001}",
+                            "params": {
+                                "1311014": {
+                                    "main": 5500,
+                                    "growth": 500,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1311014, Prop:1002}",
+                            "params": {
+                                "1311014": {
+                                    "main": 4840,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: \"Three Lifetimes of Fate\"",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1311015, Prop:1001}",
+                            "params": {
+                                "1311015": {
+                                    "main": 30460,
+                                    "growth": 2770,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1311015, Prop:1002}",
+                            "params": {
+                                "1311015": {
+                                    "main": 26100,
+                                    "growth": 1190,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100115,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100125,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100135,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1311501,
+                "names": [
+                    "Core Passive: \"Graceful Andante\"",
+                    "Additional Ability: \"Moonlit Frenzy\""
+                ],
+                "descriptions": [
+                    "During the Idyllic Cadenza state, when other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, and when Astra Yao expends Energy to release Tremolo to attack, both Astra Yao and the incoming character's ATK are increased. The increase is equal to 22% of Astra Yao's initial ATK, up to a maximum of 1,200. The effect lasts for 20s and can be extended up to 30s with repeated triggers.",
+                    "When another character in your squad is an Attack or Anomaly character:\nWhen Energy is consumed to trigger a Precise Assist or Basic Attack: Finale, Astra Yao will additionally follow up with 1 Tremolo and 3 Tone Clusters."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1311502,
+                "names": [
+                    "Core Passive: \"Graceful Andante\"",
+                    "Additional Ability: \"Moonlit Frenzy\""
+                ],
+                "descriptions": [
+                    "During the Idyllic Cadenza state, when other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, and when Astra Yao expends Energy to release Tremolo to attack, both Astra Yao and the incoming character's ATK are increased. The increase is equal to 24% of Astra Yao's initial ATK, up to a maximum of 1,200. The effect lasts for 20s and can be extended up to 30s with repeated triggers.",
+                    "When another character in your squad is an Attack or Anomaly character:\nWhen Energy is consumed to trigger a Precise Assist or Basic Attack: Finale, Astra Yao will additionally follow up with 1 Tremolo and 3 Tone Clusters."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1311503,
+                "names": [
+                    "Core Passive: \"Graceful Andante\"",
+                    "Additional Ability: \"Moonlit Frenzy\""
+                ],
+                "descriptions": [
+                    "During the Idyllic Cadenza state, when other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, and when Astra Yao expends Energy to release Tremolo to attack, both Astra Yao and the incoming character's ATK are increased. The increase is equal to 26% of Astra Yao's initial ATK, up to a maximum of 1,200. The effect lasts for 20s and can be extended up to 30s with repeated triggers.",
+                    "When another character in your squad is an Attack or Anomaly character:\nWhen Energy is consumed to trigger a Precise Assist or Basic Attack: Finale, Astra Yao will additionally follow up with 1 Tremolo and 3 Tone Clusters."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1311504,
+                "names": [
+                    "Core Passive: \"Graceful Andante\"",
+                    "Additional Ability: \"Moonlit Frenzy\""
+                ],
+                "descriptions": [
+                    "During the Idyllic Cadenza state, when other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, and when Astra Yao expends Energy to release Tremolo to attack, both Astra Yao and the incoming character's ATK are increased. The increase is equal to 28% of Astra Yao's initial ATK, up to a maximum of 1,200. The effect lasts for 20s and can be extended up to 30s with repeated triggers.",
+                    "When another character in your squad is an Attack or Anomaly character:\nWhen Energy is consumed to trigger a Precise Assist or Basic Attack: Finale, Astra Yao will additionally follow up with 1 Tremolo and 3 Tone Clusters."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1311505,
+                "names": [
+                    "Core Passive: \"Graceful Andante\"",
+                    "Additional Ability: \"Moonlit Frenzy\""
+                ],
+                "descriptions": [
+                    "During the Idyllic Cadenza state, when other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, and when Astra Yao expends Energy to release Tremolo to attack, both Astra Yao and the incoming character's ATK are increased. The increase is equal to 30% of Astra Yao's initial ATK, up to a maximum of 1,200. The effect lasts for 20s and can be extended up to 30s with repeated triggers.",
+                    "When another character in your squad is an Attack or Anomaly character:\nWhen Energy is consumed to trigger a Precise Assist or Basic Attack: Finale, Astra Yao will additionally follow up with 1 Tremolo and 3 Tone Clusters."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1311506,
+                "names": [
+                    "Core Passive: \"Graceful Andante\"",
+                    "Additional Ability: \"Moonlit Frenzy\""
+                ],
+                "descriptions": [
+                    "During the Idyllic Cadenza state, when other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, and when Astra Yao expends Energy to release Tremolo to attack, both Astra Yao and the incoming character's ATK are increased. The increase is equal to 32% of Astra Yao's initial ATK, up to a maximum of 1,200. The effect lasts for 20s and can be extended up to 30s with repeated triggers.",
+                    "When another character in your squad is an Attack or Anomaly character:\nWhen Energy is consumed to trigger a Precise Assist or Basic Attack: Finale, Astra Yao will additionally follow up with 1 Tremolo and 3 Tone Clusters."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1311507,
+                "names": [
+                    "Core Passive: \"Graceful Andante\"",
+                    "Additional Ability: \"Moonlit Frenzy\""
+                ],
+                "descriptions": [
+                    "During the Idyllic Cadenza state, when other squad members switch in through a Quick Assist, Chain Attack, Defensive Assist, or Evasive Assist, and when Astra Yao expends Energy to release Tremolo to attack, both Astra Yao and the incoming character's ATK are increased. The increase is equal to 35% of Astra Yao's initial ATK, up to a maximum of 1,200. The effect lasts for 20s and can be extended up to 30s with repeated triggers.",
+                    "When another character in your squad is an Attack or Anomaly character:\nWhen Energy is consumed to trigger a Precise Assist or Basic Attack: Finale, Astra Yao will additionally follow up with 1 Tremolo and 3 Tone Clusters."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110508,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110508,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110508,
+                    "amount": 9
+                },
+                {
+                    "id": 110003,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110508,
+                    "amount": 15
+                },
+                {
+                    "id": 110003,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110508,
+                    "amount": 30
+                },
+                {
+                    "id": 110003,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1311_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1311_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1311_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect36.webp"
+}

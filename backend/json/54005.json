@@ -1,0 +1,463 @@
+{
+    "id": 54005,
+    "code_name": "Amillion",
+    "name": "Amillion",
+    "description": "A million Dennies in one Bangboo.",
+    "rarity": "S",
+    "icon": "https://api.hakush.in/zzz/UI/BangbooGarageRole13.webp",
+    "stats": {
+        "Stamina": 100.0,
+        "StaminaUpragde": 10.0,
+        "Endurance": 180.0,
+        "HpMax": 396.0,
+        "Hpupgrade": 471237.0,
+        "Attack": 72.0,
+        "AttackUpgrade": 360408.0,
+        "BreakStun": 103.0,
+        "ElementAbnormalPower": 110.0,
+        "Defence": 28.0,
+        "DefUpgrade": 78871.0,
+        "Crit": 500.0,
+        "PenRatio": 0.0,
+        "CritDmg": 5000.0
+    },
+    "ascensions": {
+        "1": {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 15000
+                },
+                {
+                    "id": 102010,
+                    "amount": 4
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "2": {
+            "max_hp": 207,
+            "attack": 67,
+            "defense": 35,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 35000
+                },
+                {
+                    "id": 102020,
+                    "amount": 12
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 450,
+                    "formatted_value": "450%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "3": {
+            "max_hp": 414,
+            "attack": 333,
+            "defense": 69,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 75000
+                },
+                {
+                    "id": 102020,
+                    "amount": 20
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 2250,
+                    "formatted_value": "2250%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 0,
+                    "formatted_value": "0%%"
+                }
+            ]
+        },
+        "4": {
+            "max_hp": 621,
+            "attack": 1000,
+            "defense": 104,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 125000
+                },
+                {
+                    "id": 102030,
+                    "amount": 10
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 2250,
+                    "formatted_value": "2250%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2500,
+                    "formatted_value": "2500%%"
+                }
+            ]
+        },
+        "5": {
+            "max_hp": 828,
+            "attack": 2666,
+            "defense": 139,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 250000
+                },
+                {
+                    "id": 102030,
+                    "amount": 20
+                }
+            ],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 4500,
+                    "formatted_value": "4500%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 2500,
+                    "formatted_value": "2500%%"
+                }
+            ]
+        },
+        "6": {
+            "max_hp": 1034,
+            "attack": 6665,
+            "defense": 173,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": [],
+            "extra_props": [
+                {
+                    "id": 20101,
+                    "name": "CRIT Rate",
+                    "format": "{0:0.#%}",
+                    "value": 4500,
+                    "formatted_value": "4500%%"
+                },
+                {
+                    "id": 21101,
+                    "name": "CRIT DMG",
+                    "format": "{0:0.#%}",
+                    "value": 5000,
+                    "formatted_value": "5000%%"
+                }
+            ]
+        }
+    },
+    "skills": {
+        "A": {
+            "1": {
+                "name": "Portable Machine Gun - Debt-Clearer",
+                "description": "Active Skill\nBuilds a machine gun and continuously shoots enemies, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400501, Prop:1001}|{Skill:5400501, Prop:1002}|22s"
+            },
+            "2": {
+                "name": "Portable Machine Gun - Debt-Clearer",
+                "description": "Active Skill\nBuilds a machine gun and continuously shoots enemies, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400501, Prop:1001}|{Skill:5400501, Prop:1002}|22s"
+            },
+            "3": {
+                "name": "Portable Machine Gun - Debt-Clearer",
+                "description": "Active Skill\nBuilds a machine gun and continuously shoots enemies, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400501, Prop:1001}|{Skill:5400501, Prop:1002}|22s"
+            },
+            "4": {
+                "name": "Portable Machine Gun - Debt-Clearer",
+                "description": "Active Skill\nBuilds a machine gun and continuously shoots enemies, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400501, Prop:1001}|{Skill:5400501, Prop:1002}|22s"
+            },
+            "5": {
+                "name": "Portable Machine Gun - Debt-Clearer",
+                "description": "Active Skill\nBuilds a machine gun and continuously shoots enemies, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400501, Prop:1001}|{Skill:5400501, Prop:1002}|22s"
+            },
+            "6": {
+                "name": "Portable Machine Gun - Debt-Clearer",
+                "description": "Active Skill\nBuilds a machine gun and continuously shoots enemies, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400501, Prop:1001}|{Skill:5400501, Prop:1002}|22s"
+            },
+            "7": {
+                "name": "Portable Machine Gun - Debt-Clearer",
+                "description": "Active Skill\nBuilds a machine gun and continuously shoots enemies, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400501, Prop:1001}|{Skill:5400501, Prop:1002}|22s"
+            },
+            "8": {
+                "name": "Portable Machine Gun - Debt-Clearer",
+                "description": "Active Skill\nBuilds a machine gun and continuously shoots enemies, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400501, Prop:1001}|{Skill:5400501, Prop:1002}|22s"
+            },
+            "9": {
+                "name": "Portable Machine Gun - Debt-Clearer",
+                "description": "Active Skill\nBuilds a machine gun and continuously shoots enemies, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400501, Prop:1001}|{Skill:5400501, Prop:1002}|22s"
+            },
+            "10": {
+                "name": "Portable Machine Gun - Debt-Clearer",
+                "description": "Active Skill\nBuilds a machine gun and continuously shoots enemies, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier",
+                    "Cooldown"
+                ],
+                "parameter": "{Skill:5400501, Prop:1001}|{Skill:5400501, Prop:1002}|22s"
+            }
+        },
+        "B": {
+            "1": {
+                "name": "Street Code",
+                "description": "Additional Ability\nWhen there are 2 or more Cunning Hares characters in your squad: Bangboo Chain Attack DMG increases with fewer enemies in combat, up to a max of 45%.",
+                "properties": [
+                    "DMG Increase (1 Enemy)",
+                    "DMG Increase (2 Enemies)",
+                    "DMG Increase (3 or More Enemies)"
+                ],
+                "parameter": "45%|35%|25%"
+            },
+            "2": {
+                "name": "Street Code",
+                "description": "Additional Ability\nWhen there are 2 or more Cunning Hares characters in your squad: Bangboo Chain Attack DMG increases with fewer enemies in combat, up to a max of 56%.",
+                "properties": [
+                    "DMG Increase (1 Enemy)",
+                    "DMG Increase (2 Enemies)",
+                    "DMG Increase (3 or More Enemies)"
+                ],
+                "parameter": "56%|43%|31%"
+            },
+            "3": {
+                "name": "Street Code",
+                "description": "Additional Ability\nWhen there are 2 or more Cunning Hares characters in your squad: Bangboo Chain Attack DMG increases with fewer enemies in combat, up to a max of 67%.",
+                "properties": [
+                    "DMG Increase (1 Enemy)",
+                    "DMG Increase (2 Enemies)",
+                    "DMG Increase (3 or More Enemies)"
+                ],
+                "parameter": "67%|51%|37%"
+            },
+            "4": {
+                "name": "Street Code",
+                "description": "Additional Ability\nWhen there are 2 or more Cunning Hares characters in your squad: Bangboo Chain Attack DMG increases with fewer enemies in combat, up to a max of 78%.",
+                "properties": [
+                    "DMG Increase (1 Enemy)",
+                    "DMG Increase (2 Enemies)",
+                    "DMG Increase (3 or More Enemies)"
+                ],
+                "parameter": "78%|60%|43%"
+            },
+            "5": {
+                "name": "Street Code",
+                "description": "Additional Ability\nWhen there are 2 or more Cunning Hares characters in your squad: Bangboo Chain Attack DMG increases with fewer enemies in combat, up to a max of 90%.",
+                "properties": [
+                    "DMG Increase (1 Enemy)",
+                    "DMG Increase (2 Enemies)",
+                    "DMG Increase (3 or More Enemies)"
+                ],
+                "parameter": "90%|70%|50%"
+            }
+        },
+        "C": {
+            "1": {
+                "name": "Portable Machine Gun - Gatling Debt-Clearer",
+                "description": "Bangboo Chain Attack\nUses machine guns and cannons to continuously attack the target, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400502, Prop:1001}|{Skill:5400502, Prop:1002}"
+            },
+            "2": {
+                "name": "Portable Machine Gun - Gatling Debt-Clearer",
+                "description": "Bangboo Chain Attack\nUses machine guns and cannons to continuously attack the target, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400502, Prop:1001}|{Skill:5400502, Prop:1002}"
+            },
+            "3": {
+                "name": "Portable Machine Gun - Gatling Debt-Clearer",
+                "description": "Bangboo Chain Attack\nUses machine guns and cannons to continuously attack the target, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400502, Prop:1001}|{Skill:5400502, Prop:1002}"
+            },
+            "4": {
+                "name": "Portable Machine Gun - Gatling Debt-Clearer",
+                "description": "Bangboo Chain Attack\nUses machine guns and cannons to continuously attack the target, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400502, Prop:1001}|{Skill:5400502, Prop:1002}"
+            },
+            "5": {
+                "name": "Portable Machine Gun - Gatling Debt-Clearer",
+                "description": "Bangboo Chain Attack\nUses machine guns and cannons to continuously attack the target, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400502, Prop:1001}|{Skill:5400502, Prop:1002}"
+            },
+            "6": {
+                "name": "Portable Machine Gun - Gatling Debt-Clearer",
+                "description": "Bangboo Chain Attack\nUses machine guns and cannons to continuously attack the target, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400502, Prop:1001}|{Skill:5400502, Prop:1002}"
+            },
+            "7": {
+                "name": "Portable Machine Gun - Gatling Debt-Clearer",
+                "description": "Bangboo Chain Attack\nUses machine guns and cannons to continuously attack the target, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400502, Prop:1001}|{Skill:5400502, Prop:1002}"
+            },
+            "8": {
+                "name": "Portable Machine Gun - Gatling Debt-Clearer",
+                "description": "Bangboo Chain Attack\nUses machine guns and cannons to continuously attack the target, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400502, Prop:1001}|{Skill:5400502, Prop:1002}"
+            },
+            "9": {
+                "name": "Portable Machine Gun - Gatling Debt-Clearer",
+                "description": "Bangboo Chain Attack\nUses machine guns and cannons to continuously attack the target, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400502, Prop:1001}|{Skill:5400502, Prop:1002}"
+            },
+            "10": {
+                "name": "Portable Machine Gun - Gatling Debt-Clearer",
+                "description": "Bangboo Chain Attack\nUses machine guns and cannons to continuously attack the target, dealing massive Physical DMG.",
+                "properties": [
+                    "DMG Multiplier",
+                    "Daze Multiplier"
+                ],
+                "parameter": "{Skill:5400502, Prop:1001}|{Skill:5400502, Prop:1002}"
+            }
+        }
+    }
+}

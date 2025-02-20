@@ -1,0 +1,1681 @@
+{
+    "id": 1091,
+    "image": "https://api.hakush.in/zzz/UI/IconRole13.webp",
+    "name": "Miyabi",
+    "code_name": "Miyabi",
+    "rarity": "S",
+    "specialty": {
+        "id": 3,
+        "name": "Anomaly"
+    },
+    "element": {
+        "id": 202,
+        "name": "Ice"
+    },
+    "attack_type": {
+        "id": 101,
+        "name": "Slash"
+    },
+    "faction": {
+        "id": 6,
+        "name": "Hollow Special Operations Section 6"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "JUN 19",
+        "full_name": "Hoshimi Miyabi",
+        "gender": "Female",
+        "female_impression": "Fairy! Find that \"precious visual recording\"! My brother wants to see it!",
+        "male_impression": "There's no need to trouble yourself, Fairy. If Belle wants to see it, she'll ask Miss Miyabi herself...",
+        "outlook_desc": "The information shows:\nExecutive Officer Hoshimi Miyabi, Ether aptitude confidential, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).",
+        "profile_desc": "Hoshimi Miyabi, the Chief of Hollow Special Operations Section 6.\nMiyabi goes on a lot of field missions and still doesn't know which floor the regular monthly meeting is on.\nEven if you see Miyabi in the office, it's unlikely she's dealing with paperwork, and more likely polishing her sword.\n\nBeing conferred the title of Void Hunter due to her outstanding contributions, she's an elite amongst elites in Section 6.\nShe has great prestige amongst the citizens.\nOnce, Miyabi accidentally wandered into a \"Miyabi Fan Club\" hosted offline event.\nMiyabi was thought to be a fan with godlike impersonation skills, and that event resulted in a precious visual recording.\n\nHoshimi Miyabi is honest and pragmatic. She is not simply a martial artist obsessed with her art and without care for the world around her.\nAnyone who knows her will realize she's always pursued justice in her heart... even if it may eventually cause a revolution.",
+        "faction": "Hollow Special Operations Section 6",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete Main Story \"Leisurely Lull: Goldfinch's Escape\" (available after completing Main Story Chapter 5)"
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 127.0,
+        "AttackGrowth": 76728.0,
+        "AvatarPieceId": 5091.0,
+        "BreakStun": 86.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 49.0,
+        "DefenceGrowth": 66203.0,
+        "ElementAbnormalPower": 116.0,
+        "ElementMystery": 148.0,
+        "Endurance": 0.0,
+        "HpGrowth": 837238.0,
+        "HpMax": 617.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Frost Atop the Snow",
+            "description": "While in Shimotsuki Stance, every 1 point of Fallen Frost consumed will allow Basic Attack: Shimotsuki to ignore 6% of DEF, stacking up to 6 times and lasting until Shimotsuki Stance ends. When the slash for charge level three of Basic Attack: Shimotsuki hits an enemy under Frostburn, it will immediately remove the Frostburn state and increase all squad members' Anomaly Buildup Rate by 20% for 10s.",
+            "description2": "Miyabi has loved reciting poems about the cold since she was a child. She might not understand them completely, but she still does it every day.\nBefore long, she came to realize their true meaning.\nShe found clarity not on a still and snowy night, but rather upon the battlefield."
+        },
+        {
+            "level": 2,
+            "name": "Breath Technique",
+            "description": "Basic Attack: Kazahana and Dodge Counter DMG increases by 30%. Hoshimi Miyabi gains 1 point of Fallen Frost when the final move of the 5th hit of Basic Attack: Kazahana hits an enemy. Upon entering the battlefield, Hoshimi Miyabi immediately obtains 6 points of Fallen Frost and her CRIT Rate increases by 15%.",
+            "description2": "\"As goes the sword, so goes the heart.\" This is a key disciplinary concept of the Hoshimi school of swordsmanship.\nDefeating the enemy is but the first step on the path to victory. \nMaintaining constant vigilance at all times is the true way of a warrior."
+        },
+        {
+            "level": 3,
+            "name": "Martial Discipline",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Miyabi, whose family has a tradition of martial arts, has excellent training habits. Her commitment to swordsmanship practice is unwavering. What? A meeting? She won't be going."
+        },
+        {
+            "level": 4,
+            "name": "Rupture",
+            "description": "Frostburn - Break DMG increases by 30%. Upon triggering Frostburn - Break, Hoshimi Miyabi generates 250 more Decibels.",
+            "description2": "Reciting poems during the heat of battle can regulate one's respiratory rhythm.\nWhether it's her mindset or breathing, Miyabi always keeps calm."
+        },
+        {
+            "level": 5,
+            "name": "Anniversary",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "The girl arrives at that all too familiar place with flowers, her breath misting and then vanishing into the cold air.\nHer fingers ghost over that name on the monument.\nEverything is quiet, like that most silence observer."
+        },
+        {
+            "level": 6,
+            "name": "Prodigious Talent",
+            "description": "During Shimotsuki Stance, Hoshimi Miyabi obtains Polar, which increases Basic Attack: Shimotsuki DMG by 30%. After obtaining Polar, Hoshimi Miyabi will automatically draw her blade and unleash powerful slashes based on the current charge level upon consuming Fallen Frost. Before Fallen Frost is completely depleted, the draw and slashes will not interrupt charging under Shimotsuki Stance. Each occurrence of Shimotsuki Stance can perform up to 3 draws and slashes.",
+            "description2": "The more she battles, the more it becomes evident to outsiders: If there is a god of swordsmanship, it must greatly favor Hoshimi Miyabi."
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100213,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 423,
+            "attack": 45,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100223,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 847,
+            "attack": 90,
+            "defense": 67,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100223,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1270,
+            "attack": 136,
+            "defense": 100,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100233,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1694,
+            "attack": 181,
+            "defense": 134,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100233,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2117,
+            "attack": 226,
+            "defense": 167,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 31201,
+                    "name": "Anomaly Proficiency",
+                    "format": "{0:0}",
+                    "value": 30,
+                    "formatted_value": "30"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 31201,
+                    "name": "Anomaly Proficiency",
+                    "format": "{0:0}",
+                    "value": 30,
+                    "formatted_value": "30"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 31201,
+                    "name": "Anomaly Proficiency",
+                    "format": "{0:0}",
+                    "value": 60,
+                    "formatted_value": "60"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 31201,
+                    "name": "Anomaly Proficiency",
+                    "format": "{0:0}",
+                    "value": 60,
+                    "formatted_value": "60"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 31201,
+                    "name": "Anomaly Proficiency",
+                    "format": "{0:0}",
+                    "value": 90,
+                    "formatted_value": "90"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 31201,
+                    "name": "Anomaly Proficiency",
+                    "format": "{0:0}",
+                    "value": 90,
+                    "formatted_value": "90"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Kazahana",
+                    "description": "Press  to activate:\nUnleashes up to five slashes ahead, the first two deal Physical DMG, and the last three deal Frost DMG.\nBlock enemy attacks during the 5th hit of the Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Shimotsuki",
+                    "description": "With at least 2 points of Fallen Frost, hold  to activate:\nHoshimi Miyabi sheaths her blade, enters Shimotsuki Stance and starts to charge up. Every level of charge will consume 2 points of Fallen Frost, up to a maximum of three levels of charge.\nWhen releasing , or when Fallen Frost is completely depleted, Hoshimi Miyabi will draw her blade and unleash a powerful slash ahead based on the current charge level, dealing massive Frost DMG. She then exits Shimotsuki Stance.\nCharacter is invulnerable during Shimotsuki Stance.\nHoshimi Miyabi can have up to 6 points of Fallen Frost. Upon entering the battlefield, Hoshimi Miyabi immediately obtains 3 points of Fallen Frost.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Kazahana",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1091001, Prop:1001}",
+                            "params": {
+                                "1091001": {
+                                    "main": 2690,
+                                    "growth": 250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1091002, Prop:1001}",
+                            "params": {
+                                "1091002": {
+                                    "main": 2960,
+                                    "growth": 270,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1091003, Prop:1001}",
+                            "params": {
+                                "1091003": {
+                                    "main": 6280,
+                                    "growth": 580,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1091004, Prop:1001}",
+                            "params": {
+                                "1091004": {
+                                    "main": 9650,
+                                    "growth": 880,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit DMG Multiplier",
+                            "description": "{Skill:1091005, Prop:1001}",
+                            "params": {
+                                "1091005": {
+                                    "main": 12900,
+                                    "growth": 1180,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1091001, Prop:1002}",
+                            "params": {
+                                "1091001": {
+                                    "main": 1350,
+                                    "growth": 70,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1091002, Prop:1002}",
+                            "params": {
+                                "1091002": {
+                                    "main": 2690,
+                                    "growth": 130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1091003, Prop:1002}",
+                            "params": {
+                                "1091003": {
+                                    "main": 4640,
+                                    "growth": 220,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1091004, Prop:1002}",
+                            "params": {
+                                "1091004": {
+                                    "main": 8210,
+                                    "growth": 380,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "5th-Hit Daze Multiplier",
+                            "description": "{Skill:1091005, Prop:1002}",
+                            "params": {
+                                "1091005": {
+                                    "main": 13100,
+                                    "growth": 600,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Basic Attack: Shimotsuki",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Charge Level One Slash DMG Multiplier",
+                            "description": "{Skill:1091027, Prop:1001}",
+                            "params": {
+                                "1091027": {
+                                    "main": 45470,
+                                    "growth": 4140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charge Level Two Slash DMG Multiplier",
+                            "description": "{Skill:1091028, Prop:1001}",
+                            "params": {
+                                "1091028": {
+                                    "main": 85810,
+                                    "growth": 7810,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charge Level Three Slash DMG Multiplier",
+                            "description": "{Skill:1091029, Prop:1001}",
+                            "params": {
+                                "1091029": {
+                                    "main": 214110,
+                                    "growth": 19470,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charge Level One Slash Daze Multiplier",
+                            "description": "{Skill:1091027, Prop:1002}",
+                            "params": {
+                                "1091027": {
+                                    "main": 4400,
+                                    "growth": 200,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charge Level Two Slash Daze Multiplier",
+                            "description": "{Skill:1091028, Prop:1002}",
+                            "params": {
+                                "1091028": {
+                                    "main": 6240,
+                                    "growth": 290,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Charge Level Three Slash Daze Multiplier",
+                            "description": "{Skill:1091029, Prop:1002}",
+                            "params": {
+                                "1091029": {
+                                    "main": 37780,
+                                    "growth": 1720,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Mizutori",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.\nWhile dodging, repeatedly press or hold  to activate:\nA dash dodge that covers a lot of ground.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Fuyubachi",
+                    "description": "Press  during a dodge to activate:\nSlashes enemies in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Kan Suzume",
+                    "description": "Press  during a Perfect Dodge to activate:\nSlashes enemies in front, dealing Frost DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Fuyubachi",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1091013, Prop:1001}",
+                            "params": {
+                                "1091013": {
+                                    "main": 2580,
+                                    "growth": 240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1091013, Prop:1002}",
+                            "params": {
+                                "1091013": {
+                                    "main": 1290,
+                                    "growth": 60,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Kan Suzume",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1091014, Prop:1001}",
+                            "params": {
+                                "1091014": {
+                                    "main": 24590,
+                                    "growth": 2240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1091014, Prop:1002}",
+                            "params": {
+                                "1091014": {
+                                    "main": 21450,
+                                    "growth": 980,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Miyuki",
+                    "description": "Press  to activate:\nQuickly draws her blade and slashes ahead, dealing Frost DMG.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Hisetsu",
+                    "description": "With enough Energy, press  to activate:\nRush forward, unleashing powerful slashes against enemies along the way, dealing massive Frost DMG.\nUpon activating this skill, gain 2 points of Fallen Frost.\nCharacter is invulnerable while using this skill.\nAfter using this skill, with enough Energy, press  again to activate:\nConsume extra Energy and unleash a powerful follow-up attack against enemies in front, dealing massive Frost DMG.\nUpon activating this skill, gain 2 points of Fallen Frost.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Miyuki",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1091008, Prop:1001}",
+                            "params": {
+                                "1091008": {
+                                    "main": 3580,
+                                    "growth": 330,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1091008, Prop:1002}",
+                            "params": {
+                                "1091008": {
+                                    "main": 3580,
+                                    "growth": 170,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Hisetsu",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Slash DMG Multiplier",
+                            "description": "{{Skill:1091009, Prop:1001} + {Skill:1091010, Prop:1001}}",
+                            "params": {
+                                "1091009": {
+                                    "main": 15740,
+                                    "growth": 1440,
+                                    "format": "%"
+                                },
+                                "1091010": {
+                                    "main": 23600,
+                                    "growth": 2150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up DMG Multiplier",
+                            "description": "{{Skill:1091011, Prop:1001} + {Skill:1091012, Prop:1001}}",
+                            "params": {
+                                "1091011": {
+                                    "main": 19330,
+                                    "growth": 1760,
+                                    "format": "%"
+                                },
+                                "1091012": {
+                                    "main": 28990,
+                                    "growth": 2640,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Slash Daze Multiplier",
+                            "description": "{{Skill:1091009, Prop:1002} + {Skill:1091010, Prop:1002}}",
+                            "params": {
+                                "1091009": {
+                                    "main": 12870,
+                                    "growth": 590,
+                                    "format": "%"
+                                },
+                                "1091010": {
+                                    "main": 19300,
+                                    "growth": 880,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Follow-Up Daze Multiplier",
+                            "description": "{{Skill:1091011, Prop:1002} + {Skill:1091012, Prop:1002}}",
+                            "params": {
+                                "1091011": {
+                                    "main": 16200,
+                                    "growth": 740,
+                                    "format": "%"
+                                },
+                                "1091012": {
+                                    "main": 24300,
+                                    "growth": 1110,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Slash Energy Cost",
+                            "description": "40",
+                            "params": null
+                        },
+                        {
+                            "name": "Follow-Up Energy Cost",
+                            "description": "40",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Spring's Call",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful slash at enemies in front in a large area, dealing massive Frost DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Lingering Snow",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes powerful slashes at enemies ahead in a large area then pauses, before unleashing a Finishing Move, dealing massive Frost DMG.\nUpon activating this skill, gain 3 points of Fallen Frost and increase Ice DMG by 30% for 12s.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Spring's Call",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{{Skill:1091015, Prop:1001} + {Skill:1091016, Prop:1001} + {Skill:1091017, Prop:1001}}",
+                            "params": {
+                                "1091015": {
+                                    "main": 18840,
+                                    "growth": 1720,
+                                    "format": "%"
+                                },
+                                "1091016": {
+                                    "main": 18840,
+                                    "growth": 1720,
+                                    "format": "%"
+                                },
+                                "1091017": {
+                                    "main": 25120,
+                                    "growth": 2290,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{{Skill:1091015, Prop:1002} + {Skill:1091016, Prop:1002} + {Skill:1091017, Prop:1002}}",
+                            "params": {
+                                "1091015": {
+                                    "main": 5670,
+                                    "growth": 260,
+                                    "format": "%"
+                                },
+                                "1091016": {
+                                    "main": 5670,
+                                    "growth": 260,
+                                    "format": "%"
+                                },
+                                "1091017": {
+                                    "main": 7560,
+                                    "growth": 350,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Lingering Snow",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1091018, Prop:1001}",
+                            "params": {
+                                "1091018": {
+                                    "main": 238800,
+                                    "growth": 21710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1091018, Prop:1002}",
+                            "params": {
+                                "1091018": {
+                                    "main": 37040,
+                                    "growth": 1690,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Dancing Petals",
+                    "description": "When the active character is launched, press  to activate:\nSlashes enemies in front, dealing Frost DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Drifting Petals",
+                    "description": "When the on-field character is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Falling Petals",
+                    "description": "Press  after a Defensive Assist to activate:\nCharges and slashes enemies in front, dealing Frost DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Dancing Petals",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1091021, Prop:1001}",
+                            "params": {
+                                "1091021": {
+                                    "main": 10450,
+                                    "growth": 950,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1091021, Prop:1002}",
+                            "params": {
+                                "1091021": {
+                                    "main": 10450,
+                                    "growth": 480,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Drifting Petals",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1091022, Prop:1002}",
+                            "params": {
+                                "1091022": {
+                                    "main": 27130,
+                                    "growth": 1240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1091023, Prop:1002}",
+                            "params": {
+                                "1091023": {
+                                    "main": 34280,
+                                    "growth": 1560,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1091024, Prop:1002}",
+                            "params": {
+                                "1091024": {
+                                    "main": 12830,
+                                    "growth": 590,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Falling Petals",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1091025, Prop:1001}",
+                            "params": {
+                                "1091025": {
+                                    "main": 33780,
+                                    "growth": 3080,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1091025, Prop:1002}",
+                            "params": {
+                                "1091025": {
+                                    "main": 29190,
+                                    "growth": 1330,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100112,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100122,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100132,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1091501,
+                "names": [
+                    "Core Passive: Searing Cold",
+                    "Additional Ability: Bask in Frost"
+                ],
+                "descriptions": [
+                    "When Hoshimi Miyabi deals Frost DMG, she applies Icefire to the target, lasting 30s. When accumulating Frost Anomaly Buildup against targets with Icefire, increases Frost Anomaly Buildup Rate by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates Frost Anomaly Buildup, it has its own independent Attribute Anomaly Buildup gauge and triggers Freeze, Shatter, and Frostbite that can react with other Attribute Anomalies, including Ice Attribute Anomaly, to trigger Disorder.\nWhen Hoshimi Miyabi applies Frostbite to enemies with Icefire, it will consume the Icefire to trigger Frostburn - Break, dealing Frost DMG equal to 750% of Hoshimi Miyabi's ATK and causing the target to enter the Frostburn state. All squad members accumulate 14% more Anomaly Buildup against enemies under the Frostburn state, but Hoshimi Miyabi cannot reapply Icefire to these enemies. The Frostburn state ends when Frostbite expires. While this state remains active, triggering another Attribute Anomaly will overwrite Frostbite and remove Frostburn.\nUpon triggering Frostburn - Break, Hoshimi Miyabi obtains 1 point of Fallen Frost. This effect can trigger once every 10s.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nBasic Attack: Shimotsuki DMG increases by 60%. When any squad member triggers Disorder, Hoshimi Miyabi obtains 2 points of Fallen Frost and Basic Attack: Shimotsuki during the next Shimotsuki Stance will ignore 30% of the target's Ice RES."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1091502,
+                "names": [
+                    "Core Passive: Searing Cold",
+                    "Additional Ability: Bask in Frost"
+                ],
+                "descriptions": [
+                    "When Hoshimi Miyabi deals Frost DMG, she applies Icefire to the target, lasting 30s. When accumulating Frost Anomaly Buildup against targets with Icefire, increases Frost Anomaly Buildup Rate by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates Frost Anomaly Buildup, it has its own independent Attribute Anomaly Buildup gauge and triggers Freeze, Shatter, and Frostbite that can react with other Attribute Anomalies, including Ice Attribute Anomaly, to trigger Disorder.\nWhen Hoshimi Miyabi applies Frostbite to enemies with Icefire, it will consume the Icefire to trigger Frostburn - Break, dealing Frost DMG equal to 875% of Hoshimi Miyabi's ATK and causing the target to enter the Frostburn state. All squad members accumulate 15% more Anomaly Buildup against enemies under the Frostburn state, but Hoshimi Miyabi cannot reapply Icefire to these enemies. The Frostburn state ends when Frostbite expires. While this state remains active, triggering another Attribute Anomaly will overwrite Frostbite and remove Frostburn.\nUpon triggering Frostburn - Break, Hoshimi Miyabi obtains 1 point of Fallen Frost. This effect can trigger once every 10s.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nBasic Attack: Shimotsuki DMG increases by 60%. When any squad member triggers Disorder, Hoshimi Miyabi obtains 2 points of Fallen Frost and Basic Attack: Shimotsuki during the next Shimotsuki Stance will ignore 30% of the target's Ice RES."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1091503,
+                "names": [
+                    "Core Passive: Searing Cold",
+                    "Additional Ability: Bask in Frost"
+                ],
+                "descriptions": [
+                    "When Hoshimi Miyabi deals Frost DMG, she applies Icefire to the target, lasting 30s. When accumulating Frost Anomaly Buildup against targets with Icefire, increases Frost Anomaly Buildup Rate by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates Frost Anomaly Buildup, it has its own independent Attribute Anomaly Buildup gauge and triggers Freeze, Shatter, and Frostbite that can react with other Attribute Anomalies, including Ice Attribute Anomaly, to trigger Disorder.\nWhen Hoshimi Miyabi applies Frostbite to enemies with Icefire, it will consume the Icefire to trigger Frostburn - Break, dealing Frost DMG equal to 1,000% of Hoshimi Miyabi's ATK and causing the target to enter the Frostburn state. All squad members accumulate 16% more Anomaly Buildup against enemies under the Frostburn state, but Hoshimi Miyabi cannot reapply Icefire to these enemies. The Frostburn state ends when Frostbite expires. While this state remains active, triggering another Attribute Anomaly will overwrite Frostbite and remove Frostburn.\nUpon triggering Frostburn - Break, Hoshimi Miyabi obtains 1 point of Fallen Frost. This effect can trigger once every 10s.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nBasic Attack: Shimotsuki DMG increases by 60%. When any squad member triggers Disorder, Hoshimi Miyabi obtains 2 points of Fallen Frost and Basic Attack: Shimotsuki during the next Shimotsuki Stance will ignore 30% of the target's Ice RES."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1091504,
+                "names": [
+                    "Core Passive: Searing Cold",
+                    "Additional Ability: Bask in Frost"
+                ],
+                "descriptions": [
+                    "When Hoshimi Miyabi deals Frost DMG, she applies Icefire to the target, lasting 30s. When accumulating Frost Anomaly Buildup against targets with Icefire, increases Frost Anomaly Buildup Rate by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates Frost Anomaly Buildup, it has its own independent Attribute Anomaly Buildup gauge and triggers Freeze, Shatter, and Frostbite that can react with other Attribute Anomalies, including Ice Attribute Anomaly, to trigger Disorder.\nWhen Hoshimi Miyabi applies Frostbite to enemies with Icefire, it will consume the Icefire to trigger Frostburn - Break, dealing Frost DMG equal to 1,125% of Hoshimi Miyabi's ATK and causing the target to enter the Frostburn state. All squad members accumulate 17% more Anomaly Buildup against enemies under the Frostburn state, but Hoshimi Miyabi cannot reapply Icefire to these enemies. The Frostburn state ends when Frostbite expires. While this state remains active, triggering another Attribute Anomaly will overwrite Frostbite and remove Frostburn.\nUpon triggering Frostburn - Break, Hoshimi Miyabi obtains 1 point of Fallen Frost. This effect can trigger once every 10s.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nBasic Attack: Shimotsuki DMG increases by 60%. When any squad member triggers Disorder, Hoshimi Miyabi obtains 2 points of Fallen Frost and Basic Attack: Shimotsuki during the next Shimotsuki Stance will ignore 30% of the target's Ice RES."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1091505,
+                "names": [
+                    "Core Passive: Searing Cold",
+                    "Additional Ability: Bask in Frost"
+                ],
+                "descriptions": [
+                    "When Hoshimi Miyabi deals Frost DMG, she applies Icefire to the target, lasting 30s. When accumulating Frost Anomaly Buildup against targets with Icefire, increases Frost Anomaly Buildup Rate by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates Frost Anomaly Buildup, it has its own independent Attribute Anomaly Buildup gauge and triggers Freeze, Shatter, and Frostbite that can react with other Attribute Anomalies, including Ice Attribute Anomaly, to trigger Disorder.\nWhen Hoshimi Miyabi applies Frostbite to enemies with Icefire, it will consume the Icefire to trigger Frostburn - Break, dealing Frost DMG equal to 1,250% of Hoshimi Miyabi's ATK and causing the target to enter the Frostburn state. All squad members accumulate 18% more Anomaly Buildup against enemies under the Frostburn state, but Hoshimi Miyabi cannot reapply Icefire to these enemies. The Frostburn state ends when Frostbite expires. While this state remains active, triggering another Attribute Anomaly will overwrite Frostbite and remove Frostburn.\nUpon triggering Frostburn - Break, Hoshimi Miyabi obtains 1 point of Fallen Frost. This effect can trigger once every 10s.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nBasic Attack: Shimotsuki DMG increases by 60%. When any squad member triggers Disorder, Hoshimi Miyabi obtains 2 points of Fallen Frost and Basic Attack: Shimotsuki during the next Shimotsuki Stance will ignore 30% of the target's Ice RES."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1091506,
+                "names": [
+                    "Core Passive: Searing Cold",
+                    "Additional Ability: Bask in Frost"
+                ],
+                "descriptions": [
+                    "When Hoshimi Miyabi deals Frost DMG, she applies Icefire to the target, lasting 30s. When accumulating Frost Anomaly Buildup against targets with Icefire, increases Frost Anomaly Buildup Rate by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates Frost Anomaly Buildup, it has its own independent Attribute Anomaly Buildup gauge and triggers Freeze, Shatter, and Frostbite that can react with other Attribute Anomalies, including Ice Attribute Anomaly, to trigger Disorder.\nWhen Hoshimi Miyabi applies Frostbite to enemies with Icefire, it will consume the Icefire to trigger Frostburn - Break, dealing Frost DMG equal to 1,375% of Hoshimi Miyabi's ATK and causing the target to enter the Frostburn state. All squad members accumulate 19% more Anomaly Buildup against enemies under the Frostburn state, but Hoshimi Miyabi cannot reapply Icefire to these enemies. The Frostburn state ends when Frostbite expires. While this state remains active, triggering another Attribute Anomaly will overwrite Frostbite and remove Frostburn.\nUpon triggering Frostburn - Break, Hoshimi Miyabi obtains 1 point of Fallen Frost. This effect can trigger once every 10s.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nBasic Attack: Shimotsuki DMG increases by 60%. When any squad member triggers Disorder, Hoshimi Miyabi obtains 2 points of Fallen Frost and Basic Attack: Shimotsuki during the next Shimotsuki Stance will ignore 30% of the target's Ice RES."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1091507,
+                "names": [
+                    "Core Passive: Searing Cold",
+                    "Additional Ability: Bask in Frost"
+                ],
+                "descriptions": [
+                    "When Hoshimi Miyabi deals Frost DMG, she applies Icefire to the target, lasting 30s. When accumulating Frost Anomaly Buildup against targets with Icefire, increases Frost Anomaly Buildup Rate by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates Frost Anomaly Buildup, it has its own independent Attribute Anomaly Buildup gauge and triggers Freeze, Shatter, and Frostbite that can react with other Attribute Anomalies, including Ice Attribute Anomaly, to trigger Disorder.\nWhen Hoshimi Miyabi applies Frostbite to enemies with Icefire, it will consume the Icefire to trigger Frostburn - Break, dealing Frost DMG equal to 1,500% of Hoshimi Miyabi's ATK and causing the target to enter the Frostburn state. All squad members accumulate 20% more Anomaly Buildup against enemies under the Frostburn state, but Hoshimi Miyabi cannot reapply Icefire to these enemies. The Frostburn state ends when Frostbite expires. While this state remains active, triggering another Attribute Anomaly will overwrite Frostbite and remove Frostburn.\nUpon triggering Frostburn - Break, Hoshimi Miyabi obtains 1 point of Fallen Frost. This effect can trigger once every 10s.",
+                    "When another character in your squad is a Support character or shares the same Faction:\nBasic Attack: Shimotsuki DMG increases by 60%. When any squad member triggers Disorder, Hoshimi Miyabi obtains 2 points of Fallen Frost and Basic Attack: Shimotsuki during the next Shimotsuki Stance will ignore 30% of the target's Ice RES."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110508,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110508,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110508,
+                    "amount": 9
+                },
+                {
+                    "id": 110005,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110508,
+                    "amount": 15
+                },
+                {
+                    "id": 110005,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110508,
+                    "amount": 30
+                },
+                {
+                    "id": 110005,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1091_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1091_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1091_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect13.webp"
+}

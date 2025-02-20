@@ -1,0 +1,1692 @@
+{
+    "id": 1101,
+    "image": "https://api.hakush.in/zzz/UI/IconRole14.webp",
+    "name": "Koleda",
+    "code_name": "Koleda",
+    "rarity": "S",
+    "specialty": {
+        "id": 2,
+        "name": "Stun"
+    },
+    "element": {
+        "id": 201,
+        "name": "Fire"
+    },
+    "attack_type": {
+        "id": 102,
+        "name": "Strike"
+    },
+    "faction": {
+        "id": 3,
+        "name": "Belobog Heavy Industries"
+    },
+    "gender": "F",
+    "info": {
+        "birthday": "AUG 10",
+        "full_name": "Koleda Belobog",
+        "gender": "Female",
+        "female_impression": "What's that line from that detective movie we watched again?\n\"She may look like a child...\" Well, no matter how old she is or how she looks, Koleda really is a kid, and she's so cute!",
+        "male_impression": "I hope your comment isn't seen by a certain someone, or our video store will be end up smashed to bits by a hammer.",
+        "outlook_desc": "New Eridu Citizen Verification Profile Info:\nHollow Investigator — Koleda, possessing good Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: \"Young girls should limit their activity in environments like Hollows.\"\n— Excerpt from a handwritten medical record by a doctor. Surprisingly, the time spent deciphering the handwriting in this sentence took longer than the entire search process itself.",
+        "profile_desc": "Koleda is the current head of Belobog Industries, and the biological daughter of the company's founder, Khors.\nHer father, Khors, vanished due to a scandal involving embezzlement and fled, which severely shook the company, nearly driving it to the brink of collapse. Once she came of age, Koleda willingly stepped up to untangle the mess, rallying the remaining company workforce and resources to revive the financially and reputationally vulnerable Belobog Heavy Industries.\nWith the help of new invaluable team members, Belobog eventually managed to regain its prominence in relevant sectors. Though not as resplendent as its prime, Belobog in its current state is still a notable newcomer in the field.\nThroughout her journey, Koleda amassed practical life experiences and professional know-how, building a circle of colleagues who back her up like family. Yet, to present herself as a leader, Koleda appears to intentionally adopt a stern tone when communicating with others.\nThis distinct growth trajectory has also contributed to Koleda's heightened maturity in certain aspects compared to her peers. \nNaturally, she might display a bit of childishness in certain aspects as well.\nHypothesis: Koleda's comparatively smaller stature among her peers may stem from her prolonged involvement in the Hollows. \nCurrently, there aren't any publicly accessible papers or research substantiating this theory, but I will continue to track this topic.",
+        "faction": "Belobog Heavy Industries",
+        "unlock_conditions": [
+            "Obtain Agent",
+            "Complete the \"Anby's Problem\" commission",
+            "Complete Agent Story \"Schoolyard Powerhouse\""
+        ]
+    },
+    "stats": {
+        "Armor": 0.0,
+        "ArmorGrowth": 0.0,
+        "Attack": 106.0,
+        "AttackGrowth": 62007.0,
+        "AvatarPieceId": 5101.0,
+        "BreakStun": 116.0,
+        "BuffResistBurnPossibilityDelta": 0.0,
+        "BuffResistBurnPossibilityRatio": 0.0,
+        "BuffResistElectricPossibilityDelta": 0.0,
+        "BuffResistElectricPossibilityRatio": 0.0,
+        "BuffResistFrozenPossibilityDelta": 0.0,
+        "BuffResistFrozenPossibilityRatio": 0.0,
+        "Crit": 500.0,
+        "CritDamage": 5000.0,
+        "CritDmgRes": 0.0,
+        "CritRes": 0.0,
+        "Defence": 48.0,
+        "DefenceGrowth": 64845.0,
+        "ElementAbnormalPower": 97.0,
+        "ElementMystery": 96.0,
+        "Endurance": 0.0,
+        "HpGrowth": 886832.0,
+        "HpMax": 653.0,
+        "Luck": 10.0,
+        "PenDelta": 0.0,
+        "PenRate": 0.0,
+        "Rbl": 1.0,
+        "RblCorrectionFactor": 10000.0,
+        "RblProbability": 0.0,
+        "Shield": 0.0,
+        "ShieldGrowth": 0.0,
+        "SpBarPoint": 120.0,
+        "SpRecover": 120.0,
+        "StarInitial": 1.0,
+        "Stun": 0.0
+    },
+    "mindscape_cinemas": [
+        {
+            "level": 1,
+            "name": "Beat of the Hammer",
+            "description": "After the 2nd or 4th hit of Koleda's Basic Attack or her enhanced Basic Attack, quickly use a Special Attack or EX Special Attack to increase the Daze dealt by 15%.",
+            "description2": "Her fiery temper is just a facade. In reality, Koleda's thoughts are quite intricate. For example, she knows when to swing her hammer for a more painful strike."
+        },
+        {
+            "level": 2,
+            "name": "Kinetic Recovery",
+            "description": "When Koleda's EX Special Attack hits an enemy, she recovers 60 Energy. Can trigger once every 45s.",
+            "description2": "Koleda believes perfect hammering has its own natural rhythm.\nIt's like tapping a tambourine, with each hit building up the tempo of the next beat.\nOf course, it's hard to say how many taps her \"toys\" can endure."
+        },
+        {
+            "level": 3,
+            "name": "\"Mind Your Own!\"",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "As a qualified \"toy,\" you better not cause trouble when Koleda starts to get a feel for swinging her hammer. Just take the beating.\n—After all, what's the point of resisting?"
+        },
+        {
+            "level": 4,
+            "name": "Furnace's Glow",
+            "description": "Koleda gains one stack of Charge (max 2 stacks) when consuming Furnace Fire to use her Enhanced Basic Attack. When her Chain Attack or Ultimate hits an enemy, she consumes all stacks of Charge to increase the attack's DMG by 18% per stack.",
+            "description2": "Koleda feels the flames of war as her hammer swings raise the surrounding temperature.\nShe's now even more flammable and explosive than Ether."
+        },
+        {
+            "level": 5,
+            "name": "\"You Dare Underestimate Me?\"",
+            "description": "Basic Attack, Dodge, Assist, Special Attack, and Chain Attack Lv. +2",
+            "description2": "Koleda cares deeply about her role as a young leader potentially causing others to underestimate Belobog Heavy Industries. To compensate, she consistently trains diligently in secret."
+        },
+        {
+            "level": 6,
+            "name": "Saturated Blast",
+            "description": "When EX Special Attack, Chain Attack, or Ultimate triggers an explosion that hits an enemy, it deals additional DMG equal to 360% of Koleda's ATK.",
+            "description2": "There are two types of people that Koleda really hates:\nStupid people, and hopelessly stupid people.\nLuckily for her, Belobog always has a good supply of strong Ether explosives — plenty to use on the stupid."
+        }
+    ],
+    "ascension": [
+        {
+            "max_hp": 0,
+            "attack": 0,
+            "defense": 0,
+            "max_level": 10,
+            "min_level": 0,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 24000
+                },
+                {
+                    "id": 100212,
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "max_hp": 448,
+            "attack": 38,
+            "defense": 33,
+            "max_level": 20,
+            "min_level": 10,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 56000
+                },
+                {
+                    "id": 100222,
+                    "amount": 12
+                }
+            ]
+        },
+        {
+            "max_hp": 897,
+            "attack": 76,
+            "defense": 66,
+            "max_level": 30,
+            "min_level": 20,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 120000
+                },
+                {
+                    "id": 100222,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 1345,
+            "attack": 113,
+            "defense": 98,
+            "max_level": 40,
+            "min_level": 30,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 100232,
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "max_hp": 1794,
+            "attack": 151,
+            "defense": 131,
+            "max_level": 50,
+            "min_level": 40,
+            "materials": [
+                {
+                    "id": 10,
+                    "amount": 400000
+                },
+                {
+                    "id": 100232,
+                    "amount": 20
+                }
+            ]
+        },
+        {
+            "max_hp": 2242,
+            "attack": 189,
+            "defense": 164,
+            "max_level": 60,
+            "min_level": 50,
+            "materials": []
+        }
+    ],
+    "extra_ascension": [
+        {
+            "max_level": 15,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 6,
+                    "formatted_value": "6"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 0,
+                    "formatted_value": "0"
+                }
+            ]
+        },
+        {
+            "max_level": 25,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 6,
+                    "formatted_value": "6"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 35,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 25,
+                    "formatted_value": "25"
+                }
+            ]
+        },
+        {
+            "max_level": 45,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 12,
+                    "formatted_value": "12"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 55,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 18,
+                    "formatted_value": "18"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 50,
+                    "formatted_value": "50"
+                }
+            ]
+        },
+        {
+            "max_level": 60,
+            "props": [
+                {
+                    "id": 12201,
+                    "name": "Impact",
+                    "format": "{0:0.#}",
+                    "value": 18,
+                    "formatted_value": "18"
+                },
+                {
+                    "id": 12101,
+                    "name": "Base ATK",
+                    "format": "{0:0.#}",
+                    "value": 75,
+                    "formatted_value": "75"
+                }
+            ]
+        }
+    ],
+    "skills": {
+        "Basic": {
+            "descriptions": [
+                {
+                    "name": "Basic Attack: Smash 'n' Bash",
+                    "description": "Press  to activate:\nUnleashes up to 4 strikes, dealing Physical DMG.\nWhen Koleda has the Furnace Fire effect, she can launch an enhanced Basic Attack after the 2nd hit, consuming the Furnace Fire effect and dealing massive Fire DMG.\nWhen Koleda and Ben are deployed together, executing an enhanced Basic Attack will trigger a coordinated attack from both, further increasing the move's power;\nKoleda is invulnerable during the Basic Attack's 4th hit and enhanced Basic Attack.",
+                    "params": null
+                },
+                {
+                    "name": "Basic Attack: Smash 'n' Bash",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "1st-Hit DMG Multiplier",
+                            "description": "{Skill:1101001, Prop:1001}",
+                            "params": {
+                                "1101001": {
+                                    "main": 6360,
+                                    "growth": 580,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1101002, Prop:1001}",
+                            "params": {
+                                "1101002": {
+                                    "main": 7920,
+                                    "growth": 720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit DMG Multiplier",
+                            "description": "{Skill:1101003, Prop:1001}",
+                            "params": {
+                                "1101003": {
+                                    "main": 12610,
+                                    "growth": 1150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit DMG Multiplier",
+                            "description": "{Skill:1101004, Prop:1001}",
+                            "params": {
+                                "1101004": {
+                                    "main": 31740,
+                                    "growth": 2890,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Enhanced Basic Attack 1st-Hit DMG Multiplier",
+                            "description": "{Skill:1101005, Prop:1001}",
+                            "params": {
+                                "1101005": {
+                                    "main": 16080,
+                                    "growth": 1470,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Enhanced Basic Attack 2nd-Hit DMG Multiplier",
+                            "description": "{Skill:1101006, Prop:1001}",
+                            "params": {
+                                "1101006": {
+                                    "main": 40490,
+                                    "growth": 3690,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Enhanced Basic Attack 2nd-Hit Dmg Multiplier (Teamwork)",
+                            "description": "{Skill:1101007, Prop:1001}",
+                            "params": {
+                                "1101007": {
+                                    "main": 50130,
+                                    "growth": 4560,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "1st-Hit Daze Multiplier",
+                            "description": "{Skill:1101001, Prop:1002}",
+                            "params": {
+                                "1101001": {
+                                    "main": 3180,
+                                    "growth": 150,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1101002, Prop:1002}",
+                            "params": {
+                                "1101002": {
+                                    "main": 6550,
+                                    "growth": 300,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "3rd-Hit Daze Multiplier",
+                            "description": "{Skill:1101003, Prop:1002}",
+                            "params": {
+                                "1101003": {
+                                    "main": 10430,
+                                    "growth": 480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "4th-Hit Daze Multiplier",
+                            "description": "{Skill:1101004, Prop:1002}",
+                            "params": {
+                                "1101004": {
+                                    "main": 24930,
+                                    "growth": 1140,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Enhanced Basic Attack 1st-Hit Daze Multiplier",
+                            "description": "{Skill:1101005, Prop:1002}",
+                            "params": {
+                                "1101005": {
+                                    "main": 6140,
+                                    "growth": 280,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Enhanced Basic Attack 2nd-Hit Daze Multiplier",
+                            "description": "{Skill:1101006, Prop:1002}",
+                            "params": {
+                                "1101006": {
+                                    "main": 15660,
+                                    "growth": 720,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Enhanced Basic Attack 2nd-Hit Daze Multiplier (Teamwork)",
+                            "description": "{Skill:1101007, Prop:1002}",
+                            "params": {
+                                "1101007": {
+                                    "main": 23460,
+                                    "growth": 1070,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Basic"
+        },
+        "Dodge": {
+            "descriptions": [
+                {
+                    "name": "Dodge: Wait 'n' See",
+                    "description": "Press  to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Tremble!",
+                    "description": "Press  during a Dodge to activate:\nStrikes enemies in front, dealing Physical DMG.",
+                    "params": null
+                },
+                {
+                    "name": "Dodge Counter: Don't Look Down on Me",
+                    "description": "Press  during a Perfect Dodge to activate:\nStrikes enemies in front and creates an explosion, dealing Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Dash Attack: Tremble!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1101201, Prop:1001}",
+                            "params": {
+                                "1101201": {
+                                    "main": 5610,
+                                    "growth": 510,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1101201, Prop:1002}",
+                            "params": {
+                                "1101201": {
+                                    "main": 2810,
+                                    "growth": 130,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Dodge Counter: Don't Look Down on Me",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1101202, Prop:1001}",
+                            "params": {
+                                "1101202": {
+                                    "main": 34390,
+                                    "growth": 3130,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1101202, Prop:1002}",
+                            "params": {
+                                "1101202": {
+                                    "main": 28880,
+                                    "growth": 1320,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Dodge"
+        },
+        "Special": {
+            "descriptions": [
+                {
+                    "name": "Special Attack: Hammer Time",
+                    "description": "Press  to activate:\nStrikes enemies in front and triggers an explosion, dealing Fire DMG.\nThis skill launches faster and triggers an explosion when used after the 2nd or 4th hit of Koleda's Basic Attack or enhanced Basic Attack.\nWhen Koleda and Ben are both in your squad, and this skill is quickly launched after an enhanced Basic Attack, they team up to launch a coordinated attack, further increasing the power of the skill.\nAnti-Interrupt level is increased while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "EX Special Attack: Boiling Furnace",
+                    "description": "With enough Energy, press  to activate:\nStrikes enemies in front and triggers a powerful explosion, dealing massive Fire DMG. Koleda also gains the Furnace Fire effect.\nThis skill activates faster and triggers an explosion when used after the 2nd or 4th hit of Koleda's Basic Attack or enhanced Basic Attack.\nWhen Koleda and Ben are both in your squad and this skill is quickly launched after an enhanced Basic Attack, they team up to launch a coordinated attack, further increasing the power of the skill.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Special Attack: Hammer Time",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Strike DMG Multiplier",
+                            "description": "{Skill:1101101, Prop:1001}",
+                            "params": {
+                                "1101101": {
+                                    "main": 5190,
+                                    "growth": 480,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion DMG Multiplier",
+                            "description": "{Skill:1101102, Prop:1001}",
+                            "params": {
+                                "1101102": {
+                                    "main": 7780,
+                                    "growth": 710,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion DMG Multiplier (Teamwork)",
+                            "description": "{Skill:1101103, Prop:1001}",
+                            "params": {
+                                "1101103": {
+                                    "main": 8550,
+                                    "growth": 780,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Strike Daze Multiplier",
+                            "description": "{Skill:1101101, Prop:1002}",
+                            "params": {
+                                "1101101": {
+                                    "main": 5190,
+                                    "growth": 240,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion Daze Multiplier",
+                            "description": "{Skill:1101102, Prop:1002}",
+                            "params": {
+                                "1101102": {
+                                    "main": 7780,
+                                    "growth": 360,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion Daze Multiplier (Teamwork)",
+                            "description": "{Skill:1101103, Prop:1002}",
+                            "params": {
+                                "1101103": {
+                                    "main": 7780,
+                                    "growth": 360,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "EX Special Attack: Boiling Furnace",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Strike DMG Multiplier",
+                            "description": "{Skill:1101104, Prop:1001}",
+                            "params": {
+                                "1101104": {
+                                    "main": 15230,
+                                    "growth": 1390,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion DMG Multiplier",
+                            "description": "{Skill:1101105, Prop:1001}",
+                            "params": {
+                                "1101105": {
+                                    "main": 60600,
+                                    "growth": 5510,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion DMG Multiplier (Teamwork)",
+                            "description": "{Skill:1101106, Prop:1001}",
+                            "params": {
+                                "1101106": {
+                                    "main": 66660,
+                                    "growth": 6060,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Strike Daze Multiplier",
+                            "description": "{Skill:1101104, Prop:1002}",
+                            "params": {
+                                "1101104": {
+                                    "main": 15230,
+                                    "growth": 700,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion Daze Multiplier",
+                            "description": "{Skill:1101105, Prop:1002}",
+                            "params": {
+                                "1101105": {
+                                    "main": 49400,
+                                    "growth": 2250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Explosion Daze Multiplier (Teamwork)",
+                            "description": "{Skill:1101106, Prop:1002}",
+                            "params": {
+                                "1101106": {
+                                    "main": 49400,
+                                    "growth": 2250,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Energy Cost",
+                            "description": "60",
+                            "params": null
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Special"
+        },
+        "Chain": {
+            "descriptions": [
+                {
+                    "name": "Chain Attack: Natural Disaster",
+                    "description": "When a Chain Attack is triggered, select the character to activate:\nUnleashes a powerful explosion on enemies in a large area, dealing massive Fire DMG while also obtaining the Furnace Fire effect.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Ultimate: Hammerquake",
+                    "description": "When Decibel Rating is at Maximum, press  to activate:\nUnleashes a powerful explosion on enemies in a large area in front, dealing massive Fire DMG while also obtaining the Furnace Fire effect.\nKoleda and Ben can team up when fighting together to launch a coordinated attack, further increasing the power of the attack.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Chain Attack: Natural Disaster",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1101301, Prop:1001}",
+                            "params": {
+                                "1101301": {
+                                    "main": 63600,
+                                    "growth": 5790,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1101301, Prop:1002}",
+                            "params": {
+                                "1101301": {
+                                    "main": 21700,
+                                    "growth": 990,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ultimate: Hammerquake",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1101401, Prop:1001}",
+                            "params": {
+                                "1101401": {
+                                    "main": 154880,
+                                    "growth": 14080,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "DMG Multiplier (Teamwork)",
+                            "description": "{Skill:1101402, Prop:1001}",
+                            "params": {
+                                "1101402": {
+                                    "main": 169400,
+                                    "growth": 15400,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1101401, Prop:1002}",
+                            "params": {
+                                "1101401": {
+                                    "main": 100490,
+                                    "growth": 4570,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier (Teamwork)",
+                            "description": "{Skill:1101402, Prop:1002}",
+                            "params": {
+                                "1101402": {
+                                    "main": 109650,
+                                    "growth": 4990,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Chain"
+        },
+        "Assist": {
+            "descriptions": [
+                {
+                    "name": "Quick Assist: Coming Thru!",
+                    "description": "When the active character is launched, press  to activate:\nStrikes enemies in front, dealing Fire DMG.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Defensive Assist: Protective Hammer",
+                    "description": "When the character on field is about to be attacked, press  to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of Assist Points when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Assist Follow-Up: Hammer Bell",
+                    "description": "Press  after a Defensive Assist to activate:\nKoleda charges and strikes enemies in front, dealing Fire DMG and obtaining Furnace Fire effect.\nCharacter is invulnerable while using this skill.",
+                    "params": null
+                },
+                {
+                    "name": "Quick Assist: Coming Thru!",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1101501, Prop:1001}",
+                            "params": {
+                                "1101501": {
+                                    "main": 18380,
+                                    "growth": 1680,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1101501, Prop:1002}",
+                            "params": {
+                                "1101501": {
+                                    "main": 18380,
+                                    "growth": 840,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Defensive Assist: Protective Hammer",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "Light Defensive Daze Multiplier",
+                            "description": "{Skill:1101502, Prop:1002}",
+                            "params": {
+                                "1101502": {
+                                    "main": 25900,
+                                    "growth": 1180,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Heavy Defensive Daze Multiplier",
+                            "description": "{Skill:1101503, Prop:1002}",
+                            "params": {
+                                "1101503": {
+                                    "main": 32730,
+                                    "growth": 1490,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Chain Defensive Daze Multiplier",
+                            "description": "{Skill:1101504, Prop:1002}",
+                            "params": {
+                                "1101504": {
+                                    "main": 15930,
+                                    "growth": 730,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Assist Follow-Up: Hammer Bell",
+                    "description": null,
+                    "params": [
+                        {
+                            "name": "DMG Multiplier",
+                            "description": "{Skill:1101505, Prop:1001}",
+                            "params": {
+                                "1101505": {
+                                    "main": 35920,
+                                    "growth": 3270,
+                                    "format": "%"
+                                }
+                            }
+                        },
+                        {
+                            "name": "Daze Multiplier",
+                            "description": "{Skill:1101505, Prop:1002}",
+                            "params": {
+                                "1101505": {
+                                    "main": 31270,
+                                    "growth": 1430,
+                                    "format": "%"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "materials": {
+                "1": [
+                    {
+                        "id": 10,
+                        "amount": 2000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "id": 10,
+                        "amount": 3000
+                    },
+                    {
+                        "id": 100111,
+                        "amount": 3
+                    }
+                ],
+                "3": [
+                    {
+                        "id": 10,
+                        "amount": 6000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 2
+                    }
+                ],
+                "4": [
+                    {
+                        "id": 10,
+                        "amount": 9000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 3
+                    }
+                ],
+                "5": [
+                    {
+                        "id": 10,
+                        "amount": 12000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 4
+                    }
+                ],
+                "6": [
+                    {
+                        "id": 10,
+                        "amount": 18000
+                    },
+                    {
+                        "id": 100121,
+                        "amount": 6
+                    }
+                ],
+                "7": [
+                    {
+                        "id": 10,
+                        "amount": 45000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 5
+                    }
+                ],
+                "8": [
+                    {
+                        "id": 10,
+                        "amount": 67500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 8
+                    }
+                ],
+                "9": [
+                    {
+                        "id": 10,
+                        "amount": 90000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 10
+                    }
+                ],
+                "10": [
+                    {
+                        "id": 10,
+                        "amount": 112500
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 12
+                    }
+                ],
+                "11": [
+                    {
+                        "id": 10,
+                        "amount": 135000
+                    },
+                    {
+                        "id": 100131,
+                        "amount": 15
+                    },
+                    {
+                        "id": 100941,
+                        "amount": 1
+                    }
+                ],
+                "12": []
+            },
+            "type": "Assist"
+        }
+    },
+    "passive": {
+        "levels": {
+            "1": {
+                "level": 1,
+                "id": 1101501,
+                "names": [
+                    "Core Passive: Demolition Hammer",
+                    "Additional Ability: Belobog Management"
+                ],
+                "descriptions": [
+                    "When Koleda uses her EX Special Attack or consumes Furnace Fire to use an enhanced Basic Attack, the Daze she deals increases by 30%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's EX Special Attack hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' Chain Attacks deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+                ]
+            },
+            "2": {
+                "level": 2,
+                "id": 1101502,
+                "names": [
+                    "Core Passive: Demolition Hammer",
+                    "Additional Ability: Belobog Management"
+                ],
+                "descriptions": [
+                    "When Koleda uses her EX Special Attack or consumes Furnace Fire to use an enhanced Basic Attack, the Daze she deals increases by 35%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's EX Special Attack hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' Chain Attacks deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+                ]
+            },
+            "3": {
+                "level": 3,
+                "id": 1101503,
+                "names": [
+                    "Core Passive: Demolition Hammer",
+                    "Additional Ability: Belobog Management"
+                ],
+                "descriptions": [
+                    "When Koleda uses her EX Special Attack or consumes Furnace Fire to use an enhanced Basic Attack, the Daze she deals increases by 40%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's EX Special Attack hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' Chain Attacks deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+                ]
+            },
+            "4": {
+                "level": 4,
+                "id": 1101504,
+                "names": [
+                    "Core Passive: Demolition Hammer",
+                    "Additional Ability: Belobog Management"
+                ],
+                "descriptions": [
+                    "When Koleda uses her EX Special Attack or consumes Furnace Fire to use an enhanced Basic Attack, the Daze she deals increases by 45%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's EX Special Attack hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' Chain Attacks deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+                ]
+            },
+            "5": {
+                "level": 5,
+                "id": 1101505,
+                "names": [
+                    "Core Passive: Demolition Hammer",
+                    "Additional Ability: Belobog Management"
+                ],
+                "descriptions": [
+                    "When Koleda uses her EX Special Attack or consumes Furnace Fire to use an enhanced Basic Attack, the Daze she deals increases by 50%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's EX Special Attack hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' Chain Attacks deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+                ]
+            },
+            "6": {
+                "level": 6,
+                "id": 1101506,
+                "names": [
+                    "Core Passive: Demolition Hammer",
+                    "Additional Ability: Belobog Management"
+                ],
+                "descriptions": [
+                    "When Koleda uses her EX Special Attack or consumes Furnace Fire to use an enhanced Basic Attack, the Daze she deals increases by 55%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's EX Special Attack hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' Chain Attacks deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+                ]
+            },
+            "7": {
+                "level": 7,
+                "id": 1101507,
+                "names": [
+                    "Core Passive: Demolition Hammer",
+                    "Additional Ability: Belobog Management"
+                ],
+                "descriptions": [
+                    "When Koleda uses her EX Special Attack or consumes Furnace Fire to use an enhanced Basic Attack, the Daze she deals increases by 60%.",
+                    "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's EX Special Attack hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' Chain Attacks deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+                ]
+            }
+        },
+        "level_up_materials": {
+            "1": [
+                {
+                    "id": 10,
+                    "amount": 5000
+                }
+            ],
+            "2": [
+                {
+                    "id": 10,
+                    "amount": 12000
+                },
+                {
+                    "id": 110504,
+                    "amount": 2
+                }
+            ],
+            "3": [
+                {
+                    "id": 10,
+                    "amount": 28000
+                },
+                {
+                    "id": 110504,
+                    "amount": 4
+                }
+            ],
+            "4": [
+                {
+                    "id": 10,
+                    "amount": 60000
+                },
+                {
+                    "id": 110504,
+                    "amount": 9
+                },
+                {
+                    "id": 110002,
+                    "amount": 2
+                }
+            ],
+            "5": [
+                {
+                    "id": 10,
+                    "amount": 100000
+                },
+                {
+                    "id": 110504,
+                    "amount": 15
+                },
+                {
+                    "id": 110002,
+                    "amount": 3
+                }
+            ],
+            "6": [
+                {
+                    "id": 10,
+                    "amount": 200000
+                },
+                {
+                    "id": 110504,
+                    "amount": 30
+                },
+                {
+                    "id": 110002,
+                    "amount": 4
+                }
+            ]
+        }
+    },
+    "phase_3_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1101_3.webp",
+    "phase_2_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1101_2.webp",
+    "phase_1_cinema_art": "https://api.hakush.in/zzz/UI/Mindscape_1101_1.webp",
+    "icon": "https://api.hakush.in/zzz/UI/IconRoleSelect14.webp"
+}
