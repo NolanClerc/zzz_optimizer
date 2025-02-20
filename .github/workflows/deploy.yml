@@ -3,11 +3,13 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main # Or your main branch name
+      - main # Or your main branch
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Important for deployments
     steps:
       - uses: actions/checkout@v3
       - name: Build
@@ -15,6 +17,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }} # Use GITHUB_TOKEN for checkout
-          publish_dir: ./frontend/out # Or your export directory
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }} # Add this line!
+          github_token: ${{ secrets.GITHUB_TOKEN }} # For checkout only
+          publish_dir: ./frontend/out # Your export directory
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }} # This is CRUCIAL!
