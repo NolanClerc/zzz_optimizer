@@ -5,7 +5,7 @@ on:
     branches:
       - main
 
-jobs: 
+jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
@@ -16,12 +16,12 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }} # Correct path!
           restore-keys: |
             ${{ runner.os }}-node-
       - name: Install dependencies
         working-directory: ./frontend
-        run: npm ci # Use npm ci when you have a package-lock.json
+        run: npm ci # Or npm install if you don't have a package-lock.json
       - name: Build
         working-directory: ./frontend
         run: npm run build
