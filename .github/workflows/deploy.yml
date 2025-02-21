@@ -1,21 +1,33 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages #debile
 
 on:
   push:
     branches:
-      - main # Or your main branch
+      - main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Important for deployments
+      contents: write
     steps:
       - uses: actions/checkout@v3
+      - name: Cache node modules
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - name: Install dependencies
+        working-directory: ./frontend
+        run: npm ci # Use npm ci when you have a package-lock.json
       - name: Build
+        working-directory: ./frontend
         run: npm run build
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }} # For checkout only
-          publish_dir: ./frontend/out # Your export directory
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }} # This is CRUCIAL!
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./frontend/out
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
