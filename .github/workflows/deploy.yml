@@ -1,11 +1,11 @@
-name: Deploy to GitHub Pages #debile
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
       - main
 
-jobs:
+jobs: 
   deploy:
     runs-on: ubuntu-latest
     permissions:
