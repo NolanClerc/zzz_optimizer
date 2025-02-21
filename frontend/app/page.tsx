@@ -687,7 +687,7 @@ export default function Home() {
   useEffect(() => {
     const fetchCharacterIds = async () => {
       try {
-        const response = await fetch('${API_BASE_URL}/character_ids');
+        const response = await fetch('https://zzz-optimizer.onrender.com//character_ids');
         if (!response.ok) {
           throw new Error(`Failed to load character IDs: ${response.status}`);
         }
@@ -756,7 +756,7 @@ export default function Home() {
 
     const fetchWeaponIds = async () => {
       try {
-        const response = await fetch('${API_BASE_URL}/weapon_ids');
+        const response = await fetch('https://zzz-optimizer.onrender.com/weapon_ids');
         if (!response.ok) {
           throw new Error(`Failed to load weapon IDs: ${response.status}`);
         }
