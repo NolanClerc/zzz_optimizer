@@ -109,6 +109,8 @@ const CORE_LEVEL_REQUIREMENTS = {
   7: 60, // Core F
 } as const;
 
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || "http://127.0.0.1:5000";  // Use Render in production
+
 // Helper functions
 const calculateWeaponStats = (weapon: Weapon, level: number) => {
   if (!weapon?.base_property?.value || !weapon?.levels || !weapon?.stars || !weapon?.rand_property) {
@@ -685,7 +687,7 @@ export default function Home() {
   useEffect(() => {
     const fetchCharacterIds = async () => {
       try {
-        const response = await fetch('http://127.0.0.1:5000/character_ids');
+        const response = await fetch('API_BASE_URL/character_ids');
         if (!response.ok) {
           throw new Error(`Failed to load character IDs: ${response.status}`);
         }
@@ -702,7 +704,7 @@ export default function Home() {
             const charactersData = await Promise.all(
               characterIds.map(async (characterId) => {
                 try {
-                  const charResponse = await fetch(`http://127.0.0.1:5000/characters/${characterId}`);
+                  const charResponse = await fetch(`API_BASE_URL/characters/${characterId}`);
                   if (!charResponse.ok) {
                     console.error(`Failed to fetch character ${characterId}: ${charResponse.status}`);
                     return null;
@@ -754,7 +756,7 @@ export default function Home() {
 
     const fetchWeaponIds = async () => {
       try {
-        const response = await fetch('http://127.0.0.1:5000/weapon_ids');
+        const response = await fetch('API_BASE_URL/weapon_ids');
         if (!response.ok) {
           throw new Error(`Failed to load weapon IDs: ${response.status}`);
         }
@@ -772,7 +774,7 @@ export default function Home() {
             const weaponsData = await Promise.all(
               weaponIds.map(async (weaponId) => {
                 try {
-                  const weaponResponse = await fetch(`http://127.0.0.1:5000/weapons/${weaponId}`);
+                  const weaponResponse = await fetch(`API_BASE_URL/weapons/${weaponId}`);
                   if (!weaponResponse.ok) {
                     console.error(`Failed to fetch weapon ${weaponId}: ${weaponResponse.status}`);
                     return null;

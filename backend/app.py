@@ -81,23 +81,23 @@ def get_weapon_ids():
     except json.JSONDecodeError:
         return jsonify({"error": "Error decoding Weapon ID JSON"}), 500
 
-@app.route('/characters', methods=['GET'])
-def get_all_characters():
-    # Charger les données de tous les personnages ici
-    all_characters = load_all_characters()  # Ta fonction pour charger tous les personnages
-    return jsonify(all_characters)
+# @app.route('/characters', methods=['GET'])
+# def get_all_characters():
+#     # Charger les données de tous les personnages ici
+#     all_characters = load_all_characters()  # Ta fonction pour charger tous les personnages
+#     return jsonify(all_characters)
 
-def load_all_characters():
-    all_characters = []
-    for file_name in os.listdir(JSON_FOLDER):
-        if file_name.endswith(".json") and file_name != "character_filtered.json" and file_name != "weapons.json":
-            with open(os.path.join(JSON_FOLDER, file_name), 'r', encoding='utf-8') as file:
-                try:
-                    char_data = json.load(file)
-                    all_characters.append(char_data)
-                except json.JSONDecodeError as e:
-                    print(f"Error decoding {file_name}: {e}")
-    return all_characters
+# def load_all_characters():
+#     all_characters = []
+#     for file_name in os.listdir(JSON_FOLDER):
+#         if file_name.endswith(".json") and file_name != "character_filtered.json" and file_name != "weapons.json":
+#             with open(os.path.join(JSON_FOLDER, file_name), 'r', encoding='utf-8') as file:
+#                 try:
+#                     char_data = json.load(file)
+#                     all_characters.append(char_data)
+#                 except json.JSONDecodeError as e:
+#                     print(f"Error decoding {file_name}: {e}")
+#     return all_characters
 
 
 if __name__ == '__main__':
