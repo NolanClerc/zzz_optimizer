@@ -687,7 +687,7 @@ export default function Home() {
   useEffect(() => {
     const fetchCharacterIds = async () => {
       try {
-        const response = await fetch('API_BASE_URL/character_ids');
+        const response = await fetch('${API_BASE_URL}/character_ids');
         if (!response.ok) {
           throw new Error(`Failed to load character IDs: ${response.status}`);
         }
@@ -704,7 +704,7 @@ export default function Home() {
             const charactersData = await Promise.all(
               characterIds.map(async (characterId) => {
                 try {
-                  const charResponse = await fetch(`API_BASE_URL/characters/${characterId}`);
+                  const charResponse = await fetch(`${API_BASE_URL}/characters/${characterId}`);
                   if (!charResponse.ok) {
                     console.error(`Failed to fetch character ${characterId}: ${charResponse.status}`);
                     return null;
@@ -756,7 +756,7 @@ export default function Home() {
 
     const fetchWeaponIds = async () => {
       try {
-        const response = await fetch('API_BASE_URL/weapon_ids');
+        const response = await fetch('${API_BASE_URL}/weapon_ids');
         if (!response.ok) {
           throw new Error(`Failed to load weapon IDs: ${response.status}`);
         }
@@ -774,7 +774,7 @@ export default function Home() {
             const weaponsData = await Promise.all(
               weaponIds.map(async (weaponId) => {
                 try {
-                  const weaponResponse = await fetch(`API_BASE_URL/weapons/${weaponId}`);
+                  const weaponResponse = await fetch(`${API_BASE_URL}/weapons/${weaponId}`);
                   if (!weaponResponse.ok) {
                     console.error(`Failed to fetch weapon ${weaponId}: ${weaponResponse.status}`);
                     return null;
