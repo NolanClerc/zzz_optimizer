@@ -18,6 +18,7 @@
         "name": "next"
       }
     ],
+    "baseUrl": "./",  // Set baseUrl to the root of your project
     "paths": {
       "@/*": ["./*"],
       "@components/*": ["src/components/*"]
