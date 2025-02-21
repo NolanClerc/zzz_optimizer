@@ -1,12 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
   images: {
-    unoptimized: true,
+    unoptimized: true, // If you're using images
   },
-  // Only add these if deploying to GitHub Pages
-  basePath: process.env.NODE_ENV === 'production' ? '/zzz_optimizer' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/zzz_optimizer' : '',
-}
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
