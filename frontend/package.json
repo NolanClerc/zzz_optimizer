@@ -7,7 +7,7 @@
     "build": "cross-env NODE_ENV=production next build",
     "start": "next start",
     "lint": "next lint",
-    "postinstall": "npm run build", // Or your build command if different
+    "postinstall": "npm run build",
     "deploy": "next build && touch out/.nojekyll"
   },
   "dependencies": {
