@@ -1,13 +1,11 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    './app/**/*.{js,ts,jsx,tsx,mdx}', // For the app directory
-    './pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './components/**/*.{js,ts,jsx,tsx,mdx}',
-    './src/**/*.{js,ts,jsx,tsx,mdx}',   // For the src directory
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",  // ✅ Scan `app/` for Tailwind classes
+    "./src/components/**/*.{js,ts,jsx,tsx}",  // ✅ Scan `src/components/`
   ],
   theme: {
     extend: {},
   },
   plugins: [],
-}
+};

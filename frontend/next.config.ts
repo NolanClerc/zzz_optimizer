@@ -1,11 +1,12 @@
-import type { NextConfig } from "next";
+import { NextConfig } from "next";
 
-const nextConfig = {
+const nextConfig: NextConfig = {
+  reactStrictMode: true, // Enable React Strict Mode for better development debugging
   images: {
     remotePatterns: [
       {
-        protocol: 'https',
-        hostname: 'exemple.com', // Remplace par ton domaine
+        protocol: "https",
+        hostname: "exemple.com", // Replace with your actual domain
       },
     ],
   },
